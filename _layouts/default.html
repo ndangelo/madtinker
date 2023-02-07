@@ -2,34 +2,52 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Welcome to Jekyll!</title>
+  <title>Mad Tinker</title>
 
-   <link rel="shortcut icon" href="https://www.madtinker.net/favicon.ico">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.madtinker.net/apple-touch-icon-144x144.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.madtinker.net/apple-touch-icon-152x152.png" />
-  <link rel="icon" type="image/png" href="https://www.madtinker.net/favicon.gif"/>
-  <link rel="icon" type="image/png" href="https://www.madtinker.net/favicon-16x16.png" sizes="16x16" />
+   <link rel="shortcut icon" href="favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152.png" />
+  <link rel="icon" type="image/png" href="favicon.gif"/>
+  <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
   <meta name="description" content="Color scheme for UI design" />
   <meta name="application-name" content="Open Color" />
   <meta name="msapplication-TileColor" content="#FFFFFF" />
-  <meta name="msapplication-TileImage" content="https://www.madtinker.net/mstile-144x144.png" />
+  <meta name="msapplication-TileImage" content="mstile-144x144.png" />
 
  
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="https://www.madtinker.net/css/normalize.css" media="screen">
-  <link rel="stylesheet" type="text/css" href="https://www.madtinker.net/css/style.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="https://www.madtinker.net/css/main.css" media="screen">
-
+  <link rel="stylesheet" type="text/css" href="css/normalize.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="css/main.css" media="screen">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,200;1,600&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700' rel='stylesheet' type='text/css'>
 
+   <link rel="stylesheet" type="text/css" href="https://www.madtinker.net/css/font-awesome.min.css" media="screen">
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165411676-1"></script>
+
+<script src="https://use.fontawesome.com/50df9c2e35.js"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165411676-1');
+</script>
+
+<script src="https://use.fontawesome.com/50df9c2e35.js"></script>
 </head>
 <body>
-  <div class="navigation">
+ 
     <div class="container">
       <a class="blog-logo" href="index.html"></a>
-      <div class="navbar">
+ <div class="navigation">
+          <div class="navbar">
         <input type="checkbox" id="navbar-toggle">
         <label for="navbar-toggle" onclick class="navbar-toggle"></label>
         <ul class="nav-menus-wrap">
@@ -53,26 +71,29 @@
             </ul>
           </li>
           <li class="nav-menus-group">
-            <!--<button class="menus-title" type="button">Downloads</button>-->
+            <button class="menus-title" style="font-size:14px;"type="button">Categories</button>
             <ul class="nav-menus">
-              <!--<li><a class="nav-menu" href="https://github.com/yeun/open-color/releases/download/v1.6.3/open-color.zip" download>Source code</a></li>
-              <li><a class="nav-menu" href="https://www.figma.com/file/Qj5TvDTLjOBynKQT6995eToz/Open-Color">Figma library ↗️</a></li>-->
+              <li><a class="nav-menu" href="https://www.madtinker.net/art">Art</a></li>
+              <li><a class="nav-menu" href="https://www.madtinker.net/code">Code</a></li>
+                    <li><a class="nav-menu" href="https://www.madtinker.net/projects">Projects</a></li>
+                    <li><a class="nav-menu" href="https://www.madtinker.net/video">Video</a></li>
+                     <li><a class="nav-menu" href="https://www.madtinker.net/design">Design</a></li>
             </ul>
           </li>
-          <li class="nav-menus-group"><a class="menus-title menus-github" href="#"><img src="https://www.madtinker.net/images/Github_sm.png"></a></li>
+
         </ul>
       </div>
     </div>
   </div>
 
   <div class="container">
-    <section class="cover">
-      <div class="cover-content madtinker_main">
-       <a href="https://www.madtinker.net"><img src="https://www.madtinker.net/images/mad_tinker_logo_2.png"></a>
-       <a href="https://www.madtinker.net">The Mad Tinker</a>
+   
+      <div class="madtinker_main">
+       <a href="https://www.madtinker.net/index.html"><img src="https://www.madtinker.net/images/mad_tinker_logo_2.png"></a>
+       <a href="index.html">The Mad Tinker</a>
       </div>
-      <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1696&serve=CVYD42T&placement=yeungithubioopencolor" id="_carbonads_js"></script>
-    </section>
+
+   
   </div>
 
 
@@ -85,21 +106,87 @@
 
 
        <br/> <br/> <br/> <br/>
-      <!--<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
+
 
     {{ content }}
     <br/><br/><br/>
 </div>
+
+
+ <!-- This loops through the paginated posts -->
+ {% for post in paginator.posts %}
+ <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+ <p class="author">
+   <span class="date">{{ post.date }}</span>
+ </p>
+ <div class="content">
+   {{ post.content }}
+ </div>
+ {% endfor %}
+ 
+ <!-- Pagination links -->
+ <div class="pagination">
+ {% if paginator.previous_page %}
+   <a href="{{ paginator.previous_page_path }}" class="previous">
+     Previous
+   </a>
+ {% else %}
+   <span class="previous">Previous</span>
+ {% endif %}
+ <span class="page_number ">
+   Page: {{ paginator.page }} of {{ paginator.total_pages }}
+ </span>
+ {% if paginator.next_page %}
+   <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+ {% else %}
+   <span class="next ">Next</span>
+ {% endif %}
+ </div>
+         {% endif %}
+       </header>
+ 
+       {% if paginator.total_pages > 1 %}
+ <div class="pagination">
+   {% if paginator.previous_page %}
+     <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+   {% else %}
+     <span>&laquo; Prev</span>
+   {% endif %}
+ 
+   {% for page in (1..paginator.total_pages) %}
+     {% if page == paginator.page %}
+       <em>{{ page }}</em>
+     {% elsif page == 1 %}
+       <a href="{{ '/' | relative_url }}">{{ page }}</a>
+     {% else %}
+       <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+     {% endif %}
+   {% endfor %}
+ 
+   {% if paginator.next_page %}
+     <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+   {% else %}
+     <span>Next &raquo;</span>
+   {% endif %}
+ </div>
+ {% endif %}
+ 
+       <section>
+
+
+        
  <div>
   <hr style="width:100%; margin-top: 15px;margin-bottom: 15px;">
 
     <span style="text-align: center;">© 2020 Nicholas D'Angelo</span><br/> <br/>
     </div>
     
-    <div class="madtinker_main">
-  <a href="https://www.netlify.com">
-    <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Deploys by Netlify" />
+      <a class="madtinker_main" href="https://www.netlify.com">
+    <img src="https://www.netlify.com/img/global/badges/netlify-color-bg.svg" style="width:100px; opacity: .9;" alt="Deploys by Netlify" />
   </a>
+<br/> <br/>
+       <div class="madtinker_main">
+<a href="http://github.io"><img src="https://image-control-storage.s3.amazonaws.com/github-512.png" style="width:45px; opacity: .5;"></a>
     </div><br /><br /><br />
 </body>
     
