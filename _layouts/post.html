@@ -29,7 +29,7 @@
 <body>
   <div class="navigation">
     <div class="container">
-      <a class="blog-logo" href="https://www.madtinker.net/"></a>
+      <a class="blog-logo" href="index.html"></a>
       <div class="navbar">
         <input type="checkbox" id="navbar-toggle">
         <label for="navbar-toggle" onclick class="navbar-toggle"></label>
@@ -60,7 +60,7 @@
               <li><a class="nav-menu" href="https://www.figma.com/file/Qj5TvDTLjOBynKQT6995eToz/Open-Color">Figma library ↗️</a></li>-->
             </ul>
           </li>
-          <li class="nav-menus-group"><a class="menus-title menus-github" href="#"><img src="https://www.madtinker.net/images/Github_sm.png"></a></li>
+          <li class="nav-menus-group"><a class="menus-title menus-github" href="#"><img src="images/Github_sm.png"></a></li>
         </ul>
       </div>
     </div>
@@ -70,7 +70,7 @@
   <div class="container">
     <section class="cover">
       <div class="cover-content madtinker_main">
-	    <a href="https://ndangelo.github.io"><img src="https://www.madtinker.net/images/mad_tinker_logo_2.png"/></a>
+	    <a href="https://ndangelo.github.io"><img src="images/mad_tinker_logo_2.png"/></a>
  <h4>The Mad Tinker</h4>
               </div>
               
@@ -97,7 +97,10 @@
 		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
 	{% endif %}
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
-
+  {% if post.tags.size > 0 %}
+  Tag{% if post.tags.size > 1 %}s{% endif %}:
+  {{ post.tags | sort | join: ", " }}
+{% endif %}
 
 	<div class="post-content">{{ content }}</div><br/><br/><br/>
 

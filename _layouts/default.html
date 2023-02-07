@@ -88,6 +88,11 @@
       <!--<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
 
     {{ content }}
+    
+    {% if post.tags.size > 0 %}
+    Tag{% if post.tags.size > 1 %}s{% endif %}:
+    {{ post.tags | sort | join: ", " }}
+  {% endif %}
     <br/><br/><br/>
 </div>
  <div>
