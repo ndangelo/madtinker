@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+
+   <link rel="shortcut icon" href="https://www.madtinker.net/favicon.ico">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.madtinker.net/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.madtinker.net/apple-touch-icon-152x152.png" />
+  <link rel="icon" type="image/png" href="https://www.madtinker.net/favicon.gif"/>
+  <link rel="icon" type="image/png" href="https://www.madtinker.net/favicon-16x16.png" sizes="16x16" />
+  <meta name="description" content="Color scheme for UI design" />
+  <meta name="application-name" content="Open Color" />
+  <meta name="msapplication-TileColor" content="#FFFFFF" />
+  <meta name="msapplication-TileImage" content="https://www.madtinker.net/mstile-144x144.png" />
+
+ 
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://www.madtinker.net/css/normalize.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="https://www.madtinker.net/css/style.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="https://www.madtinker.net/css/main.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="https://www.madtinker.net/css/note.css" media="screen">
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+  <div class="navigation">
+    <div class="container">
+      <a class="blog-logo" href="https://www.madtinker.net/"></a>
+      <div class="navbar">
+        <input type="checkbox" id="navbar-toggle">
+        <label for="navbar-toggle" onclick class="navbar-toggle"></label>
+        <ul class="nav-menus-wrap">
+         <!-- <li class="nav-menus-group">
+            <a class="menus-title
+                        
+                        active
+                        " href="/open-color/">Swatches</a>
+          </li>-->
+          <!--<li class="nav-menus-group">
+            <a class="menus-title
+                        " href="/open-color/ingredients.html">Ingredients</a>
+          </li>-->
+          <li class="nav-menus-group">
+          <!--  <a class="menus-title
+                        ">Instructions</a>-->
+            <ul class="nav-menus">
+             <!-- <li><a class="nav-menu" href="/open-color/documents.html">Documents</a></li>
+              <li><a class="nav-menu" href="/open-color/gray-color.html">Gray Color</a></li>
+              <li><a class="nav-menu" href="/open-color/chromatic-colors.html">Chromatic Color</a></li>-->
+            </ul>
+          </li>
+          <li class="nav-menus-group">
+            <!--<button class="menus-title" type="button">Downloads</button>-->
+            <ul class="nav-menus">
+              <!--<li><a class="nav-menu" href="https://github.com/yeun/open-color/releases/download/v1.6.3/open-color.zip" download>Source code</a></li>
+              <li><a class="nav-menu" href="https://www.figma.com/file/Qj5TvDTLjOBynKQT6995eToz/Open-Color">Figma library ↗️</a></li>-->
+            </ul>
+          </li>
+          <li class="nav-menus-group"><a class="menus-title menus-github" href="#"><img src="https://www.madtinker.net/images/Github_sm.png"></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="container">
+    <section class="cover">
+      <div class="cover-content madtinker_main">
+	    <a href="https://ndangelo.github.io"><img src="https://www.madtinker.net/images/mad_tinker_logo_2.png"/></a>
+ <h4>The Mad Tinker</h4>
+              </div>
+              
+        <div class="metadata">
+         
+        </div>
+      </div>
+      <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1696&serve=CVYD42T&placement=yeungithubioopencolor" id="_carbonads_js"></script>
+    </section>
+  </div>
+  <div class="container">
+    <div class="row">
+ <!--     <div class="shortcut-wrap">
+        <ul class="shortcut-menus">-->
+
+<article class="post">
+
+	{% if page.external-url %}
+		<h1>
+			<a href="{{ page.external-url }}">{{ page.title }}</a> 
+			<a class="anchor" href="{{ page.url }}"><i class="icon-anchor"></i></a>
+		</h1>
+	{% else %}
+		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+	{% endif %}
+	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
+
+
+	<div class="post-content">{{ content }}</div><br/><br/><br/>
+
+
+ <br/><br/><br/>
+</div>
+ <div>
+  <hr style="width:100%; margin-top: 15px; margin-bottom: 15px;">
+
+    <span style="text-align: center;">© 2020 Nicholas D'Angelo</span><br/> <br/>
+    </div>
+	        <div class="madtinker_main">
+  <a href="https://www.netlify.com">
+    <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Deploys by Netlify" />
+  </a>
+    </div><br /><br /><br />
+</body>
+    
+</html>
