@@ -2,8 +2,7 @@
 layout: post
 title:  "Geometric Line Drawings"
 date:   2020-04-28 17:06:25
-categories: 
-	- Drawing
+categories:  Drawing
 	
 ---
 ...
