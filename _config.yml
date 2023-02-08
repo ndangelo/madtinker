@@ -1,8 +1,8 @@
 name: Custom
-url: http://madtinker.net
+url: https://madtinker.net
 description: The Mad Tinker
 
-permalink: /:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
 paginate: 5
 
 gems: [jekyll-paginate]
