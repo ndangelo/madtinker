@@ -20,10 +20,10 @@ title: Custom Theme
 Posted on {{ post.date | date: "%b %d, %Y" }}
 <br><br>
 
-{% if post.tags.size > 0 %}
+<!--{% if post.tags.size > 0 %}
 Tag{% if post.tags.size > 1 %}s{% endif %}:
 {{ post.tags | sort | join: ", " }}
-{% endif %}
+{% endif %}-->
 
 <p> <span>
 	{% for tag in page.tags %}
