@@ -18,6 +18,11 @@ title: Custom Theme
 	  	<!--<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
 
 Posted on {{ post.date | date: "%b %d, %Y" }}
+
+{% if post.tags.size > 0 %}
+Tag{% if post.tags.size > 1 %}s{% endif %}:
+{{ post.tags | sort | join: ", " }}
+{% endif %}
 <br/>
 		<div class="post-content">{{ post.content }}</div>
 
