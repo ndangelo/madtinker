@@ -24,7 +24,9 @@
 
   <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700' rel='stylesheet' type='text/css'>
-
+  {% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
 </head>
 <body>
   <div class="navigation">
@@ -98,18 +100,26 @@
 
 	{% endif %}
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
+  <br><br>
 
-
-	<div class="post-content">{{ content }}</div><br/><br/><br/>
   {% if post.tags.size > 0 %}
   Tag{% if post.tags.size > 1 %}s{% endif %}:
   {{ post.tags | sort | join: ", " }}
-{% endif %}
+  {% endif %}
+
+	<div class="post-content">{{ content }}</div><br/><br/><br/>
 
  <br/><br/><br/>
 </div>
  <div>
   <hr style="width:100%; margin-top: 15px; margin-bottom: 15px;">
+
+  <span>[
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+    {% endfor %}
+  ]</span>
 
     <span style="text-align: center;">© 2023 Nicholas D'Angelo</span><br/> <br/>
     </div>

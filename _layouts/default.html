@@ -23,7 +23,9 @@
 
   <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700' rel='stylesheet' type='text/css'>
-
+  {% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
 </head>
 <body>
   <div class="navigation">
@@ -87,12 +89,15 @@
        <br/> <br/> <br/> <br/>
       <!--<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
 
+      <br><br>
+
+{% if post.tags.size > 0 %}
+Tag{% if post.tags.size > 1 %}s{% endif %}:
+{{ post.tags | sort | join: ", " }}
+{% endif %}
+
     {{ content }}
 
-    {% if post.tags.size > 0 %}
-    Tag{% if post.tags.size > 1 %}s{% endif %}:
-    {{ post.tags | sort | join: ", " }}
-  {% endif %}
 
     <br/><br/><br/>
 </div>
