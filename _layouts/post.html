@@ -102,10 +102,10 @@
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
   <br><br>
 
-  {% if post.tags.size > 0 %}
+  <!--{% if post.tags.size > 0 %}
   Tag{% if post.tags.size > 1 %}s{% endif %}:
   {{ post.tags | sort | join: ", " }}
-  {% endif %}
+  {% endif %}-->
 
   <p> <span>
     {% for tag in page.tags %}
@@ -122,7 +122,7 @@
 </div>
  <div>
 
-  {{page.categories | capitalize | join: ', '}}
+ <!-- {{page.categories | capitalize | join: ', '}}-->
 
   <hr style="width:100%; margin-top: 15px; margin-bottom: 15px;">
 
