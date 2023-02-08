@@ -6,7 +6,6 @@ categories: Code
 tags: Code
 
 ---
-...
 
 {% highlight ruby linenos %}
 def foo

@@ -20,8 +20,3 @@ Tag{% if post.tags.size > 1 %}s{% endif %}:
 </ul>
 
 ---
-
-{% if post.tags.size > 0 %}
-Tag{% if post.tags.size > 1 %}s{% endif %}:
-{{ post.tags | sort | join: ", " }}
-{% endif %}
