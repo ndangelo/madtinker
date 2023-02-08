@@ -1,14 +1,20 @@
 ---
 layout: default
 ---
+
 <div class="post">
-<h1>Tag: {{ page.tag }}</h1>
+<h1>Tag: <code class="highligher-rouge" style="color:#969595;border-color:hsla(0, 0%, 59%,0.6)"><nobr>{{ page.tag }}</nobr></code></h1>
 <ul>
 {% for post in site.tags[page.tag] %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
-    {{ post.description }}
-  </li>
+  <div class="post_title">
+    <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+    <span class="date">{{ post.date | date: "%-d %b, %Y" }}</span></li>
+  </div>
 {% endfor %}
 </ul>
 </div>
+<hr>
+{% include tag_cloud.html %}
+<hr>
+{% include author.html %}
 <hr>
