@@ -20,17 +20,17 @@ title: Custom Theme
 Posted on {{ post.date | date: "%b %d, %Y" }}
 <br><br>
 
-<!--{% if post.tags.size > 0 %}
+{% if post.tags.size > 0 %}
 Tag{% if post.tags.size > 1 %}s{% endif %}:
 {{ post.tags | sort | join: ", " }}
-{% endif %}-->
+{% endif %}
 
-
+<p> <span>
 	{% for tag in page.tags %}
 	  {% capture tag_name %}{{ tag }}{% endcapture %}
 	  <a href="/tag/{{ tag_name }}"><code class="highligher-rouge" style="color:#969595;border-color:hsla(0, 0%, 59%,0.6)"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
 	{% endfor %}
-
+  </span> </p>
 
 <br/>
 		<div class="post-content">{{ post.content }}</div>
