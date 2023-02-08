@@ -107,6 +107,13 @@
   {{ post.tags | sort | join: ", " }}
   {% endif %}
 
+  <span>[
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+    {% endfor %}
+  ]</span>
+
 	<div class="post-content">{{ content }}</div><br/><br/><br/>
 
  <br/><br/><br/>
@@ -114,12 +121,7 @@
  <div>
   <hr style="width:100%; margin-top: 15px; margin-bottom: 15px;">
 
-  <span>[
-    {% for tag in page.tags %}
-      {% capture tag_name %}{{ tag }}{% endcapture %}
-      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-    {% endfor %}
-  ]</span>
+
 
     <span style="text-align: center;">© 2023 Nicholas D'Angelo</span><br/> <br/>
     </div>
