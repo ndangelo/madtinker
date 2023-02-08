@@ -2,6 +2,7 @@
 layout: default
 title:  "Video Archives"
 categories: [Video]
+tags: video
 ---
 
 

@@ -2,6 +2,7 @@
 layout: default
 title:  "Code Snippet Samples"
 categories: [Code]
+tags: Code
 ---
 
 <ul>

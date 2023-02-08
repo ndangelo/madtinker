@@ -2,6 +2,7 @@
 layout: default
 title: "Design"
 categories: [Design]
+tags: design
 ---
 
 <ul>
