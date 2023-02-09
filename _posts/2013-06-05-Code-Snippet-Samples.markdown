@@ -5,7 +5,7 @@ date:   2020-04-24 20:03:11
 categories: Code
 tags: Code
 
-...
+
 ---
 
 {% highlight ruby linenos %}
