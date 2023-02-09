@@ -19,3 +19,15 @@
         max-width: 840px;
 
 }
+
+a.nobr {
+
+font-size: 16px;
+color:dodgerblue
+}
+
+a.nobr:hover {
+
+        font-size: 16px;
+        color:dodgerblue
+        }

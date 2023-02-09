@@ -22,8 +22,10 @@ Posted on {{ post.date | date: "%b %d, %Y" }}
 
 {% if post.tags.size > 0 %}
 Tag{% if post.tags.size > 1 %}s{% endif %}:
-{{ post.tags | sort | join: ", " }} <a href="/tag/{{ tag_name }}"><code class="highligher-rouge" style="color:#a10f0f;border-color:hsla(75, 91%, 43%, 0.6)"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+{{ post.tags | sort | join: ", " }} 
 {% endif %}
+
+<a href="/tag/{{ tag_name }}"><code class="highligher-rouge" style="color:#a10f0f;border-color:hsla(75, 91%, 43%, 0.6)"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
 
 <p> <span>
 	{% for tag in page.tags > 0 %}
