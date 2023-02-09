@@ -61,7 +61,7 @@
               <li><a class="nav-menu" href="https://www.figma.com/file/Qj5TvDTLjOBynKQT6995eToz/Open-Color">Figma library ↗️</a></li>-->
             </ul>
           </li>
-          <li class="nav-menus-group"><a class="menus-title menus-github" href="#"><img src="images/Github_sm.png"></a></li>
+          <li class="nav-menus-group"><a class="menus-title menus-github" href="#"><img src="https://madtinker.net/images/Github_sm.png"></a></li>
         </ul>
       </div>
     </div>
@@ -96,12 +96,12 @@ Tag{% if post.tags.size > 1 %}s{% endif %}:
 {{ post.tags | sort | join: ", " }}
 {% endif %}-->
 
-<p> <span>
+<span>
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}"><code class="highligher-rouge" style="color:#b10a0a;border-color:hsla(124, 91%, 47%, 0.6)"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
-</span> </p>
+</span>
 
     {{ content }}
 
