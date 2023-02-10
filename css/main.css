@@ -48,8 +48,8 @@ a.nobr:hover {
                 transition: font-weight 0.2s ease, background-color 0.2s ease, color 0.2s ease;
 }
 
-.menus-title:focus, .menus-title:active, .menus-title.active {
+/*.menus-title:focus, .menus-title:active, .menus-title.active {
         color: #495057;
         font-weight: 700;
         background-color: #f1f3f5;
-}
+}*/
