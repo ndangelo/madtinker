@@ -33,8 +33,16 @@ a.nobr:hover {
         }
 
 .active {
-                color: rgb(44, 40, 40);
-                background-color: grey;
-                padding: 5px;
-                border-radius: 5;
+
             }
+
+.menus-title {
+                display: inline-block;
+                margin: 10px 5px;
+                padding: 10px 25px 13px;
+                font-size: 1.3em;
+                color: #868e96;
+                background-color: transparent;
+                border: none;
+                border-radius: 22px;
+                transition: font-weight 0.2s ease, background-color 0.2s ease, color 0.2s ease;
