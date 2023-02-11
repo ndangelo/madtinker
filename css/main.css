@@ -62,11 +62,11 @@ a.archives:hover {
         font-size: 2em;
 }
 
-.all {
+a.all {
 
         font-size: 2em;    
 }
 
-.all:hover {
-        font-size: 2em;
+a.all:hover {
+        font-size: 1em;
 }
