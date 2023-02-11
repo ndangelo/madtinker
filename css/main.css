@@ -52,7 +52,12 @@ a.nobr:hover {
         background-color: #f1f3f5;
 }*/
 
-.archives {
+a.archives {
+
+        font-size: 2em;
+}
+
+a.archives:hover {
 
         font-size: 2em;
 }

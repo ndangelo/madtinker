@@ -118,7 +118,7 @@ Tag{% if post.tags.size > 1 %}s{% endif %}:
 <span>
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-   tag: <a href="/tag/{{ tag_name }}"><code class="highligher-rouge" ><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+   tag: <a href="/tag/{{ tag_name }}"><code class="highligher-rouge" >&nbsp;<nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
 </span>
 
