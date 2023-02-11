@@ -110,17 +110,17 @@
 
       <br><br>
 
-{% if post.tags.size > 0 %}
-Tag <a href="/tag/{{ tag_name }}">{% if post.tags.size ></a> 1 %}s{% endif %}:
+<!--{% if post.tags.size > 0 %}
+Tag{% if post.tags.size > 1 %}s{% endif %}:
 {{ post.tags | sort | join: ", " }}
-{% endif %}
+{% endif %}-->
 
-<!--<span>
+<span>
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
    tag: <a href="/tag/{{ tag_name }}"><code class="highligher-rouge" >&nbsp;<nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
-</span>-->
+</span>
 
     {{ content }}
 
