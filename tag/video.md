@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Video Archives"
 categories: [Video]
 tags: video
