@@ -5,7 +5,6 @@ categories: [Audio]
 tags: audio
 ---
 
-
 <ul>
   {% for post in site.categories.Audio %}
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
@@ -15,4 +14,3 @@ tags: audio
   {% endfor %}
 </ul>
 
----
