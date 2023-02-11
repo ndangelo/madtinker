@@ -121,7 +121,7 @@
 <span>
     {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
-      tag:<a href="/tag/{{ tag_name }}"><code class="highligher-rouge" style="text-align: center;"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+      tag:<a href="/tag/{{ tag_name }}"><code class="highligher-rouge" ><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
     {% endfor %}
   </span>
 
