@@ -12,7 +12,7 @@
     }
 
 .post-content {
-        font-size: 1.3em;
+        font-size: 1.5em;
 }
 
 .container {
@@ -68,5 +68,5 @@ a.all {
 }
 
 a.all:hover {
-        font-size: 1em;
+        font-size: 2em;
 }
