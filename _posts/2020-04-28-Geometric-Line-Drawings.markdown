@@ -13,7 +13,7 @@ tag: Art
 
 Assignment
 
----------------
+<hr>
 
 **In your sketchbook complete the following:**
 
