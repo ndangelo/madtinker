@@ -70,3 +70,12 @@ a.all {
 a.all:hover {
         font-size: 2em;
 }
+
+a.allart {
+
+        font-size: 1.5em;    
+}
+
+a.allart:hover {
+        font-size: 1.5em;
+}
