@@ -1,0 +1,83 @@
+@import "monokai.css";
+@import "note.css";
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+.madtinker_main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        text-align: center;
+        align-items: center;
+    }
+
+.post-content {
+        font-size: 1.5em;
+}
+
+.container {
+        font-family: 'Mulish', sans-serif;
+        max-width: 960px;
+
+}
+
+a.nobr {
+
+font-size: 16px;
+color:dodgerblue
+}
+
+a.nobr:hover {
+
+        font-size: 16px;
+        color:dodgerblue
+        }
+
+
+
+.menus-title:active {
+                display: inline-block;
+                margin: 10px 5px;
+                padding: 10px 25px 13px;
+                font-size: 1.3em;
+                color: #868e96;
+                background-color: transparent;
+                border: none;
+                border-radius: 22px;
+                transition: font-weight 0.2s ease, background-color 0.2s ease, color 0.2s ease;
+}
+
+/*.menus-title:focus, .menus-title:active, .menus-title.active {
+        color: #495057;
+        font-weight: 700;
+        background-color: #f1f3f5;
+}*/
+
+a.archives {
+
+        font-size: 2em;
+}
+
+a.archives:hover {
+
+        font-size: 2em;
+}
+
+a.all {
+
+        font-size: 2em;    
+}
+
+a.all:hover {
+        font-size: 2em;
+}
+
+a.allart {
+
+        font-size: 1.2em;    
+}
+
+a.allart:hover {
+        font-size: 1.2em;
+}
