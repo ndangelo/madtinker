@@ -196,6 +196,7 @@ a.blog-logo {
 }
 .navbar-toggle:after {
   content: "☰";
+  font-size: 2em;
   display: inline-block;
   margin-right: -4.8vw;
   padding: 15px 30px;

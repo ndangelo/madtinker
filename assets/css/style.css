@@ -287,10 +287,15 @@ font-size: 1em;
 }
 
 .navbar-toggle:after {
-	font-size: 16px;
+	font-size: 1em;
 }
 
 
 .nav-menus-group {
-	font-size: 16px;
+	font-size: 1em;
+}
+
+.bars {
+
+	font-size:2em;
 }
