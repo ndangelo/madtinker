@@ -154,18 +154,18 @@ a.blog-logo {
   list-style: none;
   font-size: 12px;
   background-color: #fff;
-  border: 1px solid #ced4da;
+  /*border: 1px solid #ced4da;
   border-radius: 4px;
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
   background-clip: padding-box;
-  line-height: 24px;
+  line-height: 24px;*/
 }
 .nav-menus > li > a {
   display: block;
   min-width: 160px;
   padding: 1px 40px 1px 20px;
   clear: both;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: normal;
   color: #868e96;
   line-height: 2.5;
@@ -192,7 +192,7 @@ a.blog-logo {
 }
 .navbar-toggle:hover:after {
   color: #495057;
-  font-weight: 700;
+  font-weight: 400;
 }
 .navbar-toggle:after {
   content: "&#9776";
