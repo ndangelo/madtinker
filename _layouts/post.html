@@ -129,10 +129,10 @@
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
   <br><br>
 
-{% if post.tags.size > 0 %}
+<!--{% if post.tags.size > 0 %}
   Tag{% if post.tags.size > 1 %}s{% endif %}:
   {{ post.tags | sort | join: ", " }}
-  {% endif %}
+  {% endif %}-->
 
 <span>
     {% for tag in page.tags %}
