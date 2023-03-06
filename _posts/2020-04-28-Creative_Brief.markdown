@@ -2,8 +2,8 @@
 layout: post
 title:  "Creative Brief"
 date:   2020-04-28 17:06:25
-categories: Projects
-tags: Projects
+categories: Project
+tags: Project
 ---
 
 A Design Brief **(a written document outlining and strategizing a design project; also called a creative brief.)** is a strategic plan that both the client and design firm or advertising agency agree upon, a written document outlining and strategizing a design project or creative work plan. (Strategy can be determined outside a design brief, as well.) This is most important for designers and the creative team. Strategy is a springboard for conceptual development.
