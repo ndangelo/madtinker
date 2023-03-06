@@ -2,7 +2,7 @@
 layout: default
 title:  "Project"
 categories: [Project]
-tags: project
+tags: Project
 ---
 
 <ul>
