@@ -283,5 +283,9 @@ img.center {
 
 .menus-title {
 font-size: 1em;
+
 }
 
+.navbar-toggle:after {
+	font-size: 16px;
+}
