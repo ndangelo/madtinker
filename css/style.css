@@ -195,7 +195,7 @@ a.blog-logo {
   font-weight: 700;
 }
 .navbar-toggle:after {
-  content: "class="fa fa-bars"";
+  content: "≡";
   display: inline-block;
   margin-right: -4.8vw;
   padding: 15px 30px;
