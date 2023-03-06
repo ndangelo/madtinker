@@ -281,17 +281,17 @@ img.center {
 	font-size: 65%;
 }
 
-.menus-title {
+a.menus-title {
 font-size: 1em;
 
 }
 
-.navbar-toggle:after {
+a.navbar-toggle:after {
 	font-size: 2em;
 }
 
 
-.nav-menus-group {
+a.nav-menus-group {
 	font-size: 1em;
 }
 
