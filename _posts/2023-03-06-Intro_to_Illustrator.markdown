@@ -3,7 +3,7 @@ layout: post
 title:  "Getting Started with Adobe Illustrator: Illustrator series"
 date:   2023-03-06 17:06:25
 categories: Project Code
-tags: Project
+tags: Project Code
 ---
 
 

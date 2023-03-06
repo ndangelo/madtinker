@@ -151,6 +151,32 @@ Tag{% if post.tags.size > 1 %}s{% endif %}:
     <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Deploys by Netlify" />
   </a>
     </div><br /><br /><br />
+
+    {% for post in site.categories.Code %}
+    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+   {% endfor %}
+   
+   {% for post in site.categories.Video %}
+    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+   {% endfor %}
+   
+   {% for post in site.categories.Audio %}
+    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+   {% endfor %}
+   
+   {% for post in site.categories.Art %}
+    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+   {% endfor %}
+   
+   {% for post in site.categories.Projects %}
+    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+   {% endfor %}
+   
+   {% for post in site.categories.Design %}
+    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+   {% endfor %}
+   
+    <!-- {{page.categories | capitalize | join: ', '}}-->
 </body>
     
 </html>
