@@ -195,7 +195,7 @@ a.blog-logo {
   font-weight: 700;
 }
 .navbar-toggle:after {
-  content: "☰";
+  content: "&#9776";
   font-size: 2em;
   display: inline-block;
   margin-right: -4.8vw;
