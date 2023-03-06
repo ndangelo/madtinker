@@ -275,8 +275,8 @@ img.center {
   line-height: 1.7;
 }
  
-.icon-sun:before { content: '\f0c9'; }
-.icon-anchor:before { content: '\f0c9'; }
+.icon-sun:before { content: '\e801'; }
+.icon-anchor:before { content: '\e800'; }
 .icon-anchor {
 	font-size: 65%;
 }

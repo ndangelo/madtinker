@@ -195,7 +195,7 @@ a.blog-logo {
   font-weight: 700;
 }
 .navbar-toggle:after {
-  content: "MENU";
+  content: "<i class="fas fa-bars"></i>";
   display: inline-block;
   margin-right: -4.8vw;
   padding: 15px 30px;
@@ -241,7 +241,7 @@ a.blog-logo {
   }
   .nav-menus-wrap:before,
   .nav-menus-wrap:after {
-    content: " ";
+    content: "<i class="fas fa-bars"></i>";
     display: table;
   }
   .nav-menus-wrap:after {
