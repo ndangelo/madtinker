@@ -195,7 +195,7 @@ a.blog-logo {
   font-weight: 700;
 }
 .navbar-toggle:after {
-  content: "≡";
+  content: "☰";
   display: inline-block;
   margin-right: -4.8vw;
   padding: 15px 30px;
@@ -405,8 +405,8 @@ ul > li + li {
 .container{margin-left:auto;margin-right:auto;padding-left:4%;padding-right:4%;max-width:1000px}
 .container:before,.container:after{content:" ";display:table}
 .container:after{clear:both}@media (max-width: 543px){
-	.container{padding-left:4.8%;padding-right:4.8%}}@media (min-width: 1000px){
-		.container{max-width:1000px}}.row,.color-chips{margin-left:-2px;margin-right:-2px}
+	.container{padding-left:4.8%;padding-right:4.8%}}@media (min-width: 1280px){
+		.container{max-width:1280px}}.row,.color-chips{margin-left:-2px;margin-right:-2px}
 		.row:before,
 		.color-chips:before,
 		.row:after,
