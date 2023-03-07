@@ -400,7 +400,7 @@ ul > li + li {
   font-size: 22px;
   color: #868e96;
 }
-/*
+
 .clearfix:before,.clearfix:after{content:" ";display:table}
 .clearfix:after{clear:both}
 .container{margin-left:auto;margin-right:auto;padding-left:4%;padding-right:4%;max-width:1000px}
@@ -436,7 +436,14 @@ ul > li + li {
 								min-height:1px;
 								padding-right:2px;
 								padding-left:2px;float:left;width:20%}}@media (min-width: 1600px){
-								.blog-logo{position:relative;min-height:1px;padding-right:2px;padding-left:2px;float:left;width:10%}}
+								.blog-logo{
+                  position:relative;
+                  min-height:1px;
+                  padding-right:2px;
+                  padding-left:2px;
+                  float:left;
+                  width:10%}}
+                  
 					.cover{margin-left:-2px;
 						margin-right:-2px}
 					.cover:before,
@@ -447,6 +454,7 @@ ul > li + li {
 						padding-right:2px;
 						padding-left:2px;
 						float:left;width:100%}
+
 						@media (min-width: 544px){
 							.cover-content{position:relative;
 								min-height:1px;padding-right:2px;
