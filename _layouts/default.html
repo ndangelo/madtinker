@@ -138,6 +138,31 @@ Tag{% if post.tags.size > 1 %}s{% endif %}:
 
  <!-- {{page.categories | capitalize | join: ', '}}-->
 
+ <hr>
+
+ {% for post in site.categories.Code %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+{% for post in site.categories.Video %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+{% for post in site.categories.Audio %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+{% for post in site.categories.Art %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+{% for post in site.categories.Projects %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+{% for post in site.categories.Design %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
 
   <hr style="width:100%; margin-top: 15px;margin-bottom: 15px;">
 
@@ -150,29 +175,7 @@ Tag{% if post.tags.size > 1 %}s{% endif %}:
   </a>
     </div><br /><br /><br />
 
-    {% for post in site.categories.Code %}
-    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-   {% endfor %}
-   
-   {% for post in site.categories.Video %}
-    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-   {% endfor %}
-   
-   {% for post in site.categories.Audio %}
-    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-   {% endfor %}
-   
-   {% for post in site.categories.Art %}
-    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-   {% endfor %}
-   
-   {% for post in site.categories.Projects %}
-    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-   {% endfor %}
-   
-   {% for post in site.categories.Design %}
-    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-   {% endfor %}
+
    
     <!-- {{page.categories | capitalize | join: ', '}}-->
 </body>
