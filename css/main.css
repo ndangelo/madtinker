@@ -40,11 +40,11 @@ a.nobr:hover {
                 display: inline-block;
                 margin: 10px 5px;
                 padding: 10px 25px 13px;
-                font-size: 1.3em;
+                font-size: 1em;
                 color: #868e96;
                 background-color: transparent;
                 border: none;
-                border-radius: 22px;
+               /* border-radius: 22px;*/
                 transition: font-weight 0.2s ease, background-color 0.2s ease, color 0.2s ease;
 }
 
