@@ -280,3 +280,24 @@ img.center {
 .icon-anchor {
 	font-size: 65%;
 }
+
+a.menus-title {
+font-size: 1em;
+
+}
+
+a.navbar-toggle:after {
+	font-size: 2em;
+}
+
+
+a.nav-menus-group {
+	font-size: 1em;
+}
+
+.bars {
+
+	font-size:2em;
+}
+
+.navbar-toggle:after {
