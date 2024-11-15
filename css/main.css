@@ -19,6 +19,7 @@
 .container {
         font-family: 'Mulish', sans-serif;
         max-width: 1080px;
+        min-width: 1080px;
 
 }
 
