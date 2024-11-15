@@ -89,7 +89,7 @@ img {
 
 
 .nav-menus-wrap {
-        display: inline-block;
+      /*  display: inline-block;*/
         margin: 0;
         padding: 0;
         float: right;
