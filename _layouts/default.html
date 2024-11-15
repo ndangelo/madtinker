@@ -22,6 +22,7 @@
   <link rel="stylesheet" type="text/css" href="https://madtinker.net/css/normalize.css" media="screen">
   <link rel="stylesheet" type="text/css" href="https://madtinker.net/css/style.css" media="screen">
     <link rel="stylesheet" type="text/css" href="https://madtinker.net/css/main.css" media="screen">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
   <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700' rel='stylesheet' type='text/css'>
@@ -38,10 +39,7 @@
         <label for="navbar-toggle" onclick class="navbar-toggle"></label>
         <ul class="nav-menus-wrap">
          <li class="nav-menus-group">
-            <a class="menus-title
-                        
-                        
-                        " href="https://madtinker.net/tag/video">Video</a>
+            <a class="menus-title" href="https://madtinker.net/tag/video">Video</a>
           </li>
           <li class="nav-menus-group">
             <a class="menus-title
@@ -72,8 +70,17 @@
             </ul>-->
           </li>
 
+          
           <li class="nav-menus-group">
-            <a class="menus-title" href="https://madtinker.net/categories.html">Categories</a>
+            <a class="menus-title" href="https://madtinker.net/tag/project">Projects</a>
+           <!-- <ul class="nav-menus">
+              <li><a class="nav-menu" href="https://github.com/yeun/open-color/releases/download/v1.6.3/open-color.zip" download>Source code</a></li>
+              <li><a class="nav-menu" href="https://www.figma.com/file/Qj5TvDTLjOBynKQT6995eToz/Open-Color">Figma library ↗️</a></li>
+            </ul>-->
+          </li>
+
+          <li class="nav-menus-group">
+            <a class="menus-title" href="https://madtinker.net/categories/">Categories</a>
            <!-- <ul class="nav-menus">
               <li><a class="nav-menu" href="https://github.com/yeun/open-color/releases/download/v1.6.3/open-color.zip" download>Source code</a></li>
               <li><a class="nav-menu" href="https://www.figma.com/file/Qj5TvDTLjOBynKQT6995eToz/Open-Color">Figma library ↗️</a></li>
@@ -131,10 +138,35 @@ Tag{% if post.tags.size > 1 %}s{% endif %}:
 
  <!-- {{page.categories | capitalize | join: ', '}}-->
 
+ <hr>
+
+ {% for post in site.categories.Code %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+{% for post in site.categories.Video %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+{% for post in site.categories.Audio %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+{% for post in site.categories.Art %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+{% for post in site.categories.Projects %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+{% for post in site.categories.Design %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
 
   <hr style="width:100%; margin-top: 15px;margin-bottom: 15px;">
 
-    <span style="text-align: center;">© 2023 Nicholas D'Angelo</span><br/> <br/>
+    <span style="text-align: center;">© 2024 Nicholas D'Angelo</span><br/> <br/>
     </div>
     
     <div class="madtinker_main">
@@ -142,6 +174,10 @@ Tag{% if post.tags.size > 1 %}s{% endif %}:
     <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Deploys by Netlify" />
   </a>
     </div><br /><br /><br />
+
+
+   
+    <!-- {{page.categories | capitalize | join: ', '}}-->
 </body>
     
 </html>
