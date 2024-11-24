@@ -1,168 +1,131 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <title>Welcome to Jekyll!</title>
-
-   <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152.png" />
-  <link rel="icon" type="image/png" href="favicon.gif"/>
-  <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
-  <meta name="description" content="Color scheme for UI design" />
-  <meta name="application-name" content="Open Color" />
-  <meta name="msapplication-TileColor" content="#FFFFFF" />
-  <meta name="msapplication-TileImage" content="mstile-144x144.png" />
-
- 
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/flex_sample.css">
+  <title>Flex Layout Examples</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+  <script>
+    $(function() {
+      $("a[href*=#]:not([href=#])").click(function() {
+        if (
+          location.pathname.replace(/^\//, "") ==
+          this.pathname.replace(/^\//, "") &&
+          location.hostname == this.hostname
+        ) {
+          var target = $(this.hash);
+          target = target.length ? target : $("[name=" + this.hash.slice(1) + "]");
+          if (target.length) {
+            $("html,body").animate({
+                scrollTop: target.offset().top
+              },
+              1000
+            );
+            return false;
+          }
+        }
+      });
+    });
+  </script>
 
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" media="screen">
-<!--link rel="stylesheet" type="text/css" href="https://madtinker.net/css/normalize.css" media="screen">-->
-  <link rel="stylesheet" type="text/css" href="https://madtinker.net/css/style.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="https://madtinker.net/css/main.css" media="screen">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
-  <link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700' rel='stylesheet' type='text/css'>
-  {% if site.tags != "" %}
-  {% include collecttags.html %}
-{% endif %}
 </head>
+
 <body>
-  <div class="navigation top">
-    <div class="container top">
-   <!--   <a class="blog-logo" href="index.html"></a>-->
-      <div class="navbar">
-        <input type="checkbox" id="navbar-toggle">
-        <label for="navbar-toggle" onclick class="navbar-toggle"></label>
-        <ul class="nav-menus-wrap">
-         <li class="nav-menus-group">
-            <a class="menus-title" href="https://madtinker.net/tag/video">Video</a>
-          </li>
-          <li class="nav-menus-group">
-            <a class="menus-title
-                        " href="https://madtinker.net/tag/code">Code</a>
-          </li>
-          <li class="nav-menus-group">
-           <a class="menus-title
-                        " href="https://madtinker.net/tag/audio">Audio</a>
-
-          </li>
-          <li class="nav-menus-group">
-            <a class="menus-title" href="https://madtinker.net/tag/art">Art</a>
-
-          </li>
-
-          <li class="nav-menus-group">
-            <a class="menus-title" href="https://madtinker.net/tag/design">Design</a>
-
-          </li>
-
-          
-          <li class="nav-menus-group">
-            <a class="menus-title" href="https://madtinker.net/tag/project">Projects</a>
-
-          </li>
-
-          <li class="nav-menus-group">
-            <a class="menus-title" href="https://madtinker.net/categories/">Categories</a>
-
-          </li>
-
-
-          <li class="nav-menus-group"><a class="menus-title menus-github" href="#"><i class="fa-brands fa-github"></i></a></li>
-        </ul>
-      </div>
+  <div class="top hr-main">
+    <div class="logo">
+      <img src="https://madtinker.net/images/mad_tinker_logo_2.png" width="150px">
     </div>
+    <nav class="flex-nav">
+
+      <a href="#" class="toggleNav"><i class="fa fa-bars"></i> Menu</a>
+      <ul>
+        <li><a href="index.html" class="scrollLink">Home</a></li>
+        <li><a href="https://madtinker.net/tag/video" class="scrollLink" title="About">Video</a></li>
+        <li><a href="https://madtinker.net/tag/audio" class="scrollLink" title="">Audio</a></li>
+
+        <li><a href="https://madtinker.net/tag/code" class="scrollLink" title="Services">Code</a></li>
+        <li><a href="https://madtinker.net/tag/art" class="scrollLink" title="Contact">Art</a></li>
+        <li><a href="https://madtinker.net/tag/design" class="scrollLink" title="Contact">Design</a></li>
+        <li><a href="https://madtinker.net/tag/projects" class="scrollLink" title="Contact">Projects</a></li>
+        <li class="social">
+          <a href="h#" title="Twitter"><i class="fa fa-twitter"></i></a>
+        </li>
+        <li class="social">
+          <a href="#" title="Dribbble"><i class="fa fa-dribbble"></i></a>
+        </li>
+        <li class="social">
+          <a href="#" title="GitHub"><i class="fa fa-github"></i></a>
+        </li>
+        <li class="social">
+          <a href="#" title="Instagram"><i class="fa fa-instagram"></i></a>
+        </li>
+      </ul>
+    </nav>
+
   </div>
-  <div class="container">
-    <section class="cover">
-      <div class="cover-content madtinker_main">
-       <a href="https://www.madtinker.net"><img src="https://madtinker.net/images/mad_tinker_logo_2.png"></a>
-       <a href="https://www.madtinker.net">The Mad Tinker</a>
-      </div>
-      <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1696&serve=CVYD42T&placement=yeungithubioopencolor" id="_carbonads_js"></script>
-    </section>
-  </div>
+  <div class="wrapper">
 
+    <div class="container">
 
-</head>
-    <body>
-  <div class="container">
-    <div class="row">
-     <!-- <div class="shortcut-wrap">
-        <ul class="shortcut-menus">-->
+      span>
+      {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      tag: <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">&nbsp;<nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+      {% endfor %}
+      </span>
 
+      {{ content }}
 
-       <br/> <br/> <br/> <br/>
-      <!--<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
-
-      <br><br>
-
-<!--{% if post.tags.size > 0 %}
-Tag{% if post.tags.size > 1 %}s{% endif %}:
-{{ post.tags | sort | join: ", " }}
-{% endif %}-->
-
-<span>
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-   tag: <a href="/tag/{{ tag_name }}"><code class="highligher-rouge" >&nbsp;<nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-</span>
-
-    {{ content }}
-
-
-    <br/><br/><br/>
-</div>
- <div>
-
- <!-- {{page.categories | capitalize | join: ', '}}-->
-
- <hr>
-
- {% for post in site.categories.Code %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-
-{% for post in site.categories.Video %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-
-{% for post in site.categories.Audio %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-
-{% for post in site.categories.Art %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-
-{% for post in site.categories.Projects %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-
-{% for post in site.categories.Design %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-
-  <hr style="width:100%; margin-top: 15px;margin-bottom: 15px;">
-
-    <span style="text-align: center;">© 2024 Nicholas D'Angelo</span><br/> <br/>
+      <br /><br /><br />
     </div>
-    
-    <div class="madtinker_main">
-  <a href="https://www.netlify.com">
-    <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Deploys by Netlify" />
-  </a>
-    </div><br /><br /><br />
+    <div>
 
+      <!-- {{page.categories | capitalize | join: ', '}}-->
 
-   
-    <!-- {{page.categories | capitalize | join: ', '}}-->
-</body>
-    
-</html>
+      <hr>
 
+      {% for post in site.categories.Code %}
+      <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+
+      {% for post in site.categories.Video %}
+      <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+
+      {% for post in site.categories.Audio %}
+      <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+
+      {% for post in site.categories.Art %}
+      <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+
+      {% for post in site.categories.Projects %}
+      <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+
+      {% for post in site.categories.Design %}
+      <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+
+      <div class="item2">
+
+      </div>
+      <div class="footer">
+
+        <div><a class="nav" href="#">Footer</a>
+
+          <div class="madtinker_main">
+            <a href="https://www.netlify.com">
+              <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Deploys by Netlify" />
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
