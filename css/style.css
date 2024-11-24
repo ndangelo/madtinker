@@ -161,63 +161,26 @@ a.blog-logo {
   line-height: 1.5;
 }
 
-
-
-
-/*.highlight {
-  margin-left: 0;
-  margin-right: 0;
-  padding: 20px 30px;
-  background-color: #272822;
-  border-radius: 4px;
-}*/
-
-pre {
-  display: block;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding: 20;
-  line-height: 1.5;
-  white-space: pre;
-  white-space: -moz-pre;
-  white-space: -pre;
-  white-space: -o-pre;
-  word-wrap: break-word;
-  word-break: break-all;
-}
-
-pre code {
-  margin: 0;
-  padding: 15;
-  width: 740px;
-  font-size: inherit;
-  white-space: pre-wrap;
-  word-break: break-all;
-  background-color: ;
-  border-radius: 0;
-}
-
-
+/* General Styles */
 html {
   box-sizing: border-box;
   font-size: 14px;
 }
-*,
-*:before,
-*:after {
+*, *::before, *::after {
   box-sizing: inherit;
 }
 body {
   color: #495057;
-  font-family: 'Montserrat', sans-serif;, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   line-height: 1.5;
-  letter-spacing: 0;
   -webkit-text-size-adjust: none;
 }
 ::selection {
   background: #e9ecef;
 }
+
+/* Links */
 a {
   color: #339af0;
   text-decoration: none;
@@ -226,6 +189,8 @@ a:focus,
 a:hover {
   color: #1c7ed6;
 }
+
+/* Miscellaneous */
 abbr[title] {
   border-bottom: none;
 }
@@ -233,8 +198,8 @@ hr {
   margin: 40px auto;
   width: 50%;
   height: 1px;
-  border: none;
   background: #dee2e6;
+  border: none;
 }
 ul > li + li {
   margin-top: 0.25em;
@@ -249,14 +214,37 @@ ul > li + li {
   color: #868e96;
 }
 
-.clearfix:before,.clearfix:after{content:" ";display:table}
-.clearfix:after {clear:both}
-.container {margin-left:auto;
-  margin-right:auto;
-  padding-left:4%;
-  padding-right:4%;
-  max-width:1280px;
+/* Utility Classes */
+.clearfix::before, .clearfix::after {
+  content: " ";
+  display: table;
+}
+.clearfix::after {
+  clear: both;
+}
 
+/* Containers */
+.container {
+  margin: 0 auto;
+  padding: 0 4%;
+  max-width: 1280px;
+}
+
+/* Preformatted Text */
+pre {
+  margin: 0;
+  padding: 20px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+pre code {
+  margin: 0;
+  padding: 15px;
+  font-size: inherit;
+  width: 100%;
+  white-space: pre-wrap;
+  word-break: break-word;
 }
 
 
