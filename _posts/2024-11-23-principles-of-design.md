@@ -12,7 +12,7 @@ categories:
     - Projects
 ---
 
-<header class="loc article-header article-header"># Principles of Design
+# Principles of Design
 
 ## Check Your Documents for Balance, Alignment and Other Principles of Design
 
@@ -20,18 +20,32 @@ categories:
 
 All the principles of design, also known as principles of composition, apply to any piece you create. How you apply those principles determines how effective your design is in conveying the desired message and how attractive it appears. There is seldom only one correct way to apply each principle but check your document to see how well you applied each of these six principles of design.
 
-</div><div class="content content-list"><div class="content-list-title"><div class="content-list-bullet"> </div><div class="content-list-text"><div class="heading-wrapper">### Balance
+</div><div class="content content-list"><div class="content-list-title"><div class="content-list-bullet"> </div><div class="content-list-text"><div class="heading-wrapper">
 
-</div></div></div><div class="content-list-body"><figure class="comp figure-article figure-landscape" id="figure-article_1-0"><figure>![balance](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184105/balance-58babbb55f9b58af5cb400cf.png)</figure><div class="figure-media"><figure></figure><div class="img-placeholder"></div></div><figcaption class="figure-article-caption">Are your designs in [balance](https://www.thoughtco.com/balance-in-design-1078231)?</figcaption></figure>Visual balance comes from arranging elements on the page so that no one section is heavier than the other. At times, a designer may intentionally throw elements out of balance to create tension or a certain mood. Are your page elements all over the place or does each portion of the page balance out the rest? If the page is out of balance, it should be done purposely and with a specific intention in mind.
+### Balance
+
+</div></div></div><div class="content-list-body"><figure class="comp figure-article figure-landscape" id="figure-article_1-0"><figure>
+
+![balance](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184105/balance-58babbb55f9b58af5cb400cf.png)
+
+</figure><div class="figure-media"><figure></figure><div class="img-placeholder"></div></div><figcaption class="figure-article-caption">Are your designs in [balance](https://www.thoughtco.com/balance-in-design-1078231)?</figcaption></figure>Visual balance comes from arranging elements on the page so that no one section is heavier than the other. At times, a designer may intentionally throw elements out of balance to create tension or a certain mood. Are your page elements all over the place or does each portion of the page balance out the rest? If the page is out of balance, it should be done purposely and with a specific intention in mind.
 
 [Check Your Use of the Principle of Balance](https://www.thoughtco.com/balance-in-design-1078231)
 
-</div></div><div class="comp billboard1-sticky billboard-sticky is-lockable" data-height="1050" id="billboard1-sticky_1-0"> </div><div class="content content-list"><div class="content-list-title"><div class="content-list-text"><div class="heading-wrapper">### Proximity / Unity
+</div></div><div class="comp billboard1-sticky billboard-sticky is-lockable" data-height="1050" id="billboard1-sticky_1-0"> </div><div class="content content-list"><div class="content-list-title"><div class="content-list-text"><div class="heading-wrapper">
+        ### Proximity / Unity
 
-</div></div></div><div class="content-list-body"><figure class="comp figure-article figure-landscape" id="figure-article_1-0-2"><figure>![Proximity](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184103/proximity-58babbfe3df78c353c433546.png)</figure><div class="figure-media"><figure></figure><div class="img-placeholder"></div></div><figcaption class="figure-article-caption">Do your designs have unity?</figcaption></figure>In design, proximity or closeness creates a bond between elements on a page. How close together or far apart elements are placed suggests a relationship (or lack of) between otherwise disparate parts. Unity is also achieved by using a third element to connect distant parts. Are title elements together? Is contact information all in one place? Do frames and boxes tie together or are they separate related elements in your document?  
+</div></div></div><div class="content-list-body"><figure class="comp figure-article figure-landscape" id="figure-article_1-0-2"><figure>
+
+![Proximity](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184103/proximity-58babbfe3df78c353c433546.png)
+
+</figure><div class="figure-media"><figure></figure><div class="img-placeholder"></div></div><figcaption class="figure-article-caption">Do your designs have unity?</figcaption></figure>In design, proximity or closeness creates a bond between elements on a page. How close together or far apart elements are placed suggests a relationship (or lack of) between otherwise disparate parts. Unity is also achieved by using a third element to connect distant parts. Are title elements together? Is contact information all in one place? Do frames and boxes tie together or are they separate related elements in your document? 
+
 [Check Your Use of the Principle of Proximity](https://www.thoughtco.com/proximity-in-design-1078154)
 
-</div></div><div class="comp billboard2-sticky billboard-sticky is-lockable" data-height="600" data-parent="" id="billboard2-sticky_1-0"> </div><div class="content content-list"><div class="content-list-title"><div class="content-list-bullet"> </div><div class="content-list-text"><div class="heading-wrapper">### Alignment
+</div></div><div class="comp billboard2-sticky billboard-sticky is-lockable" data-height="600" data-parent="" id="billboard2-sticky_1-0"> </div><div class="content content-list"><div class="content-list-title"><div class="content-list-bullet"> </div><div class="content-list-text"><div class="heading-wrapper">
+
+### Alignment
 
 </div></div></div><div class="content-list-body"><figure class="comp figure-article figure-landscape" id="figure-article_1-0-3"><figure>![Alignment](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184101/alignment-58babbf03df78c353c4334b2.png)</figure><div class="figure-media"><figure></figure><div class="img-placeholder"></div></div><figcaption class="figure-article-caption">Is your layout in [alignment](https://www.thoughtco.com/alignment-in-page-layout-1077533) with your goals?</figcaption></figure>Alignment brings order to chaos. How you align type and graphics on a page and in relation to each other can make your layout easier or more difficult to read, foster familiarity, or bring excitement to a stale design. Have you used a grid? Is there a common alignment—top, bottom, left, right or centered—between blocks of text and graphics on the page? The text alignment should aid readability. If certain elements are out of alignment, it should be done purposefully with a specific design goal in mind.  
 [Check Your Use of the Principle of Alignment](https://www.thoughtco.com/alignment-in-graphic-design-1077535)
