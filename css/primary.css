@@ -104,6 +104,16 @@ a.nav:hover {
   color: coral;
 }
 
+a {
+    
+    text-decoration: none;
+}
+
+a:visited {
+    color: green;
+    text-decoration: none;
+}
+
 /*end nav*/
 .wrapper {
   max-width: 1080px;
