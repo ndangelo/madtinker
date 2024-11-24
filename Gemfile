@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem 'github-pages'
 
 
-gem 'nokogiri', '~> 1.10', :platforms => [:ruby_interpreter, :mri], :require => 'nokogiri' 
+gem 'nokogiri', '~> 1.10', :platforms => [:ruby, :mri], :require => 'nokogiri' 
 
 # Add necessary flags if needed
 
