@@ -349,7 +349,7 @@ pre code {
   border-radius: 0;
 }
 
-
+/*
 html {
   box-sizing: border-box;
   font-size: 14px;
@@ -401,7 +401,7 @@ ul > li + li {
   color: #868e96;
 }
 
-/*
+
 .clearfix:before,.clearfix:after{content:" ";display:table}
 .clearfix:after{clear:both}
 .container{margin-left:auto;margin-right:auto;padding-left:4%;padding-right:4%;max-width:1000px}
