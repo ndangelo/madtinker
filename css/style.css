@@ -20,7 +20,7 @@
 		padding-right:4.8%}}
 @media screen and (min-width: 1000px){
 	.container{
-		width: 1280px;
+		width: 960px;
 		padding-left:4.8%;
 		padding-right:4.8%}}
 
@@ -410,8 +410,6 @@ ul > li + li {
   max-width:1280px;
 
 }
-
-
 .container:before,.container:after{content:" ";display:table}
 .container:after{clear:both}@media (max-width: 543px){
 	.container{padding-left:4.8%;padding-right:4.8%}}@media (min-width: 1280px){
