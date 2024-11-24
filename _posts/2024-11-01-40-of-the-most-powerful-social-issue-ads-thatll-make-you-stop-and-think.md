@@ -39,66 +39,63 @@ Just like with commercial advertisements, having just the facts is not enough. T
 
 ## Premature Ending: “If you smoke, statistically your story will end 15% before it should.”
 
-![public-interest-public-awareness-ads-15](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182427/public-interest-public-awareness-ads-15.jpg)<figcaption>“THE END. If you smoke, statistically your story will end 15% before it should. For help with quiting call QUITTLINE on 0200 00 22 00” (Advertising Agency: Iris, London, UK)</figcaption>
+![public-interest-public-awareness-ads-15](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182427/public-interest-public-awareness-ads-15.jpg) *“THE END. If you smoke, statistically your story will end 15% before it should. For help with quiting call QUITTLINE on 0200 00 22 00” (Advertising Agency: Iris, London, UK)*
 
 ## World Wide Fund For Nature: Frightening vs. More Frightening
 
-![public-interest-public-awareness-ads-30-2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182429/public-interest-public-awareness-ads-30-2.jpg)<figcaption>Advertising Agency: DDB&amp;CO., Istanbul, Turkey
+![public-interest-public-awareness-ads-30-2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182429/public-interest-public-awareness-ads-30-2.jpg) *Advertising Agency: DDB&amp;CO., Istanbul, Turkey*
 
 ## Deforestation Continues With The Turn Of A Page
 
-![public-interest-public-awareness-ads-34](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182434/public-interest-public-awareness-ads-34.jpg)<figcaption>Advertising Agency: LINKSUS, Beijing, China</figcaption>
+![public-interest-public-awareness-ads-34](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182434/public-interest-public-awareness-ads-34.jpg) *Advertising Agency: LINKSUS, Beijing, China *
 
 ## Unhate
 
-![public-interest-public-awareness-ads-51-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182440/public-interest-public-awareness-ads-51-1.jpg)<figcaption>Advertising Agency: Fabrica, Italy</figcaption>
+![public-interest-public-awareness-ads-51-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182440/public-interest-public-awareness-ads-51-1.jpg)*Advertising Agency: Fabrica, Italy*
 
 ## Elm Grove Police Department: Slower Is Better
 
-![public-interest-public-awareness-ads-6](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182442/public-interest-public-awareness-ads-6.jpg)<figcaption>Advertising Agency: Cramer-Krasselt, Milwaukee, USA</figcaption>
+![public-interest-public-awareness-ads-6](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182442/public-interest-public-awareness-ads-6.jpg)*Advertising Agency: Cramer-Krasselt, Milwaukee, USA*
 
 ## Save Paper – Save The Planet
 
-![public-interest-public-awareness-ads-49](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182446/public-interest-public-awareness-ads-49.jpg)<figcaption>Advertising Agency: Saatchi &amp; Saatchi, Copenhagen, Denmark</figcaption>
+![public-interest-public-awareness-ads-49](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182446/public-interest-public-awareness-ads-49.jpg) *Advertising Agency: Saatchi &amp; Saatchi, Copenhagen, Denmark*
 
 ## Air Pollution Kills 60.000 People A Year
 
-![public-interest-public-awareness-ads-37](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182447/public-interest-public-awareness-ads-37.jpg)<figcaption>Advertising Agency: [unknown](https://www.boredpanda.com/powerful-social-advertisements/)</figcaption>
+![public-interest-public-awareness-ads-37](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182447/public-interest-public-awareness-ads-37.jpg) *Advertising Agency: [unknown](https://www.boredpanda.com/powerful-social-advertisements/)*
 
 ## Bird Conservation: If You Don’t Pick It Up They Will
 
-![public-interest-public-awareness-ads-4](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182453/public-interest-public-awareness-ads-4.jpg)<figcaption>Advertising Agency: TBWAHuntLascaris, Johannesburg, South Africa</figcaption>
+![public-interest-public-awareness-ads-4](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182453/public-interest-public-awareness-ads-4.jpg)*Advertising Agency: TBWAHuntLascaris, Johannesburg, South Africa*
 
 ## What We See When You Smoke
 
-![public-interest-public-awareness-ads-64](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182454/public-interest-public-awareness-ads-64.jpg)<figcaption>Advertising Agency: JWT, Atlanta, USA</figcaption>
+![public-interest-public-awareness-ads-64](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182454/public-interest-public-awareness-ads-64.jpg)*Advertising Agency: JWT, Atlanta, USA*
 
 ## Bangalore Traffic Police: Don’t Talk While Driving
 
 ![public-interest-public-awareness-ads-18-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182458/public-interest-public-awareness-ads-18-1.jpg)
 
-![public-interest-public-awareness-ads-18-2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182500/public-interest-public-awareness-ads-18-2.jpg)<figcaption>Advertising Agency: Mudra Group, India</figcaption>
-
+![public-interest-public-awareness-ads-18-2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182500/public-interest-public-awareness-ads-18-2.jpg)*Advertising Agency: Mudra Group, India*
 ## Child Soldiers: It’s Not Happening Here, But It’s Happening Now
 
-![amnesty-international-campaign-ads-122](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182503/amnesty-international-campaign-ads-122.jpg)<figcaption>Creative/Art director Pius Walker, Amnesty International, Switzerland.</figcaption>
+![amnesty-international-campaign-ads-122](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182503/amnesty-international-campaign-ads-122.jpg)*Creative/Art director Pius Walker, Amnesty International, Switzerland.*
 
 ## Distracted Driving: Think Of Both Sides
 
-![public-interest-public-awareness-ads-67](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182506/public-interest-public-awareness-ads-67.jpg)<figcaption>Advertising Agency: Red Pepper, Ekaterinburg, Russia</figcaption>
-
+![public-interest-public-awareness-ads-67](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182506/public-interest-public-awareness-ads-67.jpg)*Advertising Agency: Red Pepper, Ekaterinburg, Russia*
 ## Every 60 Seconds a Species Dies Out. Each Minute Counts
 
-![public-interest-public-awareness-ads-5-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182508/public-interest-public-awareness-ads-5-1.jpg)<figcaption>Advertising Agency: Scholz &amp; Friends, Berlin, Germany</figcaption>
+![public-interest-public-awareness-ads-5-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182508/public-interest-public-awareness-ads-5-1.jpg)*Advertising Agency: Scholz &amp; Friends, Berlin, Germany*
 
 ## Innocence In Danger: Where’s The Pedophile?
 
-![amnesty-international-campaign-ads-127](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182510/amnesty-international-campaign-ads-127.jpg)[amnesty-international-campaign-ads-128](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182511/amnesty-international-campaign-ads-128.jpg)<figcaption>!Art Director: Michael Arguello, Copywriter: Bassam Tariq, Additional credits: Jason Musante</figcaption>
+![amnesty-international-campaign-ads-127](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182510/amnesty-international-campaign-ads-127.jpg)[amnesty-international-campaign-ads-128](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182511/amnesty-international-campaign-ads-128.jpg)*!Art Director: Michael Arguello, Copywriter: Bassam Tariq, Additional credits: Jason Musante*
 
 ## Sexual Predators Can Hide In Your Child’s Smartphone
 
-![public-interest-public-awareness-ads-62](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182513/public-interest-public-awareness-ads-62.jpg)<figcaption>!Advertising Agency: Herezie, Paris, France
-</figcaption>
+![public-interest-public-awareness-ads-62](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182513/public-interest-public-awareness-ads-62.jpg)*!Advertising Agency: Herezie, Paris, France*
 ## Smoking Causes Premature Aging
 
 ![public-interest-public-awareness-ads-43](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182515/public-interest-public-awareness-ads-43.jpg)*!Advertising Agency: Euro RSCG Australia*
@@ -118,7 +115,9 @@ Just like with commercial advertisements, having just the facts is not enough. T
 
 ## What Goes Around Comes Around. Keep The Sea Clean
 
-![public-interest-public-awareness-ads-8-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182523/public-interest-public-awareness-ads-8-1.jpg)![public-interest-public-awareness-ads-8-2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182524/public-interest-public-awareness-ads-8-2.jpg)*Advertising Agency: JWT, Dubai, UAE*
+![public-interest-public-awareness-ads-8-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182523/public-interest-public-awareness-ads-8-1.jpg)
+
+![public-interest-public-awareness-ads-8-2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182524/public-interest-public-awareness-ads-8-2.jpg)*Advertising Agency: JWT, Dubai, UAE*
 
 ## Tailgating Isn’t Worth It. Give Trucks Room
 

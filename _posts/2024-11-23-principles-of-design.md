@@ -11,11 +11,10 @@ categories:
     - Projects
 ---
 
-# Principles of Design
 
 ## Check Your Documents for Balance, Alignment and Other Principles of Design
 
-by [Jacci Howard Bear](https://www.thoughtco.com/jacci-howard-bear-1073678)The principles of design suggest how a designer can best arrange the various components of a page layout to connect to the overall design and to one another.
+by [Jacci Howard Bear](https://www.thoughtco.com/jacci-howard-bear-1073678) The principles of design suggest how a designer can best arrange the various components of a page layout to connect to the overall design and to one another.
 
 All the principles of design, also known as principles of composition, apply to any piece you create. How you apply those principles determines how effective your design is in conveying the desired message and how attractive it appears. There is seldom only one correct way to apply each principle but check your document to see how well you applied each of these six principles of design.
 
