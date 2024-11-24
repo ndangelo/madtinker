@@ -18,9 +18,10 @@
 		width: 650px;
 		padding-left:4.8%;
 		padding-right:4.8%}}
-@media screen and (min-width: 1000px){
+    
+@media screen and (min-width: 1280px){
 	.container{
-		width: 960px;
+		width: 1180px;
 		padding-left:4.8%;
 		padding-right:4.8%}}
 
