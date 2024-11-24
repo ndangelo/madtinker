@@ -91,18 +91,18 @@ Just like with commercial advertisements, having just the facts is not enough. T
 
 ## Innocence In Danger: Where’s The Pedophile?
 
-![amnesty-international-campaign-ads-127](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182510/amnesty-international-campaign-ads-127.jpg)[amnesty-international-campaign-ads-128](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182511/amnesty-international-campaign-ads-128.jpg)*!Art Director: Michael Arguello, Copywriter: Bassam Tariq, Additional credits: Jason Musante*
+![amnesty-international-campaign-ads-127](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182510/amnesty-international-campaign-ads-127.jpg)[amnesty-international-campaign-ads-128](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182511/amnesty-international-campaign-ads-128.jpg)*Art Director: Michael Arguello, Copywriter: Bassam Tariq, Additional credits: Jason Musante*
 
 ## Sexual Predators Can Hide In Your Child’s Smartphone
 
-![public-interest-public-awareness-ads-62](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182513/public-interest-public-awareness-ads-62.jpg)*!Advertising Agency: Herezie, Paris, France*
+![public-interest-public-awareness-ads-62](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182513/public-interest-public-awareness-ads-62.jpg)*Advertising Agency: Herezie, Paris, France*
 ## Smoking Causes Premature Aging
 
-![public-interest-public-awareness-ads-43](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182515/public-interest-public-awareness-ads-43.jpg)*!Advertising Agency: Euro RSCG Australia*
+![public-interest-public-awareness-ads-43](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182515/public-interest-public-awareness-ads-43.jpg)*Advertising Agency: Euro RSCG Australia*
 
 ## You’re Not A Sketch. Say No To Anorexia
 
-![public-interest-public-awareness-ads-63](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182517/public-interest-public-awareness-ads-63.jpg)*!Advertising Agency: Revolution Brasil*
+![public-interest-public-awareness-ads-63](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182517/public-interest-public-awareness-ads-63.jpg)*Advertising Agency: Revolution Brasil*
 
 ## Neglected Children Are Made To Feel Invisible. Stop Child Abuse Now
 
@@ -111,7 +111,8 @@ Just like with commercial advertisements, having just the facts is not enough. T
 
 ## Global Action In The Interest of Animals: Plastic Bags Kill
 
-![public-interest-public-awareness-ads-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182521/public-interest-public-awareness-ads-1.jpg)</figure>Advertising Agency: BBDO Malaysia, MALAYSIA, Kuala Lumpur / Advertising Agency: Duval Guillaume, Belgium
+![public-interest-public-awareness-ads-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182521/public-interest-public-awareness-ads-1.jpg) 
+*Advertising Agency: BBDO Malaysia, MALAYSIA, Kuala Lumpur / Advertising Agency: Duval Guillaume, Belgium*
 
 ## What Goes Around Comes Around. Keep The Sea Clean
 
