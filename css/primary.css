@@ -201,6 +201,11 @@ h1 {
   color: #2a7da1;
 }
 
+h2 {
+    margin-left: 18px;
+    color: red;
+  }
+
 /* Core */
 * {
   box-sizing: border-box;
