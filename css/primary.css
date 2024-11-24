@@ -196,15 +196,23 @@ img {
   margin: 0 auto;
 }
 
-h1 {
+a.h1 {
   margin-left: 20px;
   color: #2a7da1;
 }
 
-h2 {
+a.h2 {
     margin-left: 18px;
     color: red;
   }
+
+
+  a h1 {
+    margin-left: 20px;
+    color: #2a7da1;
+  }
+
+
 
 /* Core */
 * {
