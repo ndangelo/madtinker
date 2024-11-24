@@ -105,7 +105,7 @@ $(document).ready(function () {
 
  <br/><br/><br/>
 </div>
- <div>
+ <ul>
 
 
   {% for post in site.categories.Code %}
@@ -131,7 +131,7 @@ $(document).ready(function () {
  {% for post in site.categories.Design %}
   <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
-
+</ul>
  <!-- {{page.categories | capitalize | join: ', '}}-->
 
  
