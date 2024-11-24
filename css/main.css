@@ -9,6 +9,11 @@
         flex-direction: wrap;
 }
 
+h1 {
+
+        font-size: 1.5em;
+}
+
 .madtinker_main {
         display: flex;
         align-items: center;
