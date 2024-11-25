@@ -6,77 +6,122 @@ author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=5590'
 permalink: /how-to-create-a-circle-polyorama/
-amazonS3_cache:
-    - 'a:26:{s:71:"//www.nuggetofjoy.com/wp-content/uploads/1544_step13_4b015c9938f631.jpg";a:2:{s:2:"id";s:4:"6464";s:11:"source_type";s:13:"media-library";}s:100:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134910/1544_step13_4b015c9938f631.jpg";a:2:{s:2:"id";s:4:"6464";s:11:"source_type";s:13:"media-library";}s:71:"//www.nuggetofjoy.com/wp-content/uploads/1544_step1_4afc4bf5a3be6-1.jpg";a:2:{s:2:"id";s:4:"6466";s:11:"source_type";s:13:"media-library";}s:100:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134912/1544_step1_4afc4bf5a3be6-1.jpg";a:2:{s:2:"id";s:4:"6466";s:11:"source_type";s:13:"media-library";}s:70:"//www.nuggetofjoy.com/wp-content/uploads/1544_step2_4afc4c27ca5ee1.jpg";a:2:{s:2:"id";s:4:"6468";s:11:"source_type";s:13:"media-library";}s:99:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134913/1544_step2_4afc4c27ca5ee1.jpg";a:2:{s:2:"id";s:4:"6468";s:11:"source_type";s:13:"media-library";}s:70:"//www.nuggetofjoy.com/wp-content/uploads/1544_step3_4afc4c4bea3761.jpg";a:2:{s:2:"id";s:4:"6470";s:11:"source_type";s:13:"media-library";}s:99:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134915/1544_step3_4afc4c4bea3761.jpg";a:2:{s:2:"id";s:4:"6470";s:11:"source_type";s:13:"media-library";}s:70:"//www.nuggetofjoy.com/wp-content/uploads/1544_step4_4afc4c64b893d1.jpg";a:2:{s:2:"id";s:4:"6472";s:11:"source_type";s:13:"media-library";}s:99:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134916/1544_step4_4afc4c64b893d1.jpg";a:2:{s:2:"id";s:4:"6472";s:11:"source_type";s:13:"media-library";}s:70:"//www.nuggetofjoy.com/wp-content/uploads/1544_step5_4afc4c9f4e22d1.jpg";a:2:{s:2:"id";s:4:"6474";s:11:"source_type";s:13:"media-library";}s:99:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134918/1544_step5_4afc4c9f4e22d1.jpg";a:2:{s:2:"id";s:4:"6474";s:11:"source_type";s:13:"media-library";}s:70:"//www.nuggetofjoy.com/wp-content/uploads/1544_step6_4afc5806e61751.jpg";a:2:{s:2:"id";s:4:"6476";s:11:"source_type";s:13:"media-library";}s:99:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134919/1544_step6_4afc5806e61751.jpg";a:2:{s:2:"id";s:4:"6476";s:11:"source_type";s:13:"media-library";}s:70:"//www.nuggetofjoy.com/wp-content/uploads/1544_step7_4afc5c22e83321.jpg";a:2:{s:2:"id";s:4:"6478";s:11:"source_type";s:13:"media-library";}s:99:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134920/1544_step7_4afc5c22e83321.jpg";a:2:{s:2:"id";s:4:"6478";s:11:"source_type";s:13:"media-library";}s:70:"//www.nuggetofjoy.com/wp-content/uploads/1544_step8_4afc5c399f95a1.jpg";a:2:{s:2:"id";s:4:"6480";s:11:"source_type";s:13:"media-library";}s:99:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134922/1544_step8_4afc5c399f95a1.jpg";a:2:{s:2:"id";s:4:"6480";s:11:"source_type";s:13:"media-library";}s:70:"//www.nuggetofjoy.com/wp-content/uploads/1544_step9_4afc5c5ed0c941.jpg";a:2:{s:2:"id";s:4:"6482";s:11:"source_type";s:13:"media-library";}s:99:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134924/1544_step9_4afc5c5ed0c941.jpg";a:2:{s:2:"id";s:4:"6482";s:11:"source_type";s:13:"media-library";}s:71:"//www.nuggetofjoy.com/wp-content/uploads/1544_step10_4afc5c7ad70011.jpg";a:2:{s:2:"id";s:4:"6484";s:11:"source_type";s:13:"media-library";}s:100:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134925/1544_step10_4afc5c7ad70011.jpg";a:2:{s:2:"id";s:4:"6484";s:11:"source_type";s:13:"media-library";}s:71:"//www.nuggetofjoy.com/wp-content/uploads/1544_step11_4afc5ca363db11.jpg";a:2:{s:2:"id";s:4:"6486";s:11:"source_type";s:13:"media-library";}s:100:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134926/1544_step11_4afc5ca363db11.jpg";a:2:{s:2:"id";s:4:"6486";s:11:"source_type";s:13:"media-library";}s:71:"//www.nuggetofjoy.com/wp-content/uploads/1544_step12_4afc5cd9125a91.jpg";a:2:{s:2:"id";s:4:"6488";s:11:"source_type";s:13:"media-library";}s:100:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134928/1544_step12_4afc5cd9125a91.jpg";a:2:{s:2:"id";s:4:"6488";s:11:"source_type";s:13:"media-library";}}'
 categories:
-    - 'DMET_160 Introduction to Multimedia'
-    - 'Photoshop Tutorials'
-    - Projects
+  - 'DMET_160 Introduction to Multimedia'
+  - 'Photoshop Tutorials'
+  - 'Projects'
 ---
 
-<div class="box"># [Photoshop Tutorial: How To Create A Circle Polyorama](http://www.pxleyes.com/tutorial/photoshop/1544/How-To-Create-A-Circle-Polyorama.html)
+# [Photoshop Tutorial: How To Create A Circle Polyorama](http://www.pxleyes.com/tutorial/photoshop/1544/How-To-Create-A-Circle-Polyorama.html)
 
-<div class="breadcrumb">[Home](http://www.pxleyes.com/) » [Tutorials](http://www.pxleyes.com/tutorials/) » [Exclusive Photoshop Tutorials](http://www.pxleyes.com/tutorials/photoshop/pxl/) » How To Create A Circle Polyora…</div><div class="clearboth"></div><div class="div_tutgoal">Circle Polyorama are cute, tiny ‘planets’ made of a photographic panorama.  
-In this tutorial we’re going to make such a polyorama with a bunch of photos. It is pretty basic and works for photoshop CS and over. <div class="clearboth"></div><div>**End result:**  
-![How To Create A Circle Polyorama Final Image](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134910/1544_step13_4b015c9938f631.jpg)</div></div></div><div class="box">### Step 1
+Circle Polyoramas are tiny, planet-like creations made from photographic panoramas. In this tutorial, you'll learn how to craft your own polyorama using Photoshop. This technique works for Photoshop CS and above.
 
-The first thing you’ll need is a 360 degree panorama. This is made by using a camera on a tripod and shoot. Then rotate the camera a bit and take the next shot until you have images covering 360 degrees or more.
+**End result:**  
+![Final Image](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134910/1544_step13_4b015c9938f631.jpg)
 
-<div class="txt_center">![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134912/1544_step1_4afc4bf5a3be6-1.jpg)</div>### Step 2
+---
 
-In this step we will use Photoshops built in panorama stitcher, Photomerge.  
-To open Photomerge go through File-&gt; Automate -&gt; Photomerge.
+## Steps to Create a Circle Polyorama
 
-<div class="txt_center">![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134913/1544_step2_4afc4c27ca5ee1.jpg)</div>### Step 3
+### Step 1: Capture a Panorama
+1. Use a tripod-mounted camera to take a 360-degree panorama.
+2. Rotate the camera slightly between each shot until you cover the full 360 degrees.
 
-When Photomerge is open choose “browse” and go to the folder your image is in. then select
+![Step 1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134912/1544_step1_4afc4bf5a3be6-1.jpg)
 
-the first image in the pano, hold shift and press the last one. this selects all the photos between the first and the last image. To deselect one or more images hold CTRL and press the image you want to select/deselect.
+---
 
-<div class="txt_center">![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134915/1544_step3_4afc4c4bea3761.jpg)</div>### Step 4
+### Step 2: Open Photoshop’s Photomerge
+1. Navigate to `File > Automate > Photomerge`.
 
-The images will line up in the list ready to be stitched. Check “Auto”, “Mix images” and “Geometric distortion correction”
+![Step 2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134913/1544_step2_4afc4c27ca5ee1.jpg)
 
-Then hit “OK”
+---
 
-<div class="txt_center">![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134916/1544_step4_4afc4c64b893d1.jpg)</div>### Step 5
+### Step 3: Select and Import Photos
+1. Click "Browse" and locate the folder with your panorama images.
+2. Select all images by clicking the first and last while holding Shift.
 
-This will take some time (a lot if you have a slow/busy computer or a panorama that is hard to make for Photoshop) So don’t try this at home (if you are busy or don’t have time)
+![Step 3](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134915/1544_step3_4afc4c4bea3761.jpg)
 
-<div class="txt_center">![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134918/1544_step5_4afc4c9f4e22d1.jpg)</div>### Step 6
+---
 
-This is what you should come up with. (There will be separate layers and layer masks for every single image.) I merged them though.
+### Step 4: Set Photomerge Options
+1. In Photomerge, check:
+   - “Auto”
+   - “Mix images”
+   - “Geometric distortion correction”
+2. Click “OK.”
 
-<div class="txt_center">![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134919/1544_step6_4afc5806e61751.jpg)</div>### Step 7
+![Step 4](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134916/1544_step4_4afc4c64b893d1.jpg)
 
-Now you have to crop the panorama into only a 360 degree one, or else you end result will look like…crap… If you have a panorama that is less then 360 degrees make sure the start and end of the image looks the same and fits “into” each other.
+---
 
-<div class="txt_center">![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134920/1544_step7_4afc5c22e83321.jpg)</div>### Step 8
+### Step 5: Wait for Photomerge to Process
+Let Photoshop stitch the panorama. Be patient; this may take time, depending on your system's speed.
 
-Now you’ll open “image size” image -&gt; imagesize (or Ctrl+alt+i)  
-Make sure “keep proportions” are unchecked. Then insert the height number into the length one. This will give you a complete squared image (that looks like crap)
+![Step 5](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134918/1544_step5_4afc4c9f4e22d1.jpg)
 
-<div class="txt_center">![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134922/1544_step8_4afc5c399f95a1.jpg)</div>### Step 9
+---
 
-Now rotate the image 180 degrees, image-&gt; image rotation -&gt; 180. You’ll now have an crappy looking upside down image. So get ready for magic.
+### Step 6: Merge Layers
+Once the panorama is stitched, merge all layers into one.
 
-<div class="txt_center">![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134924/1544_step9_4afc5c5ed0c941.jpg)</div>### Step 10
+![Step 6](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134919/1544_step6_4afc5806e61751.jpg)
 
-The magic comes when you play around with the image coordinates (it sounds more fancy then it really is)
+---
 
-This is made by going into filters -&gt; distortion -&gt; polar coordinates.
+### Step 7: Crop the Panorama
+1. Crop the panorama to ensure it covers exactly 360 degrees.
+2. If your panorama is less than 360 degrees, ensure the start and end blend seamlessly.
 
-<div class="txt_center">![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134925/1544_step10_4afc5c7ad70011.jpg)</div>### Step 11
+![Step 7](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134920/1544_step7_4afc5c22e83321.jpg)
 
-Make sure “rectangular to polar” is checked. Then hit OK and BOOM!
+---
 
-<div class="txt_center">![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134926/1544_step11_4afc5ca363db11.jpg)</div>### Step 12
+### Step 8: Resize the Image
+1. Go to `Image > Image Size` (Ctrl + Alt + I).
+2. Uncheck “Keep proportions.”
+3. Set the height and width to the same value, creating a square image.
 
-Welcome to my world :)
+![Step 8](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134922/1544_step8_4afc5c399f95a1.jpg)
 
-<div class="txt_center">![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134928/1544_step12_4afc5cd9125a91.jpg)</div>### Step 13
+---
 
-This is what i came up with after some cloning work and color corrections.  
-Try it out and show me your results! Good luck!
+### Step 9: Rotate the Image
+1. Rotate the image 180 degrees by navigating to `Image > Image Rotation > 180`.
 
-<div class="txt_center">![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134910/1544_step13_4b015c9938f631.jpg)</div></div>
+![Step 9](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134924/1544_step9_4afc5c5ed0c941.jpg)
+
+---
+
+### Step 10: Apply Polar Coordinates
+1. Go to `Filter > Distort > Polar Coordinates.`
+2. Select “Rectangular to Polar” and click “OK.”
+
+![Step 10](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134925/1544_step10_4afc5c7ad70011.jpg)
+
+---
+
+### Step 11: Enjoy the Transformation
+Marvel at your circular polyorama! Fine-tune as needed.
+
+![Step 11](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134926/1544_step11_4afc5ca363db11.jpg)
+
+---
+
+### Step 12: Add Final Touches
+Clone and color correct the image for a polished look.
+
+![Step 12](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134928/1544_step12_4afc5cd9125a91.jpg)
+
+---
+
+### Step 13: Share Your Results
+Here's the final outcome after finishing touches. Show off your results and enjoy creating!
+
+![Final Image](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/02134910/1544_step13_4b015c9938f631.jpg)
+
+---
+
+

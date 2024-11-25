@@ -18,7 +18,7 @@ Videos are increasingly common on websites nowadays and a great way to create a 
 
 If you don’t have a video yet, the easiest way to find one for your site is to use video stock galleries like [Pixabay](https://pixabay.com/videos/) or [Pexel](https://www.pexels.com/videos/).
 
-<div class="wp-block-image"><figure class="aligncenter">![Pixabay Free Video Stock](https://alvarotrigo.com/blog/assets/imgs/2021-10-27/pixabay-video-stock-free.jpeg)</figure></div>Once you find the one you want to use, you’ll have to download it and upload it to your server (or CDN services like [Cloudinary](https://cloudinary.com/)).
+![Pixabay Free Video Stock](https://alvarotrigo.com/blog/assets/imgs/2021-10-27/pixabay-video-stock-free.jpeg)</figure></div>Once you find the one you want to use, you’ll have to download it and upload it to your server (or CDN services like [Cloudinary](https://cloudinary.com/)).
 
 Once uploaded we have the URL of the video and we can use it in our `<video>` element.
 
@@ -120,7 +120,7 @@ In this example, we first try to load the `webm` video, and if the browser can�
 
 Not all browsers can play all kinds of video formats, see [the compatibility table for each video format](https://caniuse.com/?search=video%20format).[](https://caniuse.com/?search=video%20format)
 
-<div class="wp-block-image"><figure class="aligncenter">[![AVI Format Browser Compatibility](https://alvarotrigo.com/blog/assets/imgs/2021-10-27/video-formats-compatiblity.jpeg)](https://caniuse.com/?search=video%20format)</figure></div>The `mp4` most modern browsers widely accept format, but using alternatives like `webm` can come in handy to save bandwidth too. So, adding both can be a good combination.
+![AVI Format Browser Compatibility](https://alvarotrigo.com/blog/assets/imgs/2021-10-27/video-formats-compatiblity.jpeg)](https://caniuse.com/?search=video%20format)</figure></div>The `mp4` most modern browsers widely accept format, but using alternatives like `webm` can come in handy to save bandwidth too. So, adding both can be a good combination.
 
 If you wonder how to convert from one format to another, you can use any of the online converters. Just Google “mp4 to webm” or “webm to mp4” and you’ll find plenty of converters online.
 
@@ -130,4 +130,3 @@ There’s no excuse to use videos nowadays. Videos in websites are a very powerf
 
 As you could see, you only need a few lines of CSS to set any video as a background. And, if you want to go one step further, you can go full-screen by using components like [fullPage.js](https://alvarotrigo.com/fullPage/). Check out the [video example here](https://alvarotrigo.com/fullPage/examples/videoBackground.html).
 
-[](https://alvarotrigo.com/fullPage/)
