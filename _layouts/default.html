@@ -106,15 +106,15 @@ $(document).ready(function () {
 
       <ul>
 
-      {% for post in site.categories.Code %}
+      {% for post in site.categories.Code limit:3%}
       <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
 
-      {% for post in site.categories.Video %}
+      {% for post in site.categories.Video limit:3%}
       <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
 
-      {% for post in site.categories.Audio %}
+      {% for post in site.categories.Audio limit:3%}
       <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
 
