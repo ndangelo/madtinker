@@ -106,9 +106,12 @@ $(document).ready(function () {
 
 <br/><br/><br/>
 
-<div class="item3">
+ <div class="container">
+    <div class="item3">
 
-        <ul>
+      <!-- {{page.categories | capitalize | join: ', '}}-->
+
+      <ul>
 {% for post in site.categories.Code limit:3 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -140,56 +143,51 @@ $(document).ready(function () {
 {% endfor %}
 </ul>
 </div>
-
-
-<!--
- <ul>
-
-
-  {% for post in site.categories.Code %}
-  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
- {% endfor %}
- 
- {% for post in site.categories.Video %}
-  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
- {% endfor %}
- 
- {% for post in site.categories.Audio %}
-  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
- {% endfor %}
- 
- {% for post in site.categories.Art %}
-  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
- {% endfor %}
- 
- {% for post in site.categories.Projects %}
-  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
- {% endfor %}
- 
- {% for post in site.categories.Design %}
-  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
- {% endfor %}
-</ul>
-
--->
- <!-- {{page.categories | capitalize | join: ', '}}-->
-
- 
-
-  <div class="footer">
-
-    <div><a class="nav">
-
-      <div class="madtinker_main">
-        <a href="https://www.netlify.com">
-          <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Deploys by Netlify" />
-        </a>
-      </div>
-
-    </div>
-
-  </div>
-
 </div>
+     <!-- <ul>
 
 
+
+      {% for post in site.categories.Code %}
+      <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+
+      {% for post in site.categories.Video %}
+      <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+
+      {% for post in site.categories.Audio %}
+      <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+
+      {% for post in site.categories.Art %}
+      <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+
+      {% for post in site.categories.Projects %}
+      <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+
+      {% for post in site.categories.Design %}
+      <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+
+      </ul>
+
+   -->
+
+ </div>
+
+      <div class="footer">
+
+        <div><a class="nav">
+
+          <div class="madtinker_main">
+            <a href="https://www.netlify.com">
+              <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Deploys by Netlify" />
+            </a>
+          </div>
+
+        </div>
+
+      </div>
