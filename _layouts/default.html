@@ -78,13 +78,13 @@ $(document).ready(function () {
       {% capture tag_name %}{{ tag }}{% endcapture %}
       tag: <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">&nbsp;<nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
       {% endfor %}
-      </span>
+      
 </div>
       {{ content }}
 
       <br /><br /><br />
     </div>
-    <div>
+    <div style="margin: 10px; display: flex; flex-wrap: wrap; text-decoration: none;">
 
       <!-- {{page.categories | capitalize | join: ', '}}-->
 
