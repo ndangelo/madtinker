@@ -90,6 +90,8 @@ a:focus {
 .flex-nav .social {
   -webkit-box-flex: 1;
   flex: 1;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 a.nav {
@@ -123,7 +125,7 @@ a:visited {
 
 .container {
   display: flex;
-  justify-content: space-between;
+ /*justify-content: space-between;*/
   flex-wrap: wrap;
 }
 
