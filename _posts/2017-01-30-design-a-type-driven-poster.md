@@ -8,48 +8,52 @@ guid: 'https://www.nuggetofjoy.com/?p=2028'
 permalink: /design-a-type-driven-poster/
 footnotes:
     - ''
-amazonS3_cache:
-    - 'a:6:{s:86:"//www.nuggetofjoy.com/wp-content/uploads/2015/08/2015-09-09-10_52_03-FluPoster.pdf.png";a:2:{s:2:"id";i:1299;s:11:"source_type";s:13:"media-library";}s:107:"//image-control-storage.s3.amazonaws.com/blog-images/2015/08/27193516/2015-09-09-10_52_03-FluPoster.pdf.png";a:2:{s:2:"id";i:1299;s:11:"source_type";s:13:"media-library";}s:88:"//www.nuggetofjoy.com/wp-content/uploads/2015/08/2015-09-09-10_57_02-Hulu-Poster.pdf.png";a:2:{s:2:"id";i:1302;s:11:"source_type";s:13:"media-library";}s:109:"//image-control-storage.s3.amazonaws.com/blog-images/2015/08/27193511/2015-09-09-10_57_02-Hulu-Poster.pdf.png";a:2:{s:2:"id";i:1302;s:11:"source_type";s:13:"media-library";}s:89:"//www.nuggetofjoy.com/wp-content/uploads/2015/08/2015-09-09-10_43_30-Sean-Puzzo-1.pdf.png";a:2:{s:2:"id";i:1300;s:11:"source_type";s:13:"media-library";}s:110:"//image-control-storage.s3.amazonaws.com/blog-images/2015/08/27193514/2015-09-09-10_43_30-Sean-Puzzo-1.pdf.png";a:2:{s:2:"id";i:1300;s:11:"source_type";s:13:"media-library";}}'
 categories:
     - 'DMET 350 MEDIA GRAPHICS AND DESIGN'
 ---
 
 ### DESIGN A TYPE-DRIVEN POSTER
 
-<div class="page" title="Page 114"><div class="layoutArea"><div class="column"><div class="page" title="Page 114"><div class="layoutArea"><div class="column">##### **Step 1**
+#### **Step 1**
 
-Choose from among: flu prevention, wellness (webmd.com or prevention.com or any brand or organization), or a cable television or web channel featuring old films and TV programs (for example, TCM or hulu.com).
+Choose from among:
+- Flu prevention  
+- Wellness (sources: [webmd.com](https://www.webmd.com) or [prevention.com](https://www.prevention.com))  
+- A cable television or web channel featuring old films and TV programs (e.g., TCM or [hulu.com](https://www.hulu.com))
 
-![2015-09-09 10_52_03-FluPoster.pdf](https://image-control-storage.s3.amazonaws.com/blog-images/2015/08/27193516/2015-09-09-10_52_03-FluPoster.pdf.png)
+![Flu Poster Example](https://image-control-storage.s3.amazonaws.com/blog-images/2015/08/27193516/2015-09-09-10_52_03-FluPoster.pdf.png)
 
-![2015-09-09 10_57_02-Hulu Poster.pdf](https://image-control-storage.s3.amazonaws.com/blog-images/2015/08/27193511/2015-09-09-10_57_02-Hulu-Poster.pdf.png)
-
+![Hulu Poster Example](https://image-control-storage.s3.amazonaws.com/blog-images/2015/08/27193511/2015-09-09-10_57_02-Hulu-Poster.pdf.png)
 
 **Research your subject.**
 
-- On the d2l dropbox — submit, in one sentence, write your objective.
-- Define<span style="line-height: 1.5;"> the purpose and function of the poster, the audience, and the information to be communicated.</span>
+1. Submit your objective in one sentence via the d2l dropbox.  
+2. Define the purpose and function of the poster, the target audience, and the key information to be communicated.  
 
-<span style="line-height: 1.5;">  
-</span>For flu prevention or health and wellness, find one interesting fact and write one line of copy using this information as your headline. Or if you’ve chosen the other subject, choose one famous line from a classic film or TV program to use as your headline—for example, “Of all the gin joints in all the towns in all the world, she walks into mine.”
+For flu prevention or health and wellness, find an interesting fact and use it as your headline.  
+For a film/TV subject, choose a famous line from a classic work, e.g., *“Of all the gin joints in all the towns in all the world, she walks into mine.”*
 
-##### **Step 2**
+---
 
-1. Find typefaces that express the spirit of the subject. Or use handmade or found type or a combination of handmade and a typeface.
-2. Design a poster that is type driven—that is, the type is the star of the poster. If you use any image, it should play a secondary role to the type-driven headline.
-3. Produce at least twenty sketches.
+#### **Step 2**
 
-![2015-09-09 10_43_30-Sean Puzzo 1.pdf](https://image-control-storage.s3.amazonaws.com/blog-images/2015/08/27193514/2015-09-09-10_43_30-Sean-Puzzo-1.pdf.png)
+1. Select typefaces that reflect the essence of your subject. Consider handmade or found typefaces, or a mix of both.  
+2. Design a **type-driven** poster where typography is the central element. Any imagery should play a secondary role.  
+3. Create at least **20 sketches**.
 
-##### **Step 3**
+![Sketch Example](https://image-control-storage.s3.amazonaws.com/blog-images/2015/08/27193514/2015-09-09-10_43_30-Sean-Puzzo-1.pdf.png)
 
-1. Choose two of your best sketches and refine them.
-2. Establish emphasis through a visual hierarchy.
-3. Carefully examine the spacing between letters, among words, and between lines of type.
+---
 
-##### **Step 4**
+#### **Step 3**
 
-- Create a finished solution.
-- The poster can be designed in a portrait or landscape orientation.
+1. Refine your two best sketches.  
+2. Use visual hierarchy to emphasize key elements.  
+3. Ensure proper spacing between letters, words, and lines.
 
-</div></div></div></div></div></div>
+---
+
+#### **Step 4**
+
+- Produce the final design solution.  
+- Your poster may have either a portrait or landscape orientation.  
