@@ -73,13 +73,13 @@ $(document).ready(function () {
 
     <div class="container">
 
-   
+   <div class="item2"></div>
       {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
       tag: <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">&nbsp;<nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
       {% endfor %}
       </span>
-
+</div>
       {{ content }}
 
       <br /><br /><br />
