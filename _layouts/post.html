@@ -84,14 +84,12 @@ $(document).ready(function () {
 	{% else %}
 		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
 
+<div class="item2">
 	{% endif %}
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
   <br><br>
 
-<!--{% if post.tags.size > 0 %}
-  Tag{% if post.tags.size > 1 %}s{% endif %}:
-  {{ post.tags | sort | join: ", " }}
-  {% endif %}-->
+
 
 <span>
     {% for tag in page.tags %}
@@ -99,7 +97,7 @@ $(document).ready(function () {
       tag:<a href="/tag/{{ tag_name }}">&nbsp;<code class="highligher-rouge" >{{ tag_name }}</code>&nbsp;</a>
     {% endfor %}
   </span>
-
+</div>
 
 	<div class="post-content">{{ content }}</div><br/><br/><br/>
 
