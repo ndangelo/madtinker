@@ -107,7 +107,7 @@ a:focus {
 a.nav {
   text-decoration: none;
   text-transform: uppercase;
-  color: lightblue;
+  color: rgb(4, 72, 95);
 }
 
 a.nav:hover {
