@@ -4,7 +4,7 @@ title:  "Art"
 categories: [Art]
 tags: art
 ---
-
+<div class="item2">
 <ul>
   {% for post in site.categories.Art %}
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
@@ -14,3 +14,4 @@ tags: art
     
   {% endfor %}
 
+</div>
