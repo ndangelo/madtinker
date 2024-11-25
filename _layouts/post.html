@@ -105,6 +105,42 @@ $(document).ready(function () {
 </div>
 
 <div class="container">
+
+        <ul>
+{% for post in site.categories.Code limit:3 %}
+    <li><a href="{{ post.url }}">{{ post.title}}</a>
+    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </li>
+{% endfor %}
+
+{% for post in site.categories.Art limit:3 %}
+    <li><a href="{{ post.url }}">{{ post.title}}</a>
+    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </li>
+{% endfor %}
+
+{% for post in site.categories.Design limit:3 %}
+    <li><a href="{{ post.url }}">{{ post.title}}</a>
+    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </li>
+{% endfor %}
+
+{% for post in site.categories.Code limit:3 %}
+    <li><a href="{{ post.url }}">{{ post.title}}</a>
+    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </li>
+{% endfor %}
+
+{% for post in site.categories.Project limit:3 %}
+    <li><a href="{{ post.url }}">{{ post.title}}</a>
+    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </li>
+{% endfor %}
+</ul>
+</div>
+
+
+<!--
  <ul>
 
 
@@ -132,6 +168,8 @@ $(document).ready(function () {
   <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
  {% endfor %}
 </ul>
+
+-->
  <!-- {{page.categories | capitalize | join: ', '}}-->
 </div>
  
