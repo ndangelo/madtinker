@@ -29,8 +29,8 @@ nav a {
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
-  padding-left: 50px;
-  padding-right: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 nav a:hover,
