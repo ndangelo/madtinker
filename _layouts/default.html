@@ -8,9 +8,20 @@
   <title>Flex Layout Examples</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+
+  <style type="text/css">
+
+     .list {
+
+    margin: 10px; 
+    display: flex; 
+    flex-wrap: wrap; 
+    text-decoration: none;
+
+  }
   
   </style>
-  
+
   <script>
     $(function () {
   $(".toggleNav").on("click", function () {
@@ -84,7 +95,7 @@ $(document).ready(function () {
 
       <br /><br /><br />
     </div>
-    <div style="margin: 10px; display: flex; flex-wrap: wrap; text-decoration: none;">
+    <div class="list">
 
       <!-- {{page.categories | capitalize | join: ', '}}-->
 
