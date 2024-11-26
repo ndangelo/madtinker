@@ -91,9 +91,10 @@ $(document).ready(function () {
   <br><br>
 
 </div>
-
+ <br/><br/><br/>
+<div class="item2">
 <span>
-    {% for tag in page.categories %}
+    {% for tag in page.tag %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
       tag:<a href="/tag/{{ tag_name }}">&nbsp;<code class="highligher-rouge" >{{ tag_name }}</code>&nbsp;</a>
     {% endfor %}

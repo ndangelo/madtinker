@@ -8,11 +8,13 @@ guid: 'https://www.nuggetofjoy.com/?p=1058'
 permalink: /composition-the-foundation-of-everything/
 classic-editor-remember:
     - classic-editor
-amazonS3_cache:
-    - 'a:14:{s:61:"//www.nuggetofjoy.com/wp-content/uploads/2015/03/Dominant.jpg";a:2:{s:2:"id";i:1067;s:11:"source_type";s:13:"media-library";}s:70:"//www.nuggetofjoy.com/wp-content/uploads/2015/03/Dominant-1024x559.jpg";a:2:{s:2:"id";i:1067;s:11:"source_type";s:13:"media-library";}s:82:"//image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194209/Dominant.jpg";a:2:{s:2:"id";i:1067;s:11:"source_type";s:13:"media-library";}s:91:"//image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194209/Dominant-1024x559.jpg";a:2:{s:2:"id";i:1067;s:11:"source_type";s:13:"media-library";}s:57:"//www.nuggetofjoy.com/wp-content/uploads/2015/03/ment.jpg";a:2:{s:2:"id";i:1060;s:11:"source_type";s:13:"media-library";}s:78:"//image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194501/ment.jpg";a:2:{s:2:"id";i:1060;s:11:"source_type";s:13:"media-library";}s:58:"//www.nuggetofjoy.com/wp-content/uploads/2015/03/basic.jpg";a:2:{s:2:"id";i:1061;s:11:"source_type";s:13:"media-library";}s:79:"//image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194458/basic.jpg";a:2:{s:2:"id";i:1061;s:11:"source_type";s:13:"media-library";}s:64:"//www.nuggetofjoy.com/wp-content/uploads/2015/03/NonDominant.jpg";a:2:{s:2:"id";i:1068;s:11:"source_type";s:13:"media-library";}s:73:"//www.nuggetofjoy.com/wp-content/uploads/2015/03/NonDominant-1024x559.jpg";a:2:{s:2:"id";i:1068;s:11:"source_type";s:13:"media-library";}s:85:"//image-control-storage.s3.amazonaws.com/blog-images/2015/03/27193918/NonDominant.jpg";a:2:{s:2:"id";i:1068;s:11:"source_type";s:13:"media-library";}s:94:"//image-control-storage.s3.amazonaws.com/blog-images/2015/03/27193918/NonDominant-1024x559.jpg";a:2:{s:2:"id";i:1068;s:11:"source_type";s:13:"media-library";}s:57:"//www.nuggetofjoy.com/wp-content/uploads/2015/03/grid.jpg";a:2:{s:2:"id";i:1059;s:11:"source_type";s:13:"media-library";}s:78:"//image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194503/grid.jpg";a:2:{s:2:"id";i:1059;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'Design Instruction'
     - 'DMET 350 MEDIA GRAPHICS AND DESIGN'
+
+tag:
+    - 'design'
 ---
 
 ### PROJECT: Composition
