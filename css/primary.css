@@ -242,7 +242,11 @@ h2 a {
     color: #0f507f;
   }
 
-
+ nav ul li {
+    margin-left: 1em;
+    color: #0f507f;
+  
+ }
 
 
 /* Core */
