@@ -22,7 +22,7 @@ print_hi('Tom')
 
 Center Flex
 
-{% highlight css linenos%}
+{% highlight css %}
 .navbar {
     text-align:center;
     width: 100%;
@@ -38,7 +38,7 @@ Center Flex
 }
 {% endhighlight %}
 
-{% highlight css linenos%}
+{% highlight css %}
 
     .text-example {
         display: flex;

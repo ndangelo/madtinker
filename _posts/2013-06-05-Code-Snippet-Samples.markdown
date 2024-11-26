@@ -8,7 +8,7 @@ tags: code
 
 ---
 
-{% highlight ruby linenos %}
+{% highlight ruby %}
 def foo
   puts 'foo'
 end
@@ -18,7 +18,7 @@ end
 
 
 
-{% highlight css linenos %}
+{% highlight css %}
 * {
   border: 2px solid red;
 }
