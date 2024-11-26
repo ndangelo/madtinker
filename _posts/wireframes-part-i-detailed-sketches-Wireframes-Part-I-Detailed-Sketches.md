@@ -8,8 +8,7 @@ guid: 'https://www.nuggetofjoy.com/?p=1054'
 permalink: /wireframes-part-i-detailed-sketches/
 category_sticky_post:
     - '0'
-amazonS3_cache:
-    - 'a:6:{s:61:"//www.nuggetofjoy.com/wp-content/uploads/2015/03/sitemap.jpeg";a:2:{s:2:"id";i:1056;s:11:"source_type";s:13:"media-library";}s:70:"//www.nuggetofjoy.com/wp-content/uploads/2015/03/sitemap-1024x910.jpeg";a:2:{s:2:"id";i:1056;s:11:"source_type";s:13:"media-library";}s:82:"//image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194508/sitemap.jpeg";a:2:{s:2:"id";i:1056;s:11:"source_type";s:13:"media-library";}s:91:"//image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194508/sitemap-1024x910.jpeg";a:2:{s:2:"id";i:1056;s:11:"source_type";s:13:"media-library";}s:79:"//www.nuggetofjoy.com/wp-content/uploads/2015/03/sample_sketched_wireframes.jpg";a:2:{s:2:"id";i:1055;s:11:"source_type";s:13:"media-library";}s:100:"//image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194616/sample_sketched_wireframes.jpg";a:2:{s:2:"id";i:1055;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET 375 IMAGING TECHNOLOGY'
 ---

@@ -6,8 +6,7 @@ author: admin
 layout: post
 guid: 'http://caldwell.ndangelo.com/?p=3627'
 permalink: '/?p=3750'
-amazonS3_cache:
-    - 'a:4:{s:106:"//www.nuggetofjoy.com/wp-content/uploads/2016/09/10-Essential-InDesign-Skills-by-InDesignSkills_2_a-68.jpg";a:2:{s:2:"id";s:4:"3888";s:11:"source_type";s:13:"media-library";}s:127:"//image-control-storage.s3.amazonaws.com/blog-images/2016/09/27190401/10-Essential-InDesign-Skills-by-InDesignSkills_2_a-68.jpg";a:2:{s:2:"id";s:4:"3888";s:11:"source_type";s:13:"media-library";}s:105:"//www.nuggetofjoy.com/wp-content/uploads/2016/09/10-Essential-InDesign-Skills-by-InDesignSkills2_b-68.jpg";a:2:{s:2:"id";s:4:"3889";s:11:"source_type";s:13:"media-library";}s:126:"//image-control-storage.s3.amazonaws.com/blog-images/2016/09/27190359/10-Essential-InDesign-Skills-by-InDesignSkills2_b-68.jpg";a:2:{s:2:"id";s:4:"3889";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'Design Instruction'
     - InDesign

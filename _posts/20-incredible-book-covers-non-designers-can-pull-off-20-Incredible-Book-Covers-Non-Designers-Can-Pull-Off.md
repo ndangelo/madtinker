@@ -10,6 +10,8 @@ category_sticky_post:
     - '0'
 categories:
     - Supplementary
+tag:
+    - design
 ---
 
 <header class="header-page"><div class="row"><div class="col7"><div class="author-wrapper--banner"><div class="author-thumb-wrapper--banner">[![Claudia Pickering]()](https://www.canva.com/learn/author/pickclaud/)</div><div class="author-info-wrapper--banner"><span class="author">[Claudia Pickering](https://www.canva.com/learn/author/pickclaud/ "Posts by Claudia Pickering")</span></div></div></div></div><div class="row banner-wrapper"><div class="col12"><div class="banner-post"><figure><picture><source media="(min-width: 768px)" srcset="https://www.canva.com/learn/wp-content/uploads/2016/07/book-COVERS-1-tb-962x0.png , https://www.canva.com/learn/wp-content/uploads/2016/07/book-COVERS-1-tb-1924x0.png 2x"><source media="(min-width: 0px)" srcset="https://www.canva.com/learn/wp-content/uploads/2016/07/book-COVERS-1-tb-762x0.png , https://www.canva.com/learn/wp-content/uploads/2016/07/book-COVERS-1-tb-1524x0.png 2x">![book COVERS (1)]( "book COVERS (1)")</source></source></picture></figure></div></div></div></header><article class="post-25561 post type-post status-publish format-standard has-post-thumbnail hentry category-how-to-design-book-covers" id="post-25561"><div class="wrapper-content-article"><div class="row"><div class="col7">*Judging books by their covers isn’t an uncommon thing.*
