@@ -14,13 +14,16 @@ def foo
 end
 {% endhighlight %}
 
----
+
 
 
 
 {% highlight css %}
+
 * {
   border: 2px solid red;
 }
 
 {% endhighlight %}
+
+---

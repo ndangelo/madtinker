@@ -85,7 +85,8 @@ $(document).ready(function () {
 	{% else %}
 		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
 
-<div class="item2">
+    
+
 	{% endif %}
 	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
   <br><br>
@@ -94,7 +95,7 @@ $(document).ready(function () {
 
 
  <br/><br/><br/>
-<div class="item2">
+<div class="container">
 <span>
     {% for tag in page.tag %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
@@ -106,12 +107,11 @@ $(document).ready(function () {
 	<div class="post-content">{{ content }}</div><br/><br/><br/>
 
  <br/><br/><br/>
-
+</div> 
 
 
 
  <div class="container">
-    <div class="item2">
 
       <!-- {{page.categories | capitalize | join: ', '}}-->
 
