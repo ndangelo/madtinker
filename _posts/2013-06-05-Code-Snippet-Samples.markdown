@@ -18,7 +18,7 @@ end
 
 
 
-{% highlight css %}
+``` css
 
 * {
   border: 2px solid red;
@@ -26,4 +26,4 @@ end
 
 {% endhighlight %}
 
----
+```
