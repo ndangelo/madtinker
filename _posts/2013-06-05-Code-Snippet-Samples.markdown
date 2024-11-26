@@ -18,12 +18,12 @@ end
 
 
 
-``` css
 
+{% highlight css %}
 * {
   border: 2px solid red;
 }
 
 {% endhighlight %}
 
-```
+
