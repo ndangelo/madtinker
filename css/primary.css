@@ -219,14 +219,20 @@ img {
   margin: 0 auto;
 }
 
-h1 a {
-  margin-left: 20px;
-  color: #2a7da1;
+h1 {
+  font-size: 1.5em;
+  color: #799f52;
 }
 
-h2 a{
-    margin-left: 18px;
-    color: red;
+h1 a {
+  font-size: 1.5em;
+  
+  color: #799f52;
+}
+
+h2 a {
+    margin-left: 1em;
+    color: #0f507f;
   }
 
 
