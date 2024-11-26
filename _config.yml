@@ -11,4 +11,3 @@ highlighter: rouge
 baseurl: /
 
 markdown: redcarpet
-highlighter: rouge
