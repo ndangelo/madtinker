@@ -242,9 +242,15 @@ h2 a {
     color: #0f507f;
   }
 
- nav ul li {
+ nav ul li a {
     margin-left: 1em;
     color: #0f507f;
+
+ }
+
+  nav ul li:hover {
+    margin-left: 1em;
+    color: pink;
   
  }
 
@@ -309,9 +315,6 @@ code {
   padding: 0 0.5em;
 }
 
-@media (min-width: 768px) {
-  pre, code { font-size: 16px; }
-}
 
 .highlight,
 a > code,
