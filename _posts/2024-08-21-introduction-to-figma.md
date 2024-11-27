@@ -16,6 +16,10 @@ enclosure:
     - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_11.mp4\n724025\nvideo/mp4\n"
 categories:
     - UI/UX
+
+tag:
+    - UI
+    - IA
 ---
 
 From: Figma 101: Design an App Screen. (n.d.). Retrieved from https://designlab.com/figma-101-course/design-an-app-screen

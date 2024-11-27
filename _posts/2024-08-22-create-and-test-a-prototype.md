@@ -17,6 +17,10 @@ enclosure:
     - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D5_11.mp4\n990020\nvideo/mp4\n"
 categories:
     - Projects
+
+tag:     
+    - UI
+    - IA
 ---
 
 From: Figma 101: Create and Test a Prototype. (n.d.). Retrieved from https://designlab.com/figma-101-course/create-and-test-a-prototype

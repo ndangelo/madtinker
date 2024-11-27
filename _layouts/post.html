@@ -86,7 +86,7 @@ $(document).ready(function () {
 <span>
     {% for tag in page.tag %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
-      tag:<a href="/tag/{{ tag_name }}">&nbsp;<code class="highligher-rouge" >{{ tag_name }}</code>&nbsp;</a>
+      tag:<a href="/tag/{{ tag_name }}">&nbsp;{{ tag_name }}&nbsp;</a>
     {% endfor %}
   </span>
 

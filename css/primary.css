@@ -237,18 +237,24 @@ h1 a {
   color: #799f52;
 }
 
+h2 {
+    
+    color: #0f507f;
+  }
+
+
 h2 a {
     margin-left: 1em;
     color: #0f507f;
   }
 
- nav ul li a {
+nav ul li a {
     margin-left: 1em;
     color: #0f507f;
 
  }
 
-  nav ul li:hover {
+nav ul li:hover {
     margin-left: 1em;
     color: pink;
   
@@ -304,7 +310,7 @@ body {
 }
 
 
-/* Code Highlighting */
+/* Code Highlighting 
 
 pre,
 code {
@@ -392,7 +398,7 @@ code {
 }
 .highlight .ss {
   color: #90a959;
-}
+}*/
 
 
 @media screen and (max-width: 850px) {

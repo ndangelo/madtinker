@@ -9,6 +9,10 @@ permalink: /common-css-flexbox-layout-patterns-with-example-code/
 
 categories:
     - Projects
+
+tag:
+    - UI
+    - IA
 ---
 
 Source: <https://tobiasahlin.com/blog/common-flexbox-patterns>

@@ -8,6 +8,9 @@ guid: 'https://www.nuggetofjoy.com/?p=66502'
 permalink: /ux-ui-design-brief-7-redesigning-renault-outdated-website/
 categories:
     - Projects
+
+tag:
+    - UI
 ---
 
 Pedzai, C. (2024). UX/UI design brief #7: Redesigning Renault outdated website (plus free pdf). Retrieved from https://uxdesignmastery.com/ux-ui-design-brief-7-redesigning-renault-outdated-website-plus-free-pdf/
