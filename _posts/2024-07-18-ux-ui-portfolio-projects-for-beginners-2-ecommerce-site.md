@@ -73,25 +73,25 @@ Create a responsive eCommerce website that can:
 
 Young males and females, aged 25–35.
 
-
-<img src="https://cdn-images-1.medium.com/max/1200/1*TTDaSQWVhHgFYVji9b2Ckg.png")>
+<div style="width: 100%; display: flex; justify-content: center;"
+<img width="200px" src="https://cdn-images-1.medium.com/max/1200/1*TTDaSQWVhHgFYVji9b2Ckg.png")>
 
 **Blake, 31**  
 
     PAIN POINT: Faster way of discovering products when searching.
 
 
-<img src="https://cdn-images-1.medium.com/max/1200/1*tHWEY5lwF41Aqbfckp68MA.png">
+<img width="200px" src="https://cdn-images-1.medium.com/max/1200/1*tHWEY5lwF41Aqbfckp68MA.png">
 
    **Sarah, 26**  
     PAIN POINT: Can I change the quantity of the products I add to the cart?<
 
-<img src="https://cdn-images-1.medium.com/max/1200/1*7VxS5eT0tlkFAp6wnl2qYg.png">
+<img width="200px" src="https://cdn-images-1.medium.com/max/1200/1*7VxS5eT0tlkFAp6wnl2qYg.png">
 
    **Crystal, 28**  
     PAIN POINT: How do I know these products are worth purchasing and reliable?
 
-
+</div>
 
 ### References
 
