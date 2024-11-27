@@ -72,18 +72,7 @@ $(document).ready(function () {
         <li><a href="https://madtinker.net/tag/project" class="menus-title" title="Contact">Projects</a></li>
         <li><a href="https://madtinker.net/categories" class="menus-title" title="Categories">Categories</a></li>
 
-     <!--   <li class="social">
-          <a href="h#" title="Twitter"><i class="fa fa-twitter"></i></a>
-        </li>
-        <li class="social">
-          <a href="#" title="Dribbble"><i class="fa fa-dribbble"></i></a>
-        </li>
-        <li class="social">
-          <a href="#" title="GitHub"><i class="fa fa-github"></i></a>
-        </li>
-        <li class="social">
-          <a href="#" title="Instagram"><i class="fa fa-instagram"></i></a>
-        </li>-->
+
       </ul>
     </nav>
 
@@ -95,7 +84,7 @@ $(document).ready(function () {
    <div class="item2">
       {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
-      tag: <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">&nbsp;<nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+      tag: <a href="/tag/{{ tag_name }}">&nbsp;<nobr>{{ tag_name }}</nobr>&nbsp;</a>
       {% endfor %}
       
 </div>
@@ -110,31 +99,31 @@ $(document).ready(function () {
       <!-- {{page.categories | capitalize | join: ', '}}-->
 
       <ul>
-{% for post in site.categories.Code limit:3 %}
+{% for post in site.categories.Code limit:6 %}
+    <li><a href="{{ post.url }}">{{ post.title}}</a>
+    <span class="postDate">Posted on: &nbsp;{{ post.date | date: "%b %-d, %Y" }}</span>
+    </li>
+{% endfor %}
+
+{% for post in site.categories.Art limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
 {% endfor %}
 
-{% for post in site.categories.Art limit:3 %}
+{% for post in site.categories.Design limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
 {% endfor %}
 
-{% for post in site.categories.Design limit:3 %}
+{% for post in site.categories.Code limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
 {% endfor %}
 
-{% for post in site.categories.Code limit:3 %}
-    <li><a href="{{ post.url }}">{{ post.title}}</a>
-    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
-    </li>
-{% endfor %}
-
-{% for post in site.categories.Project limit:3 %}
+{% for post in site.categories.Project limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
