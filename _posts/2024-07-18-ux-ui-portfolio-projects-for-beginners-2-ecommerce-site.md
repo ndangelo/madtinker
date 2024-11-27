@@ -15,7 +15,7 @@ tags:
 
 Source: Pedzai, C. (2024). *UX/UI portfolio projects for beginners #2: eCommerce site*. Retrieved from [UX Design Mastery](https://uxdesignmastery.com/ux-ui-portfolio-projects-for-beginners-2-ecommerce-site/)
 
----
+
 
 ## E-Commerce Website Project
 
@@ -25,7 +25,7 @@ Source: Pedzai, C. (2024). *UX/UI portfolio projects for beginners #2: eCommerce
     ![Adidas](https://cdn-images-1.medium.com/max/1600/1*F2tbJtCwNG64AtKh3TcesA.png)
 
     <figcaption class="wp-element-caption">[Ecommerce project by Calvin Pedzai](https://dribbble.com/calvinpedzai)</figcaption>
-    
+
   </figure>
 </div>
 
