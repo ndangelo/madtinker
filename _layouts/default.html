@@ -108,14 +108,17 @@ $(document).ready(function () {
     </li>
 {% endfor %}
 
-<h2>Art</h2>
+</ul>
 
+<h2>Art</h2>
+<ul>
 {% for post in site.categories.art limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
 {% endfor %}
 
+</ul>
 <h2>Design</h2>
 
 {% for post in site.categories.design limit:6 %}
