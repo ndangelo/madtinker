@@ -13,6 +13,9 @@ categories:
     - 'DMET 375 IMAGING TECHNOLOGY'
     - 'Interactive and Social Media'
     - 'Design'
+
+tag: 
+    - design
 ---
 
 ## VISUAL IDENTITY
@@ -21,7 +24,9 @@ This project calls for a comprehensive visual identity—from its marketing stra
 
 You will need to establish the same basic color **“swatches**” to use with your logo’s. You will establish the color scheme while making your style tile. You will use these colors in the next branding phase.
 
-<div class="wp-block-image"><figure class="aligncenter">![](https://image-control-storage.s3.amazonaws.com/blog-images/2015/09/27193518/4905372858102032.png)</figure></div>### Helps You Develop Great Logo Designs
+<div class="wp-block-image"><figure class="aligncenter">![](https://image-control-storage.s3.amazonaws.com/blog-images/2015/09/27193518/4905372858102032.png)</figure></div>
+
+### Helps You Develop Great Logo Designs
 
 Check out the infographic below to discover how you can use grids to make impressive logos.
 
