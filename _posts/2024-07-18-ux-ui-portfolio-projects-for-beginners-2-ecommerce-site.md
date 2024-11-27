@@ -21,12 +21,15 @@ Source: Pedzai, C. (2024). *UX/UI portfolio projects for beginners #2: eCommerce
 
 <div class="wp-block-image">
   <figure class="aligncenter">
+
     ![Adidas](https://cdn-images-1.medium.com/max/1600/1*F2tbJtCwNG64AtKh3TcesA.png)
+
     <figcaption class="wp-element-caption">[Ecommerce project by Calvin Pedzai](https://dribbble.com/calvinpedzai)</figcaption>
+    
   </figure>
 </div>
 
----
+
 
 ### Design Portfolio Project: E-Commerce Website
 
@@ -36,7 +39,7 @@ Choose any clothing brand of your liking.
 **Timeline**  
 2 weeks.
 
----
+
 
 ### Objectives
 
@@ -50,7 +53,7 @@ Create a responsive eCommerce website that can:
 - Provide the ability to search through content.
 - Immerse the user into the ethos of the brand.
 
----
+
 
 ### **Platform**
 
@@ -69,7 +72,7 @@ Create a responsive eCommerce website that can:
 - Optimize page performance (loading time).  
 - Account for limited screen sizes on mobile devices.
 
----
+
 
 ### Target Audience
 
