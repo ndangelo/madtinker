@@ -46,7 +46,7 @@ nav {
 
 }
 
-/* start nav 
+start nav 
 nav a {
   font-family: 'Montserrat', sans-serif;
   color: #434445;
@@ -63,7 +63,7 @@ nav a {
   transition: all 0.5s;
 
 }
-
+/* 
 nav a:hover,
 a:focus {
   text-decoration: underline;
@@ -110,13 +110,13 @@ a:hover {
   width: 100%;
   position: fixed;
   top: 0;
+  left: 0;
   height: auto;
   background-color: #fff;
   z-index: 999999999;
   border-bottom: solid 2px rgb(4, 42, 55);
   padding-bottom: 20px;
-  margin-left: 50px;
-  margin-right: 50px;
+
 
 }
 
