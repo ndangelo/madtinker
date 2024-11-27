@@ -46,7 +46,7 @@ nav {
 
 }
 
-/* start nav 
+
 nav a {
   font-family: 'Montserrat', sans-serif;
   color: #434445;
@@ -69,7 +69,7 @@ a:focus {
   text-decoration: underline;
 }*/
 
-/*a.nav {
+a.nav {
   text-decoration: none;
   text-transform: uppercase;
   color: rgb(4, 72, 95);
@@ -79,7 +79,7 @@ a.nav:hover {
   text-decoration: none;
   text-transform: uppercase;
   color: coral;
-}*/
+}
 
 a {
     color: green;
