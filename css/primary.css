@@ -146,11 +146,13 @@ a:hover {
 .flex-nav li a {
   font-size: 1em;
   color: rgb(25, 77, 109);
+  padding: 10px;
 }
 
 .flex-nav li a:hover,
 .flex-nav li a:focus {
   color: #222;
+    padding: 10px;
 }
 
 
