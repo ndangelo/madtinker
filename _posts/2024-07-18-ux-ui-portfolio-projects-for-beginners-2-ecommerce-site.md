@@ -23,7 +23,7 @@ Source: Pedzai, C. (2024). *UX/UI portfolio projects for beginners #2: eCommerce
 
 ![Adidas](https://cdn-images-1.medium.com/max/1600/1*F2tbJtCwNG64AtKh3TcesA.png)
 
-![Ecommerce project by Calvin Pedzai](https://dribbble.com/calvinpedzai)
+[Ecommerce project by Calvin Pedzai](https://dribbble.com/calvinpedzai)
 
 
 
