@@ -98,32 +98,41 @@ $(document).ready(function () {
 
       <!-- {{page.categories | capitalize | join: ', '}}-->
 
+ 
+
       <ul>
-{% for post in site.categories.Code limit:6 %}
+         <h2>Code</h2>
+{% for post in site.tag.Code limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">Posted on: &nbsp;{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
 {% endfor %}
 
-{% for post in site.categories.Art limit:6 %}
+<h2>Art</h2>
+
+{% for post in site.tag.art limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
 {% endfor %}
 
-{% for post in site.categories.Design limit:6 %}
+<h2>Design</h2>
+
+{% for post in site.categories.design limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
 {% endfor %}
 
-{% for post in site.categories.Code limit:6 %}
+<h2>Code</h2>
+
+{% for post in site.tag.UI limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
 {% endfor %}
 
-{% for post in site.categories.Project limit:6 %}
+{% for post in site.categories.project limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
