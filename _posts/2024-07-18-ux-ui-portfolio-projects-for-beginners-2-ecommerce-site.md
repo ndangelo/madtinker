@@ -19,15 +19,11 @@ Source: Pedzai, C. (2024). *UX/UI portfolio projects for beginners #2: eCommerce
 
 ## E-Commerce Website Project
 
-<div class="wp-block-image">
-  <figure class="aligncenter">
+
 
     ![Adidas](https://cdn-images-1.medium.com/max/1600/1*F2tbJtCwNG64AtKh3TcesA.png)
 
-    <figcaption class="wp-element-caption">[Ecommerce project by Calvin Pedzai](https://dribbble.com/calvinpedzai)</figcaption>
-
-  </figure>
-</div>
+    ![Ecommerce project by Calvin Pedzai](https://dribbble.com/calvinpedzai)
 
 
 
@@ -60,12 +56,11 @@ Create a responsive eCommerce website that can:
 - Design for responsive web.
 - Deliver screens for desktop, tablet, and mobile devices.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large">
+
     ![Screens](https://image-control-storage.s3.amazonaws.com/2024/07/20124114/image-171-1024x582.png)
-    <figcaption class="wp-element-caption">What should be delivered</figcaption>
-  </figure>
-</div>
+
+
+
 
 **Limitations/Specifications**  
 
@@ -78,29 +73,21 @@ Create a responsive eCommerce website that can:
 
 Young males and females, aged 25–35.
 
-<div class="wp-block-image">
-  <figure class="aligncenter">
-    ![Blake](https://cdn-images-1.medium.com/max/1200/1*TTDaSQWVhHgFYVji9b2Ckg.png)
-    <figcaption class="wp-element-caption">**Blake, 31**  
-    PAIN POINT: Faster way of discovering products when searching.</figcaption>
-  </figure>
-</div>
 
-<div class="wp-block-image">
-  <figure class="aligncenter">
-    ![Sarah](https://cdn-images-1.medium.com/max/1200/1*tHWEY5lwF41Aqbfckp68MA.png)
-    <figcaption class="wp-element-caption">**Sarah, 26**  
-    PAIN POINT: Can I change the quantity of the products I add to the cart?</figcaption>
-  </figure>
-</div>
+![Blake](https://cdn-images-1.medium.com/max/1200/1*TTDaSQWVhHgFYVji9b2Ckg.png)
 
-<div class="wp-block-image">
-  <figure class="aligncenter">
-    ![Crystal](https://cdn-images-1.medium.com/max/1200/1*7VxS5eT0tlkFAp6wnl2qYg.png)
-    <figcaption class="wp-element-caption">**Crystal, 28**  
-    PAIN POINT: How do I know these products are worth purchasing and reliable?</figcaption>
-  </figure>
-</div>
+**Blake, 31**  
+
+    PAIN POINT: Faster way of discovering products when searching.
+
+
+![Sarah](https://cdn-images-1.medium.com/max/1200/1*tHWEY5lwF41Aqbfckp68MA.png)
+   **Sarah, 26**  
+    PAIN POINT: Can I change the quantity of the products I add to the cart?<
+
+![Crystal](https://cdn-images-1.medium.com/max/1200/1*7VxS5eT0tlkFAp6wnl2qYg.png)
+   **Crystal, 28**  
+    PAIN POINT: How do I know these products are worth purchasing and reliable?
 
 ---
 
@@ -108,34 +95,21 @@ Young males and females, aged 25–35.
 
 Conduct research on these eCommerce websites for inspiration:
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large">
-    ![Never Fail](https://image-control-storage.s3.amazonaws.com/2024/07/20130124/Screenshot-by-Dropbox-Capture-8-1024x624.png)
-    <figcaption class="wp-element-caption">[Never Fail](https://www.neverfail.com.au/)</figcaption>
-  </figure>
-</div>
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large">
-    ![Hawk](https://image-control-storage.s3.amazonaws.com/2024/07/20130244/Screenshot-by-Dropbox-Capture-9-1024x667.png)
-    <figcaption class="wp-element-caption">[Gertrude Hawk](https://gertrudehawkchocolates.com/)</figcaption>
-  </figure>
-</div>
+![Never Fail](https://image-control-storage.s3.amazonaws.com/2024/07/20130124/Screenshot-by-Dropbox-Capture-8-1024x624.png)
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large">
-    ![Shoe](https://image-control-storage.s3.amazonaws.com/2024/07/20130400/Screenshot-by-Dropbox-Capture-11-1024x670.png)
-    <figcaption class="wp-element-caption">[Shoebacca](https://www.shoebacca.com/)</figcaption>
-  </figure>
-</div>
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large">
-    ![Cat](https://image-control-storage.s3.amazonaws.com/2024/07/20130501/Screenshot-by-Dropbox-Capture-12-1024x667.png)
-    <figcaption class="wp-element-caption">[Catbird NYC](https://www.catbirdnyc.com/)</figcaption>
-  </figure>
-</div>
 
+![Hawk](https://image-control-storage.s3.amazonaws.com/2024/07/20130244/Screenshot-by-Dropbox-Capture-9-1024x667.png)
+    [Gertrude Hawk](https://gertrudehawkchocolates.com/)
+
+
+![Shoe](https://image-control-storage.s3.amazonaws.com/2024/07/20130400/Screenshot-by-Dropbox-Capture-11-1024x670.png)
+  [Shoebacca](https://www.shoebacca.com/)
+
+
+![Cat](https://image-control-storage.s3.amazonaws.com/2024/07/20130501/Screenshot-by-Dropbox-Capture-12-1024x667.png)
+    [Catbird NYC](https://www.catbirdnyc.com/)
 ---
 
 ## Deliverables
@@ -149,7 +123,7 @@ Conduct research on these eCommerce websites for inspiration:
 - **Fonts & Colors:**  
   Align with the chosen brand's identity.
 
----
+
 
 ### Additional Notes
 
