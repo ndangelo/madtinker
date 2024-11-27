@@ -55,7 +55,7 @@ $(document).ready(function () {
 <body>
   <div class="top hr-main">
     <div class="logo">
-      <img src="https://madtinker.net/images/mad_tinker_logo_2.png" width="150px">
+     <a href="http://madtinker.net">  <img src="https://madtinker.net/images/mad_tinker_logo_2.png" width="150px"></a>
     </div>
     <nav class="flex-nav">
 
@@ -141,6 +141,19 @@ $(document).ready(function () {
     </li>
 {% endfor %}
 </ul>
+
+
+<h2>Video</h2>
+
+<ul>
+{% for post in site.categories.Video limit:6 %}
+    <li><a href="{{ post.url }}">{{ post.title}}</a>
+    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </li>
+{% endfor %}
+</ul>
+
+
 
 
 <h2>Projects</h2>

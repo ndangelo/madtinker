@@ -37,7 +37,7 @@ $(document).ready(function () {
 <body>
   <div class="top hr-main">
     <div class="logo">
-      <img src="https://madtinker.net/images/mad_tinker_logo_2.png" width="150px">
+     <a href="http://madtinker.net"> <img src="https://madtinker.net/images/mad_tinker_logo_2.png" width="150px"></a>
     </div>
     <nav class="flex-nav">
 
@@ -102,18 +102,30 @@ $(document).ready(function () {
 
       <!-- {{page.categories | capitalize | join: ', '}}-->
 
+    <h2>Code</h2>
       <ul>
+         
 {% for post in site.categories.Code limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
-    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <span class="postDate">Posted on: &nbsp;{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
 {% endfor %}
 
+</ul>
+
+<h2>Art</h2>
+<ul>
 {% for post in site.categories.Art limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
 {% endfor %}
+
+</ul>
+
+<h2>Design</h2>
+
+<ul>
 
 {% for post in site.categories.Design limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
@@ -121,12 +133,35 @@ $(document).ready(function () {
     </li>
 {% endfor %}
 
-{% for post in site.categories.Code limit:6 %}
+</ul>
+
+<h2>UI/UX</h2>
+
+<ul>
+{% for post in site.categories.UI limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
     </li>
 {% endfor %}
+</ul>
 
+
+<h2>Video</h2>
+
+<ul>
+{% for post in site.categories.Video limit:6 %}
+    <li><a href="{{ post.url }}">{{ post.title}}</a>
+    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </li>
+{% endfor %}
+</ul>
+
+
+
+
+<h2>Projects</h2>
+
+<ul>
 {% for post in site.categories.Project limit:6 %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
