@@ -8,7 +8,10 @@ guid: 'https://www.nuggetofjoy.com/?p=65574'
 permalink: /ux-portfolio-case-study-template/
 categories:
     - Projects
-    - UI/UX
+    - UI
+
+tag:
+    - UI
 ---
 
 Source: Pedzai, C. (2022). UX Portfolio Case Study template (plus examples from successful hires). Retrieved from https://uxdesignmastery.com/ux-portfolio-case-study-template-plus-examples-from-successful-hires/

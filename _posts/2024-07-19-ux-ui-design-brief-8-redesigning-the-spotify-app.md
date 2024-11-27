@@ -8,7 +8,10 @@ guid: 'https://www.nuggetofjoy.com/?p=65582'
 permalink: /ux-ui-design-brief-8-redesigning-the-spotify-app/
 categories:
     - Projects
-    - UI/UX
+    - UI
+
+tag:
+    - UI
 ---
 
 Source: Pedzai, C. (2024). UX/UI design brief #8: Redesigning the Spotify App. Retrieved from https://uxdesignmastery.com/ux-ui-design-brief-8-redesigning-the-spotify-app/?related\_post\_from=4663

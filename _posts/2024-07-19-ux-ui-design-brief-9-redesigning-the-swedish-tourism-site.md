@@ -8,6 +8,10 @@ guid: 'https://www.nuggetofjoy.com/?p=65580'
 permalink: /ux-ui-design-brief-9-redesigning-the-swedish-tourism-site/
 categories:
     - UI/UX
+        - UI
+
+tag:
+    - UI
 ---
 
 ## **Client/Brand**

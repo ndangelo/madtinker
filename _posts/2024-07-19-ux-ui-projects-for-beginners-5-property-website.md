@@ -8,6 +8,10 @@ guid: 'https://www.nuggetofjoy.com/?p=65554'
 permalink: /ux-ui-projects-for-beginners-5-property-website/
 categories:
     - Projects
+        - UI
+
+tag:
+    - UI
 ---
 
 Source: Pedzai, C. (2024). UX/UI projects for beginners #5: Property Website. Retrieved from https://uxdesignmastery.com/ux-ui-projects-for-beginners-5-property-website/

@@ -8,6 +8,10 @@ guid: 'https://www.nuggetofjoy.com/?p=65549'
 permalink: /ux-ui-portfolio-projects-for-beginners-3-travel-app/
 categories:
     - UI/UX
+        - UI
+
+tag:
+    - UI
 ---
 
 Source: Pedzai, C. (2021). UX/UI portfolio projects for beginners #3: Travel App. Retrieved from https://uxdesignmastery.com/ux-ui-portfolio-projects-for-beginners-3-travel-app/

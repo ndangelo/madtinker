@@ -8,7 +8,10 @@ guid: 'https://www.nuggetofjoy.com/?p=65571'
 permalink: /ux-portfolio-case-study/
 categories:
     - Projects
-    - UI/UX
+    - UI
+
+tag:
+    - UI
 ---
 
 ### The Project

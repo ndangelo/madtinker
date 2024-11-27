@@ -8,6 +8,10 @@ guid: 'https://www.nuggetofjoy.com/?p=65560'
 permalink: /ux-ui-projects-for-beginners-11-redesigning-airbnb-host-onboarding/
 categories:
     - UI/UX
+        - UI
+
+tag:
+    - UI
 ---
 
 Source: Pedzai, C. (2024). UX/UI projects for beginners #11: Redesigning Airbnb host onboarding. Retrieved from https://uxdesignmastery.com/ux-ui-projects-for-beginners-11-redesigning-airbnb-host-onboarding/

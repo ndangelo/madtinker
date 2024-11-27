@@ -9,6 +9,10 @@ permalink: /ux-ui-projects-for-beginners-4-agency-website/
 categories:
     - Projects
     - UI/UX
+        - UI
+
+tag:
+    - UI
 ---
 
 Source: Pedzai, C. (2024). UX/UI projects for beginners #4: Agency website. Retrieved from https://uxdesignmastery.com/ux-ui-projects-for-beginners-4-agency-website/
