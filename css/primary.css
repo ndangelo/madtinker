@@ -46,7 +46,7 @@ nav {
 
 }
 
-start nav 
+
 nav a {
   font-family: 'Montserrat', sans-serif;
   color: #434445;
@@ -140,21 +140,22 @@ a:hover {
   display: flex;
 }
 
-.flex-nav li {
+.flex-nav ul li {
   -webkit-box-flex: 3;
   flex: 2;
+ padding: 10px;
 }
 
-.flex-nav li a {
+.flex-nav ul li a {
   font-size: 1em;
   color: rgb(25, 77, 109);
   padding: 10px;
 }
 
-.flex-nav li a:hover,
-.flex-nav li a:focus {
+.flex-nav ul li a:hover,
+.flex-nav ul li a:focus {
   color: #222;
-    padding: 10px;
+  /*padding: 10px;*/
 }
 
 
