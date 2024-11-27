@@ -28,7 +28,7 @@
 
 body {
   font-family: "Montserrat", sans-serif;
-  color: #999999;
+  color: lightblue;
   margin: 0;
   padding: 0;
   margin-top: 300px;
@@ -46,7 +46,7 @@ nav {
 
 }
 
-/* start nav 
+/* start nav */
 nav a {
   font-family: 'Montserrat', sans-serif;
   color: #434445;
@@ -62,14 +62,14 @@ nav a {
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 
-}*/
+}
 
 nav a:hover,
 a:focus {
   text-decoration: underline;
 }
 
-/*a.nav {
+a.nav {
   text-decoration: none;
   text-transform: uppercase;
   color: rgb(4, 72, 95);
@@ -79,7 +79,7 @@ a.nav:hover {
   text-decoration: none;
   text-transform: uppercase;
   color: coral;
-}*/
+}
 
 a {
      color: green;
@@ -143,13 +143,19 @@ a:hover {
 }
 
 .flex-nav li a {
-  font-size: 2rem;
   color: rgb(25, 77, 109);
 }
 
 .flex-nav li a:hover,
 .flex-nav li a:focus {
   color: #222;
+}
+
+.flex-nav .social {
+  -webkit-box-flex: 1;
+  flex: 1;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 
