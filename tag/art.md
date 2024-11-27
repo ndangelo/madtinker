@@ -18,3 +18,4 @@ tags: art
     
   {% endfor %}
 
+</ul>

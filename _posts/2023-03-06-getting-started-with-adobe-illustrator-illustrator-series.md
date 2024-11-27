@@ -7,7 +7,11 @@ layout: post
 guid: 'https://www.nuggetofjoy.com/?p=61253'
 permalink: /getting-started-with-adobe-illustrator-illustrator-series/
 categories:
-    - Projects
+    - InDesign
+
+tag: 
+    - design
+
 ---
 
 <https://helpx.adobe.com/illustrator/how-to/ai-basics-fundamentals.html>
