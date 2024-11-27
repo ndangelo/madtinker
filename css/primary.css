@@ -62,12 +62,12 @@ nav a {
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 
-}*/
+}
 
 nav a:hover,
 a:focus {
   text-decoration: underline;
-}
+}*/
 
 /*a.nav {
   text-decoration: none;
@@ -82,7 +82,7 @@ a.nav:hover {
 }*/
 
 a {
-     color: green;
+    color: green;
     text-decoration: none;
 }
 
@@ -284,6 +284,8 @@ nav ul li:hover {
 }
 
 body {
+ font-family: "Montserrat", sans-serif;
+  color: #111111;
   margin-left: 0;
   margin-right: 0;
 }
