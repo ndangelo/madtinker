@@ -78,18 +78,18 @@ Young males and females, aged 25–35.
 
 **Blake, 31**  
 
-    PAIN POINT: Faster way of discovering products when searching.
+PAIN POINT: Faster way of discovering products when searching.
 
 
 <img width="200px" src="https://cdn-images-1.medium.com/max/1200/1*tHWEY5lwF41Aqbfckp68MA.png">
 
-   **Sarah, 26**  
-    PAIN POINT: Can I change the quantity of the products I add to the cart?
+**Sarah, 26**  
+PAIN POINT: Can I change the quantity of the products I add to the cart?
 
 <img width="200px" src="https://cdn-images-1.medium.com/max/1200/1*7VxS5eT0tlkFAp6wnl2qYg.png">
 
-   **Crystal, 28**  
-    PAIN POINT: How do I know these products are worth purchasing and reliable?
+**Crystal, 28**  
+PAIN POINT: How do I know these products are worth purchasing and reliable?
 
 </div>
 
