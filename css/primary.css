@@ -143,19 +143,13 @@ a:hover {
 }
 
 .flex-nav li a {
+  font-size: 2rem;
   color: rgb(25, 77, 109);
 }
 
 .flex-nav li a:hover,
 .flex-nav li a:focus {
   color: #222;
-}
-
-.flex-nav .social {
-  -webkit-box-flex: 1;
-  flex: 1;
-  padding-left: 50px;
-  padding-right: 50px;
 }
 
 
