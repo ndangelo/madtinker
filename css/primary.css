@@ -127,7 +127,7 @@ a:hover {
 .top h1 a {
   font-size: 2rem;
   font-weight: 900;
-}*/
+}
 
 .flex-nav ul {
   list-style: none;
@@ -142,13 +142,13 @@ a:hover {
   flex: 2;
 }
 
-.flex-nav li a {
-  font-size: 1em;
+.flex-nav a {
+  font-size: 1rem;
   color: rgb(25, 77, 109);
 }
 
-.flex-nav li a:hover,
-.flex-nav li a:focus {
+.flex-nav a:hover,
+.flex-nav a:focus {
   color: #222;
 }
 
