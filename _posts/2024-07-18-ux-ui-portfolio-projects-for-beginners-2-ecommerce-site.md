@@ -73,7 +73,8 @@ Create a responsive eCommerce website that can:
 
 Young males and females, aged 25–35.
 
-<div style="width: 300px; display: flex; justify-content: center;">
+<div style="width: 600px; display: flex; justify-content: center;">
+    
 <img width="200px" src="https://cdn-images-1.medium.com/max/1200/1*TTDaSQWVhHgFYVji9b2Ckg.png")>
 
 **Blake, 31**  
