@@ -21,9 +21,9 @@ Source: Pedzai, C. (2024). *UX/UI portfolio projects for beginners #2: eCommerce
 
 
 
-    ![Adidas](https://cdn-images-1.medium.com/max/1600/1*F2tbJtCwNG64AtKh3TcesA.png)
+![Adidas](https://cdn-images-1.medium.com/max/1600/1*F2tbJtCwNG64AtKh3TcesA.png)
 
-    ![Ecommerce project by Calvin Pedzai](https://dribbble.com/calvinpedzai)
+![Ecommerce project by Calvin Pedzai](https://dribbble.com/calvinpedzai)
 
 
 
@@ -51,13 +51,13 @@ Create a responsive eCommerce website that can:
 
 
 
-### **Platform**
+### Platform
 
 - Design for responsive web.
 - Deliver screens for desktop, tablet, and mobile devices.
 
 
-    ![Screens](https://image-control-storage.s3.amazonaws.com/2024/07/20124114/image-171-1024x582.png)
+![Screens](https://image-control-storage.s3.amazonaws.com/2024/07/20124114/image-171-1024x582.png)
 
 
 
@@ -74,22 +74,24 @@ Create a responsive eCommerce website that can:
 Young males and females, aged 25–35.
 
 
-![Blake](https://cdn-images-1.medium.com/max/1200/1*TTDaSQWVhHgFYVji9b2Ckg.png)
+<img src="https://cdn-images-1.medium.com/max/1200/1*TTDaSQWVhHgFYVji9b2Ckg.png")>
 
 **Blake, 31**  
 
     PAIN POINT: Faster way of discovering products when searching.
 
 
-![Sarah](https://cdn-images-1.medium.com/max/1200/1*tHWEY5lwF41Aqbfckp68MA.png)
+<img src="https://cdn-images-1.medium.com/max/1200/1*tHWEY5lwF41Aqbfckp68MA.png">
+
    **Sarah, 26**  
     PAIN POINT: Can I change the quantity of the products I add to the cart?<
 
-![Crystal](https://cdn-images-1.medium.com/max/1200/1*7VxS5eT0tlkFAp6wnl2qYg.png)
+<img src="https://cdn-images-1.medium.com/max/1200/1*7VxS5eT0tlkFAp6wnl2qYg.png">
+
    **Crystal, 28**  
     PAIN POINT: How do I know these products are worth purchasing and reliable?
 
----
+
 
 ### References
 
