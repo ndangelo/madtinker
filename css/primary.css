@@ -390,6 +390,7 @@ body {
   .flex-nav ul.open {
     display: -webkit-box;
     display: flex;
+    justify-content: center;
   }
 
   .top {
