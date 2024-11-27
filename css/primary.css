@@ -69,6 +69,29 @@ a:focus {
   text-decoration: underline;
 }
 
+/*a.nav {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: rgb(4, 72, 95);
+}
+
+a.nav:hover {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: coral;
+}*/
+
+a {
+     color: green;
+    text-decoration: none;
+}
+
+a:hover {
+  color: coral;
+   
+    text-decoration: none;
+}
+
 .toggleNav {
   display: none;
 }
@@ -135,27 +158,7 @@ a:focus {
   padding-right: 50px;
 }
 
-a.nav {
-  text-decoration: none;
-  text-transform: uppercase;
-  color: rgb(4, 72, 95);
-}
 
-a.nav:hover {
-  text-decoration: none;
-  text-transform: uppercase;
-  color: coral;
-}
-
-a {
-    
-    text-decoration: none;
-}
-
-a:visited {
-    color: green;
-    text-decoration: none;
-}
 
 /*end nav*/
 .wrapper {
