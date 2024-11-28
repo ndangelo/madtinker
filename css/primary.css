@@ -442,7 +442,7 @@ code {
   }
 
   .item3 {
-    flex-grow: 1;
+    /*flex-grow: 1;*/
     height: auto;
     border: solid 2px lightblue;
     box-shadow: inset 0 0 10 #ccc;
@@ -506,7 +506,7 @@ code {
   }
 
   .item3 {
-    flex-grow: 1;
+   / flex-grow: 1;
     height: auto;
     border: solid 2px lightblue;
     box-shadow: inset 0 0 10 #ccc;
@@ -521,7 +521,7 @@ code {
   }
 
   .item2 {
-    flex-grow: 2;
+    /*flex-grow: 2;*/
     height: auto;
     border: solid 2px lightblue;
     box-shadow: inset 0 0 10 #ccc;
