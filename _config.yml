@@ -3,7 +3,7 @@ url: https://madtinker.net
 description: The Mad Tinker
 
 permalink: /:categories/:year/:month/:day/:title/
-paginate: 5
+paginate: 2
 
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
