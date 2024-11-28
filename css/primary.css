@@ -24,7 +24,11 @@
 }
 
 
-
+* {
+  box-sizing: border-box;
+  margin: 0;
+    font-size: 1em;
+}
 
 body {
   font-family: "Montserrat", sans-serif;
@@ -36,10 +40,7 @@ body {
   margin-top: 300px;
 }
 
-* {
-  box-sizing: border-box;
-  margin: 0;
-}
+
 
 nav {
 
@@ -334,7 +335,10 @@ body {
   padding: 10px;
 }
 
+.highlight {
 
+  width: 100%;
+}
 /* Code Highlighting 
 
 pre,
@@ -545,6 +549,11 @@ max-width: 100%;*/
   }
 
   .madtinker_main {
+
+    width: 340px;
+  }
+
+  .wrapper ul {
 
     width: 340px;
   }
