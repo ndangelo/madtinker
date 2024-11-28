@@ -35,7 +35,8 @@ Just like with commercial advertisements, having just the facts is not enough. T
 
 ## Stop The Violence: Don’t Drink And Drive
 
-![public-interest-public-awareness-ads-2-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182426/public-interest-public-awareness-ads-2-1.jpg)<figcaption>Advertising Agency: Terremoto Propaganda, Curitiba, Brazil</figcaption>
+![public-interest-public-awareness-ads-2-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182426/public-interest-public-awareness-ads-2-1.jpg)
+*Advertising Agency: Terremoto Propaganda, Curitiba, Brazil*
 
 ## Premature Ending: “If you smoke, statistically your story will end 15% before it should.”
 

@@ -32,7 +32,11 @@ Hope you find this helpful.
 
 ![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21183855/1_Wx_MGSeQwGca6Gzvrpuo2Q.png)
 
-<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-action="zoom" data-action-value="1*Wx_MGSeQwGca6Gzvrpuo2Q.png" data-height="350" data-image-id="1*Wx_MGSeQwGca6Gzvrpuo2Q.png" data-scroll="native" data-width="1024">[![]()](https://cdn-images-1.medium.com/max/1600/1*Wx_MGSeQwGca6Gzvrpuo2Q.png)![]()</div><figure class="graf graf--figure graf-after--h3" id="e22a"><figcaption class="imageCaption">[Aaron Draplin](http://draplin.com/)</figcaption></figure>#### Books
+<div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-action="zoom" data-action-value="1*Wx_MGSeQwGca6Gzvrpuo2Q.png" data-height="350" data-image-id="1*Wx_MGSeQwGca6Gzvrpuo2Q.png" data-scroll="native" data-width="1024">
+
+![](https://cdn-images-1.medium.com/max/1600/1*Wx_MGSeQwGca6Gzvrpuo2Q.png)
+
+</div><figure class="graf graf--figure graf-after--h3" id="e22a"><figcaption class="imageCaption">[Aaron Draplin](http://draplin.com/)</figcaption></figure>#### Books
 
 [Pretty Much Everything](https://www.amazon.com/Draplin-Design-Co-Pretty-Everything/dp/1419720171)
 
@@ -48,7 +52,11 @@ Hope you find this helpful.
 
 ### 2. George Bokhua — Logo Maker, New York, USA
 
-<figure class="graf graf--figure graf-after--h3" id="9751"><div class="aspectRatioPlaceholder is-locked"><div class="aspectRatioPlaceholder-fill"> ![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21183946/1_Qk9BmpMNGC8zxdYt8RWRKA.png)</div><div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-action="zoom" data-action-value="1*Qk9BmpMNGC8zxdYt8RWRKA.png" data-height="350" data-image-id="1*Qk9BmpMNGC8zxdYt8RWRKA.png" data-scroll="native" data-width="1024"><canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" height="25" width="75"></canvas>![]()</div></div><figcaption class="imageCaption">[George Bokhua](https://dribbble.com/george-bokhua)</figcaption></figure>#### Courses
+<figure class="graf graf--figure graf-after--h3" id="9751"><div class="aspectRatioPlaceholder is-locked"><div class="aspectRatioPlaceholder-fill"> 
+
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21183946/1_Qk9BmpMNGC8zxdYt8RWRKA.png)
+
+</div><div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-action="zoom" data-action-value="1*Qk9BmpMNGC8zxdYt8RWRKA.png" data-height="350" data-image-id="1*Qk9BmpMNGC8zxdYt8RWRKA.png" data-scroll="native" data-width="1024"><canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" height="25" width="75"></canvas>![]()</div></div><figcaption class="imageCaption">[George Bokhua](https://dribbble.com/george-bokhua)</figcaption></figure>#### Courses
 
 - [Logo Design with Grids: Timeless Style from Simple Shapes](http://skl.sh/georgeb2)
 - [Design a Logo In Modern Style](https://goo.gl/rcKSJW)
@@ -61,7 +69,16 @@ Hope you find this helpful.
 
 ### 3. Mackey Saturday — Graphic Designer, New York
 
-<figure class="graf graf--figure graf-after--h3" id="f33e"><div class="aspectRatioPlaceholder is-locked"><div class="aspectRatioPlaceholder-fill"> ![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184024/1_vMAqvJ7pDGTuakwCdZ6Tsg.png)[![]()](https://cdn-images-1.medium.com/max/1600/1*vMAqvJ7pDGTuakwCdZ6Tsg.png)</div><div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-action="zoom" data-action-value="1*vMAqvJ7pDGTuakwCdZ6Tsg.png" data-height="350" data-image-id="1*vMAqvJ7pDGTuakwCdZ6Tsg.png" data-scroll="native" data-width="1024"><canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" height="25" width="75">![]()![]()</canvas></div></div><figcaption class="imageCaption">[Mackey Saturday](http://mackeysaturday.com/)</figcaption></figure>#### Course
+<figure class="graf graf--figure graf-after--h3" id="f33e"><div class="aspectRatioPlaceholder is-locked"><div class="aspectRatioPlaceholder-fill"> 
+
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184024/1_vMAqvJ7pDGTuakwCdZ6Tsg.png)
+
+![](https://cdn-images-1.medium.com/max/1600/1*vMAqvJ7pDGTuakwCdZ6Tsg.png)
+
+</div><div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-action="zoom" data-action-value="1*vMAqvJ7pDGTuakwCdZ6Tsg.png" data-height="350" data-image-id="1*vMAqvJ7pDGTuakwCdZ6Tsg.png" data-scroll="native" data-width="1024"><canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" height="25" width="75">
+</canvas></div></div><figcaption class="imageCaption">[Mackey Saturday](http://mackeysaturday.com/)</figcaption></figure>
+
+#### Course
 
 - [Logotype Design: Create Brand Marks with Typography](https://goo.gl/qyDPTB)
 

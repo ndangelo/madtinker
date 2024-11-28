@@ -44,7 +44,8 @@ Benjamin Franklin once said: “Tell me and I forget, teach me and I may remembe
 
 *If your students are fashion addicts, our [College fashion field guide presentation](https://canva.me/Mzxg/izYuX3RjYI) will put them to work in a breeze.*
 
-<figure class="lazyload-image" id="image-38607">[![Interactive Website](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155334/interactive-website-tb-728x01112111.png)](https://canva.me/Mzxg/izYuX3RjYI "Use this template")<figcaption>In Canva, you can export your presentation as an interactive website in 2 clicks.</figcaption></figure>- **Maths**: Taken from [this list](https://www.theguardian.com/teacher-network/teacher-blog/2013/nov/26/maths-creative-ideas-practical-lessons) of excellent practical maths ideas, one way to teach velocity is to ask students to build paper airplanes and use calculations to predict their speed. What better way to iterate on their calculations by testing them out in real life?
+
+[![Interactive Website](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155334/interactive-website-tb-728x01112111.png)](https://canva.me/Mzxg/izYuX3RjYI "Use this template")<figcaption>In Canva, you can export your presentation as an interactive website in 2 clicks.</figcaption></figure>- **Maths**: Taken from [this list](https://www.theguardian.com/teacher-network/teacher-blog/2013/nov/26/maths-creative-ideas-practical-lessons) of excellent practical maths ideas, one way to teach velocity is to ask students to build paper airplanes and use calculations to predict their speed. What better way to iterate on their calculations by testing them out in real life?
 
 ## 03. Keep your classroom layout flexible
 
