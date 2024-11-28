@@ -431,6 +431,10 @@ code {
   color: #90a959;
 }*/
 
+  .correction ul {
+ 
+    margin-left: -40px;
+  }
 
 @media screen and (max-width: 800px) {
   .container {
@@ -555,9 +559,9 @@ max-width: 100%;*/
     width: 340px;
   }
 
-  .container ul li {
+  .correction ul {
 
-    width: 340px;
+    
     margin-left: -25px;
   }
 }
