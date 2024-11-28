@@ -6,7 +6,7 @@ categories: Video YouTube
 tags: YouTube
 ---
 
-<div class="item1">
-<iframe width="720" height="480" src="https://www.youtube.com/embed/y78W8e_zeTg" align="center" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="item1 vide">
+<iframe class="vide" src="https://www.youtube.com/embed/y78W8e_zeTg" align="center" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
