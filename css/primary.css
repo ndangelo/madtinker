@@ -554,7 +554,7 @@ max-width: 100%;*/
     width: 340px;
   }
 
-  .wrapper ul {
+  .container ul li {
 
     width: 340px;
     margin-left: -25px;
