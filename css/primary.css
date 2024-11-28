@@ -271,13 +271,13 @@ h2 a {
   }
 
 nav ul li a {
-    margin-left: 1em;
+    /*margin-left: 1em;*/
     color: #0f507f;
 
  }
 
-nav ul li:hover {
-    margin-left: 1em;
+nav ul li a:hover {
+    /*margin-left: 1em;*/
     color: pink;
   
  }
