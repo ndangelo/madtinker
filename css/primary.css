@@ -170,6 +170,7 @@ a:hover {
   margin: 0 auto;
   flex-wrap: wrap;
   border: solid 2px lightblue;
+  padding: 5px;
 }
 
 .container {
