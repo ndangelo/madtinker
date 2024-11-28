@@ -5,7 +5,7 @@ categories: [Art]
 tags: art
 ---
 
-<div class="correction">
+<ul class="correction">
 
   {% for post in site.categories.Art %}
 
@@ -16,4 +16,4 @@ tags: art
     
   {% endfor %}
 
-</div>
+</ul>
