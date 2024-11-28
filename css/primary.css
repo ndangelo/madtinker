@@ -28,7 +28,8 @@
 
 body {
   font-family: "Montserrat", sans-serif;
-  color: lightblue;
+  color: #111111;
+  font-size: 1em;
   margin-left: 20px;
   margin-right: 20px;
   padding: 0;
@@ -42,8 +43,8 @@ body {
 
 nav {
 
-  margin-left: 50px;
-  margin-right: 50px;
+  /*margin-left: 50px;
+  margin-right: 50px;*/
 
 }
 
@@ -455,6 +456,7 @@ code {
   .flex-nav {
     -webkit-box-ordinal-group: 2;
     order: 1;
+    min-width: 350px;
   }
 
   .toggleNav {
