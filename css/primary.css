@@ -423,7 +423,7 @@ code {
 }*/
 
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 800px) {
   .container {
     display: flex;
     justify-content: space-between;
@@ -538,5 +538,10 @@ max-width: 100%;*/
 
     width: 100%;
     margin: 0, auto;
+  }
+
+  .madtinker_main {
+
+    width: 340px;
   }
 }
