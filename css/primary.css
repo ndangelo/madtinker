@@ -433,7 +433,7 @@ code {
 
   .correction {
  
-    margin-left: -40px;
+    margin-left: -25px;
   }
 
 @media screen and (max-width: 800px) {
@@ -559,7 +559,7 @@ max-width: 100%;*/
     width: 340px;
   }
 
-  .correction ul {
+  .correction {
 
     
     margin-left: -25px;
