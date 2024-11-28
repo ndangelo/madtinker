@@ -20,7 +20,11 @@ Source: Pedzai, C. (2022). UX Case Study Example #2 plus free template. Retrieve
 
 The UX portfolio project I will use is one I did as a Senior UX Designer at a digital marketing agency. The brief was to completely redesign a responsive web platform for one of the leading investment firms in South Africa, Alexander Forbes. I worked with a project manager, a UI designer, a back-end developer and a front-end developer.
 
-<div class="wp-block-image"><figure class="aligncenter">![Examples](https://cdn-images-1.medium.com/max/1455/1*NgVFljFqaCdxfdF48SNCCw.jpeg)<figcaption class="wp-element-caption">Final design</figcaption></figure></div>I did the work some time ago, so the challenge is to remember what I did and collect enough content for a solid case study. This is where the template comes in handy.
+<div class="wp-block-image"><figure class="aligncenter">
+
+![Examples](https://cdn-images-1.medium.com/max/1455/1*NgVFljFqaCdxfdF48SNCCw.jpeg)
+
+<figcaption class="wp-element-caption">Final design</figcaption></figure></div>I did the work some time ago, so the challenge is to remember what I did and collect enough content for a solid case study. This is where the template comes in handy.
 
 ### **The Template**
 

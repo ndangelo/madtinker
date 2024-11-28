@@ -16,7 +16,11 @@ tag:
 
 Source: Pedzai, C. (2024). UX/UI projects for beginners #5: Property Website. Retrieved from https://uxdesignmastery.com/ux-ui-projects-for-beginners-5-property-website/
 
-<div class="wp-block-image"><figure class="aligncenter">![Design](https://uxdesignmastery.com/wp-content/uploads/2023/05/DPP5-1024x680.jpg)</figure></div>**Client** Rowlly Properties
+<div class="wp-block-image"><figure class="aligncenter">
+
+![Design](https://uxdesignmastery.com/wp-content/uploads/2023/05/DPP5-1024x680.jpg)</figure></div>
+
+**Client** Rowlly Properties
 
 **Timeline** 1–2 weeks
 
@@ -33,7 +37,11 @@ We are a property management company specializing in selling and renting residen
 
 ### Target Audience
 
-<div class="wp-block-image"><figure class="aligncenter">![Design](https://uxdesignmastery.com/wp-content/uploads/2023/05/Personas-Property-site-1024x345.png)</figure></div>**Emily Anderson**, 28 | First-Time Home Buyer  
+<div class="wp-block-image"><figure class="aligncenter">
+
+![Design](https://uxdesignmastery.com/wp-content/uploads/2023/05/Personas-Property-site-1024x345.png)</figure></div>
+
+**Emily Anderson**, 28 | First-Time Home Buyer  
 NEEDS  
 Wants listings in her desired area, along with details about the property, the neighborhood, and the buying process. She is concerned about finding a property within her budget and wants to ensure the neighborhood is safe and has good schools for her future family.
 

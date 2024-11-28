@@ -41,7 +41,13 @@ The site must load quickly; hence, any interactions or large imagery must be min
 
 ### Target Audience
 
-<div class="wp-block-image"><figure class="aligncenter">![Design](https://cdn-images-1.medium.com/max/1600/1*FUlDvsxsoxeoIT8C2KHSsg.png)</figure></div><div class="wp-block-image"><figure class="aligncenter">![Design](https://cdn-images-1.medium.com/max/1600/1*nDJY9Bs-v0loUaAFf17yFw.png)</figure></div>### Deliverables
+<div class="wp-block-image"><figure class="aligncenter">
+
+![Design](https://cdn-images-1.medium.com/max/1600/1*FUlDvsxsoxeoIT8C2KHSsg.png)</figure></div><div class="wp-block-image"><figure class="aligncenter">
+
+![Design](https://cdn-images-1.medium.com/max/1600/1*nDJY9Bs-v0loUaAFf17yFw.png)</figure></div>
+
+### Deliverables
 
 - Compile a case study structured like this: **Name of project, date, your role, project type(Concept)**  
      • Research: (Refer to the References provided)  
@@ -76,4 +82,16 @@ The site must load quickly; hence, any interactions or large imagery must be min
 
 References that the company would like their website to follow in terms of structure and layout. It will be your job to replicate something close to these websites but add your creative flair to it.
 
-<div class="wp-block-image"><figure class="aligncenter">![Design](https://cdn-images-1.medium.com/max/1600/1*TYiWdnVpVEn0-7DSc2CEag.png)<figcaption class="wp-element-caption"><https://ueno.co/></figcaption></figure></div><div class="wp-block-image"><figure class="aligncenter">![Design](https://cdn-images-1.medium.com/max/1600/1*q4ORYMv5DChx7b698KyyMw.png)<figcaption class="wp-element-caption"><https://basicagency.com/></figcaption></figure></div><div class="wp-block-image"><figure class="aligncenter">![Design](https://cdn-images-1.medium.com/max/1600/1*A4pc8Ds16VoLjBV_AylcSg.png)<figcaption class="wp-element-caption"><https://dixonbaxi.com/></figcaption></figure></div>---
+<div class="wp-block-image"><figure class="aligncenter">
+
+![Design](https://cdn-images-1.medium.com/max/1600/1*TYiWdnVpVEn0-7DSc2CEag.png)
+
+<figcaption class="wp-element-caption"><https://ueno.co/></figcaption></figure></div><div class="wp-block-image"><figure class="aligncenter">
+
+![Design](https://cdn-images-1.medium.com/max/1600/1*q4ORYMv5DChx7b698KyyMw.png)
+
+<figcaption class="wp-element-caption"><https://basicagency.com/></figcaption></figure></div><div class="wp-block-image"><figure class="aligncenter">
+
+![Design](https://cdn-images-1.medium.com/max/1600/1*A4pc8Ds16VoLjBV_AylcSg.png)
+
+<figcaption class="wp-element-caption"><https://dixonbaxi.com/></figcaption></figure></div>---
