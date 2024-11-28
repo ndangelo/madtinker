@@ -6,13 +6,20 @@ author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=60053'
 permalink: /poster-art/
-amazonS3_cache:
-    - 'a:20:{s:77:"//www.nuggetofjoy.com/wp-content/uploads/54e12b3c8445ea2072c7f9bf3d433014.jpg";a:2:{s:2:"id";i:60054;s:11:"source_type";s:13:"media-library";}s:94:"//image-control-storage.s3.amazonaws.com/2023/01/19160406/54e12b3c8445ea2072c7f9bf3d433014.jpg";a:2:{s:2:"id";i:60054;s:11:"source_type";s:13:"media-library";}s:77:"//www.nuggetofjoy.com/wp-content/uploads/2ee0710b9e42d48a519eba2ad317b7fc.jpg";a:2:{s:2:"id";i:60056;s:11:"source_type";s:13:"media-library";}s:94:"//image-control-storage.s3.amazonaws.com/2023/01/19160451/2ee0710b9e42d48a519eba2ad317b7fc.jpg";a:2:{s:2:"id";i:60056;s:11:"source_type";s:13:"media-library";}s:77:"//www.nuggetofjoy.com/wp-content/uploads/00996bd6e560ca04f657f2ad2bd0d87a.jpg";a:2:{s:2:"id";i:60055;s:11:"source_type";s:13:"media-library";}s:94:"//image-control-storage.s3.amazonaws.com/2023/01/19160413/00996bd6e560ca04f657f2ad2bd0d87a.jpg";a:2:{s:2:"id";i:60055;s:11:"source_type";s:13:"media-library";}s:77:"//www.nuggetofjoy.com/wp-content/uploads/4594f41bd4237c55bc9f73400eda7538.jpg";a:2:{s:2:"id";i:60057;s:11:"source_type";s:13:"media-library";}s:94:"//image-control-storage.s3.amazonaws.com/2023/01/19160500/4594f41bd4237c55bc9f73400eda7538.jpg";a:2:{s:2:"id";i:60057;s:11:"source_type";s:13:"media-library";}s:77:"//www.nuggetofjoy.com/wp-content/uploads/a941c3af40408c65a9afef27175ef51f.jpg";a:2:{s:2:"id";i:60058;s:11:"source_type";s:13:"media-library";}s:94:"//image-control-storage.s3.amazonaws.com/2023/01/19160508/a941c3af40408c65a9afef27175ef51f.jpg";a:2:{s:2:"id";i:60058;s:11:"source_type";s:13:"media-library";}s:77:"//www.nuggetofjoy.com/wp-content/uploads/540ea2e94c36c6f2265ff693045df2c4.jpg";a:2:{s:2:"id";i:60059;s:11:"source_type";s:13:"media-library";}s:94:"//image-control-storage.s3.amazonaws.com/2023/01/19160515/540ea2e94c36c6f2265ff693045df2c4.jpg";a:2:{s:2:"id";i:60059;s:11:"source_type";s:13:"media-library";}s:77:"//www.nuggetofjoy.com/wp-content/uploads/85f4d9e43c9ccc6005546b241e63007b.jpg";a:2:{s:2:"id";i:60127;s:11:"source_type";s:13:"media-library";}s:94:"//image-control-storage.s3.amazonaws.com/2023/01/22144851/85f4d9e43c9ccc6005546b241e63007b.jpg";a:2:{s:2:"id";i:60127;s:11:"source_type";s:13:"media-library";}s:77:"//www.nuggetofjoy.com/wp-content/uploads/9d770654d71d7ff11c022d3e69e6b13d.jpg";a:2:{s:2:"id";i:60128;s:11:"source_type";s:13:"media-library";}s:94:"//image-control-storage.s3.amazonaws.com/2023/01/22144912/9d770654d71d7ff11c022d3e69e6b13d.jpg";a:2:{s:2:"id";i:60128;s:11:"source_type";s:13:"media-library";}s:77:"//www.nuggetofjoy.com/wp-content/uploads/1a455e571876b1a9d005e0748acf4293.jpg";a:2:{s:2:"id";i:60060;s:11:"source_type";s:13:"media-library";}s:94:"//image-control-storage.s3.amazonaws.com/2023/01/19160533/1a455e571876b1a9d005e0748acf4293.jpg";a:2:{s:2:"id";i:60060;s:11:"source_type";s:13:"media-library";}s:77:"//www.nuggetofjoy.com/wp-content/uploads/2806ca94b6053498513b59187d28a095.jpg";a:2:{s:2:"id";i:60130;s:11:"source_type";s:13:"media-library";}s:94:"//image-control-storage.s3.amazonaws.com/2023/01/22144938/2806ca94b6053498513b59187d28a095.jpg";a:2:{s:2:"id";i:60130;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET 375 IMAGING TECHNOLOGY'
+    - 'Design'
+
+tag: 
+    - 'design'
 ---
 
-<div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/19160406/54e12b3c8445ea2072c7f9bf3d433014.jpg)</figure></div>### In a digital age, print ads still have value.
+<div class="wp-block-image"><figure class="aligncenter size-full">
+
+![](https://image-control-storage.s3.amazonaws.com/2023/01/19160406/54e12b3c8445ea2072c7f9bf3d433014.jpg)</figure></div>
+
+### In a digital age, print ads still have value.
 
 Even today, not all advertisements are displayed on screens. In a world where it’s more difficult than ever to differentiate your brand, print advertising campaigns are a successful way to increase brand awareness. With magazine ads, posters, flyers, and billboards, you can revitalize your brand in the eyes of consumers by bringing it into the physical world and making sure that they remember you as a reliable source.
 

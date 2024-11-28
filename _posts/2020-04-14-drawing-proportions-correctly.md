@@ -6,11 +6,13 @@ author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=56853'
 permalink: /drawing-proportions-correctly/
-amazonS3_cache:
-    - 'a:8:{s:69:"//www.nuggetofjoy.com/wp-content/uploads/still-life-proportions-3.jpg";a:2:{s:2:"id";s:5:"56866";s:11:"source_type";s:13:"media-library";}s:86:"//image-control-storage.s3.amazonaws.com/2020/04/14110721/still-life-proportions-3.jpg";a:2:{s:2:"id";s:5:"56866";s:11:"source_type";s:13:"media-library";}s:76:"//www.nuggetofjoy.com/wp-content/uploads/still-life-proportions-height-1.jpg";a:2:{s:2:"id";s:5:"56867";s:11:"source_type";s:13:"media-library";}s:93:"//image-control-storage.s3.amazonaws.com/2020/04/14110723/still-life-proportions-height-1.jpg";a:2:{s:2:"id";s:5:"56867";s:11:"source_type";s:13:"media-library";}s:75:"//www.nuggetofjoy.com/wp-content/uploads/still-life-proportions-width-1.jpg";a:2:{s:2:"id";s:5:"56868";s:11:"source_type";s:13:"media-library";}s:92:"//image-control-storage.s3.amazonaws.com/2020/04/14110724/still-life-proportions-width-1.jpg";a:2:{s:2:"id";s:5:"56868";s:11:"source_type";s:13:"media-library";}s:79:"//www.nuggetofjoy.com/wp-content/uploads/still-life-proportions-placement-1.jpg";a:2:{s:2:"id";s:5:"56869";s:11:"source_type";s:13:"media-library";}s:96:"//image-control-storage.s3.amazonaws.com/2020/04/14110726/still-life-proportions-placement-1.jpg";a:2:{s:2:"id";s:5:"56869";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'GN: Basic Drawing'
-    - Projects
+    - 'Projects'
+
+tag:
+    - 'drawing'
 ---
 
 February 10, 2015

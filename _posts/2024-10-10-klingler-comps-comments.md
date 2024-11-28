@@ -7,7 +7,10 @@ layout: post
 guid: 'https://www.nuggetofjoy.com/?p=66747'
 permalink: /klingler-comps-comments/
 categories:
-    - Projects
+    - 'Projects'
+
+tag: 
+    - 'pedagogy'
 ---
 
 **What is informal learning?**

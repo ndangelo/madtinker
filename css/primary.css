@@ -330,11 +330,11 @@ body {
   max-height: 500px;
 }
 
-.vide {
+/*.vide {
   aspect-ratio: 16 / 9;
   width: 100%;
   padding: 10px;
-}
+}*/
 
 .highlight {
 
@@ -446,7 +446,7 @@ code {
     margin-left: -25px;
 
   }
-  
+
 @media screen and (max-width: 800px) {
   .container {
     display: flex;
