@@ -42,13 +42,6 @@ body {
 
 
 
-nav {
-
-  /*margin-left: 50px;
-  margin-right: 50px;*/
-
-}
-
 /* start nav */
 nav a {
   font-family: 'Montserrat', sans-serif;
@@ -182,6 +175,7 @@ a:hover {
  height: auto;
  overflow: auto;
   flex-wrap: wrap;
+  overflow-wrap: break-word;
   min-width: 350px;
 }
 
@@ -232,7 +226,8 @@ flex-grow: 2;
   border-radius: 3px;
   padding: 15px;
   width: 100%;
-  min-width: 380px
+  min-width: 380px;
+  overflow-wrap: break-word;
   /*min-width: 350px;*/
 }
 
@@ -369,6 +364,7 @@ body {
     flex-grow: 1;
     min-width: 350px;
     padding: 15px;
+    overflow-wrap: break-word;
   }
 
   .container ul {
@@ -445,6 +441,7 @@ body {
     /*border: solid 2px lightblue;*/
     /*flex-grow: 1;*/
     min-width: 350px;
+    overflow-wrap: break-word;
   }
 
   .item3 {
@@ -458,6 +455,7 @@ body {
     padding: 15px;
     width: 98%;
     min-width: 350px;
+    overflow-wrap: break-word;
   }
 
   .headline h1 {
