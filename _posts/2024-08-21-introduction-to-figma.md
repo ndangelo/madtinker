@@ -7,13 +7,7 @@ layout: post
 guid: 'https://www.nuggetofjoy.com/?p=66318'
 permalink: /introduction-to-figma/
 enclosure:
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_04.mp4\n369761\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_05.mp4\n223030\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_06.mp4\n242922\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_07.mp4\n278421\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_08.mp4\n262722\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_10.mp4\n215578\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_11.mp4\n724025\nvideo/mp4\n"
+
 categories:
     - UI/UX
 
@@ -55,9 +49,9 @@ This course aims to introduce all of Figma’s key functions. We will achieve th
 
 Getting started in Figma is as simple as going to [www.figma.com](http://www.figma.com/), clicking “Get started”, entering your details, and completing a quick verification activity. Once you’ve done that, Figma will guide you to a screen with a few more onboarding questions before throwing you into a project file with examples of what you can create using Figma.
 
-<div class="wp-block-image"><figure class="aligncenter">![Set up your Figma account.](https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/65eb3ae66e663bcaa07fd92d_657bdc214d04cbf2be85a113_F101_D1_01-min.jpeg)</figure></div>### 2. Take a look around the Figma interface
+![Set up your Figma account.](https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/65eb3ae66e663bcaa07fd92d_657bdc214d04cbf2be85a113_F101_D1_01-min.jpeg)### 2. Take a look around the Figma interface
 
-<div class="wp-block-image"><figure class="aligncenter">![Take a look around the Figma interface](https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/657bdc2103cc6ceab4842e4e_F101_D1_02.jpeg)</figure></div>The Figma interface’s look and feel is minimal, but it belies a set of powerful features. Here’s an explanation of the interface’s main areas (labeled above):
+![Take a look around the Figma interface](https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/657bdc2103cc6ceab4842e4e_F101_D1_02.jpeg)The Figma interface’s look and feel is minimal, but it belies a set of powerful features. Here’s an explanation of the interface’s main areas (labeled above):
 
 #### **Menu:**
 
@@ -91,7 +85,9 @@ The properties panel offers contextual information and settings for whatever obj
 
 Now that you’ve found your way around let’s start making stuff! Let’s start a new project by clicking the Menu button (Figma’s logo) in the top left corner and selecting File and “New design file.” Doing this should automatically create a new file with an empty canvas in a new tab on your browser.
 
-<div class="wp-block-image"><figure class="aligncenter">![The Figma menu](https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/657bdc21292927e8c1d54fe1_F101_D1_03.jpeg)</figure></div>### 4. Create a Frame
+![The Figma menu](https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/657bdc21292927e8c1d54fe1_F101_D1_03.jpeg)
+
+### 4. Create a Frame
 
 In Figma, a Frame is essentially a container for other elements. If you’ve used Sketch or Adobe Illustrator before, it functions in the same way as an Artboard. Press F to select the Frame Tool. Alternatively, you can click the Frame tool icon in the toolbar at the top of the window. Equally, if you’re used to Sketch, you can hit A (for “Artboard”).
 
@@ -99,7 +95,9 @@ Note that we’ll often refer to keyboard shortcuts in these tutorials. It’s w
 
 There are two ways to create a Frame. We can either click and drag in the canvas area or select a pre-set Frame size from the Properties panel on the right side of the window. We chose the iPhone SE template. Try both ways now!
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_04.mp4"></video></figure>###   
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_04.mp4"></video></figure>
+
+###   
 5. Practice zooming in and out
 
 You’ll probably want to zoom in and out quite a bit in Figma, particularly once we start working with multiple Frames. The standard zoom commands are accessed with ⌘+ and ⌘-. Try it now!

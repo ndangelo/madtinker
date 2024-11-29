@@ -7,8 +7,7 @@ layout: post
 guid: 'https://www.nuggetofjoy.com/?p=66345'
 permalink: /create-a-tablet-or-desktop-version/
 enclosure:
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D6_04.mp4\n458217\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D6_05.mp4\n2467163\nvideo/mp4\n"
+
 categories:
     - Projects
 ---

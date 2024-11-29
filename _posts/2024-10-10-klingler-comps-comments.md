@@ -13,7 +13,7 @@ tag:
     - 'pedagogy'
 ---
 
-**What is informal learning?**
+## **What is informal learning?**
 
 Research definition of informal learning: Informal learning is defined as “**learning from experience that takes place outside formally structured, institutionally sponsored, class-room based activities” (Macià &amp; García, 2016).**
 

@@ -72,7 +72,11 @@ Benjamin Franklin once said: “Tell me and I forget, teach me and I may remembe
 
 Within your school term, your students will be working between group projects, completing solo assessments, listening to presentations as well as many other activities. In order to keep the creativity flowing between these learning set ups, the key is to keep your classroom layout adaptable and allow it to be easily reorganized.
 
-<figure class="lazyload-image" id="image-38601" markdown="1">[![Teach Thought](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155335/Teach-Thought-tb-728x01112111.jpg)](http://www.teachthought.com/pedagogy/the-science-of-classroom-design-graphic/)<div class="spinner"><div class="spinner__inner"></div></div></figure>[Teach Thought](http://www.teachthought.com/pedagogy/the-science-of-classroom-design-graphic/) provides an interesting solution to support this flexibility while still maintaining an area for focus. All four layouts are designing for either group or independent work, but they all have an interesting common element: a group table. This table would allow students to meet on a need basis without disruptions other students in the class.
+![Teach Thought](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155335/Teach-Thought-tb-728x01112111.jpg)
+
+![](http://www.teachthought.com/pedagogy/the-science-of-classroom-design-graphic/)
+
+[Teach Thought](http://www.teachthought.com/pedagogy/the-science-of-classroom-design-graphic/) provides an interesting solution to support this flexibility while still maintaining an area for focus. All four layouts are designing for either group or independent work, but they all have an interesting common element: a group table. This table would allow students to meet on a need basis without disruptions other students in the class.
 
 Feel free to experiment with different arrangements, but always make sure that your classroom is setup to accommodate for a range of learning activities and work styles.
 
@@ -84,9 +88,9 @@ Get inspiration from the ideas below, or check out [this list](http://gettingsma
 
 - **Ted talks**: Leaders and role models play an important role in the creative development of your students. What better way to bring some of the world’s most inspiring leaders right into your classroom than by incorporating TED talks into your curriculum. On the TED website you’ll find [thousands of videos](https://www.ted.com/talks) on a range of topics – making them suitable for all classes.
 
-<figure class="lazyload-image" id="image-38602">[![Ted Talks](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155337/ted-talks-tb-728x01112111.jpg)](https://www.ted.com/talks)</figure>- **Innovative lesson plans**: In the world of the Internet and social media, teaching visual communication is as important as any other type of literacy. Graphic design platform Canva has created [lesson plans](https://designschool.canva.com/teaching-materials/) on various topics which enhance students understanding of a topic through visual communication on their platform.
+![Ted Talks](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155337/ted-talks-tb-728x01112111.jpg)](https://www.ted.com/talks) **Innovative lesson plans**: In the world of the Internet and social media, teaching visual communication is as important as any other type of literacy. Graphic design platform Canva has created [lesson plans](https://designschool.canva.com/teaching-materials/) on various topics which enhance students understanding of a topic through visual communication on their platform.
 
-<figure class="lazyload-image" id="image-38594">[![Canva Teaching Materials](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155338/creative-classrooms-canva-tb-728x01112111.jpg)](https://designschool.canva.com/teaching-materials/)</figure>- **Podcasts**: Think of just about any subject or topic and chances are there’ll be a podcast covering it. As a starting point, browse through this list of [50 educational podcasts](http://www.opencolleges.edu.au/informed/features/50-educational-podcasts-you-should-check-out/) filled with ideas and inspiration for lesson plans.
+![Canva Teaching Materials](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155338/creative-classrooms-canva-tb-728x01112111.jpg)](https://designschool.canva.com/teaching-materials/) **Podcasts**: Think of just about any subject or topic and chances are there’ll be a podcast covering it. As a starting point, browse through this list of [50 educational podcasts](http://www.opencolleges.edu.au/informed/features/50-educational-podcasts-you-should-check-out/) filled with ideas and inspiration for lesson plans.
 
 ## 05. Encourage discussion
 
@@ -100,13 +104,14 @@ Some other reasons why discussion can be productive include:
 
 This could take the shape of a reflective session 10 minutes before the end of a session, or by asking one member of a group to present their ideas to the class. Download the [useful list](http://info.variquest.com/infovariquestcom/blogvariquestcom/cooperative-learning-a-social-activity) below and place it in your classroom to help guide meaningful conversation:
 
-<figure class="lazyload-image" id="image-38604">[![Variquest](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155340/Variquest-tb-728x01112111.jpg)](http://info.variquest.com/infovariquestcom/blogvariquestcom/cooperative-learning-a-social-activity)</figure>## 06. Replace hierarchy with collaborative learning spaces
+![Variquest](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155340/Variquest-tb-728x01112111.jpg)](http://info.variquest.com/infovariquestcom/blogvariquestcom/cooperative-learning-a-social-activity)
+
+## 06. Replace hierarchy with collaborative learning spaces
 
 Collaborative working spaces help students see themselves as co-constructors of knowledge, rather than “subjects” of teachers. Without hierarchical front to back row seating, every seat is the best seat in the class, and students are always at the center of learning.
 
 Maintain structure in less traditional ways by creating “zones” for different parts of the learning process, such as reflection and brainstorming. For ideas and inspiration for your classroom, watch the video [Flexible Learning Environments](https://www.youtube.com/watch?time_continue=1&v=O_x4OLsfReQ) as several teachers who have tried this mode of learning share their challenges and triumphs.
 
-<iframe data-mce-fragment="1" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/O_x4OLsfReQ" width="560"></iframe>
 
 ## 07. Encourage more color
 
@@ -114,9 +119,13 @@ Color in the classroom doesn’t only need to be for early primary school. Chall
 
 *As you can see in the examples below, anyone can get creative, even when it comes to [displaying the class rules](https://canva.me/Mzxg/OZ66VM6fYI) or [teaching students about triangles](https://canva.me/Mzxg/4fbUDPegYI).*
 
-<div>[![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132109/canva-blue-illustrated-classroom-management-poster-MACU-y_JGd8.jpg)](https://canva.me/Mzxg/OZ66VM6fYI)</div><div>[![Learn about triangles](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132110/canva-blue-triangles-math-classroom-poster-MACUgxR9k00.jpg)](https://canva.me/Mzxg/4fbUDPegYI)</div>Color can also be an incredibly powerful tool to aid students with absorbing information and learning new content. Encourage your students to use more color as a staple when taking notes. You’ll be surprised at how quickly they start absorbing new information.
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132109/canva-blue-illustrated-classroom-management-poster-MACU-y_JGd8.jpg)](https://canva.me/Mzxg/OZ66VM6fYI)
 
-<figure class="lazyload-image" id="image-38600">![Taking Notes](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155341/Taking-Notes-tb-728x01112111.jpg)</figure>## 08. Don’t limit assignments to one format
+![Learn about triangles](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132110/canva-blue-triangles-math-classroom-poster-MACUgxR9k00.jpg)](https://canva.me/Mzxg/4fbUDPegYI) Color can also be an incredibly powerful tool to aid students with absorbing information and learning new content. Encourage your students to use more color as a staple when taking notes. You’ll be surprised at how quickly they start absorbing new information.
+
+![Taking Notes](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155341/Taking-Notes-tb-728x01112111.jpg)
+
+## 08. Don’t limit assignments to one format
 
 Allowing students to choose the format of their own assignments allows them to explore the task using a format they enjoy the most, making them more naturally inclined to draw on their creativity.
 
@@ -124,19 +133,23 @@ For example, imagine students were required to read the book “No Sugar” as p
 
 *Getting your students to create a poster on sensible topics can be helpful to open a discussion. Try this [Human Rights Poster](https://canva.me/Mzxg/K2kQKVrgYI).*
 
-<figure class="lazyload-image" id="image-38615">[![Yellow People Illustration Human Rights Poster](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155343/Yellow-People-Illustration-Human-Rights-Poster-tb-728x01112111.jpg)](https://canva.me/Mzxg/K2kQKVrgYI "Use this template")<div class="spinner"></div><figcaption></figcaption></figure>*Ask your students to create a menu for a special occasion. Working on both the content and the design makes the assignment more entertaining (and instructive). Have a go with this [Thanksgiving Menu](https://canva.me/Mzxg/x0Ub6WxgYI).*
+![Yellow People Illustration Human Rights Poster](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155343/Yellow-People-Illustration-Human-Rights-Poster-tb-728x01112111.jpg)](https://canva.me/Mzxg/K2kQKVrgYI) *Ask your students to create a menu for a special occasion. Working on both the content and the design makes the assignment more entertaining (and instructive). Have a go with this [Thanksgiving Menu](https://canva.me/Mzxg/x0Ub6WxgYI).*
 
-<figure class="lazyload-image" id="image-38616">[![Orange with Flowers Thanksgiving Menu](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155345/Orange-with-Flowers-Thanksgiving-Menu-tb-728x01112111.jpg)](https://canva.me/Mzxg/x0Ub6WxgYI "Use this template")</figure>*Keep your students happy by speaking their language. Add some flair to your worksheets using this [Pet Writing Prompt Worksheet](https://canva.me/Mzxg/yCyKlgDgYI).*
+![Orange with Flowers Thanksgiving Menu](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155345/Orange-with-Flowers-Thanksgiving-Menu-tb-728x01112111.jpg)(https://canva.me/Mzxg/x0Ub6WxgYI "Use this template") *Keep your students happy by speaking their language. Add some flair to your worksheets using this [Pet Writing Prompt Worksheet](https://canva.me/Mzxg/yCyKlgDgYI).*
 
-<figure class="lazyload-image" id="image-38617">[![Teal and Black Persuasive Essay Dog Pet Writing Prompt Worksheet](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155347/Teal-and-Black-Persuasive-Essay-Dog-Pet-Writing-Prompt-Worksheet-tb-728x01112111.jpg)](https://canva.me/Mzxg/yCyKlgDgYI "Use this template")</figure>*Want them to learn astronomy? Get them to create an infographic about planets like this [Solar System Statistics Infographic](https://canva.me/Mzxg/EHnlFN3gYI).*
+![Teal and Black Persuasive Essay Dog Pet Writing Prompt Worksheet](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155347/Teal-and-Black-Persuasive-Essay-Dog-Pet-Writing-Prompt-Worksheet-tb-728x01112111.jpg)](https://canva.me/Mzxg/yCyKlgDgYI "Use this template")*Want them to learn astronomy? Get them to create an infographic about planets like this [Solar System Statistics Infographic](https://canva.me/Mzxg/EHnlFN3gYI).*
 
-<figure class="lazyload-image" id="image-38618">[![The Planets](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155348/The-Planets-tb-728x01112111.jpg)](https://canva.me/Mzxg/EHnlFN3gYI "Use this template")</figure>## 09. Incorporate humour into your classroom
+![The Planets](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155348/The-Planets-tb-728x01112111.jpg) (https://canva.me/Mzxg/EHnlFN3gYI "Use this template")
+
+## 09. Incorporate humour into your classroom
 
 Humour is an important part of creating a positive environment in which creativity can flourish. Draw on pop culture references, use puns and find relevant jokes that make light of the learning process.
 
 *If you want to decorate your Arts or English classroom, get a head start with these two templates: [Earth without art](https://canva.me/Mzxg/54oupPdPZI) and [Let’s eat grandma](https://canva.me/Mzxg/E3W7TKiPZI).*
 
-<div>[![Earth Without Art](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132122/Neon-Quote-Poster.jpg)](https://canva.me/Mzxg/54oupPdPZI)</div><div>[![Lets Eat Grandma](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132125/Blue-and-Red-Quote-Social-Media-Post.jpg)](https://canva.me/Mzxg/E3W7TKiPZI)</div>In this [blog article](http://www.edutopia.org/blog/creating-classroom-culture-of-laughter-laura-davis), Laura Davis also talks about how you can use humour in a team building environment to encourage students to laugh with each other, not at each other, and make light of small failures.
+![Earth Without Art](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132122/Neon-Quote-Poster.jpg)](https://canva.me/Mzxg/54oupPdPZI)
+
+![Lets Eat Grandma](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132125/Blue-and-Red-Quote-Social-Media-Post.jpg)(https://canva.me/Mzxg/E3W7TKiPZI)) In this [blog article](http://www.edutopia.org/blog/creating-classroom-culture-of-laughter-laura-davis), Laura Davis also talks about how you can use humour in a team building environment to encourage students to laugh with each other, not at each other, and make light of small failures.
 
 ## 10. Rewards &amp; recognition are key to motivating your students
 
@@ -144,7 +157,9 @@ Having achievements recognized is an important part of the creative learning pro
 
 *Give it a go with our [Yellow Bordered Appreciation Certificate](https://canva.me/Mzxg/XHkRsCNhYI).*
 
-<figure class="lazyload-image" id="image-38608">[![Yellow Bordered Appreciation Certificate](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155350/Yellow-Bordered-Appreciation-Certificate-tb-728x01112111.jpg)](https://canva.me/Mzxg/XHkRsCNhYI "Use this template")</figure>## 11. Film a classroom video diary
+![Yellow Bordered Appreciation Certificate](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155350/Yellow-Bordered-Appreciation-Certificate-tb-728x01112111.jpg)[Use this Template](https://canva.me/Mzxg/XHkRsCNhYI)
+
+## 11. Film a classroom video diary
 
 A key creativity mindset is that the learning process is never ending. Help students look retrospectively on their own learning processes by filming a video diary throughout the course or year.
 
@@ -160,7 +175,9 @@ This also adds an emotional element to the process – allowing them to become m
 
 Empowering students to set their own goals is an incredible motivator. Goals can be decided on a project or term basis and should always be achievable. By giving students a clear vision for where they want their learning to take them, they become naturally more inclined to find creative solutions to get them there.
 
-<figure class="lazyload-image" id="image-38599">![Setting Goals](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155352/Setting-Goals-tb-728x01112111.jpg)</figure>## 13. Pin up motivational posters
+![Setting Goals](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155352/Setting-Goals-tb-728x01112111.jpg)</figure>
+
+## 13. Pin up motivational posters
 
 Using inspiration quotes and posters around your classroom is a great way encourage your students to unleash their creative potential. Browse this awesome list of [50 inspirational posters](https://www.canva.com/learn/motivational-quotes-inspiring-posters/) and print them out for your classroom today, or simply edit one of the templates below: *[Celebrate learning](https://canva.me/Mzxg/HkNXd0XhYI) or [Put mistakes in perspective](https://canva.me/Mzxg/kC02kB4hYI).*
 

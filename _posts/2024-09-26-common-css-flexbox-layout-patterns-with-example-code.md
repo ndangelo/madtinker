@@ -19,7 +19,7 @@ Source: <https://tobiasahlin.com/blog/common-flexbox-patterns>
 
 In theory, using flexbox (Flexible Box Module) to build complex layouts is pretty straightforward. Still, they have often found themselves adding `display: flex` to an element and spending an eternity trying to figure out how to make anything behave as expected. If you’re anything like them, here’s a list of 10 example flexbox layouts with CSS that you can copy and paste to get started with your layouts. They will walk through these basic layout patterns (click to jump to an example).
 
-![Flex Layout](https://image-control-storage.s3.amazonaws.com/2024/09/26125210/image-172-1024x375.png)</figure></div>Every example assumes that your HTML contains an element with a class of `container` , which then contains several children that all have a class of `item` (the number of children varies per example):
+![Flex Layout](https://image-control-storage.s3.amazonaws.com/2024/09/26125210/image-172-1024x375.png)Every example assumes that your HTML contains an element with a class of `container` , which then contains several children that all have a class of `item` (the number of children varies per example):
 
 ```markup
 <div class="container">
@@ -33,7 +33,7 @@ In theory, using flexbox (Flexible Box Module) to build complex layouts is prett
 
 ## Stretch all fixed spacing
 
-![Stretch all, fixed spacing](https://image-control-storage.s3.amazonaws.com/2024/09/26125351/image-173-1024x270.png)</figure></div>See the Pen Stretch all fixed spacing: Flexbox by Nicholas D’Angelo (@ndangelo) on CodePen.
+![Stretch all, fixed spacing](https://image-control-storage.s3.amazonaws.com/2024/09/26125351/image-173-1024x270.png)See the Pen Stretch all fixed spacing: Flexbox by Nicholas D’Angelo (@ndangelo) on CodePen.
 
 The most basic flexbox pattern is getting a few boxes to stretch and fill the full width of their parent element. All you need to do is to set `display: flex` on the container, and a `flex-grow` value above `0` on the children:
 
@@ -61,7 +61,7 @@ Increasing `flex-grow` will increase *the amount of space* that an element is al
 
 ## Stretch middle, fixed spacing
 
-![Stretch middle, fixed spacing](https://image-control-storage.s3.amazonaws.com/2024/09/26125701/image-177-1024x262.png)</div>See the Pen Stretch all fixed spacing: Flexbox by Nicholas D’Angelo (@ndangelo) on CodePen.
+![Stretch middle, fixed spacing](https://image-control-storage.s3.amazonaws.com/2024/09/26125701/image-177-1024x262.png)See the Pen Stretch all fixed spacing: Flexbox by Nicholas D’Angelo (@ndangelo) on CodePen.
 
 A common app and web pattern is to create a top bar where we want to stretch only the middle element, but keep the right most and left most elements fixed. If we just want one element to stretch, we can set a fixed width (e.g. `100px`) on an element that should stay static, and `flex-grow: 1` on the element that should stretch:
 
@@ -147,7 +147,7 @@ You can change the `flex-basis` to increase or decrease the number of items on e
 ## 3×3 grid, constrained proportions (1:1)
 
 ![3x3 grid, constrained proportions (1:1)](https://image-control-storage.s3.amazonaws.com/2024/09/30171944/image-209-998x1024.png)
-See the Pen 3×3 Grid: Flexbox by Nicholas D’Angelo (@ndangelo) on CodePen.
+
 
 Using a somewhat hacky CSS trick, we can create a grid full of items with constrained proportions. If we use padding-bottom when setting width on an element, the width is set relative to that item’s parent’s width. We can use that effect to create a square by setting an item’s padding-bottom and width to the same value (and effectively setting the height of that element through padding).
 
@@ -286,7 +286,7 @@ I’ve written [another post that explains in detail how this works and why](htt
 
 If we make sure to render each of those groups as one column (no more, no less), it’ll create the illusion that the items have returned to their original order when you read from left to right. If we visually parse the grid as rows, the first row will contain the first element from every group (`1, 2, 3`), the second row will contain the second element from every group (`4, 5, 6`), and so on so forth. We then insert elements between the columns that take up 100% of the parent’s height, [which force the columns to line break](https://tobiasahlin.com/blog/flexbox-break-to-new-row/) and not accidentally merge with adjacent columns. Here’s the full CSS snippet:
 
-```
+```css
 .container {
   display: flex;
   flex-flow: column wrap;
@@ -353,6 +353,7 @@ Flexbox has no easy way of rendering items with a `column` layout while using a 
 This will create a masonry layout with items rendered as columns but ordered as rows (the gray vertical lines represent the pseudo elements that [force line breaks](https://tobiasahlin.com/blog/flexbox-break-to-new-row/):
 
 ![masonry layout](https://image-control-storage.s3.amazonaws.com/2024/09/01125450/image-221-1024x831.png)
+
 Let’s break down the implementation (or [jump to the solution](https://tobiasahlin.com/blog/masonry-with-css/#the-solution), or [see the codepen collection](https://codepen.io/collection/XPjvPP/)).
 
 ## Pick your poison: a shuffled order, or weird gaps
@@ -496,7 +497,7 @@ To create a masonry layout with more than three columns, we need to adapt our so
 
 Since we’re limited to creating just two pseudo-elements with `:before` and `:after` we need to manually add break elements into our container (you need one less break element than the number of columns in your layout). You can append them to the end of your container, they’ll be sorted into their respective columns:
 
-```markup
+```html
 <div class="container">
   <div class="item"></div>
   <div class="item"></div>

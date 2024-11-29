@@ -7,20 +7,7 @@ layout: post
 guid: 'https://www.nuggetofjoy.com/?p=66334'
 permalink: /design-the-next-two-app-screens/
 enclosure:
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_01.mp4\n608885\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_02.mp4\n544441\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_03.mp4\n2296503\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_05.mp4\n2294779\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_06.mp4\n984416\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_07.mp4\n1113913\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_08.mp4\n6289426\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_09.mp4\n1365431\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_10.mp4\n1613856\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_11.mp4\n932353\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_12.mp4\n1792953\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_13.mp4\n607740\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_14.mp4\n917396\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_15.mp4\n1920218\nvideo/mp4\n"
+  
 categories:
     - Projects
 ---
@@ -46,7 +33,9 @@ Today we’re going to add two more app screens to the one we already have. Our 
 
 You know the routine by now: open your Figma file, hit F, and select iPhone SE. Then, set up the layout grid in your new frame: 3 columns, 16-pixel gutter, 16-pixel margin.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_01.mp4"></video></figure>### 2. Create the bottom nav
+<figure class="wp-block-video"><video controls="" loop="" muted="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_01.mp4"></video></figure>
+
+### 2. Create the bottom nav
 
 First, create the “bottom nav”—the row of navigation icons often found at the bottom of the screen in mobile apps. This is also known as the “tab bar” for iOS design. Create a rectangle that spans the screen’s width and is 64 pixels tall. Set a fill color for the rectangle—we’ve gone with the blue we used for the background of the first screen the other day (#2F80ED).
 
@@ -54,9 +43,10 @@ First, create the “bottom nav”—the row of navigation icons often found at 
 
 <figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_03.mp4"></video></figure>Once that’s done, duplicate and drag the home and profile icons from the Frame containing your icons. Let’s align them to the left and right edges of the column grid, respectively. Recolor them to white and increase the stroke weight to 2 Properties panel.
 
-<div class="wp-block-image"><figure class="aligncenter">![Stroke weight](https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/6580ac56f812253c990cf6f1_F101_D4_04.jpeg)</figure></div>Duplicate and bring over the camera logo. Resize it to match the other two icons and change its color to white as well.
+![Stroke weight](https://cdn.prod.website-files.com/65130e79c72ae8812db3412e/6580ac56f812253c990cf6f1_F101_D4_04.jpeg)
+Duplicate and bring over the camera logo. Resize it to match the other two icons and change its color to white as well.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_05.mp4"></video></figure>‍
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_05.mp4"></video></figure>
 
 ### 3. Add a small version of the wordmark at the top of the screen
 
@@ -74,7 +64,9 @@ Press ⌘Shift ⇧K (Mac) or CtrlShift ⇧K, and select a photo to upload. (You 
 
 Figma will then display a crosshair mouse pointer. Click and drag within the Frame to place the image. We want it to be 1 column wide and square. You might need to tweak this in the Inspector after adding the image—set the image to be 85 pixels wide and 85 pixels high.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_07.mp4"></video></figure>### ‍5. Add the other photos and arrange them
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_07.mp4"></video></figure>
+
+### 5. Add the other photos and arrange them
 
 Repeat this step to add all 12 photos to the photo stream. Take this opportunity to experiment with the different ways of inserting photos in Figma. Note that when you insert an image, Figma creates a rectangle with the image set as the fill.
 
@@ -84,17 +76,23 @@ Set each image to be 85 pixels by 85 pixels, then arrange the photos in a grid f
 
 Also, note that we can select multiple photos using the Place Image command. We then have to wait for those images to upload to Figma before clicking and dragging to place them. Here’s a video of the whole process of inserting, resizing, and aligning the images.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_08.mp4"></video></figure>### 6. Duplicate the Frame
+<figure class="wp-block-video"><video controls="" loop="" muted="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_08.mp4"></video></figure>
+
+### 6. Duplicate the Frame
 
 This time, instead of creating a new Frame from scratch, let’s duplicate the Frame we’ve just been working on. To do this, click on the Frame’s name (either from the Canvas or from the Layers list). Then, hit ⌘D (Mac) or CtrlD (PC) to duplicate the frame and its contents.
 
 Delete all but one of the images in the new frame. Then, resize the remaining image so that it occupies all three columns of the grid. Holding down Shift ⇧ will ensure the image keeps its square shape when resized.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_09.mp4"></video></figure>### 7. Create a caption and date stamp
+<figure class="wp-block-video"><video controls="" loop="" muted="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_09.mp4"></video></figure>
+
+### 7. Create a caption and date stamp
 
 Then, let’s create two Text layers: the first with the caption for the photo and the second with a date stamp for the post. Create some “visual hierarchy” between these two by making the caption larger and bolder than the date. We chose Inter Bold at 16 pixels for the caption and Inter Regular at 12 pixels for the date. Adding visual hierarchy in this way allows one element to be more prominent than another, helping the user read the information in an order that optimizes their experience.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_10.mp4"></video></figure>### 8. Create an avatar
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_10.mp4"></video></figure>
+
+### 8. Create an avatar
 
 Let’s create a circular avatar next to the caption and date stamp! This time, we’ll use the Mask function. Using a mask, rather than simply filling a shape using an image fill, means that we can easily scale the image up and down and also position it exactly how we want it within the circle. To do this, follow these steps:
 
@@ -110,14 +108,21 @@ Let’s create a circular avatar next to the caption and date stamp! This time, 
 
 7\. Finally, click the “Use as Mask” button at the top of the screen. The circle will now clip the image.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_12.mp4"></video></figure>Before moving on, let’s take a look at how the Mask is displayed in the Layers list. If you click the little arrow to drill down into the Mask group, you can then select the image you just placed, and reposition or resize the image until you’re happy with it.
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_12.mp4"></video></figure>
+Before moving on, let’s take a look at how the Mask is displayed in the Layers list. If you click the little arrow to drill down into the Mask group, you can then select the image you just placed, and reposition or resize the image until you’re happy with it.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_13.mp4"></video></figure>### 9. Tidy up the layout
+<figure class="wp-block-video"><video controls="" loop="" muted="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_13.mp4"></video></figure>
+
+### 9. Tidy up the layout
 
 Finally, the avatar, caption, and date-stamp Text layers should be repositioned so that they are lined up properly with the 6-column grid and there is consistent spacing between elements. It’s always good to take a cue for spacing from the grid. We chose 16-pixel spacing for the grid, so we could aim to stick to multiples of 8 pixels, for example, to keep things consistent. Remember that Option (Mac) or Alt (PC) can hover over other elements and check the spacing.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_14.mp4"></video></figure>### 10. Create a comment box
+<figure class="wp-block-video"><video controls="" loop="" muted="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_14.mp4"></video></figure>
+
+### 10. Create a comment box
 
 Finally, for today, hit R and create a rectangle below these elements to form a comment box. Set it to be a light gray (like #F1F1F1), then add a text layer on top of it that reads “Add a comment…”:
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_15.mp4"></video></figure>From: Figma 101: Design the Next Two App Screens. (n.d.). Retrieved from https://designlab.com/figma-101-course/design-the-next-two-app-screens
+<figure class="wp-block-video"><video controls="" loop="" muted="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D4_15.mp4"></video></figure>
+
+From: Figma 101: Design the Next Two App Screens. (n.d.). Retrieved from https://designlab.com/figma-101-course/design-the-next-two-app-screens

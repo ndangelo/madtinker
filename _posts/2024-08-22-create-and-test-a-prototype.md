@@ -7,14 +7,7 @@ layout: post
 guid: 'https://www.nuggetofjoy.com/?p=66339'
 permalink: /create-and-test-a-prototype/
 enclosure:
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D5_02.mp4\n737300\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D5_03.mp4\n346496\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D5_05.mp4\n328903\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D5_06.mp4\n632964\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D5_07.mp4\n343327\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D5_08.mp4\n1737465\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D5_10.mp4\n1223288\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D5_11.mp4\n990020\nvideo/mp4\n"
+
 categories:
     - Projects
 

@@ -50,7 +50,9 @@ Is your layout in ![alignment](https://www.thoughtco.com/alignment-in-page-layou
 
 ### Repetition / Consistency
 
-![Consistency](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184059/consistency-58babbe23df78c353c433487.png)](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184059/consistency-58babbe23df78c353c433487.png) Do your designs exhibit [consistency](https://www.thoughtco.com/desktop-publishing-4133437)?Repeating design elements and consistent use of type and graphics styles within a document shows readers where to go and helps them navigate your designs and layouts safely. Ensure that your document utilizes the principles of repetition, consistency and unity in page design. Do page numbers appear in the same location from page to page? Are major and minor headlines consistent in size, style and placement? Have you used a consistent graphic or illustration style throughout?  
+![Consistency](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184059/consistency-58babbe23df78c353c433487.png)
+
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184059/consistency-58babbe23df78c353c433487.png) Do your designs exhibit [consistency](https://www.thoughtco.com/desktop-publishing-4133437)?Repeating design elements and consistent use of type and graphics styles within a document shows readers where to go and helps them navigate your designs and layouts safely. Ensure that your document utilizes the principles of repetition, consistency and unity in page design. Do page numbers appear in the same location from page to page? Are major and minor headlines consistent in size, style and placement? Have you used a consistent graphic or illustration style throughout?  
 Check Your Use of the Principles of Repetition and [Consistency](https://www.thoughtco.com/use-fewer-fonts-1074171)
 
 
