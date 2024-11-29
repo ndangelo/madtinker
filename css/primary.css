@@ -190,6 +190,7 @@ a:hover {
   flex-wrap: wrap;
   overflow-wrap: break-word;
   min-width: 380px;
+  width: 100%;
 }
 
 .footer {
@@ -378,6 +379,7 @@ body {
     min-width: 350px;
     padding: 15px;
     overflow-wrap: break-word;
+    width: 100%;
   }
 
   .container ul {
@@ -457,6 +459,7 @@ body {
     /*flex-grow: 1;*/
     min-width: 350px;
     overflow-wrap: break-word;
+    width: 100%;
   }
 
   .item3 {
