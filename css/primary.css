@@ -171,12 +171,16 @@ a:hover {
   flex-wrap: wrap;
   border: solid 2px lightblue;
   padding: 5px;
+   height: auto;
+ overflow: scroll;
 }
 
 .container {
   display: flex;
  /*justify-content: space-between;*/
  border: solid 2px lightblue;
+ height: auto;
+ overflow: scroll;
   flex-wrap: wrap;
   min-width: 380px;
 }

@@ -91,7 +91,7 @@ Hope you find this helpful.
 
 ### 4. Paula Scher — Graphic Designer, New York, USA
 
-<figure class="graf graf--figure graf-after--h3" id="521b"><div class="aspectRatioPlaceholder is-locked"><div class="aspectRatioPlaceholder-fill"> ![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184142/1_CZVxLxRBzNyOz97tfqEP5g.png)![]()</div><div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-action="zoom" data-action-value="1*CZVxLxRBzNyOz97tfqEP5g.png" data-height="273" data-image-id="1*CZVxLxRBzNyOz97tfqEP5g.png" data-scroll="native" data-width="800"><canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" height="25" width="75">![]()</canvas></div></div><figcaption class="imageCaption">[Paula Scher](https://www.pentagram.com/about/paula-scher)</figcaption></figure>#### Books
+<figure markdown="1" class="graf graf--figure graf-after--h3" id="521b"><div class="aspectRatioPlaceholder is-locked"><div class="aspectRatioPlaceholder-fill"> ![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184142/1_CZVxLxRBzNyOz97tfqEP5g.png)![]()</div><div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-action="zoom" data-action-value="1*CZVxLxRBzNyOz97tfqEP5g.png" data-height="273" data-image-id="1*CZVxLxRBzNyOz97tfqEP5g.png" data-scroll="native" data-width="800"><canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" height="25" width="75">![]()</canvas></div></div><figcaption class="imageCaption">[Paula Scher](https://www.pentagram.com/about/paula-scher)</figcaption></figure>#### Books
 
 - [Graphic Design Portfolio: How to Make a Good One](https://goo.gl/v5WHVs)
 - [MAPS](https://goo.gl/v7V3pP)
