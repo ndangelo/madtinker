@@ -31,41 +31,71 @@ Poland
 by [<span class="ile-sp">Andrew Ackroyd</span>](http://andrewackroyd.deviantart.com/)  
 United Kingdom
 
-<figure class="wp-block-image">![](https://image-control-storage.s3.amazonaws.com/2017/05/09151346/035.jpg)</figure>## 4. Punk Typography
+<figure class="wp-block-image">
+
+![](https://image-control-storage.s3.amazonaws.com/2017/05/09151346/035.jpg)</figure>
+
+## 4. Punk Typography
 
 by [<span class="ile-sp">TPHorne</span>](http://tphorne.deviantart.com/)
 
-<figure class="wp-block-image">![](https://image-control-storage.s3.amazonaws.com/2017/05/09151147/044.jpg)</figure>## 5. Funke – Terry Francis
+<figure class="wp-block-image">
+
+![](https://image-control-storage.s3.amazonaws.com/2017/05/09151147/044.jpg)</figure>
+
+## 5. Funke – Terry Francis
 
 by [<span class="ile-sp">Sébastien Nikolaou</span>](http://www.sebdesign.eu/)  
 Greece
 
-<figure class="wp-block-image">![](https://image-control-storage.s3.amazonaws.com/2017/05/09151148/054.jpg)</figure>## 6. AIGA Typo Show
+<figure class="wp-block-image">
+
+![](https://image-control-storage.s3.amazonaws.com/2017/05/09151148/054.jpg)</figure>
+
+## 6. AIGA Typo Show
 
 by [<span class="ile-sp">Allison Wilton</span>](http://www.allisonwilton.com/)  
 United States
 
-<figure class="wp-block-image">![](https://image-control-storage.s3.amazonaws.com/2017/05/09151357/064.jpg)</figure>## 7. Bauhaus Typography
+<figure class="wp-block-image">
+
+![](https://image-control-storage.s3.amazonaws.com/2017/05/09151357/064.jpg)</figure>
+
+## 7. Bauhaus Typography
 
 by [<span class="ile-sp">Samuel “SeriousSamm”</span>](http://serioussamm.deviantart.com/?offset=20)  
 United States
 
-<div class="wp-block-image"><figure class="aligncenter">![](https://image-control-storage.s3.amazonaws.com/2017/05/09151359/075.jpg)</figure></div>## **8. “T” ypography**
+<div class="wp-block-image"><figure class="aligncenter">
+
+![](https://image-control-storage.s3.amazonaws.com/2017/05/09151359/075.jpg)</figure></div>
+
+## **8. “T” ypography**
 
 by [<span class="ile-sp">“bacon111″</span>](http://bacon111.deviantart.com/)  
 United Kingdom
 
-<div class="finline-large"><figure>[![](https://image-control-storage.s3.amazonaws.com/2017/05/09152946/086.jpg)](http://bacon111.deviantart.com/art/quot-T-quot-ypography-Poster-47317806)</figure></div>## **9. Jimi Hendrix**
+<div class="finline-large"><figure>
+
+![](https://image-control-storage.s3.amazonaws.com/2017/05/09152946/086.jpg)](http://bacon111.deviantart.com/art/quot-T-quot-ypography-Poster-47317806)</figure></div>
+
+## **9. Jimi Hendrix**
 
 by [<span class="ile-sp">Kuba Czerniak</span>](http://kubah.deviantart.com/)  
 Canada
 
-<figure class="wp-block-image">![](https://image-control-storage.s3.amazonaws.com/2017/05/09151154/094.jpg)</figure>## 10. Better Than Nothing
+<figure class="wp-block-image">
+
+![](https://image-control-storage.s3.amazonaws.com/2017/05/09151154/094.jpg)</figure>
+
+## 10. Better Than Nothing
 
 by [<span class="ile-sp">Nils Davey</span>](http://www.uncommunicative.com/)  
 United States
 
-<figure class="wp-block-image">![](https://image-control-storage.s3.amazonaws.com/2017/05/09151406/1016.jpg)</figure>## 11. Helvetica
+<figure class="wp-block-image">
+
+![](https://image-control-storage.s3.amazonaws.com/2017/05/09151406/1016.jpg)</figure>## 11. Helvetica
 
 by [<span class="ile-sp">William Antonius</span>](http://williamxu.deviantart.com/)  
 Indonesia

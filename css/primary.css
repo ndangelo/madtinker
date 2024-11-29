@@ -565,6 +565,11 @@ max-width: 100%;*/
     width: 340px;
   }
 
+    .madtinker_main img {
+
+    width: 140px;
+  }
+
   .correction {
   display: flex;
   flex-grow: 1;
