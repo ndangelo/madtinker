@@ -10,4 +10,6 @@ categories:
     - Projects
 ---
 
-[![10 Great Web font combinations by Stepto & Son Design](https://www.steptoandson.co.uk/images/10-great-web-font-combinations.png)](https://www.steptoandson.co.uk/services/10-great-web-font-combinations/)10 Great Web Font Combinations from [Stepto &amp; Son Design](https://www.steptoandson.co.uk/)
+![10 Great Web font combinations by Stepto & Son Design](https://www.steptoandson.co.uk/images/10-great-web-font-combinations.png)
+
+[](https://www.steptoandson.co.uk/services/10-great-web-font-combinations/)10 Great Web Font Combinations from [Stepto &amp; Son Design](https://www.steptoandson.co.uk/)

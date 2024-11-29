@@ -6,8 +6,7 @@ author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=65410'
 permalink: /8-brand-awareness-campaign-ideas-examples-for-social-entrepreneurs-and-enterprises/
-amazonS3_cache:
-    - 'a:4:{s:54:"//www.nuggetofjoy.com/wp-content/uploads/image-137.png";a:2:{s:2:"id";i:65416;s:11:"source_type";s:13:"media-library";}s:63:"//www.nuggetofjoy.com/wp-content/uploads/image-137-1024x577.png";a:2:{s:2:"id";i:65416;s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2024/07/09100227/image-137.png";a:2:{s:2:"id";i:65416;s:11:"source_type";s:13:"media-library";}s:80:"//image-control-storage.s3.amazonaws.com/2024/07/09100227/image-137-1024x577.png";a:2:{s:2:"id";i:65416;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'Interactive and Social Media'
 ---

@@ -25,7 +25,12 @@
 
 article {
 
-  min-width: 380px;
+  min-width: 350px;
+}
+
+article.post {
+
+  min-width: 350px;
 }
 
 
@@ -368,7 +373,7 @@ body {
     flex-wrap: wrap;
     flex-direction: column;
     flex-grow: 1;
-    min-width: 380px;
+    min-width: 350px;
     padding: 15px;
     overflow-wrap: break-word;
   }
@@ -388,7 +393,7 @@ body {
     border-radius: 3px;
     padding: 15px;
     width: 100%;
-    min-width: 380px;
+    min-width: 350px;
     overflow-wrap: break-word;
   }
 
@@ -507,6 +512,16 @@ max-width: 100%;*/
 
     width: 140px;
   }
+
+article {
+
+  min-width: 350px;
+}
+
+article.post {
+
+  min-width: 350px;
+}
 
 
 }

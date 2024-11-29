@@ -10,5 +10,8 @@ categories:
     - 'DMET 375 IMAGING TECHNOLOGY'
 ---
 
-[![[INFOGRAPHIC]: The 10 Commandments of Typography](https://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg "[INFOGRAPHIC]: The 10 Commandments of Typography")](https://www.designmantic.com/blog/infographics/ten-commandments-of-typography/)  
+![INFOGRAPHIC]: The 10 Commandments of Typography](https://www.designmantic.com/blog/wp-content/uploads/2014/04/font-infography.jpg)
+
+[The 10 Commandments of Typography](https://www.designmantic.com/blog/infographics/ten-commandments-of-typography/)  
+
 Courtesy of: [Designmantic.com](https://www.designmantic.com/)

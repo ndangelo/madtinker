@@ -13,7 +13,9 @@ categories:
 
 Zagrobelna, M. (2023). How to Create a Glass Effect in Photoshop: Envato Tuts+. Retrieved from https://design.tutsplus.com/tutorials/how-to-create-a-glass-effect-in-photoshop–cms-93789
 
-<div class="wp-block-image"><figure class="aligncenter">![Final product image](https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/108/posts/93789/final_image/glass_effect_photoshop_final.jpg)<figcaption class="wp-element-caption">What You’ll Be Creating</figcaption></figure></div>In this tutorial, you’ll learn to create a realistic reflective glass effect. Because a frosted glass effect may mean two different things, I’ll show you the techniques to achieve both: a foggy glass overlay useful for UI elements and a realistic glass texture.
+![Final product image](https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/108/posts/93789/final_image/glass_effect_photoshop_final.jpg)
+
+<figcaption class="wp-element-caption">What You’ll Be Creating</figcaption></figure></div>In this tutorial, you’ll learn to create a realistic reflective glass effect. Because a frosted glass effect may mean two different things, I’ll show you the techniques to achieve both: a foggy glass overlay useful for UI elements and a realistic glass texture.
 
 ## What You’ll Learn in This Glass Effect Photoshop Tutorial
 
@@ -33,7 +35,13 @@ Let’s start with the most basic Photoshop glass effect. Open your image in Pho
 
 **Duplicate** the Smart Object **(Control-J)** and put it into a group **(Control-G)**.
 
-<div class="wp-block-image"><figure class="aligncenter">![put layer into group](https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/108/posts/93789/image-upload/glass_effect_photoshop_1_2.png)</figure></div>### Step 3
+<div class="wp-block-image"><figure class="aligncenter">
+
+![put layer into group](https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/108/posts/93789/image-upload/glass_effect_photoshop_1_2.png)
+
+</figure></div>
+
+### Step 3
 
 Use the **Rectangular Marquee Tool (M)**, or any other selection tool, to select the area that you want to apply your frosted glass effect to. Then add a **Layer Mask** to the group.
 
