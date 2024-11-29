@@ -443,7 +443,7 @@ body {
     flex-wrap: wrap;
     flex-direction: column;
     /*border: solid 2px lightblue;*/
-    flex-grow: 1;
+    /*flex-grow: 1;*/
     min-width: 350px;
   }
 
@@ -493,6 +493,8 @@ max-width: 100%;*/
 
     width: 340px;
     margin: auto;
+    display: flex;
+    justify-content: center;
   }
 
   .madtinker_main img {
