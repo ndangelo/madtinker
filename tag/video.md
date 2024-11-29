@@ -5,7 +5,7 @@ categories: [Video]
 tags: video
 ---
 
-<ul class="correction">
+<ul>
 
   {% for post in site.categories.Video %}
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
@@ -13,6 +13,6 @@ tags: video
       <span>{{ post.excerpt }}</span>
     
   {% endfor %}
-  
+
 </ul>
 

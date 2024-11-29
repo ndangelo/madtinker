@@ -5,7 +5,7 @@ categories: [Art]
 tags: art
 ---
 
-<ul class="correction">
+<ul>
 
   {% for post in site.categories.Art %}
 
