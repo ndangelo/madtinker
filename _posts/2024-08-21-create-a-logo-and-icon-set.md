@@ -7,15 +7,7 @@ layout: post
 guid: 'https://www.nuggetofjoy.com/?p=66330'
 permalink: /create-a-logo-and-icon-set/
 enclosure:
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_01.mp4\n346424\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_02.mp4\n166925\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_03.mp4\n560038\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_04.mp4\n866669\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_05.mp4\n1576309\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_06.mp4\n896807\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_07.mp4\n1940904\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_08.mp4\n3027168\nvideo/mp4\n"
-    - "https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_09.mp4\n4018091\nvideo/mp4\n"
+
 categories:
     - UI/UX
 ---
@@ -48,31 +40,31 @@ For today, though, let’s hit F and create a new iPhone 8 SE. We’re not going
 
 Inspired by Instagram’s logo, let’s create a little camera logo just using shapes. This is as simple as stacking a couple of circles on top of a rectangle. First, press R, and drag a rectangle 64 pixels by 64 pixels. If the size isn’t quite right, you can tweak it by changing the size values in the Properties panel to the right, or by resizing the rectangle using the resize handles.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_01.mp4"></video></figure>‍
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_01.mp4"></video></figure>
 
 ### 3. Round the corners of the rectangle
 
 Next, round the corners of the rectangle just like we did on Day 1 when we made our button. This time, set the corner radius to be 18 pixels.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_02.mp4"></video></figure>‍
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_02.mp4"></video></figure>
 
 ### 4. Draw a circle for the camera lens
 
 Then, press O to select the ellipse (circle/oval) tool. Click and drag to create a circle that’s 32 pixels by 32 pixels. You can hold down Shift ⇧ while doing this to “constrain” the shape—meaning that that height and width stay the same. Set it to have a white fill color so that we can see it on top of the rectangle.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_03.mp4"></video></figure>‍
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_03.mp4"></video></figure>
 
 ### 5. Align the two shapes horizontally and vertically
 
 Zoom in a bit and then click and drag a marquee around the two shapes you just made. At the top of the Properties panel, select the “Align Horizontal Centers” and “Align Vertical Centers” buttons.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_04.mp4"></video></figure>‍
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_04.mp4"></video></figure>
 
 ### 6. Create another circle for the light meter
 
 Finally, create another circle, this time 8 pixels by 8 pixels, and set that to have a white fill, too. Position it at the top-right of the rectangle shape (4 pixels from the top and 4 pixels from the right). Pro tip: You can check the position of any shape relative to another shape by selecting it, holding down Option (Mac) or Alt (PC), and hovering over a second shape.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_05.mp4"></video></figure>‍
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_05.mp4"></video></figure>
 
 ### 7. Use “Boolean operations” to turn the camera into a single shape
 
@@ -82,7 +74,7 @@ For our camera logo, let’s click and drag to select all of the three shapes we
 
 Finally, use the Flatten command to convert the camera into a single vector object. With the logo selected, Hit ⌘E (Mac) or CtrlE (PC). This will cause the shape to resize correctly.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_06.mp4"></video></figure>‍
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_06.mp4"></video></figure>
 
 ### 8. Create a 3D box using the Pen tool
 
@@ -96,7 +88,8 @@ Figma has redesigned the Pen tool to add “vector network” functionality. Thi
 
 For example, here’s how we drew a 3D box using vector networks. We recommend turning on Pixel Grid— ⌘’ on Mac, or Ctrl’ on PC—and adding a square-based Layout Grid to the Frame, giving you a visual guide for placing and aligning your points.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_07.mp4"></video></figure>‍Notice how, once we’d completed the first enclosed space, we had to select a previously created point to tell Figma which point we wanted the next point to connect to. When hovering over a point you’ve already made, you can see a black dot just below your cursor, indicating that you’re about to add to the vector network. If in doubt, click an existing point, and that will define the connection for the next point you add. Now try it yourself!
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_07.mp4"></video></figure>
+Notice how, once we’d completed the first enclosed space, we had to select a previously created point to tell Figma which point we wanted the next point to connect to. When hovering over a point you’ve already made, you can see a black dot just below your cursor, indicating that you’re about to add to the vector network. If in doubt, click an existing point, and that will define the connection for the next point you add. Now try it yourself!
 
 ### 9. Create a set of icons
 
@@ -106,7 +99,7 @@ Note: because points don’t have to be connected in Figma’s Pen tool, it’s 
 
 Here’s how we went about it:
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_08.mp4"></video></figure>‍
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_08.mp4"></video></figure>
 
 ### 10. Practice moving points, adding midpoints, and deleting points
 
@@ -117,4 +110,6 @@ After you’ve clicked “Done” (or have hit Escape), you can double-click on 
 - To delete a point without breaking the network, you must be in vector edit mode and have the Pen tool selected. Only then can you hold Option (Mac) or Alt (PC) and click on a point you wish to remove without deleting a whole section of lines. Using the Delete key removes all lines connected to that point you deleted. The video below demonstrates both scenarios and the first two tips.
 - 
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_09.mp4"></video></figure>Figma 101: Create a logo and icon set. (n.d.). Retrieved from https://designlab.com/figma-101-course/create-a-logo-and-icon-set
+<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D3_09.mp4"></video></figure>
+
+Figma 101: Create a logo and icon set. (n.d.). Retrieved from https://designlab.com/figma-101-course/create-a-logo-and-icon-set

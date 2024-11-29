@@ -458,7 +458,7 @@ body {
     /*border: solid 2px lightblue;*/
     /*flex-grow: 1;*/
     min-width: 350px;
-    max-width: 800px;
+    max-width: 600px;
     overflow-wrap: break-word;
     width: 100%;
   }
