@@ -362,7 +362,7 @@ body {
 .highlight {
 
   width: 90%;
-  min-width: 380px;
+  min-width: 350px;
   margin-right: 5px;
 }
 
@@ -459,7 +459,7 @@ body {
     /*flex-grow: 1;*/
     min-width: 350px;
     max-width: 600px;
-    overflow-wrap: break-word;
+    /*overflow-wrap: break-word;*/
     width: 100%;
   }
 
