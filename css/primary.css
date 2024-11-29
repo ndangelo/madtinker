@@ -176,7 +176,7 @@ a:hover {
  overflow: auto;
   flex-wrap: wrap;
   overflow-wrap: break-word;
-  min-width: 350px;
+  min-width: 380px;
 }
 
 .footer {
@@ -326,7 +326,7 @@ body {
 }
 
 /* This has been changed */
-.headline h1 {
+/*.headline h1 {
   position: absolute;
   font-family: "Poppins", sans-serif;
   text-transform: uppercase;
@@ -348,8 +348,8 @@ body {
 .highlight {
 
   width: 90%;
-  min-width: 350px;
-  margin-right: 50px;
+  min-width: 380px;
+  margin-right: 25px;
 }
 
 
@@ -362,7 +362,7 @@ body {
     flex-wrap: wrap;
     flex-direction: column;
     flex-grow: 1;
-    min-width: 350px;
+    min-width: 380px;
     padding: 15px;
     overflow-wrap: break-word;
   }
@@ -370,6 +370,7 @@ body {
   .container ul {
     padding: 0;
     list-style-type: none;
+  overflow-wrap: break-word;
   }
 
   .item3 {
@@ -381,7 +382,8 @@ body {
     border-radius: 3px;
     padding: 15px;
     width: 100%;
-    min-width: 350px;
+    min-width: 380px;
+    overflow-wrap: break-word;
   }
 
     .item3 ul {
