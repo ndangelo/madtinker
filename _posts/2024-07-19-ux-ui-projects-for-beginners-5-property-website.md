@@ -8,7 +8,7 @@ guid: 'https://www.nuggetofjoy.com/?p=65554'
 permalink: /ux-ui-projects-for-beginners-5-property-website/
 categories:
     - Projects
-        - UI
+    - UI
 
 tag:
     - UI
@@ -16,9 +16,8 @@ tag:
 
 Source: Pedzai, C. (2024). UX/UI projects for beginners #5: Property Website. Retrieved from https://uxdesignmastery.com/ux-ui-projects-for-beginners-5-property-website/
 
-<div class="wp-block-image"><figure class="aligncenter">
 
-![Design](https://uxdesignmastery.com/wp-content/uploads/2023/05/DPP5-1024x680.jpg)</figure></div>
+![Design](https://uxdesignmastery.com/wp-content/uploads/2023/05/DPP5-1024x680.jpg)
 
 **Client** Rowlly Properties
 
@@ -37,9 +36,8 @@ We are a property management company specializing in selling and renting residen
 
 ### Target Audience
 
-<div class="wp-block-image"><figure class="aligncenter">
 
-![Design](https://uxdesignmastery.com/wp-content/uploads/2023/05/Personas-Property-site-1024x345.png)</figure></div>
+![Design](https://uxdesignmastery.com/wp-content/uploads/2023/05/Personas-Property-site-1024x345.png)
 
 **Emily Anderson**, 28 | First-Time Home Buyer  
 NEEDS  

@@ -12,7 +12,9 @@ categories:
 
 Source: Pedzai, C. (2024). UX/UI projects for beginners #6: Food App. Retrieved from https://uxdesignmastery.com/ux-ui-projects-for-beginners-6-food-app/
 
-<div class="wp-block-image"><figure class="aligncenter">![Design Element](https://uxdesignmastery.com/wp-content/uploads/2023/05/Takeawayfood.png)</figure></div>## UX UI Design Portfolio Project 6: Designing a Food App
+![Design Element](https://uxdesignmastery.com/wp-content/uploads/2023/05/Takeawayfood.png)
+
+## UX UI Design Portfolio Project 6: Designing a Food App
 
 **Client** OhSoYum
 
@@ -21,14 +23,16 @@ Source: Pedzai, C. (2024). UX/UI projects for beginners #6: Food App. Retrieved 
 We are looking to create a food delivery app that will allow users to order food from their favorite restaurants and have it delivered to their doorstep. The app will need to be user-friendly, visually appealing and efficient. *“Online food delivery has become a $200 billion global industry, yet there is still plenty of room for growth as people increasingly opt for the convenience of delivery.” – Bloomberg*
 
 **Success Metrics to Consider:**  
-User acquisition and retention rate  
-Order volume and revenue growth  
-User engagement and time spent on the app  
-Positive reviews and ratings
+- User acquisition and retention rate  
+- Order volume and revenue growth  
+- User engagement and time spent on the app  
+- Positive reviews and ratings
 
 ### Target Audience
 
-<div class="wp-block-image"><figure class="aligncenter">![Design Element](https://uxdesignmastery.com/wp-content/uploads/2023/05/Target-Audience-Food-App-1024x338.png)</figure></div>**Marcus Lee**, 32 | Busy Professional  
+![Design Element](https://uxdesignmastery.com/wp-content/uploads/2023/05/Target-Audience-Food-App-1024x338.png)
+
+**Marcus Lee**, 32 | Busy Professional  
 NEEDS  
 She does not have the time to cook and prefers to order food online for convenience. They prioritize quick and reliable delivery and are willing to pay more for premium services. She is health conscious and wants to eat healthy meals. She also has a tight budget and wants affordable options.
 
@@ -53,18 +57,18 @@ She has two kids and a busy job. She needs an app that offers healthy options fo
 - The app should be compatible with either iOS or Android devices. Pay attention to IOS and Android guidelines.
 
 **IOS guidelines**  
-[](http://%20https//developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/)<https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/>
+[Click Here](http://https//developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/)<https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/)
 
 **Android guidelines**  
-<https://material.io/design/usability/accessibility.html#hierarchy>
+[Click Here](https://material.io/design/usability/accessibility.html#hierarchy>
 
 ### References
 
 These are the references that our company would like the app to follow in terms of structure and layout. It will be your job to replicate something close to these examples but add your creative flair.
 
-Uber Eats: <https://www.ubereats.com/>  
-DoorDash: <https://www.doordash.com/>  
-Grubhub: <https://www.grubhub.com/>
+[Uber Eats](https://www.ubereats.com/)
+[DoorDash](https://www.doordash.com/)  
+[Grubhub](https://www.grubhub.com/>)
 
 ## Deliverables
 
@@ -82,4 +86,4 @@ Grubhub: <https://www.grubhub.com/>
 
 • **Profile screen—This screen will allow users to manage their account information, such as** their name, address, and payment methods. It might also include options for viewing past orders and saving favorite restaurants.
 
-<div class="wp-block-image"><figure class="aligncenter">![Design Element](https://uxdesignmastery.com/wp-content/uploads/2023/05/testing-1024x415.png)</figure></div>
+![Design Element](https://uxdesignmastery.com/wp-content/uploads/2023/05/testing-1024x415.png)
