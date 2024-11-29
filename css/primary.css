@@ -172,7 +172,7 @@ a:hover {
   border: solid 2px lightblue;
   padding: 5px;
    height: auto;
- overflow: scroll;
+ overflow: auto;
 }
 
 .container {
@@ -180,7 +180,7 @@ a:hover {
  /*justify-content: space-between;*/
  border: solid 2px lightblue;
  height: auto;
- overflow: scroll;
+ overflow: auto;
   flex-wrap: wrap;
   min-width: 380px;
 }
