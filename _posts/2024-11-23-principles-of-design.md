@@ -9,6 +9,11 @@ permalink: /principles-of-design/
 
 categories:
     - Projects
+    - Art
+
+tag: 
+    - design
+    - art
 ---
 
 ## Check Your Documents for Balance, Alignment and Other Principles of Design

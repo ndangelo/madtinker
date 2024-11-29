@@ -27,11 +27,28 @@ Reflective activities provide students with an opportunity to absorb information
 
 <figure class="lazyload-image" id="image-38598">[![Mindset Moments](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155329/Mindset-Moments-tb-728x01112111.jpg)](https://www.pinterest.com/pin/121667627410947532/)</figure>This board of [mindset moments](https://www.pinterest.com/pin/121667627410947532/) is one example of this principle in action. By encouraging students to pin their learnings or “shifted mindsets” to the board, this provides a great opportunity for guided reflection.
 
-<figure class="lazyload-image" id="image-38603">[![TEDxSummit](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155330/TEDxSummit-tb-728x01112111.jpg)](https://www.pinterest.com/pin/488218415827656425/)</figure>Even outside of the classroom this technique is well as a creative learning technique. [Pictured above](https://www.pinterest.com/pin/488218415827656425/) is the bulletin board from a TEDxSummit.
+
+
+![TEDxSummit](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155330/TEDxSummit-tb-728x01112111.jpg)
+
+Even outside of the classroom this technique is well as a creative learning technique. 
+
+[Pictured above](https://www.pinterest.com/pin/488218415827656425/) is the bulletin board from a TEDxSummit.
 
 *Try this technique today using the [Learn something new today](https://canva.me/Mzxg/tLxWbGYOZI) and [Learning adventure](https://canva.me/Mzxg/dhC3BpzfYI) templates you’ll find below. Adjust them to your liking, pin them on the wall and let us know how it goes.*
 
-<div>[![Inspirational Poster](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132055/Learn-Something-Today-Lightbulb-Classroom-Poster.jpg)](https://canva.me/Mzxg/tLxWbGYOZI "Use this template")</div><div>[![Learning is one big adventure](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132058/canva-kids-classroom-learning-poster-MAB5V1ogot8.jpg)](https://canva.me/Mzxg/dhC3BpzfYI "Use this template")</div><div></div>## 02. Integrate more hands-on learning
+<div>[
+
+![Inspirational Poster](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132055/Learn-Something-Today-Lightbulb-Classroom-Poster.jpg)
+
+[Use this template](https://canva.me/Mzxg/tLxWbGYOZI)
+
+![Learning is one big adventure](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132058/canva-kids-classroom-learning-poster-MAB5V1ogot8.jpg)]
+
+["Use this template"](https://canva.me/Mzxg/dhC3BpzfYI) 
+
+
+## 02. Integrate more hands-on learning
 
 Benjamin Franklin once said: “Tell me and I forget, teach me and I may remember, involve me and I learn.” Hands-on learning is a great way to apply a creative twist to traditional course content and engage students on a deeper level.
 
@@ -45,7 +62,11 @@ Benjamin Franklin once said: “Tell me and I forget, teach me and I may remembe
 *If your students are fashion addicts, our [College fashion field guide presentation](https://canva.me/Mzxg/izYuX3RjYI) will put them to work in a breeze.*
 
 
-[![Interactive Website](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155334/interactive-website-tb-728x01112111.png)](https://canva.me/Mzxg/izYuX3RjYI "Use this template")<figcaption>In Canva, you can export your presentation as an interactive website in 2 clicks.</figcaption></figure>- **Maths**: Taken from [this list](https://www.theguardian.com/teacher-network/teacher-blog/2013/nov/26/maths-creative-ideas-practical-lessons) of excellent practical maths ideas, one way to teach velocity is to ask students to build paper airplanes and use calculations to predict their speed. What better way to iterate on their calculations by testing them out in real life?
+![Interactive Website](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155334/interactive-website-tb-728x01112111.png)](https://canva.me/Mzxg/izYuX3RjYI "Use this template")
+
+<figcaption>In Canva, you can export your presentation as an interactive website in 2 clicks.</figcaption></figure>
+
+- **Maths**: Taken from [this list](https://www.theguardian.com/teacher-network/teacher-blog/2013/nov/26/maths-creative-ideas-practical-lessons) of excellent practical maths ideas, one way to teach velocity is to ask students to build paper airplanes and use calculations to predict their speed. What better way to iterate on their calculations by testing them out in real life?
 
 ## 03. Keep your classroom layout flexible
 

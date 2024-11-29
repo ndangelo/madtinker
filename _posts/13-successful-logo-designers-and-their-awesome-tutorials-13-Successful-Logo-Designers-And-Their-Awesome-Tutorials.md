@@ -116,7 +116,16 @@ Hope you find this helpful.
 
 ### 6. Sean McCabe — Hand Lettering Artist, Texas
 
-<figure class="graf graf--figure graf-after--h3" id="c042"><div class="aspectRatioPlaceholder is-locked"><div class="aspectRatioPlaceholder-fill"> ![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184233/1_3eeTrbiPMpiK9ytRzBVsQQ.png)[![]()](https://cdn-images-1.medium.com/max/1600/1*3eeTrbiPMpiK9ytRzBVsQQ.png)</div><div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-action="zoom" data-action-value="1*3eeTrbiPMpiK9ytRzBVsQQ.png" data-height="273" data-image-id="1*3eeTrbiPMpiK9ytRzBVsQQ.png" data-scroll="native" data-width="800"><canvas class="progressiveMedia-canvas js-progressiveMedia-canvas" height="25" width="75">[![]()](https://cdn-images-1.medium.com/max/1600/1*3eeTrbiPMpiK9ytRzBVsQQ.png)![]()[![]()![]()](https://cdn-images-1.medium.com/max/1600/1*3eeTrbiPMpiK9ytRzBVsQQ.png)</canvas></div></div><figcaption class="imageCaption">[Sean McCabe](https://seanwes.com/lettering/)</figcaption></figure>#### Book
+
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184233/1_3eeTrbiPMpiK9ytRzBVsQQ.png)
+
+![]](https://cdn-images-1.medium.com/max/1600/1*3eeTrbiPMpiK9ytRzBVsQQ.png)
+
+![]()](https://cdn-images-1.medium.com/max/1600/1*3eeTrbiPMpiK9ytRzBVsQQ.png)
+
+![](https://cdn-images-1.medium.com/max/1600/1*3eeTrbiPMpiK9ytRzBVsQQ.png)</canvas></div></div><figcaption class="imageCaption">[Sean McCabe](https://seanwes.com/lettering/)</figcaption></figure>
+
+#### Book
 
 [Overlap Book — Start a Business While Working a Full-Time Job](https://seanwes.com/book/)
 
@@ -133,7 +142,14 @@ Hope you find this helpful.
 
 ### 7. Matt Yow — Graphic Designer, San Francisco, CA
 
-<figure class="graf graf--figure graf-after--h3" id="6880"><div class="aspectRatioPlaceholder is-locked"><div class="aspectRatioPlaceholder-fill">[![]()](https://cdn-images-1.medium.com/max/1600/1*7WE96kmulFLA0lwgSzZmXQ.png)</div><div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-action="zoom" data-action-value="1*7WE96kmulFLA0lwgSzZmXQ.png" data-height="273" data-image-id="1*7WE96kmulFLA0lwgSzZmXQ.png" data-scroll="native" data-width="800"> ![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184255/1_7WE96kmulFLA0lwgSzZmXQ.png)</div></div><figcaption class="imageCaption">[Matt Yow](https://medium.com/@matt_yow)</figcaption></figure>#### Course
+<figure class="graf graf--figure graf-after--h3" id="6880"><div class="aspectRatioPlaceholder is-locked"><div class="aspectRatioPlaceholder-fill">
+
+[![]()](https://cdn-images-1.medium.com/max/1600/1*7WE96kmulFLA0lwgSzZmXQ.png)
+
+
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184255/1_7WE96kmulFLA0lwgSzZmXQ.png)</div></div><figcaption class="imageCaption">[Matt Yow](https://medium.com/@matt_yow)</figcaption></figure>
+
+#### Course
 
 - [Brand Identity Basics](https://teamtreehouse.com/library/brand-identity-basics)
 
@@ -146,7 +162,14 @@ Hope you find this helpful.
 
 ### 8. Martina Flor — Letterer &amp; Designer, Berlin, Germany
 
-<figure class="graf graf--figure graf-after--h3" id="ca17"><div class="aspectRatioPlaceholder is-locked"><div class="aspectRatioPlaceholder-fill"> ![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184318/1_ATgsFj3K6lVykX2f3Rtv7w.png)[![]()](https://cdn-images-1.medium.com/max/1600/1*ATgsFj3K6lVykX2f3Rtv7w.png)</div><div class="progressiveMedia js-progressiveMedia graf-image is-canvasLoaded is-imageLoaded" data-action="zoom" data-action-value="1*ATgsFj3K6lVykX2f3Rtv7w.png" data-height="273" data-image-id="1*ATgsFj3K6lVykX2f3Rtv7w.png" data-scroll="native" data-width="800"></div></div><figcaption class="imageCaption">[Martina Flor](http://www.martinaflor.com/)</figcaption></figure>#### Course
+
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184318/1_ATgsFj3K6lVykX2f3Rtv7w.png)[
+
+![]()](https://cdn-images-1.medium.com/max/1600/1*ATgsFj3K6lVykX2f3Rtv7w.png)
+
+[Martina Flor](http://www.martinaflor.com/)</figcaption></figure>
+
+#### Course
 
 - [The Golden Secrets of Hand-Lettering: Create the Perfect Postcard](http://skl.sh/2mJkNMR)
 

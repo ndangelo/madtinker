@@ -9,7 +9,10 @@ permalink: '/?p=3750'
 
 categories:
     - 'Design Instruction'
-    - InDesign
+    - 'InDesign'
+
+tag:
+    - 'design'
 ---
 
 #### If you’re creating a document which is moderately lengthy, like an Annual Report, or very long, like a book, you should apply Page Numbers. The most efficient way to do this is to add them to a Master Page.
