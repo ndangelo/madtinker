@@ -443,12 +443,12 @@ body {
     flex-direction: column;
     /*border: solid 2px lightblue;*/
     /*flex-grow: 1;*/
-    min-width: 350px;
+    width: 350px;
     overflow-wrap: break-word;
   }
 
   .item3 {
-   / flex-grow: 1;
+    flex-grow: 1;
     height: auto;
     overflow: auto;
     border: solid 2px lightblue;
