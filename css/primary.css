@@ -182,7 +182,7 @@ a:hover {
  height: auto;
  overflow: auto;
   flex-wrap: wrap;
-  min-width: 380px;
+  min-width: 350px;
 }
 
 .footer {
@@ -248,7 +248,7 @@ flex-grow: 2;
 
   width: 100%;
    border: solid 2px lightblue;
-   max-width: 380;
+   min-width: 350;
    padding: 15px;
 }
 
@@ -358,21 +358,7 @@ body {
 }
 
 
-.correction {
-  /*display: flex;
-  flex-grow: 1;*/
-  height: auto;
-  border: solid 2px lightblue;
 
-  margin: 3px;
-  border-radius: 3px;
-  /*justify-content: center;
-  align-items: center;
-  align-content: center;*/
-    
-    margin-left: -25px;
-
-  }
 
 @media screen and (max-width: 800px) {
   .container {
