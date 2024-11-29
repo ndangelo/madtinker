@@ -166,6 +166,7 @@ a:hover {
   padding: 5px;
    height: auto;
  overflow: auto;
+     overflow-wrap: break-word;
 }
 
 .container {
