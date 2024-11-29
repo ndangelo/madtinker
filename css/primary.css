@@ -434,7 +434,7 @@ code {
 .correction {
   display: flex;
   flex-grow: 1;
-  height: 75px;
+  height: auto;
   border: solid 2px lightblue;
   box-shadow: inset 0 0 10 #ccc;
   margin: 3px;
@@ -570,18 +570,5 @@ max-width: 100%;*/
     width: 140px;
   }
 
-  .correction {
-  display: flex;
-  flex-grow: 1;
-  height: 75px;
-  border: solid 2px lightblue;
-  box-shadow: inset 0 0 10 #ccc;
-  margin: 3px;
-  border-radius: 3px;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
-    
-    margin-left: -25px;
-  }
+
 }
