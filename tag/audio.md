@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Audio"
 categories: [Audio]
 tags: audio

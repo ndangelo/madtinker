@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Code Snippet Samples"
 categories: [Code]
 tags: code

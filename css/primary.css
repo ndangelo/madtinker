@@ -221,12 +221,14 @@ flex-grow: 2;
 .item3 {
   flex-grow: 1;
   height: auto;
+  overflow: auto;
   border: solid 2px lightblue;
   box-shadow: inset 0 0 10 #ccc;
   margin: 3px;
   border-radius: 3px;
   padding: 15px;
   width: 100%;
+  min-width: 380px
   /*min-width: 350px;*/
 }
 
@@ -341,95 +343,7 @@ body {
   width: 100%;
   min-width: 350px;
 }
-/* Code Highlighting 
 
-pre,
-code {
-  white-space: pre;
-  display: inline-block;
-  margin: 0;
-  font: 14px/1.625em Menlo, Consolas, "Courier New", Courier, "Liberation Mono", monospace;
-  padding: 0 0.5em;
-}
-
-.highlight table td { padding: 5px; }
-.highlight table pre { margin: 0; }
-.highlight, .highlight .w {
-  color: #d0d0d0;
-  background-color: #151515;
-}
-.highlight .err {
-  color: #151515;
-  background-color: #ac4142;
-}
-.highlight .c, .highlight .cd, .highlight .cm, .highlight .c1, .highlight .cs {
-  color: #505050;
-}
-.highlight .cp {
-  color: #f4bf75;
-}
-.highlight .nt {
-  color: #f4bf75;
-}
-.highlight .o, .highlight .ow {
-  color: #d0d0d0;
-}
-.highlight .p, .highlight .pi {
-  color: #d0d0d0;
-}
-.highlight .gi {
-  color: #90a959;
-}
-.highlight .gd {
-  color: #ac4142;
-}
-.highlight .gh {
-  color: #6a9fb5;
-  background-color: #151515;
-  font-weight: bold;
-}
-.highlight .k, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kv {
-  color: #aa759f;
-}
-.highlight .kc {
-  color: #d28445;
-}
-.highlight .kt {
-  color: #d28445;
-}
-.highlight .kd {
-  color: #d28445;
-}
-.highlight .s, .highlight .sb, .highlight .sc, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .sx, .highlight .s1 {
-  color: #90a959;
-}
-.highlight .sr {
-  color: #75b5aa;
-}
-.highlight .si {
-  color: #8f5536;
-}
-.highlight .se {
-  color: #8f5536;
-}
-.highlight .nn {
-  color: #f4bf75;
-}
-.highlight .nc {
-  color: #f4bf75;
-}
-.highlight .no {
-  color: #f4bf75;
-}
-.highlight .na {
-  color: #6a9fb5;
-}
-.highlight .m, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, .highlight .mo, .highlight .mb, .highlight .mx {
-  color: #90a959;
-}
-.highlight .ss {
-  color: #90a959;
-}*/
 
 .correction {
   /*display: flex;
@@ -467,6 +381,7 @@ code {
     border-radius: 3px;
     padding: 15px;
     width: 100%;
+    min-width: 350px;
   }
 
   .flex-nav li,
@@ -525,12 +440,14 @@ code {
   .item3 {
    / flex-grow: 1;
     height: auto;
+    overflow: auto;
     border: solid 2px lightblue;
     box-shadow: inset 0 0 10 #ccc;
     margin: 3px;
     border-radius: 3px;
     padding: 15px;
     width: 98%;
+    min-width: 350px;
   }
 
   .headline h1 {
@@ -540,10 +457,12 @@ code {
   .item2 {
     /*flex-grow: 2;*/
     height: auto;
+    overflow: auto;
     border: solid 2px lightblue;
     box-shadow: inset 0 0 10 #ccc;
     margin: 3px;
     border-radius: 3px;
+    min-width: 350px;
   }
 
   #videoDiv2 {
