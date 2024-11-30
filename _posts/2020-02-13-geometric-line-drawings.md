@@ -9,22 +9,31 @@ permalink: /geometric-line-drawings/
 
 categories:
     - 'GN: Basic Drawing'
-    - Projects
+    - 'Projects'
+    - 'Art'
 ---
+![](https://image-control-storage.s3.amazonaws.com/2020/02/10195144/2020-02-10-18_43_46-kandinsky-layout.png)
+*Hans Thiemann*
 
-<div class="wp-block-image"><figure class="aligncenter size-large">![](https://image-control-storage.s3.amazonaws.com/2020/02/10195144/2020-02-10-18_43_46-kandinsky-layout.png)<figcaption>Hans Thiemann</figcaption></figure></div>## Assignment
+## Assignment
 
 **In your sketchbook complete the following:**
 
 - Create a simple geometric shape using a ruler.
 - Create and build multiple shapes within it.
 - Create intersecting points.
-- When you have completed your finished drawings and they have been approved. Use Three colors to accent some of the shapes.
+- When you have completed your finished drawings and they have been approved, use three colors to accent some of the shapes.
 
-Before you start the above projects create small sketches first. Use two pages in your sketchbook. Quarter each sheet. Draw a sample drawing similar to the above directions.
+Before you start the above projects, create small sketches first. Use two pages in your sketchbook. Quarter each sheet. Draw a sample drawing similar to the above directions.
 
-<div class="wp-block-image"><figure class="aligncenter size-large">![](https://image-control-storage.s3.amazonaws.com/2020/02/13140901/2020-02-13-13_07_04-Window.png)</figure></div>Use a common object to create an analytical drawing.
+![](https://image-control-storage.s3.amazonaws.com/2020/02/13140901/2020-02-13-13_07_04-Window.png)
 
-<figure class="wp-block-image size-large">![](https://image-control-storage.s3.amazonaws.com/2020/02/13141310/2020-02-13-13_11_31-Window.png)</figure>Use collections of objects to help you form your lines and curves.
+Use a common object to create an analytical drawing.
 
-<div class="wp-block-image"><figure class="aligncenter size-large">![](https://image-control-storage.s3.amazonaws.com/2020/02/13141328/2020-02-13-13_12_10-Window.png)</figure></div><div class="wp-block-image"><figure class="aligncenter size-large">![](https://image-control-storage.s3.amazonaws.com/2020/02/13141632/2020-02-13-13_16_05-Window.png)</figure></div>
+![](https://image-control-storage.s3.amazonaws.com/2020/02/13141310/2020-02-13-13_11_31-Window.png)
+
+Use collections of objects to help you form your lines and curves.
+
+![](https://image-control-storage.s3.amazonaws.com/2020/02/13141328/2020-02-13-13_12_10-Window.png)
+
+![](https://image-control-storage.s3.amazonaws.com/2020/02/13141632/2020-02-13-13_16_05-Window.png)
