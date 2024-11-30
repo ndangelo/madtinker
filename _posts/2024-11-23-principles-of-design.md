@@ -18,7 +18,7 @@ tag:
 
 ## Check Your Documents for Balance, Alignment and Other Principles of Design
 
-by [Jacci Howard Bear](https://www.thoughtco.com/jacci-howard-bear-1073678) The principles of design suggest how a designer can best arrange the various components of a page layout to connect to the overall design and to one another.
+by [Jacci Howard Bear](https://www.thoughtco.com/jacci-howard-bear-1073678){:target="_blank"} The principles of design suggest how a designer can best arrange the various components of a page layout to connect to the overall design and to one another.
 
 All the principles of design, also known as principles of composition, apply to any piece you create. How you apply those principles determines how effective your design is in conveying the desired message and how attractive it appears. There is seldom only one correct way to apply each principle but check your document to see how well you applied each of these six principles of design.
 
@@ -109,7 +109,9 @@ Color attracts attention and conveys emotion and mood. For example, red represen
 
 Value is a measure of darkness and lightness in an element or design. Value creates contrast and emphasis. For example, a light object against a dark background draws the viewer’s eye.
 
-![Example of Simultaneous Color Contrast](https://www.lifewire.com/thmb/Lx1V2GZWBwU6nssFkiitW8_Z-WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/simultaneous-contrast-56a6e5675f9b58b7d0e55ed2.jpg)## Size in Graphic Design
+![Example of Simultaneous Color Contrast](https://www.lifewire.com/thmb/Lx1V2GZWBwU6nssFkiitW8_Z-WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/simultaneous-contrast-56a6e5675f9b58b7d0e55ed2.jpg)
+
+## Size in Graphic Design
 
 The size of an element in graphic design generally indicates its importance. The most important information is typically the largest on the page and draws the viewer’s attention first.
 
