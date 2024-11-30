@@ -193,6 +193,18 @@ a:hover {
   max-width: 600px;
 }
 
+.containermain {
+  display: flex;
+ /*justify-content: space-between;*/
+ border: solid 2px lightblue;
+ height: auto;
+ overflow: auto;
+  flex-wrap: wrap;
+  /*overflow-wrap: break-word;*/
+  min-width: 360px;
+  
+}
+
 .footer {
   display: flex;
   flex-grow: 1;
