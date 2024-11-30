@@ -204,6 +204,8 @@ a:hover {
   justify-content: center;
   align-items: center;
   align-content: center;
+  max-width: 600px;
+
 }
 
 .item {
