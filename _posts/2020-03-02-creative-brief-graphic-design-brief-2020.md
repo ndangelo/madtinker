@@ -6,11 +6,11 @@ author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=55348'
 permalink: /creative-brief-graphic-design-brief-2020/
-amazonS3_cache:
-    - 'a:2:{s:58:"//www.nuggetofjoy.com/wp-content/uploads/51021.pic_-15.jpg";a:2:{s:2:"id";s:5:"54217";s:11:"source_type";s:13:"media-library";}s:75:"//image-control-storage.s3.amazonaws.com/2019/06/18143628/51021.pic_-15.jpg";a:2:{s:2:"id";s:5:"54217";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET 375 IMAGING TECHNOLOGY'
-    - Projects
+    - 'Projects'
+    - 'Design'
 ---
 
 **The Creative Brief**
@@ -23,11 +23,11 @@ Finally, the design brief becomes the strategic plan for implementing objectives
 
 The document below is what was presented in class. It presents important questions that you will need to answer for this project. The criteria for your Design Brief will differ from the document below. For now, you should just focus on brand ideation.
 
-<https://esu.desire2learn.com/d2l/le/content/3764807/viewContent/40672781/View>
-
 **Do NOT start with creating your Design Brief.** The above pdf is an EXAMPLE and an example only. Your Design brief will follow different criteria. You should only concentrate on conceptualising. We will discuss this further in class.
 
-<div class="wp-block-image"><figure class="aligncenter">![What is a Graphic Design Brief?](https://image-control-storage.s3.amazonaws.com/2019/06/18143628/51021.pic_-15.jpg)</figure></div>Clear communication is fundamental for success in design projects, as well as in all types of creative endeavors. It’s common to assume that because something is clear in our minds, others will automatically understand it too. However, without clearly articulating our vision in a detailed and organized manner, it becomes challenging for others to meet our expectations. This is why understanding the importance of graphic design briefs can transform your approach to creative projects.
+![What is a Graphic Design Brief?](https://image-control-storage.s3.amazonaws.com/2019/06/18143628/51021.pic_-15.jpg)
+
+Clear communication is fundamental for success in design projects, as well as in all types of creative endeavors. It’s common to assume that because something is clear in our minds, others will automatically understand it too. However, without clearly articulating our vision in a detailed and organized manner, it becomes challenging for others to meet our expectations. This is why understanding the importance of graphic design briefs can transform your approach to creative projects.
 
 A graphic design brief is essentially a document that captures the essence of a creative project and outlines the client’s expectations for the final outcome. To ensure effective collaboration and alignment around your vision, here are some key principles for crafting more effective graphic design briefs:
 

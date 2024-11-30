@@ -10,4 +10,4 @@ categories:
     - Projects
 ---
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/F65D4ej4f-M?feature=oembed" title="Learn to Draw #05 - Two-Point Perspective" width="500"></iframe>
+<iframe class="vide" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/F65D4ej4f-M?feature=oembed" title="Learn to Draw #05 - Two-Point Perspective"></iframe>
