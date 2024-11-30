@@ -14,10 +14,10 @@ categories:
 tag:
     - art
 ---
+**Paper Airplane Assignment:** Fold a paper airplane, place it in front of you & draw from direct observation as accurately as you can. ADD FULL SHADING ***Possible Medium:*** drawing pencil
 
-**Paper Airplane Assignment:** Fold a paper airplane, place it in front of you &amp; draw from direct observation as accurately as you can. ADD FULL SHADING ***Possible Medium:*** drawing pencil
-
-<figure class="wp-block-image">![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085021/1454543173311-14.jpeg)</figure>Sam Henderson
+![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085021/1454543173311-14.jpeg)  
+Sam Henderson
 
 For best results use a flat, thin-edged ruler. Make good creases along each edge. Adding double stick tape to the inside of the body keeps the wings from separating in flight.
 
@@ -25,18 +25,25 @@ For best results use a flat, thin-edged ruler. Make good creases along each edge
 
 The most basic version. A simple standard that everyone should know how to make.
 
-<figure class="wp-block-image">![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085024/14545431617524.jpeg)</figure><figure class="wp-block-image">![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085025/14545431619054.jpeg)</figure>1. Fold the paper in half vertically.
+![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085024/14545431617524.jpeg)  
+![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085025/14545431619054.jpeg)
+
+1. Fold the paper in half vertically.
 2. Unfold the paper and fold each of the top corners into the center line.
 3. Fold the top edges into the center line.
 4. Fold the plane in half toward you.
 5. Fold the wings down, matching the top edges up with the bottom edge of the body.
 6. Add double stick tape to the inside of the body. The finished plane should look like this.
 
-**The Steath**
+**The Stealth**
 
 This one is built for distance, plus it just looks cool.
 
-<figure class="wp-block-image">![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085026/14545432045324.jpeg)</figure><figure class="wp-block-image">![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085028/14545432155674.jpeg)</figure><figure class="wp-block-image">![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085029/14545432158224.jpeg)</figure>1. Fold the paper in half vertically.
+![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085026/14545432045324.jpeg)  
+![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085028/14545432155674.jpeg)  
+![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085029/14545432158224.jpeg)
+
+1. Fold the paper in half vertically.
 2. Unfold the paper and fold each of the top corners into the center line.
 3. Fold the peak toward you and 3/4” from the bottom of the paper.
 4. Fold both top corners into the center line.
@@ -51,7 +58,10 @@ This one is built for distance, plus it just looks cool.
 
 Built correctly, this bee-like beauty stays in the air for a long time.
 
-<figure class="wp-block-image">![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085031/14545431620104.jpeg)</figure><figure class="wp-block-image">![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085032/14545431781834.jpeg)</figure>1. Fold the paper in half horizontally.
+![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085031/14545431620104.jpeg)  
+![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085032/14545431781834.jpeg)
+
+1. Fold the paper in half horizontally.
 2. Unfold the paper and fold each of the top corners into the center line.
 3. Fold the peak down to meet the edge of the previous fold.
 4. Fold the upper sides into the center line.
@@ -64,7 +74,10 @@ Built correctly, this bee-like beauty stays in the air for a long time.
 
 Count on speed and distance from this sleek plane.
 
-<figure class="wp-block-image">![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085034/14545431589194.jpeg)</figure><figure class="wp-block-image">![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085036/14545432032544.jpeg)</figure>1. Fold the paper in half vertically.
+![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085034/14545431589194.jpeg)  
+![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085036/14545432032544.jpeg)
+
+1. Fold the paper in half vertically.
 2. Unfold the paper and fold the top edge down 2”.
 3. Fold the top edge down again to meet the bottom of the previous fold.
 4. Fold the top edge down one more time to meet the bottom of the previous fold.
@@ -77,7 +90,10 @@ Count on speed and distance from this sleek plane.
 
 This plane is deceptively fast and stays aloft for quite a distance.
 
-<figure class="wp-block-image">![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085038/14545432226674.jpeg)</figure><figure class="wp-block-image">![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085040/14545432308184.jpeg)</figure>1. Fold the top right corner over to the left side, making a fold from the top of the paper to the bottom right corner.
+![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085038/14545432226674.jpeg)  
+![Paper Airplane DIY](https://image-control-storage.s3.amazonaws.com/2019/09/03085040/14545432308184.jpeg)
+
+1. Fold the top right corner over to the left side, making a fold from the top of the paper to the bottom right corner.
 2. Unfold the paper and repeat for the left corner.
 3. Unfold the paper again and fold the top right corner over to meet the crease made from the first fold.
 4. Fold the left corner over to meet the crease from the second fold.
@@ -88,4 +104,5 @@ This plane is deceptively fast and stays aloft for quite a distance.
 
 **Origami or folded paper**, inspired by this observational drawings by [Sean Dooley](http://www.smdooley.com/Class/draw101/p1.html), a graduate of Savannah College of Art and Design:
 
-<figure class="wp-block-image">![Paper crane drawing](https://image-control-storage.s3.amazonaws.com/2019/09/21140719/paper-crane-drawing-5.jpg)<figcaption>Folding paper can create stunning shadows and a mesh of intriguing angular lines. This example is one that is included in our list of substitute art lessons, and can involve students first constructing origami, before producing observational drawings in a range of different media.</figcaption></figure>
+![Paper crane drawing](https://image-control-storage.s3.amazonaws.com/2019/09/21140719/paper-crane-drawing-5.jpg)  
+_Folding paper can create stunning shadows and a mesh of intriguing angular lines. This example is one that is included in our list of substitute art lessons, and can involve students first constructing origami, before producing observational drawings in a range of different media._

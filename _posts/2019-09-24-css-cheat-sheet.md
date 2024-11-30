@@ -15,4 +15,6 @@ tag:
     - 'Design'
 ---
 
-<div class="wp-block-image"><figure class="aligncenter">[![css_cheat_2](https://image-control-storage.s3.amazonaws.com/blog-images/2013/10/27194947/css_cheat_2.png)](https://image-control-storage.s3.amazonaws.com/blog-images/2013/10/27194947/css_cheat_2.png)</figure></div>[Click the image above to download a CSS cheat sheet.](https://image-control-storage.s3.amazonaws.com/blog-images/2013/10/27194947/css_cheat_2.png)
+[![css_cheat_2](https://image-control-storage.s3.amazonaws.com/blog-images/2013/10/27194947/css_cheat_2.png)](https://image-control-storage.s3.amazonaws.com/blog-images/2013/10/27194947/css_cheat_2.png)
+
+[Click the image above to download a CSS cheat sheet.](https://image-control-storage.s3.amazonaws.com/blog-images/2013/10/27194947/css_cheat_2.png)

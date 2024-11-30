@@ -145,6 +145,3 @@ Curved stroke, continuous with a stem.
 
 This is where your journey ends! Hope this guide proved to be useful to you and now you can fully master the fascinating art of Typography.
 
-<span style="color: #ffffff;">\#</span>
-
-<span style="color: #ffffff;">\#</span>

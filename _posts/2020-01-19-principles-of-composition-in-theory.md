@@ -8,13 +8,11 @@ guid: 'https://www.nuggetofjoy.com/?p=54247'
 permalink: /principles-of-composition-in-theory/
 classic-editor-remember:
     - classic-editor
-amazonS3_cache:
-    - 'a:4:{s:59:"//www.nuggetofjoy.com/wp-content/uploads/master_balance.jpg";a:2:{s:2:"id";i:54248;s:11:"source_type";s:13:"media-library";}s:76:"//image-control-storage.s3.amazonaws.com/2020/01/19154019/master_balance.jpg";a:2:{s:2:"id";i:54248;s:11:"source_type";s:13:"media-library";}s:60:"//www.nuggetofjoy.com/wp-content/uploads/master_balance2.jpg";a:2:{s:2:"id";s:5:"54280";s:11:"source_type";s:13:"media-library";}s:77:"//image-control-storage.s3.amazonaws.com/2020/01/20111153/master_balance2.jpg";a:2:{s:2:"id";s:5:"54280";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'Visual Information Theory'
 ---
-
-[![](https://image-control-storage.s3.amazonaws.com/2020/01/19154019/master_balance.jpg)](https://image-control-storage.s3.amazonaws.com/2020/01/19154019/master_balance.jpg)
+![Master Balance](https://image-control-storage.s3.amazonaws.com/2020/01/19154019/master_balance.jpg)
 
 The composition of everything two-dimensional like illustrations, photographies and magazine spreads has been a skill I wanted to groove for at least the past eight years. It is still one of my biggest interests in visual communications.
 
@@ -32,12 +30,12 @@ What is the challenge? Well, if you have an axis with the two poles »tension« 
 
 As one can see, I especially often use a triangular composition – it’s one of the easiest forms of arranging something so that it looks well composed. »The Sistine Madonna« by Raffaello Sanzio da Urbino is based on the same principle; back then (1513) surely to remind of the holy trinity (like many other art works around this time):
 
-![image](https://image-control-storage.s3.amazonaws.com/2020/01/20111153/master_balance2.jpg)
+![Master Balance 2](https://image-control-storage.s3.amazonaws.com/2020/01/20111153/master_balance2.jpg)
 
-Nowadays one can bring more tension in the own work with making the sides of the triangles as different as possible. One long side and two short (imaginative) sides of a triangle are considered more interesting than a equilateral triangle like the one from Raffaello.
+Nowadays one can bring more tension in the own work with making the sides of the triangles as different as possible. One long side and two short (imaginative) sides of a triangle are considered more interesting than an equilateral triangle like the one from Raffaello.
 
-# Balance &amp; Harmony
+# Balance & Harmony
 
 Basically, what creates tension and what one can see in almost all the principles, is contrast. A long time I thought harmony and balance are the same – but balance is tension, so at the same time balance is the balance between harmony and tension. With time, only harmony gets dull and boring. The human species needs variety and diversion, and so needs the magazine. This has always been one of the greatest struggles in visual communication for me: To find the point on an axis between these both extremes that’s perfect for the reading experience is tricky. You want the reader to understand the design language in the magazine – so you’ll need one. But you also want to surprise the reader and get bold on this or that page, so you need to break out of your magazine language. I guess the best magazine is the one where you get surprised while flicking through it, but in which you clearly see the difference to the ads in the mag. In the end, you need a compromise between tension and harmony, between quiet and loud, between your system (grid) and breaking out, between new and traditional – and between emotion (communication) and ratio (information), as Francesco Franchi points out in his book »Designing News«: »The journalist and designer must move within a spectrum that includes raw information at one end and communication at the other, staying somewhere in the middle. Consciously choosing this position ensures that they do not fall into the trap of either supplying a plethora of facts and figures or, at the opposite end of the spectrum, editorializing by guiding readers’ opinion and employing an aesthetic that is an end in itself.
 
-<span style="font-size: 10pt; color: #808080;">from: https://lisacharlotterost.de/2014/06/18/Tension-and-Balance-in-Graphic-Design/</span>
+from: https://lisacharlotterost.de/2014/06/18/Tension-and-Balance-in-Graphic-Design/

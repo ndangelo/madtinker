@@ -10,4 +10,4 @@ categories:
     - 'DMET 355 ADVANCED WEB DESIGN'
 ---
 
-<span style="color: #808000;">[**<span style="font-size: 14pt;">Please download your template.</span>**](https://www.dropbox.com/s/u4q0mkgc43mdhf3/Mobile_adaptive_responsive_liquid.zip?dl=0)</span>
+[Please download your template.](https://www.dropbox.com/s/u4q0mkgc43mdhf3/Mobile_adaptive_responsive_liquid.zip?dl=0)

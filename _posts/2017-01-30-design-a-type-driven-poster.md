@@ -10,6 +10,9 @@ footnotes:
     - ''
 categories:
     - 'DMET 350 MEDIA GRAPHICS AND DESIGN'
+
+tag:
+    - 'design'
 ---
 
 ### DESIGN A TYPE-DRIVEN POSTER

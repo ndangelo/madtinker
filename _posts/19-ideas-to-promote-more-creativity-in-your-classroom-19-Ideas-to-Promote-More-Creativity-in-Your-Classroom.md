@@ -15,7 +15,13 @@ tag:
     - 'art'
 ---
 
-<header class="header-page"><div class="row"><div class="col7"><div class="author-wrapper--banner"><div class="author-thumb-wrapper--banner">[![Anna Guerrero](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155327/Screen-Shot-2015-10-29-at-11.28.46-pm-150x1501112111.png)](https://www.canva.com/learn/author/anna/)</div><div class="author-info-wrapper--banner"><span class="author">[Anna Guerrero](https://www.canva.com/learn/author/anna/ "Posts by Anna Guerrero")</span></div></div></div></div><div class="row banner-wrapper"><div class="col12"><div class="banner-post"><figure><picture><source media="(min-width: 768px)" srcset="https://www.canva.com/learn/wp-content/uploads/2018/01/Creative-Classroom-Banner-tb-962x0.jpg , https://www.canva.com/learn/wp-content/uploads/2018/01/Creative-Classroom-Banner-tb-1924x0.jpg 2x"></source><source media="(min-width: 0px)" srcset="https://www.canva.com/learn/wp-content/uploads/2018/01/Creative-Classroom-Banner-tb-762x0.jpg , https://www.canva.com/learn/wp-content/uploads/2018/01/Creative-Classroom-Banner-tb-1524x0.jpg 2x"></source>![Creative Classroom Banner](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132049/Creative-Classroom-Banner.jpg "Creative Classroom Banner")</picture></figure></div></div></div></header><article class="post-38581 post type-post status-publish format-standard has-post-thumbnail hentry category-general" id="post-38581"><div class="wrapper-content-article"><div class="row"><div class="col7">*Between the pressure of keeping up with the school curriculum, meeting with parents and running daily classes, it can be hard to make time for creativity in the classroom. With such little time to spare, it can be easy to think – does it really make a difference?*
+![Anna Guerrero](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155327/Screen-Shot-2015-10-29-at-11.28.46-pm-150x1501112111.png) [](https://www.canva.com/learn/author/anna/)
+
+[Anna Guerrero](https://www.canva.com/learn/author/anna/)
+
+![Creative Classroom Banner](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132049/Creative-Classroom-Banner.jpg)
+
+*Between the pressure of keeping up with the school curriculum, meeting with parents and running daily classes, it can be hard to make time for creativity in the classroom. With such little time to spare, it can be easy to think – does it really make a difference?*
 
 The short answer is: absolutely. Creative classrooms don’t just look different, they feel different. They provide an environment where students are more likely to express their ideas, think outside the box, challenge problems with innovative solutions and most importantly – learn faster and more effectively.
 
@@ -25,7 +31,9 @@ Here at Canva we speak to hundreds of schools every day and are constantly amaze
 
 Reflective activities provide students with an opportunity to absorb information more deeply – enhancing their creative and contextual understanding of the content. When reflective learning exercises are displayed visually in the classroom, they become of benefit not only to those who share them, but to every student in your class.
 
-<figure class="lazyload-image" id="image-38598">[![Mindset Moments](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155329/Mindset-Moments-tb-728x01112111.jpg)](https://www.pinterest.com/pin/121667627410947532/)</figure>This board of [mindset moments](https://www.pinterest.com/pin/121667627410947532/) is one example of this principle in action. By encouraging students to pin their learnings or “shifted mindsets” to the board, this provides a great opportunity for guided reflection.
+![Mindset Moments](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155329/Mindset-Moments-tb-728x01112111.jpg)(https://www.pinterest.com/pin/121667627410947532/)
+
+This board of [mindset moments](https://www.pinterest.com/pin/121667627410947532/) is one example of this principle in action. By encouraging students to pin their learnings or “shifted mindsets” to the board, this provides a great opportunity for guided reflection.
 
 
 
@@ -37,7 +45,7 @@ Even outside of the classroom this technique is well as a creative learning tech
 
 *Try this technique today using the [Learn something new today](https://canva.me/Mzxg/tLxWbGYOZI) and [Learning adventure](https://canva.me/Mzxg/dhC3BpzfYI) templates you’ll find below. Adjust them to your liking, pin them on the wall and let us know how it goes.*
 
-<div>[
+
 
 ![Inspirational Poster](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132055/Learn-Something-Today-Lightbulb-Classroom-Poster.jpg)
 
@@ -54,7 +62,9 @@ Benjamin Franklin once said: “Tell me and I forget, teach me and I may remembe
 
 *Try this [Black and Green Inspirational Quote Poster](https://canva.me/Mzxg/JhPnTB7OZI) template on Canva.*
 
-<figure class="lazyload-image" id="image-38606">[![Black and Green Inspirational Quote Poster](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155332/Black-and-Green-Inspirational-Quote-Poster-tb-728x01112111.jpg)](https://canva.me/Mzxg/JhPnTB7OZI "Use this template")</figure>Here are three ideas for inspiration:
+![Black and Green Inspirational Quote Poster](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155332/Black-and-Green-Inspirational-Quote-Poster-tb-728x01112111.jpg)
+
+[](https://canva.me/Mzxg/JhPnTB7OZI) Here are three ideas for inspiration:
 
 - **English**: Rather than asking students to read class texts at home, incorporate a group reading session into each class. Ensure that every student is selected as the daily reader at least once.
 - **Media/design**: If students are learning about a “real world application” wherever possible skip the theory and get them to dive into the real thing. For example, rather than teaching students about the basics of web design in a media class, encourage them to create a site for something they’re passionate about.
@@ -62,11 +72,11 @@ Benjamin Franklin once said: “Tell me and I forget, teach me and I may remembe
 *If your students are fashion addicts, our [College fashion field guide presentation](https://canva.me/Mzxg/izYuX3RjYI) will put them to work in a breeze.*
 
 
-![Interactive Website](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155334/interactive-website-tb-728x01112111.png)](https://canva.me/Mzxg/izYuX3RjYI "Use this template")
+![Interactive Website](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155334/interactive-website-tb-728x01112111.png) [](https://canva.me/Mzxg/izYuX3RjYI)
 
-<figcaption>In Canva, you can export your presentation as an interactive website in 2 clicks.</figcaption></figure>
+In Canva, you can export your presentation as an interactive website in 2 clicks.
 
-- **Maths**: Taken from [this list](https://www.theguardian.com/teacher-network/teacher-blog/2013/nov/26/maths-creative-ideas-practical-lessons) of excellent practical maths ideas, one way to teach velocity is to ask students to build paper airplanes and use calculations to predict their speed. What better way to iterate on their calculations by testing them out in real life?
+- **Math**: Taken from [this list](https://www.theguardian.com/teacher-network/teacher-blog/2013/nov/26/maths-creative-ideas-practical-lessons) of excellent practical math ideas, one way to teach velocity is to ask students to build paper airplanes and use calculations to predict their speed. What better way to iterate on their calculations by testing them out in real life?
 
 ## 03. Keep your classroom layout flexible
 
@@ -88,9 +98,13 @@ Get inspiration from the ideas below, or check out [this list](http://gettingsma
 
 - **Ted talks**: Leaders and role models play an important role in the creative development of your students. What better way to bring some of the world’s most inspiring leaders right into your classroom than by incorporating TED talks into your curriculum. On the TED website you’ll find [thousands of videos](https://www.ted.com/talks) on a range of topics – making them suitable for all classes.
 
-![Ted Talks](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155337/ted-talks-tb-728x01112111.jpg)](https://www.ted.com/talks) **Innovative lesson plans**: In the world of the Internet and social media, teaching visual communication is as important as any other type of literacy. Graphic design platform Canva has created [lesson plans](https://designschool.canva.com/teaching-materials/) on various topics which enhance students understanding of a topic through visual communication on their platform.
+![Ted Talks](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155337/ted-talks-tb-728x01112111.jpg) [](https://www.ted.com/talks) 
 
-![Canva Teaching Materials](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155338/creative-classrooms-canva-tb-728x01112111.jpg)](https://designschool.canva.com/teaching-materials/) **Podcasts**: Think of just about any subject or topic and chances are there’ll be a podcast covering it. As a starting point, browse through this list of [50 educational podcasts](http://www.opencolleges.edu.au/informed/features/50-educational-podcasts-you-should-check-out/) filled with ideas and inspiration for lesson plans.
+**Innovative lesson plans**: In the world of the Internet and social media, teaching visual communication is as important as any other type of literacy. Graphic design platform Canva has created [lesson plans](https://designschool.canva.com/teaching-materials/) on various topics which enhance students understanding of a topic through visual communication on their platform.
+
+![Canva Teaching Materials](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155338/creative-classrooms-canva-tb-728x01112111.jpg) [](https://designschool.canva.com/teaching-materials/) 
+
+**Podcasts**: Think of just about any subject or topic and chances are there’ll be a podcast covering it. As a starting point, browse through this list of [50 educational podcasts](http://www.opencolleges.edu.au/informed/features/50-educational-podcasts-you-should-check-out/) filled with ideas and inspiration for lesson plans.
 
 ## 05. Encourage discussion
 
@@ -104,7 +118,7 @@ Some other reasons why discussion can be productive include:
 
 This could take the shape of a reflective session 10 minutes before the end of a session, or by asking one member of a group to present their ideas to the class. Download the [useful list](http://info.variquest.com/infovariquestcom/blogvariquestcom/cooperative-learning-a-social-activity) below and place it in your classroom to help guide meaningful conversation:
 
-![Variquest](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155340/Variquest-tb-728x01112111.jpg)](http://info.variquest.com/infovariquestcom/blogvariquestcom/cooperative-learning-a-social-activity)
+![Variquest](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155340/Variquest-tb-728x01112111.jpg) [](http://info.variquest.com/infovariquestcom/blogvariquestcom/cooperative-learning-a-social-activity)
 
 ## 06. Replace hierarchy with collaborative learning spaces
 
@@ -121,7 +135,7 @@ Color in the classroom doesn’t only need to be for early primary school. Chall
 
 ![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132109/canva-blue-illustrated-classroom-management-poster-MACU-y_JGd8.jpg)](https://canva.me/Mzxg/OZ66VM6fYI)
 
-![Learn about triangles](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132110/canva-blue-triangles-math-classroom-poster-MACUgxR9k00.jpg)](https://canva.me/Mzxg/4fbUDPegYI) Color can also be an incredibly powerful tool to aid students with absorbing information and learning new content. Encourage your students to use more color as a staple when taking notes. You’ll be surprised at how quickly they start absorbing new information.
+![Learn about triangles](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132110/canva-blue-triangles-math-classroom-poster-MACUgxR9k00.jpg) [](https://canva.me/Mzxg/4fbUDPegYI) Color can also be an incredibly powerful tool to aid students with absorbing information and learning new content. Encourage your students to use more color as a staple when taking notes. You’ll be surprised at how quickly they start absorbing new information.
 
 ![Taking Notes](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155341/Taking-Notes-tb-728x01112111.jpg)
 
@@ -133,7 +147,7 @@ For example, imagine students were required to read the book “No Sugar” as p
 
 *Getting your students to create a poster on sensible topics can be helpful to open a discussion. Try this [Human Rights Poster](https://canva.me/Mzxg/K2kQKVrgYI).*
 
-![Yellow People Illustration Human Rights Poster](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155343/Yellow-People-Illustration-Human-Rights-Poster-tb-728x01112111.jpg)](https://canva.me/Mzxg/K2kQKVrgYI) *Ask your students to create a menu for a special occasion. Working on both the content and the design makes the assignment more entertaining (and instructive). Have a go with this [Thanksgiving Menu](https://canva.me/Mzxg/x0Ub6WxgYI).*
+![Yellow People Illustration Human Rights Poster](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155343/Yellow-People-Illustration-Human-Rights-Poster-tb-728x01112111.jpg) [](https://canva.me/Mzxg/K2kQKVrgYI) *Ask your students to create a menu for a special occasion. Working on both the content and the design makes the assignment more entertaining (and instructive). Have a go with this [Thanksgiving Menu](https://canva.me/Mzxg/x0Ub6WxgYI).*
 
 ![Orange with Flowers Thanksgiving Menu](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155345/Orange-with-Flowers-Thanksgiving-Menu-tb-728x01112111.jpg)(https://canva.me/Mzxg/x0Ub6WxgYI "Use this template") *Keep your students happy by speaking their language. Add some flair to your worksheets using this [Pet Writing Prompt Worksheet](https://canva.me/Mzxg/yCyKlgDgYI).*
 
@@ -149,7 +163,7 @@ Humour is an important part of creating a positive environment in which creativi
 
 ![Earth Without Art](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132122/Neon-Quote-Poster.jpg)](https://canva.me/Mzxg/54oupPdPZI)
 
-![Lets Eat Grandma](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132125/Blue-and-Red-Quote-Social-Media-Post.jpg)(https://canva.me/Mzxg/E3W7TKiPZI)) In this [blog article](http://www.edutopia.org/blog/creating-classroom-culture-of-laughter-laura-davis), Laura Davis also talks about how you can use humour in a team building environment to encourage students to laugh with each other, not at each other, and make light of small failures.
+![Lets Eat Grandma](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132125/Blue-and-Red-Quote-Social-Media-Post.jpg) [](https://canva.me/Mzxg/E3W7TKiPZI)) In this [blog article](http://www.edutopia.org/blog/creating-classroom-culture-of-laughter-laura-davis), Laura Davis also talks about how you can use humour in a team building environment to encourage students to laugh with each other, not at each other, and make light of small failures.
 
 ## 10. Rewards &amp; recognition are key to motivating your students
 
@@ -175,13 +189,17 @@ This also adds an emotional element to the process – allowing them to become m
 
 Empowering students to set their own goals is an incredible motivator. Goals can be decided on a project or term basis and should always be achievable. By giving students a clear vision for where they want their learning to take them, they become naturally more inclined to find creative solutions to get them there.
 
-![Setting Goals](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155352/Setting-Goals-tb-728x01112111.jpg)</figure>
+![Setting Goals](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155352/Setting-Goals-tb-728x01112111.jpg)
 
 ## 13. Pin up motivational posters
 
 Using inspiration quotes and posters around your classroom is a great way encourage your students to unleash their creative potential. Browse this awesome list of [50 inspirational posters](https://www.canva.com/learn/motivational-quotes-inspiring-posters/) and print them out for your classroom today, or simply edit one of the templates below: *[Celebrate learning](https://canva.me/Mzxg/HkNXd0XhYI) or [Put mistakes in perspective](https://canva.me/Mzxg/kC02kB4hYI).*
 
-<div>[![Learning Poster](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132129/canva-you-win-you-learn-motivational-poster-MAB5Wehnpzo.jpg)](https://canva.me/Mzxg/HkNXd0XhYI)</div><div>[![Inspiring Quote Poster](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132131/canva-inspirational-quote-classroom-poster-MAB5V4IbCMA.jpg)](https://canva.me/Mzxg/kC02kB4hYI)</div>## 14. Team building exercises
+![Learning Poster](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132129/canva-you-win-you-learn-motivational-poster-MAB5Wehnpzo.jpg) [](https://canva.me/Mzxg/HkNXd0XhYI)
+
+![Inspiring Quote Poster](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132131/canva-inspirational-quote-classroom-poster-MAB5V4IbCMA.jpg) (https://canva.me/Mzxg/kC02kB4hYI)
+
+## 14. Team building exercises
 
 The most important thing about team building exercises is that there aren’t right or wrong answers – just strategies. Cooperative games allow students to work together to make decisions based on creative thinking, communication, and collaboration.
 
@@ -191,7 +209,7 @@ Throughout the process, students build better relationships with other team memb
 
 The [Design Thinking](http://topics.tigweb.org/design-thinking) process is a framework for creativity and innovation taught in schools and universities all around the world. It allows students to break down complex problems based on various stages.
 
-<figure class="lazyload-image" id="image-38595">[![Design Thinking](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155353/Design-Thinking-tb-728x01112111.jpg)](http://topics.tigweb.org/design-thinking)<div class="spinner"><div class="spinner__inner"></div></div></figure>Try incorporating design thinking into any project or exercise. Some useful points of reflection after the exercise might be to ask students where the biggest challenges or difficulties were, and at what point they achieved the most process or success.
+![Design Thinking](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155353/Design-Thinking-tb-728x01112111.jpg) [](http://topics.tigweb.org/design-thinking) Try incorporating design thinking into any project or exercise. Some useful points of reflection after the exercise might be to ask students where the biggest challenges or difficulties were, and at what point they achieved the most process or success.
 
 Encouraging students to think critically about their work enhances their creative thinking abilities, making them ready to understand and solve complex problems later in life.
 
@@ -199,7 +217,7 @@ Encouraging students to think critically about their work enhances their creativ
 
 Developing students’ ability to consider multiple perspectives is an important part of thinking outside the box.
 
-<figure class="lazyload-image" id="image-38596">![Different Cultures](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155354/Different-Cultures-tb-728x01112111.jpg)</figure>Some ideas to incorporate cultural awareness into your classroom are:
+[Different Cultures](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155354/Different-Cultures-tb-728x01112111.jpg) Some ideas to incorporate cultural awareness into your classroom are:
 
 - Label things in your classroom in different language.
 - Celebrate different cultural holidays and the original behind them.
@@ -231,15 +249,17 @@ Allowing students to feel a great pride in their achievements will encourage the
 
 Think outside the box – you could snap a crazy photo and [put it in your yearbook](https://canva.me/Mzxg/CNZ30xsvqJ) in a special awards section, try a Greek style smashing of the plates ritual, a dress up or anything in between.
 
-<figure class="lazyload-image" id="image-38609">[![Themes Template](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155357/Themes-Template-tb-728x01112111.png)](https://canva.me/Mzxg/CNZ30xsvqJ "Use this template")</figure>## Make your classroom more creative today.
+![Themes Template](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155357/Themes-Template-tb-728x01112111.png)
+
+## Make your classroom more creative today.
 
 The classroom is the centre of every student’s learning journey. Ensuring that it is brimming with creativity – both physically and through the activities taught in it – is one of the many privileges of being a teacher.
 
-</div></div></div></article><section class="post-call-to-action post-call-to-action-c4w"><div class="row"><div class="col7"><div class="give-it-a-try-c4w-inner "><div class="text">## **Great design for**  
+## **Great design for**  
+
 every part of your life
 
-<button class="btn start-designing">Start designing</button>
+![Anna Guerrero](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155327/Screen-Shot-2015-10-29-at-11.28.46-pm-150x1501112111.png)]
 
-</div></div></div></div></section><section class="author-wrapper"><div class="row"><div class="col7"><div class="author-info"><div class="author-avatar">[![Anna Guerrero](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155327/Screen-Shot-2015-10-29-at-11.28.46-pm-150x1501112111.png)](https://www.canva.com/learn/author/anna/)</div><div class="author-name"><div class="author">[Anna Guerrero](https://www.canva.com/learn/author/anna/ "Posts by Anna Guerrero")</div></div></div><div class="author-description">Anna heads up several of Canva’s content marketing projects, including her favourite: Design School. She’s passionate about the way content can be used to create a meaningful synergy between businesses and their audiences. Say hello on Twitter @AnnaIsabella92.
+[Anna Guerrero](https://www.canva.com/learn/author/anna/)Anna heads up several of Canva’s content marketing projects, including her favourite: Design School. She’s passionate about the way content can be used to create a meaningful synergy between businesses and their audiences. Say hello on Twitter @AnnaIsabella92.
 
-</div></div></div></section>
