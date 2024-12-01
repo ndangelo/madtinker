@@ -38,7 +38,7 @@ We are looking to redesign the official Renault website in South Africa. The sit
 
 This is the current site:
 
-[![Design](https://uxdesignmastery.com/wp-content/uploads/2024/07/renaultsa-landing-page-1024x568.png)](https://uxdesignmastery.com/wp-content/uploads/2024/07/renaultsa-landing-page.png)</figure></div>## Platform
+![Design](https://uxdesignmastery.com/wp-content/uploads/2024/07/renaultsa-landing-page-1024x568.png)](https://uxdesignmastery.com/wp-content/uploads/2024/07/renaultsa-landing-page.png)</figure></div>## Platform
 
 Please design website screens for desktop (1440px wide and mobile view 365px wide).
 

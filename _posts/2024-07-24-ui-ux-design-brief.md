@@ -64,4 +64,4 @@ Last but definitely not least, the budget for each UX design project shapes the 
 
 ###### **With these 10 solid components in place, a UX Design Brief for a Banking Application may look something like this:**
 
-<div class="wp-block-image"><figure class="aligncenter">![ux design brief](https://korunewdev.wpenginepowered.com/wp-content/uploads/2024/05/10-components-of-a-solid-UX-design-brief-infographic-06-scaled-1.jpg)</figure></div>
+![ux design brief](https://korunewdev.wpenginepowered.com/wp-content/uploads/2024/05/10-components-of-a-solid-UX-design-brief-infographic-06-scaled-1.jpg)

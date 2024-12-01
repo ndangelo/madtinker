@@ -12,7 +12,9 @@ categories:
 
 Szerovay, K. (2022). UX Sketching Exercises for Ideation Part 2: Sketching flows. Retrieved from https://uxknowledgebase.com/ux-sketching-exercises-for-ideation-part-2-sketching-flows-6c5a0b55aa47
 
-<div class="wp-block-image"><figure class="aligncenter">![UX Sketching Exercises for Ideation Part 2: Sketching flows](https://miro.medium.com/v2/resize:fit:700/1*rJ9F1p6UxXOtogvUZl029Q.png)<figcaption class="wp-element-caption">UX Sketching Exercises for Ideation Part 2: Sketching flows — UX Knowledge Piece Sketch #32</figcaption></figure></div># Sketching out user flows.
+![UX Sketching Exercises for Ideation Part 2: Sketching flows](https://miro.medium.com/v2/resize:fit:700/1*rJ9F1p6UxXOtogvUZl029Q.png) UX Sketching Exercises for Ideation Part 2: Sketching flows — UX Knowledge Piece Sketch #32
+
+# Sketching out user flows.
 
 A user flow is a sequence of steps a persona takes inside an app or on a website to reach a goal.
 
