@@ -12,7 +12,9 @@ categories:
     - 'Projects'
 ---
 
-<div class="wp-block-image"><figure class="aligncenter size-large">![](https://image-control-storage.s3.amazonaws.com/2020/02/25160925/what-is-an-infographic1.jpg)</figure></div>### **The information below is in your Creative Brief.**
+![](https://image-control-storage.s3.amazonaws.com/2020/02/25160925/what-is-an-infographic1.jpg)
+
+### **The information below is in your Creative Brief.**
 
 Infographics are graphic representations of information, data or knowledge. They are great for presenting complex information quickly and clearly.
 
@@ -35,7 +37,7 @@ A few things to consider when making your infographic:
 
 ### **Create a question pyramid**
 
-<div class="wp-block-image"><figure class="aligncenter">![how to make an infographic](https://image-control-storage.s3.amazonaws.com/2020/02/24151608/how-to-make-an-infographic-25-35.png "how to make an infographic")</figure></div>Use a **question pyramid** to take that burning problem and turn it into 3-5 actionable questions to tackle in your infographic. Use Adobe Illustrator to create a simple pyramid and answer and expand on the questions above.
+![how to make an infographic](https://image-control-storage.s3.amazonaws.com/2020/02/24151608/how-to-make-an-infographic-25-35.png) Use a **question pyramid** to take that burning problem and turn it into 3-5 actionable questions to tackle in your infographic. Use Adobe Illustrator to create a simple pyramid and answer and expand on the questions above.
 
 Basically, try to create as many questions as you can. You will need them when you create your infographic.
 
@@ -105,15 +107,15 @@ There are many sites that you can use for the visual component of this assignmen
 
 ## Student Work
 
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11082253/Binder1_Page_5.jpg)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11082253/Binder1_Page_5.jpg)
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11082253/Binder1_Page_5.jpg)![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11082253/Binder1_Page_5.jpg)
 
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11082256/Binder1_Page_6.jpg)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11082256/Binder1_Page_6.jpg)
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11082256/Binder1_Page_6.jpg)![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11082256/Binder1_Page_6.jpg)
 
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11082517/Binder1_Page_3.png)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11082517/Binder1_Page_3.png)
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11082517/Binder1_Page_3.png)![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11082517/Binder1_Page_3.png)
 
 ![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11083055/infographic-4.png)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11083055/infographic-4.png)
 
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11083312/Binder12_Page_2.png)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11083312/Binder12_Page_2.png)
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11083312/Binder12_Page_2.png)![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/11083312/Binder12_Page_2.png)
 
 ![](https://image-control-storage.s3.amazonaws.com/2020/02/21175407/InfoGraph-683x1024.jpg)
 

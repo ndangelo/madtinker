@@ -12,7 +12,10 @@ categories:
     - 'Projects'
     - 'Art'
 ---
-![](https://image-control-storage.s3.amazonaws.com/2020/02/10195144/2020-02-10-18_43_46-kandinsky-layout.png)
+
+
+![Kandinsky](https://image-control-storage.s3.amazonaws.com/2020/02/10195144/2020-02-10-18_43_46-kandinsky-layout.png)
+
 *Hans Thiemann*
 
 ## Assignment
