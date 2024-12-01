@@ -10,5 +10,3 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
 baseurl: /
 
-plugins:
-  - jekyll-target-blank
