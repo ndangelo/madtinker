@@ -14,9 +14,10 @@ Finally, the design brief becomes the strategic plan for implementing objectives
 
 The document below is what was presented in class. It presents important questions that you will need to answer for this project. The criteria for your Design Brief will differ from the document below. For now, you should just focus on brand ideation.
 
-<a href="https://www.dropbox.com/s/bmf05xsml5d9bzw/Design_Brief_Branding_VisualIdentity_Design_Advertising.pdf?dl=0" target="_blank">Design Brief and Case Study Example</a>
+[Design Brief and Case Study Example](https://www.dropbox.com/s/bmf05xsml5d9bzw/Design_Brief_Branding_VisualIdentity_Design_Advertising.pdf?dl=0)
 
-<a href="#" class="madtinker_main"><img src="https://s3.amazonaws.com/image-control-storage/blog-images/2016/01/27191208/Design_Brief_Branding_Advertising.jpg" target="_blank" /></a>
+![Image](https://s3.amazonaws.com/image-control-storage/blog-images/2016/01/27191208/Design_Brief_Branding_Advertising.jpg)
+
 
 **Do NOT start with creating your Design Brief.**The above pdf is an EXAMPLE and an example only. Your Design brief will follow different criteria. You should only concentrate on conceptualizing. We will discuss this further in class.
 
@@ -27,19 +28,16 @@ The document below is what was presented in class. It presents important questio
 **NOTE:** These Design Briefs were made by students in a class with different parameters. REMEMBER: You are limited to a unique fictional product.
 
 
+[Design Brief Example](https://www.dropbox.com/s/0b0zw9p11o6gq4f/VANBUSKIRK%20Design%20Brief.docx?dl=0)
 
-<a href="https://www.dropbox.com/s/0b0zw9p11o6gq4f/VANBUSKIRK%20Design%20Brief.docx?dl=0" target="_blank"/>Design Brief Example</a>
-
-
-<a href="https://www.dropbox.com/s/fk2b08js05h4dvp/Design_Brief_allison_white.docx?dl=0" target="_blank"/>Design Brief Example</a>
-
+[Design Brief Example](https://www.dropbox.com/s/fk2b08js05h4dvp/Design_Brief_allison_white.docx?dl=0)
 
 The following is a template you may use for your Design Brief.
 
-<a href="https://s3.amazonaws.com/ndangelo-documents/ESU/Design_Brief_template.docx" target="_blank" />Download Here</a>
+[Download Here](https://s3.amazonaws.com/ndangelo-documents/ESU/Design_Brief_template.docx)
 
+![Image](https://s3.amazonaws.com/image-control-storage/2019/06/18143628/51021.pic_-15.jpg)
 
-<div><img src="https://s3.amazonaws.com/image-control-storage/2019/06/18143628/51021.pic_-15.jpg" /></div>
 
 By Laura Busche on Nov 21, 2018
 

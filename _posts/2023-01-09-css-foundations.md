@@ -76,23 +76,23 @@ Here, all three `<div>` elements would be selected, while the `<p>` element woul
 
 Class selectors will select all elements with the given class, which is just an attribute you place on an HTML element. Here’s how you add a class to an HTML tag and select it in CSS:
 
-```markup
+{% highlight html linenos%}
 <!-- index.html -->
 
 <div class="alert-text">
   Please agree to our terms of service.
 </div>
 
-```
+{% endhighlight %}
 
-```css
-/* styles.css */
+{% highlight css linenos%}
+
 
 .alert-text {
   color: red;
 }
 
-```
+{% endhighlight %}
 
 Note the syntax for class selectors: a period immediately followed by the case-sensitive value of the class attribute. Classes aren’t required to be unique, so you can use the same class on as many elements as you want.
 
@@ -102,21 +102,21 @@ Another thing you can do with the class attribute is to add multiple classes to 
 
 ID selectors are similar to class selectors. They select an element with the given ID, which is another attribute you place on an HTML element:
 
-```markup
+{% highlight html linenos%}
 <!-- index.html -->
 
 <div id="title">My Awesome 90's Page</div>
 
-```
+{% endhighlight %}
 
-```css
-/* styles.css */
+{% highlight css linenos%}
+
 
 #title {
   background-color: red;
 }
 
-```
+{% endhighlight %}
 
 Instead of a period, we use a hashtag immediately followed by the case-sensitive value of the ID attribute. A common pitfall is people overusing the ID attribute when they don’t necessarily need to, and when classes will suffice. While there are cases where using an ID makes sense or is needed, such as taking advantage of specificity or having links redirect to a section on the current page, you should use IDs **sparingly** (if at all).
 
@@ -166,24 +166,24 @@ Both of the examples above (with and without grouping) will have the same result
 
 Another way to use selectors is to chain them as a list without any separation. Let’s say we had the following HTML:
 
-```markup
+{% highlight html linenos%}
 <div>
   <div class="subsection header">Latest Posts</div>
   <p class="subsection preview">This is where a preview for a post might go.</p>
 </div>
 
-```
+{% endhighlight %}
 
 We have two elements with the `subsection` class that have some sort of unique styles, but what if we only want to apply a separate rule to the element that also has `header` as a second class? Well, we could chain both the class selectors together in our CSS like so:
 
-```css
+{% highlight css linenos%}
 .subsection.header {
   color: red;
 }
 
-```
+{% endhighlight %}
 
-What `.subsection.header` does is it selects any element that has both the `subsection` *and* `header` classes. Notice how there isn’t any space between the `.subsection` and `.header` class selectors. This syntax basically works for chaining any combination of selectors, except for chaining more than one [type selector](https://www.theodinproject.com/lessons/foundations-css-foundations#type-selectors).
+What `.subsection.header` does is it selects any element that has both the `subsection` *and* `header` classes. Notice how there isn’t any space between the `.subsection` and `.header` class selectors. This syntax basically works for chaining any combination of selectors, except for chaining more than one [type selector](https://www.theodinproject.com/lessons/foundations-css-foundations#type-selectors){:target="_blank"}.
 
 This can also be used to chain a class and an ID, as shown below:
 

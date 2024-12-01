@@ -8,6 +8,10 @@ guid: 'https://www.nuggetofjoy.com/?p=57422'
 permalink: /facebook-business-engagement/
 categories:
     - Projects
+    - Social
+
+tag:
+    - social
 ---
 
 ## **Assignment: Social Media Campaign**

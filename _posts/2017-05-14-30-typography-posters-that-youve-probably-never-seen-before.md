@@ -9,6 +9,9 @@ permalink: /30-typography-posters-that-youve-probably-never-seen-before/
 categories:
     - 'DMET_160 Introduction to Multimedia'
     - Projects
+
+tag:
+    - design
 ---
 
 **Typography** is the art of arranging, designing, and modifying type.

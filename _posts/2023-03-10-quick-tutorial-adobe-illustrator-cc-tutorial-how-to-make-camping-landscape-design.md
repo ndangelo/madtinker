@@ -10,4 +10,4 @@ categories:
     - 'DMET 155 Introduction to Web Design'
 ---
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/MZTdVUoyVPk?feature=oembed" title="Adobe Illustrator CC Tutorial - How to make Camping Landscape Design" width="500"></iframe></div></figure>
+<iframe class="vide" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/MZTdVUoyVPk?feature=oembed" title="Adobe Illustrator CC Tutorial - How to make Camping Landscape Design" ></iframe>

@@ -25,21 +25,22 @@ The next time you try to draw something (preferably a still life) take one simpl
 
 Next, you must ask yourself many questions about the sizes and locations of the other objects **as compared to this reference object**. It’s important to quantify your findings; in other words, please assign a number to any of your comparisons. This is where art makes a strong connection to math, fractions and percentages to be specific. Look at the photograph of the still life below and pretend you are just about to draw this still life.
 
-<div class="wp-block-image"><figure class="aligncenter">![Drawing Proportions Correctly | How To Draw | Techniques for Accurate Drawing](https://image-control-storage.s3.amazonaws.com/2020/04/14110721/still-life-proportions-3.jpg)</figure></div>Now that you have seen the still life set up let us take a peek into an artist’s mind to gain some insight into how they would start making important observations regarding this setup’s proportions. Take a look at this next photo accompanied by an artist’s comparative findings listed underneath the photo.
+![Drawing Proportions Correctly | How To Draw | Techniques for Accurate Drawing](https://image-control-storage.s3.amazonaws.com/2020/04/14110721/still-life-proportions-3.jpg)
+Now that you have seen the still life set up let us take a peek into an artist’s mind to gain some insight into how they would start making important observations regarding this setup’s proportions. Take a look at this next photo accompanied by an artist’s comparative findings listed underneath the photo.
 
-<div class="wp-block-image"><figure class="aligncenter">![Drawing Proportions Correctly: comparing heights | How To Draw | Techniques for Accurate Drawing](https://image-control-storage.s3.amazonaws.com/2020/04/14110723/still-life-proportions-height-1.jpg)</figure></div>Here are some import findings regarding how tall each object is:
+![Drawing Proportions Correctly: comparing heights | How To Draw | Techniques for Accurate Drawing](https://image-control-storage.s3.amazonaws.com/2020/04/14110723/still-life-proportions-height-1.jpg)Here are some import findings regarding how tall each object is:
 
 - The spool of red string is 2 times taller than the cylinder
 - The pear is half as tall as the cylinder
 - The yellow bottle is just under 2 cylinders tall (1.75 times)
 
-We just examined the heights of still life objects as compared to our <span class="tadv-background-color" style="background-color:#fcb900">**reference object** </span>– the white cylinder. Next we’ll use the same technique of visually proportioning out the widths of our objects.
+We just examined the heights of still life objects as compared to our **reference object** – the white cylinder. Next we’ll use the same technique of visually proportioning out the widths of our objects.
 
 ## Proportional Widths of Objects
 
 We just discovered how to proportion a drawing in terms of how tall each object is (heights). Now consider how wide each object is. Using the same cylinder for our reference object we can figure out how wide each object is. Do you see any objects that appear to be the same width? Look at the photograph of the still life again and you’ll notice some if the important findings listed below.
 
-<div class="wp-block-image"><figure class="aligncenter">[![Drawing Proportions Correctly: comparing widths | How To Draw | Techniques for Accurate Drawing](https://image-control-storage.s3.amazonaws.com/2020/04/14110724/still-life-proportions-width-1.jpg)](http://helloartsy.com/wp-content/uploads/2015/12/still-life-proportions-height1.jpg)</figure></div>Here are some import findings regarding how tall each object is:
+![Drawing Proportions Correctly: comparing widths | How To Draw | Techniques for Accurate Drawing](https://image-control-storage.s3.amazonaws.com/2020/04/14110724/still-life-proportions-width-1.jpg) Here are some import findings regarding how tall each object is:
 
 - The top of the golden chalice is the same width as the white cylinder
 - The top of the coffee cup is the same width as the white cylinder
@@ -49,18 +50,20 @@ You probably noticed that our comparison between the yellow bottle and the pair 
 
 ## Don’t forget About Placement
 
-Defining the heights and widths of objects is very important but drawing proportions correctly will also require you to pay attention to the spaces between objects as well! **<span class="tadv-background-color" style="background-color:#fcb900">Don’t forget to visually measure out the spaces between objects.</span>** You can do this by using the same measuring logic we used previously when we determined the proportional heights and widths of each object.
+Defining the heights and widths of objects is very important but drawing proportions correctly will also require you to pay attention to the spaces between objects as well! **Don’t forget to visually measure out the spaces between objects.** You can do this by using the same measuring logic we used previously when we determined the proportional heights and widths of each object.
 
-Scroll up and take a look at the original still life at the start of this post one last time; let’s make a few discoveries regarding correctly proportioning the positions of each object and accounting for the spaces in between**.<span class="tadv-background-color" style="background-color:#fcb900"> How big are the spaces in between each object? Is one object positioned higher or lower than another?</span>** Be specific when you try to answer these questions and make as many discoveries as possible.
+Scroll up and take a look at the original still life at the start of this post one last time; let’s make a few discoveries regarding correctly proportioning the positions of each object and accounting for the spaces in between**. **How big are the spaces in between each object? Is one object positioned higher or lower than another?** **Be specific when you try to answer these questions and make as many discoveries as possible.**
 
-<div class="wp-block-image"><figure class="aligncenter">[![Drawing Proportions Correctly: comparing spacing | How To Draw | Techniques for Accurate Drawing](https://image-control-storage.s3.amazonaws.com/2020/04/14110726/still-life-proportions-placement-1.jpg)](http://helloartsy.com/wp-content/uploads/2015/12/still-life-proportions-placement.jpg)</figure></div>Here are some import findings regarding the spacing between objects:
+![Drawing Proportions Correctly: comparing spacing | How To Draw | Techniques for Accurate Drawing](https://image-control-storage.s3.amazonaws.com/2020/04/14110726/still-life-proportions-placement-1.jpg)
+
+Here are some import findings regarding the spacing between objects:
 
 - The center of the golden chalice is precisely one cylinder height away from the cylinder itself.
 - One cylinder width fits from the left side of the yellow bottle to the center of the golden chalice.
 
 ## Planning Correct Proportions in a Drawing
 
-When you start a drawing take some time to really compare the proportions of each object. Drawing proportions correctly is a slow and meticulous process, especially if you are a beginner artist. **<span class="tadv-background-color" style="background-color:#fcb900">You should indicate with temporary, light marks how tall objects are, how wide they are, and where they are correctly located in your drawing. </span>**Thinking in terms of simple geometric shapes such as rectangles can be helpful. Compare as many objects as you can in your drawing, in fact, it can also be helpful to choose another **<span class="tadv-background-color" style="background-color:#fcb900">reference object</span>** and use it to double-check all of your original measurements. We used the white cylinder as a means for most of our comparisons so far, but that is really just the beginning. We could, for example, re-measure using the pear as our reference object in order to double-check the accuracy of the proportions in our drawing.
+When you start a drawing take some time to really compare the proportions of each object. Drawing proportions correctly is a slow and meticulous process, especially if you are a beginner artist. **You should indicate with temporary, light marks how tall objects are, how wide they are, and where they are correctly located in your drawing.**Thinking in terms of simple geometric shapes such as rectangles can be helpful. Compare as many objects as you can in your drawing, in fact, it can also be helpful to choose another **reference object** and use it to double-check all of your original measurements. We used the white cylinder as a means for most of our comparisons so far, but that is really just the beginning. We could, for example, re-measure using the pear as our reference object in order to double-check the accuracy of the proportions in our drawing.
 
 The more analytical you can be in your initial observations the fewer fixes you’ll have to make in your drawing later on. Most of us want to jump right into the actual shading and get down to details, and I also feel the urge to do this. However, your artwork will come out much more accurately and you’ll have far less aggravation fixing mistakes later on if you take the time to draw your proportions correctly from the start.
 

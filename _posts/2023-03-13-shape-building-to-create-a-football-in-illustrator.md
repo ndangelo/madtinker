@@ -11,7 +11,9 @@ categories:
     - Projects
 ---
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/AWTyvaWYLrM?start=1&feature=oembed" title="(AWESOME TECHNIQUE!) Shape Building to Create a Football in Illustrator!" width="500"></iframe></div></figure>1. Use the Shape Builder, Snap to Point, and the precision of the Properties panel to quickly create some fun shapes that you can use in your next logo or design project!
+<iframe class="vide" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/AWTyvaWYLrM?start=1&feature=oembed" title="(AWESOME TECHNIQUE!) Shape Building to Create a Football in Illustrator!"></iframe>
+
+1. Use the Shape Builder, Snap to Point, and the precision of the Properties panel to quickly create some fun shapes that you can use in your next logo or design project!
 2. Recording notes:
 3. Start with a 300px ellipse. Center it in the document.
 4. Duplicate the ellipse and use the Properties panel to make it 150% bigger.

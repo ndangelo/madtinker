@@ -6,10 +6,13 @@ author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=58154'
 permalink: /composition-checklist/
-amazonS3_cache:
-    - 'a:2:{s:85:"//www.nuggetofjoy.com/wp-content/uploads/Composition_Checklist_Landa_GDS6e-scaled.jpg";a:2:{s:2:"id";i:58155;s:11:"source_type";s:13:"media-library";}s:102:"//image-control-storage.s3.amazonaws.com/2022/01/13124257/Composition_Checklist_Landa_GDS6e-scaled.jpg";a:2:{s:2:"id";i:58155;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'Design Instruction'
+    - Design
+
+tag:
+    - design
 ---
 
-<figure class="wp-block-image size-full">![](https://image-control-storage.s3.amazonaws.com/2022/01/13124257/Composition_Checklist_Landa_GDS6e-scaled.jpg)</figure>
+![](https://image-control-storage.s3.amazonaws.com/2022/01/13124257/Composition_Checklist_Landa_GDS6e-scaled.jpg)

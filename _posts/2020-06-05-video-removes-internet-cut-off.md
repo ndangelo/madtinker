@@ -8,9 +8,9 @@ tags: - 'YouTube'
 ---
 
 
-<div class="vide">
+
 <iframe class="vide" src="https://www.youtube.com/embed/ohbWTmPMc04?si=2moFoxyJqCKPlDoN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-</div>
+
 
 ---
