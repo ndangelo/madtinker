@@ -24,12 +24,12 @@
 }
 
 article {
-
+ flex-shrink: 0;
   min-width: 350px;
 }
 
 article.post {
-
+ flex-shrink: 0;
   min-width: 350px;
 }
 
@@ -555,6 +555,7 @@ article {
  height: auto;
  overflow: auto;
   flex-wrap: wrap;
+  flex-shrink: 0;
   /*overflow-wrap: break-word;*/
   min-width: 350px;
 
@@ -567,6 +568,7 @@ article.post {
  height: auto;
  overflow: auto;
   flex-wrap: wrap;
+   flex-shrink: 0;
   /*overflow-wrap: break-word;*/
   min-width: 350px;
   padding: 5px;
