@@ -326,8 +326,15 @@ nav ul li a:hover {
  }
 
  h3 {
-
+font-size: .8em;
   color: #a8274e;
+ }
+
+ hr {
+
+  margin: 25px;
+  width: 500px;
+  border: solid 2px #999999;
  }
 
 
