@@ -326,7 +326,7 @@ nav ul li a:hover {
  }
 
  h3 {
-font-size: 1.2em;
+font-size: 1.5em;
   color: #a8274e;
  }
 
@@ -405,7 +405,7 @@ body {
     flex-direction: column;
     flex-grow: 1;
     min-width: 350px;
-    max-width: 600px;
+    max-width: 500px;
     padding: 15px;
     overflow-wrap: break-word;
  
@@ -487,7 +487,7 @@ body {
     /*border: solid 2px lightblue;*/
     /*flex-grow: 1;*/
     min-width: 350px;
-    max-width: 600px;
+    max-width: 500px;
     /*overflow-wrap: break-word;*/
    
   }
