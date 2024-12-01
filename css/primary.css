@@ -586,5 +586,12 @@ article.post {
 
 }
 
+.wrapper iframe {
+
+  max-width: 300px;
+
+
+}
+
 
 }
