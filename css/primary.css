@@ -334,7 +334,8 @@ font-size: 1.5em;
 
   margin: 25px;
   margin: auto;
-  width: 500px;
+ max-width: 500px;
+ min-width: 100px;
   border: solid 2px #111111;
  }
 
