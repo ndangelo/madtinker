@@ -178,7 +178,7 @@ a:hover {
   padding: 20px;
    height: auto;
  overflow: auto;
-
+     overflow-wrap: break-word;
 }
 
 .container {
@@ -403,8 +403,8 @@ body {
     justify-content: space-between;
     flex-wrap: wrap;
     flex-direction: column;
-    /*flex-grow: 1;*/
-    min-width: 340px;
+    flex-grow: 1;
+    min-width: 350px;
     max-width: 500px;
     padding: 15px;
     overflow-wrap: break-word;
@@ -414,7 +414,7 @@ body {
   .container ul {
     padding: 0;
     list-style-type: none;
-/*  overflow-wrap: break-word;*/
+  overflow-wrap: break-word;
   }
 
   .item3 {
@@ -507,7 +507,7 @@ body {
   }
 
   .headline h1 {
-    font-size: 1.8em;
+    font-size: 1.5em;
   }
 
   .item2 {
@@ -555,9 +555,8 @@ article {
  height: auto;
  overflow: auto;
   flex-wrap: wrap;
-
   /*overflow-wrap: break-word;*/
-  min-width: 350px;
+  min-width: 360px;
 
 }
 
@@ -569,7 +568,7 @@ article.post {
  overflow: auto;
   flex-wrap: wrap;
   /*overflow-wrap: break-word;*/
-  min-width: 350px;
+  min-width: 360px;
   padding: 5px;
 
 }
