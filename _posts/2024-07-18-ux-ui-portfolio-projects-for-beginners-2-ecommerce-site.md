@@ -138,4 +138,4 @@ Conduct research on these eCommerce websites for inspiration:
 - Explore both online and offline shopping experiences for context.  
 - Reference the [Figjam User Flow Template](https://www.figma.com/community/file/1199950527643719387/aimo-user-flow).
 
-<iframe allowfullscreen height="450" loading="lazy" src="https://embed.figma.com/board/pV3UOdwuWcnazeKYmCU4HZ/Aimo!-(User-Flow)-(Community)?node-id=0-1&embed-host=share" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800"></iframe>
+<iframe class="vide" allowfullscreen oading="lazy" src="https://embed.figma.com/board/pV3UOdwuWcnazeKYmCU4HZ/Aimo!-(User-Flow)-(Community)?node-id=0-1&embed-host=share" style="border: 1px solid rgba(0, 0, 0, 0.1);"></iframe>
