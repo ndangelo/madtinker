@@ -283,7 +283,7 @@ p {
   flex-wrap: wrap;
   height: auto;
   margin: 20px;
-  min-width: 350px;
+  /*min-width: 350px;*/
 }
 
 img {
