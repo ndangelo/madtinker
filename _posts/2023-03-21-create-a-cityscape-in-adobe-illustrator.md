@@ -1,7 +1,7 @@
 ---
 id: 61990
 title: 'CREATE A CITYSCAPE IN ADOBE ILLUSTRATOR'
-date: '2023-03-21T11:56:24-04:00'
+date: '2024-11-30T11:56:24-04:00'
 author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=61990'
@@ -14,6 +14,8 @@ categories:
     tag: 
     - 'design'
 ---
+
+# CREATE A CITYSCAPE IN ADOBE ILLUSTRATOR
 
 [ILLUSTRATOR TEMPLATE FILE](https://www.dropbox.com/s/r2bzx848sapa4tq/cityscape-ai-files.zip?dl=0)
 
@@ -113,7 +115,7 @@ Attention to details is everything, so to finalize our houses, we add a few spec
 
 On the yellow house I added a tiny square of **1 x 1px** on the right and used the *Transform effect* (*Effect &gt; Distort &amp; Transform &gt; Transform…*) to duplicate this square horizontally leaving some space in between each by moving it **4px** for **12** times. When applying these small details using the Transform effects, it’s good to keep in mind to use easy figures so you can do the math to achieve the effect you have in mind. To enter a specific value to the shapes you draw, you select the Rectangle or Ellipse tool, and click on the position you want the shape to appear. Then in the window that appears, you can enter the specific values and hit OK or enter. Once the object is placed, you can move it into position and apply the fill or stroke you like it to have and apply a repeating effect to it. Next are a couple of more examples to get you on your way.
 
-![Add square detail on the yellow house, and an ornamental line below the roof on the bluish house](https://image-control-storage.s3.amazonaws.com/2023/03/21130845/cityscape-illu-houses-28-29-2.png){target="_blank"}
+![Add square detail on the yellow house, and an ornamental line below the roof on the bluish house](https://image-control-storage.s3.amazonaws.com/2023/03/21130845/cityscape-illu-houses-28-29-2.png){:target="_blank"}
 
 **Add square detail on the yellow house, and an ornamental line below the roof on the bluish house**
 
@@ -125,7 +127,7 @@ On another house, I added an ornamental line. First, I drew a horizontal rectang
 
 Afterwards, I expanded this effect via *Object > Expand Appearance*. I selected both the big rectangle and all the smaller shapes. Then I selected the *Minus Front* option from the *Pathfinder* panel.
 
-![Expand the effect, and choose Minus Front to create the rounded gaps. Create a vertical brick effect on the other bluish house.](https://image-control-storage.s3.amazonaws.com/2023/03/21130849/cityscape-illu-houses-30-31-2.png){target="_blank"}
+![Expand the effect, and choose Minus Front to create the rounded gaps. Create a vertical brick effect on the other bluish house.](https://image-control-storage.s3.amazonaws.com/2023/03/21130849/cityscape-illu-houses-30-31-2.png){:target="_blank"}
 
 **Expand the effect, and choose Minus Front to create the rounded gaps. Create a vertical brick effect on the other bluish house.**
 
@@ -141,13 +143,13 @@ Feel free to use your creativity and add a couple more details on some other hou
 
 **1.** Create the left half of the first pine tree by drawing a rectangle and removing the top-left anchor point.
 
-![Create the left half of the first pine tree by drawing a rectangle and removing the top-left anchor point, then vertical copy reflect](https://image-control-storage.s3.amazonaws.com/2023/03/21130853/cityscape-illu-trees-and-green-1-2-2.png){target="_blank"}
+![Create the left half of the first pine tree by drawing a rectangle and removing the top-left anchor point, then vertical copy reflect](https://image-control-storage.s3.amazonaws.com/2023/03/21130853/cityscape-illu-trees-and-green-1-2-2.png){:target="_blank"}
 
 **2.** Copy reflect vertically to create the other side of the pine tree.
 
 **3.** Apply color and draw the tree trunk.
 
-![Apply color, add the trunk, align things up, and make it a Symbol](https://image-control-storage.s3.amazonaws.com/2023/03/21130900/cityscape-illu-trees-and-green-3-4-2.png){target="_blank"}
+![Apply color, add the trunk, align things up, and make it a Symbol](https://image-control-storage.s3.amazonaws.com/2023/03/21130900/cityscape-illu-trees-and-green-3-4-2.png){:target="_blank"}
 
 **4.** Make it a Symbol to easily reuse the tree in your landscape.
 
@@ -161,7 +163,7 @@ Feel free to use your creativity and add a couple more details on some other hou
 
 **7.** Create the green part of the tree using overlapping circles and the *Unite* option in the *Pathfinder* panel.
 
-![Create the green part of the tree, unite the shape, and apply a green gradient fill.](https://image-control-storage.s3.amazonaws.com/2023/03/21130910/cityscape-illu-trees-and-green-7-8-2.png){target="_blank"}
+![Create the green part of the tree, unite the shape, and apply a green gradient fill.](https://image-control-storage.s3.amazonaws.com/2023/03/21130910/cityscape-illu-trees-and-green-7-8-2.png){:target="_blank"}
 
 ---
 
@@ -171,7 +173,7 @@ Feel free to use your creativity and add a couple more details on some other hou
 
 **11.** Unite the shapes and apply them as Symbols.
 
-![Unite the shapes](https://image-control-storage.s3.amazonaws.com/2023/03/21130923/cityscape-illu-trees-and-green-12-2.png){target="_blank"}
+![Unite the shapes](https://image-control-storage.s3.amazonaws.com/2023/03/21130923/cityscape-illu-trees-and-green-12-2.png){:target="_blank"}
 
 ---
 
@@ -181,7 +183,7 @@ Feel free to use your creativity and add a couple more details on some other hou
 
 **2.** Adjust the rooftops to form a taller skyline.
 
-![Duplicate the houses layer and unite the shape into one object.](https://image-control-storage.s3.amazonaws.com/2023/03/21130938/cityscape-illu-skyline-1-2-2.png){target="_blank"}
+![Duplicate the houses layer and unite the shape into one object.](https://image-control-storage.s3.amazonaws.com/2023/03/21130938/cityscape-illu-skyline-1-2-2.png){:target="_blank"}
 
 ---
 
@@ -189,7 +191,7 @@ Feel free to use your creativity and add a couple more details on some other hou
 
 **6.** Create and add clouds using overlapping circles, similar to the bushes technique.
 
-![Create and add clouds using the same technique you've used to create the bushes.](https://image-control-storage.s3.amazonaws.com/2023/03/21130958/cityscape-illu-skyline-6-2.png){target="_blank"}
+![Create and add clouds using the same technique you've used to create the bushes.](https://image-control-storage.s3.amazonaws.com/2023/03/21130958/cityscape-illu-skyline-6-2.png){:target="_blank"}
 
 ---
 
@@ -199,6 +201,6 @@ Feel free to use your creativity and add a couple more details on some other hou
 
 **8.** Arrange layers to finalize the composition.
 
-![Move all layers into place right below the Mask Layer so they become sublayers and the masking takes effect.](https://image-control-storage.s3.amazonaws.com/2023/03/21131010/cityscape-illu-skyline-8-2.png){target="_blank"}
+![Move all layers into place right below the Mask Layer so they become sublayers and the masking takes effect.](https://image-control-storage.s3.amazonaws.com/2023/03/21131010/cityscape-illu-skyline-8-2.png)
 
-**From:** [Veerle's Guide](https://veerle.duoh.com/design/create-a-cityscape-in-adobe-illustrator){target="_blank"}
+**From:** [Veerle's Guide](https://veerle.duoh.com/design/create-a-cityscape-in-adobe-illustrator){:target="_blank"}
