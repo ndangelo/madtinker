@@ -416,6 +416,7 @@ body {
     padding: 0;
     list-style-type: none;
   overflow-wrap: break-word;
+  overflow: auto;
   }
 
   .item3 {
@@ -435,6 +436,7 @@ body {
     /*flex-grow: 1;*/
     padding: 0;
     list-style-type: none;
+    overflow: auto;
   }
 
   .flex-nav li,
