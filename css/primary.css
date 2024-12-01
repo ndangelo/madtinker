@@ -556,7 +556,7 @@ article {
  overflow: auto;
   flex-wrap: wrap;
   /*overflow-wrap: break-word;*/
-  min-width: 360px;
+  min-width: 350px;
 
 }
 
@@ -568,7 +568,7 @@ article.post {
  overflow: auto;
   flex-wrap: wrap;
   /*overflow-wrap: break-word;*/
-  min-width: 360px;
+  min-width: 350px;
   padding: 5px;
 
 }
