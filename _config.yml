@@ -5,7 +5,7 @@ description: The Mad Tinker
 permalink: /:categories/:year/:month/:day/:title/
 paginate: 2
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
 baseurl: /
