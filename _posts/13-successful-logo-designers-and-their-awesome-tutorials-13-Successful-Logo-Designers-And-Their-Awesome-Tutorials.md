@@ -1,26 +1,26 @@
 ---
-id: 5751
-title: '13 Successful Logo Designers And Their Awesome Tutorials'
-date: '2024-29-23T18:56:39-04:00'
-author: admin
+guid: https://www.nuggetofjoy.com/?p=5751
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5751'
+author: admin
 permalink: /13-successful-logo-designers-and-their-awesome-tutorials/
-
+title: 13 Successful Logo Designers And Their Awesome Tutorials
+date: 2024-12-02T14:23:00.000Z
+thumbnail: https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21183855/1_Wx_MGSeQwGca6Gzvrpuo2Q.png
+tag:
+  - design
+id: 5751
 categories:
-    - 'Design Instruction'
-    - 'DMET 350 MEDIA GRAPHICS AND DESIGN'
-    - 'DMET 375 IMAGING TECHNOLOGY'
-    - 'DMET_160 Introduction to Multimedia'
-    - 'Illustrator Tutorials'
-    - 'InDesign'
-    - 'Interactive and Social Media'
-    - 'Photoshop Tutorials'
-    - 'Projects'
-    - 'Tutorials'
-
-tag: 
-    - 'design'
+  - Design Instruction
+  - DMET 350 MEDIA GRAPHICS AND DESIGN
+  - DMET 375 IMAGING TECHNOLOGY
+  - DMET_160 Introduction to Multimedia
+  - Illustrator Tutorials
+  - InDesign
+  - Interactive and Social Media
+  - Photoshop Tutorials
+  - Projects
+  - Tutorials
+rating: 5
 ---
 
 Hi guys, how are you? We all know how hard it is to create awesome, effective logos that align with the company’s mission and voice. After many hours of trying, failing and trying again you may come up with great results, or you end up being frustrated that nothing good comes out to light. That’s why we want to help you with some brilliant tutorials from the best assets in the industry.
@@ -215,7 +215,7 @@ Hope you find this helpful.
 
 ![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184402/1_PR59rfrZeWjRkEn2PZkoMQ.png)
 
-![]()](https://cdn-images-1.medium.com/max/1600/1*PR59rfrZeWjRkEn2PZkoMQ.png)
+![](https://cdn-images-1.medium.com/max/1600/1*PR59rfrZeWjRkEn2PZkoMQ.png)
 
 [Ray Dombroski](http://www.raydombroski.com/)
 
