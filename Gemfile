@@ -4,7 +4,6 @@ gem 'jekyll-paginate'
 
 gem 'github-pages'
 
-bundle update --bundler
 
 
 
