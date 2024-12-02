@@ -1,18 +1,18 @@
 ---
-id: 3750
-title: '2. Page number your Masters'
-date: '2016-09-24T16:55:56-04:00'
-author: admin
+guid: http://caldwell.ndangelo.com/?p=3627
 layout: post
-guid: 'http://caldwell.ndangelo.com/?p=3627'
-permalink: '/?p=3750'
-
-categories:
-    - 'Design Instruction'
-    - 'InDesign'
-
+author: admin
+permalink: /?p=3750
+title: 2. Page number your Masters
+date: 2016-09-24T16:55:56-04:00
+thumbnail: https://image-control-storage.s3.amazonaws.com/blog-images/2016/09/27190401/10-Essential-InDesign-Skills-by-InDesignSkills_2_a-68.jpg
 tag:
-    - 'design'
+  - design
+id: 3750
+categories:
+  - Design Instruction
+  - InDesign
+rating: -1
 ---
 
 #### If you’re creating a document which is moderately lengthy, like an Annual Report, or very long, like a book, you should apply Page Numbers. The most efficient way to do this is to add them to a Master Page.
