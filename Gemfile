@@ -1,5 +1,7 @@
-gem 'jekyll-paginate'
 source "https://rubygems.org"
+
+gem 'jekyll-paginate'
+
 gem 'github-pages'
 
 bundle update --bundler
