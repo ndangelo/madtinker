@@ -2,11 +2,14 @@
 layout: post
 title:  "Geometric Line Drawings"
 date:   2020-04-28 17:06:25
+thumbnail: "/images/prince.jpg"
+
+
 categories: 
-	- Art
+	- 'Art'
 	
 tags: 
-	- art
+	- 'art'
 ---
 
 

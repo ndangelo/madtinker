@@ -4,9 +4,11 @@ title: 'Business Infographic Assignment &#8211; 2023'
 date: '2020-02-24T15:02:15-04:00'
 author: admin
 layout: post
+thumbnail: "/images/prince.jpg"
+rating: 5
 guid: 'https://www.nuggetofjoy.com/?p=54672'
 permalink: /business-infographic-assignment-2020/
-54817";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET 375 IMAGING TECHNOLOGY'
     - 'Projects'
