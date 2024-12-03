@@ -3,10 +3,7 @@
 
 
 
-.vide {
-  aspect-ratio: 16 / 9;
-  width: 100%;
-}
+
 
 .vid {
   position: relative;
@@ -180,7 +177,7 @@ a:hover {
   padding: 20px;
    height: auto;
  overflow: auto;
-     overflow-wrap: break-word;
+
 }
 
 .container {
@@ -356,11 +353,11 @@ body {
   margin-right: 0;
 }
 
-.videoDiv2 {
+ /*.videoDiv2 {
   margin: auto;
   display: block;
   position: relative;
-  /*border: solid 2px lightblue;*/
+ border: solid 2px lightblue;*/
 }
 
 .item2 .videoDiv2 {
@@ -391,6 +388,7 @@ body {
   aspect-ratio: 16 / 9;
   width: 100%;
   padding: 10px;
+  border: solid 2px lightblue;
 }
 
 .highlight {
