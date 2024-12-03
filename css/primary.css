@@ -175,7 +175,7 @@ a:hover {
   justify-content: center;
   flex-wrap: wrap;
   flex-direction: column;
-  
+
   border: solid 2px lightblue;
   padding: 20px;
    height: auto;
@@ -413,7 +413,7 @@ body {
     min-width: 350px;
     max-width: 800px;
     padding: 15px;
-    overflow-wrap: break-word;
+    
  
   }
 
@@ -490,13 +490,12 @@ body {
   .container {
     display: flex;
     justify-content: space-between;
-     /*flex-wrap: wrap;
+    flex-wrap: wrap;
     flex-direction: column;
-    /*border: solid 2px lightblue;*/
-    /*flex-grow: 1;*/
+    flex-grow: 1;
     min-width: 350px;
     max-width: 600px;
-    /*overflow-wrap: break-word;*/
+    padding: 15px;
    
   }
 
