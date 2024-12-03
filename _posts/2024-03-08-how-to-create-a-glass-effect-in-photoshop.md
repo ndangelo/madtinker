@@ -15,7 +15,7 @@ Zagrobelna, M. (2023). How to Create a Glass Effect in Photoshop: Envato Tuts+. 
 
 ![Final product image](https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/108/posts/93789/final_image/glass_effect_photoshop_final.jpg)
 
-<figcaption class="wp-element-caption">What You’ll Be Creating</figcaption></figure></div>In this tutorial, you’ll learn to create a realistic reflective glass effect. Because a frosted glass effect may mean two different things, I’ll show you the techniques to achieve both: a foggy glass overlay useful for UI elements and a realistic glass texture.
+What You’ll Be Creating In this tutorial, you’ll learn to create a realistic reflective glass effect. Because a frosted glass effect may mean two different things, I’ll show you the techniques to achieve both: a foggy glass overlay useful for UI elements and a realistic glass texture.
 
 ## What You’ll Learn in This Glass Effect Photoshop Tutorial
 
