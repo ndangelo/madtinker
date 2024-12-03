@@ -1,18 +1,20 @@
 ---
-id: 2028
-title: 'DESIGN A TYPE-DRIVEN POSTER'
-date: '2017-01-30T11:59:26-04:00'
-author: admin
+draft: true
+guid: https://www.nuggetofjoy.com/?p=2028
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=2028'
+author: admin
 permalink: /design-a-type-driven-poster/
+date: 2017-01-30T11:59:26-04:00
 footnotes:
-    - ''
-categories:
-    - 'DMET 350 MEDIA GRAPHICS AND DESIGN'
-
+  - ""
+title: DESIGN A TYPE-DRIVEN POSTER
+tags:
+  - design
 tag:
-    - 'design'
+  - design
+id: 2028
+categories:
+  - DMET 350 MEDIA GRAPHICS AND DESIGN
 ---
 
 ### DESIGN A TYPE-DRIVEN POSTER
