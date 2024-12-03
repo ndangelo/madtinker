@@ -5,7 +5,7 @@ backend:
 media_folder: "images" # Media files will be stored in the repo under images/uploads
 display_url: https://madtinker.net
 site_url: https://madtinker.net
-logo_url: https://your-site.com/images/logo.svg
+logo_url: https://madtinker.net/images/mad_tinker_logo_2.png
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
