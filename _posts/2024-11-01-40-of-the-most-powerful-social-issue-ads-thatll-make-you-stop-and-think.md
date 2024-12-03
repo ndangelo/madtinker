@@ -19,7 +19,7 @@ The following post contains images that may be disturbing. These are social caus
 
 3 years ago by Lina D. with minor alterations by [N.D’Angelo](http://www.ndangelo.com).
 
-From: <https://www.boredpanda.com/powerful-social-advertisements/>
+From: [Panda](https://www.boredpanda.com/powerful-social-advertisements)
 
 Many people complain about advertisements as an obnoxious way for companies to invade our everyday lives and cram their products down our throats, but that’s not all that advertisements are good for. The advertisements on this list are excellent examples of effective advertising strategies for social issue campaigns that let their voices be heard.
 
@@ -31,7 +31,9 @@ Just like with commercial advertisements, having just the facts is not enough. T
 
 ## Torture Victims Are People Just Like You And Me
 
-![public-interest-public-awareness-ads-13](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182423/public-interest-public-awareness-ads-13.jpg)<figcaption>Advertising Agency: Advico Y&amp;R, Zurich, Switzerland</figcaption>
+![public-interest-public-awareness-ads-13](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182423/public-interest-public-awareness-ads-13.jpg)
+
+*Advertising Agency: Advico Y&amp;R, Zurich, Switzerland*
 
 ## Stop The Violence: Don’t Drink And Drive
 
@@ -48,62 +50,80 @@ Just like with commercial advertisements, having just the facts is not enough. T
 
 ## Deforestation Continues With The Turn Of A Page
 
-![public-interest-public-awareness-ads-34](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182434/public-interest-public-awareness-ads-34.jpg) *Advertising Agency: LINKSUS, Beijing, China *
+![public-interest-public-awareness-ads-34](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182434/public-interest-public-awareness-ads-34.jpg) 
+*Advertising Agency: LINKSUS, Beijing, China*
 
 ## Unhate
 
-![public-interest-public-awareness-ads-51-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182440/public-interest-public-awareness-ads-51-1.jpg)*Advertising Agency: Fabrica, Italy*
+![public-interest-public-awareness-ads-51-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182440/public-interest-public-awareness-ads-51-1.jpg)
+*Advertising Agency: Fabrica, Italy*
 
 ## Elm Grove Police Department: Slower Is Better
 
-![public-interest-public-awareness-ads-6](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182442/public-interest-public-awareness-ads-6.jpg)*Advertising Agency: Cramer-Krasselt, Milwaukee, USA*
+![public-interest-public-awareness-ads-6](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182442/public-interest-public-awareness-ads-6.jpg)
+*Advertising Agency: Cramer-Krasselt, Milwaukee, USA*
 
 ## Save Paper – Save The Planet
 
-![public-interest-public-awareness-ads-49](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182446/public-interest-public-awareness-ads-49.jpg) *Advertising Agency: Saatchi &amp; Saatchi, Copenhagen, Denmark*
+![public-interest-public-awareness-ads-49](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182446/public-interest-public-awareness-ads-49.jpg) 
+*Advertising Agency: Saatchi &amp; Saatchi, Copenhagen, Denmark*
 
 ## Air Pollution Kills 60.000 People A Year
 
-![public-interest-public-awareness-ads-37](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182447/public-interest-public-awareness-ads-37.jpg) *Advertising Agency: [unknown](https://www.boredpanda.com/powerful-social-advertisements/)*
+![public-interest-public-awareness-ads-37](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182447/public-interest-public-awareness-ads-37.jpg) 
+*Advertising Agency: [unknown](https://www.boredpanda.com/powerful-social-advertisements/)*
 
 ## Bird Conservation: If You Don’t Pick It Up They Will
 
-![public-interest-public-awareness-ads-4](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182453/public-interest-public-awareness-ads-4.jpg)*Advertising Agency: TBWAHuntLascaris, Johannesburg, South Africa*
+![public-interest-public-awareness-ads-4](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182453/public-interest-public-awareness-ads-4.jpg)
+*Advertising Agency: TBWAHuntLascaris, Johannesburg, South Africa*
 
 ## What We See When You Smoke
 
-![public-interest-public-awareness-ads-64](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182454/public-interest-public-awareness-ads-64.jpg)*Advertising Agency: JWT, Atlanta, USA*
+![public-interest-public-awareness-ads-64](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182454/public-interest-public-awareness-ads-64.jpg)
+*Advertising Agency: JWT, Atlanta, USA*
 
 ## Bangalore Traffic Police: Don’t Talk While Driving
 
 ![public-interest-public-awareness-ads-18-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182458/public-interest-public-awareness-ads-18-1.jpg)
 
-![public-interest-public-awareness-ads-18-2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182500/public-interest-public-awareness-ads-18-2.jpg)*Advertising Agency: Mudra Group, India*
+![public-interest-public-awareness-ads-18-2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182500/public-interest-public-awareness-ads-18-2.jpg)
+*Advertising Agency: Mudra Group, India*
+
 ## Child Soldiers: It’s Not Happening Here, But It’s Happening Now
 
-![amnesty-international-campaign-ads-122](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182503/amnesty-international-campaign-ads-122.jpg)*Creative/Art director Pius Walker, Amnesty International, Switzerland.*
+![amnesty-international-campaign-ads-122](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182503/amnesty-international-campaign-ads-122.jpg)
+*Creative/Art director Pius Walker, Amnesty International, Switzerland.*
 
 ## Distracted Driving: Think Of Both Sides
 
-![public-interest-public-awareness-ads-67](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182506/public-interest-public-awareness-ads-67.jpg)*Advertising Agency: Red Pepper, Ekaterinburg, Russia*
+![public-interest-public-awareness-ads-67](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182506/public-interest-public-awareness-ads-67.jpg)
+*Advertising Agency: Red Pepper, Ekaterinburg, Russia*
+
 ## Every 60 Seconds a Species Dies Out. Each Minute Counts
 
-![public-interest-public-awareness-ads-5-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182508/public-interest-public-awareness-ads-5-1.jpg)*Advertising Agency: Scholz &amp; Friends, Berlin, Germany*
+![public-interest-public-awareness-ads-5-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182508/public-interest-public-awareness-ads-5-1.jpg)
+*Advertising Agency: Scholz &amp; Friends, Berlin, Germany*
 
 ## Innocence In Danger: Where’s The Pedophile?
 
-![amnesty-international-campaign-ads-127](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182510/amnesty-international-campaign-ads-127.jpg)[amnesty-international-campaign-ads-128](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182511/amnesty-international-campaign-ads-128.jpg)*Art Director: Michael Arguello, Copywriter: Bassam Tariq, Additional credits: Jason Musante*
+![amnesty-international-campaign-ads-127](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182510/amnesty-international-campaign-ads-127.jpg)
+
+![amnesty-international-campaign-ads-128](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182511/amnesty-international-campaign-ads-128.jpg)
+*Art Director: Michael Arguello, Copywriter: Bassam Tariq, Additional credits: Jason Musante*
 
 ## Sexual Predators Can Hide In Your Child’s Smartphone
 
 ![public-interest-public-awareness-ads-62](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182513/public-interest-public-awareness-ads-62.jpg)*Advertising Agency: Herezie, Paris, France*
 ## Smoking Causes Premature Aging
 
-![public-interest-public-awareness-ads-43](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182515/public-interest-public-awareness-ads-43.jpg)*Advertising Agency: Euro RSCG Australia*
+![public-interest-public-awareness-ads-43](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182515/public-interest-public-awareness-ads-43.jpg)
+*Advertising Agency: Euro RSCG Australia*
 
 ## You’re Not A Sketch. Say No To Anorexia
 
-![public-interest-public-awareness-ads-63](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182517/public-interest-public-awareness-ads-63.jpg)*Advertising Agency: Revolution Brasil*
+![public-interest-public-awareness-ads-63](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182517/public-interest-public-awareness-ads-63.jpg)
+*Advertising Agency: Revolution Brasil*
 
 ## Neglected Children Are Made To Feel Invisible. Stop Child Abuse Now
 
@@ -123,7 +143,8 @@ Just like with commercial advertisements, having just the facts is not enough. T
 
 ## Tailgating Isn’t Worth It. Give Trucks Room
 
-![public-interest-public-awareness-ads-14](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182526/public-interest-public-awareness-ads-14.jpg)*Advertising Agency: Amélie Company, Denver, Colorado, USA*
+![public-interest-public-awareness-ads-14](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182526/public-interest-public-awareness-ads-14.jpg)
+*Advertising Agency: Amélie Company, Denver, Colorado, USA*
 
 ## Sleepiness Is Stronger Than You. Don’t Drive Sleepy
 
@@ -131,23 +152,28 @@ Just like with commercial advertisements, having just the facts is not enough. T
 
 ## See how easy feeding the hungry can be?
 
-![amnesty-international-campaign-ads-123](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182533/amnesty-international-campaign-ads-123.jpg)*Advertising Agency: TBWAHuntLascaris, Johannesburg, South Africa*
+![amnesty-international-campaign-ads-123](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182533/amnesty-international-campaign-ads-123.jpg)
+*Advertising Agency: TBWAHuntLascaris, Johannesburg, South Africa*
 
 ## Causing Cancer By Yourself
 
-![public-interest-public-awareness-ads-7](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182536/public-interest-public-awareness-ads-7.jpg)*Advertising Agency: Dentsu, Beijing, China*
+![public-interest-public-awareness-ads-7](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182536/public-interest-public-awareness-ads-7.jpg)
+*Advertising Agency: Dentsu, Beijing, China*
 
 ## Deforestation And The Air We Breathe: Before It’s Too Late
 
-![public-interest-public-awareness-ads-25](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182538/public-interest-public-awareness-ads-25.jpg)*Advertising Agency: TBWAPARIS, France*
+![public-interest-public-awareness-ads-25](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182538/public-interest-public-awareness-ads-25.jpg)
+*Advertising Agency: TBWAPARIS, France*
 
 ## For The Homeless, Every Day Is A Struggle
 
-![public-interest-public-awareness-ads-28](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182541/public-interest-public-awareness-ads-28.jpg)*Advertising Agency: Clemenger BBDO, Melbourne, Australia*
+![public-interest-public-awareness-ads-28](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182541/public-interest-public-awareness-ads-28.jpg)
+*Advertising Agency: Clemenger BBDO, Melbourne, Australia*
 
 ## The Prevention Beer Mug: Please Don’t Lose Control Over Your Drinking
 
-![public-interest-public-awareness-ads-32](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182543/public-interest-public-awareness-ads-32.jpg) *Advertising Agency: EURORSCG Prague, Czech Republic*
+![public-interest-public-awareness-ads-32](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182543/public-interest-public-awareness-ads-32.jpg) 
+*Advertising Agency: EURORSCG Prague, Czech Republic*
 
 ## One Child Is Holding Something That’s Been Banned In America To Protect Them. Guess Which One?
 
@@ -162,23 +188,30 @@ Just like with commercial advertisements, having just the facts is not enough. T
 ## What Goes Around Comes Around: Stop The Iraq War
 
 ![public-interest-public-awareness-ads-41-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182550/public-interest-public-awareness-ads-41-1.jpg)
-![public-interest-public-awareness-ads-41-2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182553/public-interest-public-awareness-ads-41-2.jpg) *Advertising Agency: Big Ant International, New York, USA*
+
+![public-interest-public-awareness-ads-41-2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182553/public-interest-public-awareness-ads-41-2.jpg) 
+*Advertising Agency: Big Ant International, New York, USA*
 
 ## UN Women: Auto-Complete Shows Perceptions Of Women
 
 ![public-interest-public-awareness-ads-45-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182555/public-interest-public-awareness-ads-45-1.jpg)
-![public-interest-public-awareness-ads-45-3](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182557/public-interest-public-awareness-ads-45-3.jpg)*Advertising Agency: Ogilvy &amp; Mather, Dubai, UAE*
+
+![public-interest-public-awareness-ads-45-3](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182557/public-interest-public-awareness-ads-45-3.jpg)
+*Advertising Agency: Ogilvy &amp; Mather, Dubai, UAE*
 
 ## Don’t Buy Exotic Animal Souvenirs
 
-![public-interest-public-awareness-ads-47](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182559/public-interest-public-awareness-ads-47.jpg) *Advertising Agency: LOWE GGK, Warsaw, Poland*
+![public-interest-public-awareness-ads-47](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182559/public-interest-public-awareness-ads-47.jpg) 
+*Advertising Agency: LOWE GGK, Warsaw, Poland*
 
 ## Animal Abuse And Shelters: Same Pet, Different Owner
 
 ![public-interest-public-awareness-ads-50-1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182601/public-interest-public-awareness-ads-50-1.jpg)
+
 ![public-interest-public-awareness-ads-50-2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182602/public-interest-public-awareness-ads-50-2.jpg)
 *Advertising Agency: TBWA-Santiago Mangada Puno, Philippines*
 
 ## Buckle up. Stay alive
 
-![public-interest-public-awareness-ads-40](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182604/public-interest-public-awareness-ads-40.jpg) *Advertising Agency: Lg2, Quebec, Canada*
+![public-interest-public-awareness-ads-40](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/12182604/public-interest-public-awareness-ads-40.jpg) 
+*Advertising Agency: Lg2, Quebec, Canada*

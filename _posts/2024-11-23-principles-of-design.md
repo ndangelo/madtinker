@@ -60,7 +60,7 @@ Check Your Use of the Principles of Repetition and [Consistency](https://www.tho
 
 
 
-[![Contrast](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184057/contrast-58babbd33df78c353c433413.png)](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184057/contrast-58babbd33df78c353c433413.png)
+![Contrast](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184057/contrast-58babbd33df78c353c433413.png)](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184057/contrast-58babbd33df78c353c433413.png)
 Do you have good [contrast](https://www.thoughtco.com/create-contrast-with-obvious-differences-1077469) among components of your design?In design, big and small elements, black and white text, squares and circles, can all create contrast in design. Contrast helps [different design elements](https://www.thoughtco.com/create-contrast-with-obvious-differences-1077469) stand out. Is there enough contrast between the text size and color and background color and pattern to keep text readable? If everything is the same size even when some elements are more important than others, the design lacks contrast.  
 [Check Your Use of the Principle of Contrast](https://www.thoughtco.com/create-contrast-with-obvious-differences-1077469)
 

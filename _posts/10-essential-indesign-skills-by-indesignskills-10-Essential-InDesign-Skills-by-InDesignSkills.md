@@ -12,11 +12,11 @@ categories:
   - DMET_160 Introduction to Multimedia
 tags:
   - design
-tag:
-  - design
+
 id: 16002
 rating: 5
 ---
+
 ![Image](https://image-control-storage.s3.amazonaws.com/blog-images/2018/03/08151118/10-Essential-InDesign-Skills-by-InDesignSkills_Page_01.jpg)
 
 ![Image](https://image-control-storage.s3.amazonaws.com/blog-images/2018/03/08151121/10-Essential-InDesign-Skills-by-InDesignSkills_Page_02.jpg)
@@ -41,6 +41,6 @@ rating: 5
 
 ![Image](https://image-control-storage.s3.amazonaws.com/blog-images/2018/03/08151145/10-Essential-InDesign-Skills-by-InDesignSkills_Page_12.jpg)
 
-![Image]()
+
 
 ![Image](https://image-control-storage.s3.amazonaws.com/blog-images/2018/03/08151149/10-Essential-InDesign-Skills-by-InDesignSkills_Page_14.jpg)

@@ -5,7 +5,7 @@ author: admin
 permalink: /13-successful-logo-designers-and-their-awesome-tutorials/
 title: 13 Successful Logo Designers And Their Awesome Tutorials
 date: 2024-12-02T14:23:00.000Z
-thumbnail: https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21183855/1_Wx_MGSeQwGca6Gzvrpuo2Q.png
+
 tag:
   - design
 id: 5751
@@ -20,7 +20,7 @@ categories:
   - Photoshop Tutorials
   - Projects
   - Tutorials
-rating: 5
+
 ---
 
 Hi guys, how are you? We all know how hard it is to create awesome, effective logos that align with the company’s mission and voice. After many hours of trying, failing and trying again you may come up with great results, or you end up being frustrated that nothing good comes out to light. That’s why we want to help you with some brilliant tutorials from the best assets in the industry.

@@ -9,7 +9,7 @@ permalink: '/?p=12220'
 
 categories:
     - 'Design Instruction'
-    - Supplementary
+    - 'Supplementary'
 
 tag:
     - 'art'

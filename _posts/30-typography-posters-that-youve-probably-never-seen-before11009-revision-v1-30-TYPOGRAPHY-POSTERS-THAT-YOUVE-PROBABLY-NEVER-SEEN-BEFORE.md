@@ -10,7 +10,7 @@ permalink: '/?p=66872'
 
 **Typography** is the art of arranging, designing and modifying type.
 
-<div class="OBXcSRpc"><div class="wix-medium"><span style="font-family: Lato; font-size: inherit;">Creating a well designed typography poster is no easy task, and takes time and patience.</span></div></div>When a poster focuses only on typography as its main element, the designer has to carefully craft his design to make sure that the type is **both legible and artistic** at the same time.
+Creating a well designed typography poster is no easy task, and takes time and patience. When a poster focuses only on typography as its main element, the designer has to carefully craft his design to make sure that the type is **both legible and artistic** at the same time.
 
 In this amazing compilation, you will see typography posters created by designers from all over the world.
 
@@ -18,12 +18,13 @@ Here are **30 Amazing Typography Posters** that you have probably never seen bef
 
 ## 1. Typography is Tedius
 
-by [<span class="ile-sp">Derek “longdesinzzz”</span>](http://longdesinzzz.deviantart.com/)  
+by [Derek](http://longdesinzzz.deviantart.com/)  
 United States
 
-<figure class="wp-block-image">![](https://image-control-storage.s3.amazonaws.com/2017/05/09151341/0113.jpg)</figure>## 2. Make Good Typography
+![](https://image-control-storage.s3.amazonaws.com/2017/05/09151341/0113.jpg)
+## 2. Make Good Typography
 
-by [<span class="ile-sp">Enzo “EN70″</span>](http://en70.deviantart.com/)  
+by [](http://en70.deviantart.com/)  
 Poland
 
 <figure class="wp-block-image">![](https://image-control-storage.s3.amazonaws.com/2017/05/09151344/0210.jpg)</figure>## 3. Urban Typography

@@ -24,7 +24,7 @@ But what if you’re a non-designer and you can’t design anything complicated?
 
 Ready to be inspired?
 
-![image21]()](https://www.amazon.com/Poems-Borzoi-Books-Franz-Wright/dp/0307701581) If there’s one thing we learned from the Bauhaus (the pioneers of Modernist design), it’s that being bold pays off.
+![image21](https://www.amazon.com/Poems-Borzoi-Books-Franz-Wright/dp/0307701581) If there’s one thing we learned from the Bauhaus (the pioneers of Modernist design), it’s that being bold pays off.
 
 Think about those [Mad Men advertisements](http://flavorwire.com/506855/how-much-do-mad-mens-enigmatic-posters-really-reveal): Red, black, white and bold. Minimal detail, maximum impact. To use Donald Draper’s own words, “Make it simple, but significant”.
 
@@ -32,11 +32,11 @@ Think about those [Mad Men advertisements](http://flavorwire.com/506855/how-much
 
 ## 02. An Ethics of Interrogation
 
-![Screen Shot 2016-07-04 at 8.59.38 AM]()](https://www.amazon.com/Ethics-Interrogation-Michael-Skerker/dp/0226761614) Drawing attention to one element cutting through space generates a fantastic sensory reaction from the viewer. It sends one’s imagination into overdrive. With this cover, you can almost hear the clicking on of the light bulb and the metal chairs dragging across the floor beneath it. Almost feel the coldness of the concrete room in your fingertips. It begs for the camera to pan down and reveal the scene below. It’s exciting!
+![Screen Shot 2016-07-04 at 8.59.38 AM](https://www.amazon.com/Ethics-Interrogation-Michael-Skerker/dp/0226761614) Drawing attention to one element cutting through space generates a fantastic sensory reaction from the viewer. It sends one’s imagination into overdrive. With this cover, you can almost hear the clicking on of the light bulb and the metal chairs dragging across the floor beneath it. Almost feel the coldness of the concrete room in your fingertips. It begs for the camera to pan down and reveal the scene below. It’s exciting!
 
 Bonus points for the double meaning of “shedding a light on the ethics of interrogation practices”, and for making us feel like we’ll be in on a secret.
 
-![4 (24)]()](https://www.canva.com/templates/MABsZQDDbeU/copy) Edit this design in Canva</figcaption></figure>
+![4 (24)](https://www.canva.com/templates/MABsZQDDbeU/copy) Edit this design in Canva</figcaption></figure>
 
 ## 03. For the Relief of Unbearable Urges
 
@@ -44,15 +44,15 @@ Bonus points for the double meaning of “shedding a light on the ethics of inte
 
 This cover takes that sensory experience one step further by depicting a simple close-up on a texture. Such imagery sends strong messages from our sense memory to our tingling hands. This sort of experiential reaction can only be a good thing when enticing new readers to your book.
 
-![3 (24)]()](https://www.canva.com/templates/MABV95fqJyM/copy)
+![3 (24)](https://www.canva.com/templates/MABV95fqJyM/copy)
 
 ## 04. Undiscovered Gyrl
 
-![s-l1000]()](https://www.amazon.com/Undiscovered-Gyrl-Vintage-Contemporaries-Orig/dp/0307473120) When generating intrigue, the trick is not to give away too much. This cover photo has been cropped in such a masterful way as to give the viewer a strong sense of what they’re looking at while teasing at the missing details.
+![s-l1000](https://www.amazon.com/Undiscovered-Gyrl-Vintage-Contemporaries-Orig/dp/0307473120) When generating intrigue, the trick is not to give away too much. This cover photo has been cropped in such a masterful way as to give the viewer a strong sense of what they’re looking at while teasing at the missing details.
 
 Her necklace charm, the only item that should give us a clue about the girl in the picture, has been completely obscured by the text box. The viewer wants to see more, to learn more.
 
-![6 (15)]()](https://www.canva.com/templates/MABV9kXlsQc/copy)
+![6 (15)](https://www.canva.com/templates/MABV9kXlsQc/copy)
 
 ## 05. December
 
@@ -62,7 +62,7 @@ Her necklace charm, the only item that should give us a clue about the girl in t
 
 ## 06. White Like Me
 
-![White_Like_Melarge]()](https://www.amazon.com/White-Like-Me-Reflections-Privileged/dp/1593764251) By concealing the identity of this portrait, it leads the viewer at first to wonder “who is this guy?”.
+![White_Like_Melarge](https://www.amazon.com/White-Like-Me-Reflections-Privileged/dp/1593764251) By concealing the identity of this portrait, it leads the viewer at first to wonder “who is this guy?”.
 
 The brilliant placement of the text over his eyes, nose and mouth leaves us with only his hair, skin and shirt as a template to hinge other identities off. After a few moment’s consideration, the viewer realises that in fact, it doesn’t matter who this guy is, as there are many more people interchangable with him. Very clever. Full marks.
 
@@ -70,7 +70,7 @@ The brilliant placement of the text over his eyes, nose and mouth leaves us with
 
 ## 07. Spent
 
-![images-1]()](https://www.amazon.com/Spent-Sex-Evolution-Consumer-Behavior/dp/0143117238) This concept builds the [*mise-en-scene*](https://en.wikipedia.org/wiki/Mise-en-sc%C3%A8ne) and labels it so that it may be analysed for it’s meaning. It makes people stop and think, which means they’re investing their time in your book already. This example showing a caveman pushing a shopping cart gets us thinking – “But they didn’t have supermarkets back then… Wait… I think it’s saying something about our hard-wired consumer behaviour… Whoa.” Mind: Blown. Book: Purchased.
+![images-1](https://www.amazon.com/Spent-Sex-Evolution-Consumer-Behavior/dp/0143117238) This concept builds the [*mise-en-scene*](https://en.wikipedia.org/wiki/Mise-en-sc%C3%A8ne) and labels it so that it may be analysed for it’s meaning. It makes people stop and think, which means they’re investing their time in your book already. This example showing a caveman pushing a shopping cart gets us thinking – “But they didn’t have supermarkets back then… Wait… I think it’s saying something about our hard-wired consumer behaviour… Whoa.” Mind: Blown. Book: Purchased.
 ## 08. The Book of Dead Philosophers
 
 ![10 (3)](https://www.canva.com/templates/MABVcLg6E0Q/copy)  
