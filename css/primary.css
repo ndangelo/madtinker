@@ -496,6 +496,7 @@ body {
     min-width: 350px;
     max-width: 600px;
     padding: 15px;
+    margin: auto;
    
   }
 
@@ -592,9 +593,14 @@ article.post {
 }
 
 iframe {
-
-  max-width: 300px;
-
+  max-width: 100%;
+  min-width: 300px;
+ border: solid 2px lightblue;
+    flex-direction: column;
+    flex-grow: 1;
+    padding: 15px;
+    margin: auto;
+  padding: 5px;
 
 }
 
