@@ -331,13 +331,16 @@ font-size: 1.5em;
   color: #a8274e;
  }
 
- hr {
 
-  margin: 25px;
+   hr {
+
+  margin-top: 25px;
+  margin-bottom: 25px;
   margin: auto;
+border: solid 2px #ccc;
  max-width: 500px;
  min-width: 100px;
-  border: solid 2px #111111;
+
  }
 
 
@@ -522,11 +525,12 @@ float: left;
 
    hr {
 
-  margin: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
   margin: auto;
  max-width: 250px;
  min-width: 100px;
-  border: solid 2px #111111;
+  border: solid 2px #ccc;
  }
 
   .item2 {
