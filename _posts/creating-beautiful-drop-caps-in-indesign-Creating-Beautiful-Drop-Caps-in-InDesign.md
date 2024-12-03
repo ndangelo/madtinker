@@ -1,18 +1,21 @@
 ---
-id: 16185
-title: 'Creating Beautiful Drop Caps in InDesign'
-date: '2018-03-08T15:30:53-04:00'
-author: admin
+draft: true
+guid: https://www.nuggetofjoy.com/?p=16185
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=16185'
-permalink: '/?p=16185'
+author: admin
+permalink: /?p=16185
+title: Creating Beautiful Drop Caps in InDesign
+date: 2024-12-03T09:12:00.000Z
+id: 16185
 categories:
-    - InDesign
+  - InDesign
 ---
 
-<header class="post-image"><div class="fimg-wrapper fimg-cl"><div class="featured-image"><div class="fimg-inner"><div class="vm-wrapper"><div class="vm-middle"><div class="post-t-r"><div class="t-r"></div></div>February 6, 2017
 
-</div></div><div class="backstretch">![](https://www.indesignskills.com/wp-content/uploads/2017/02/Header-Image-768x506.jpg)</div></div></div></div></header><section class="post-content">### A drop cap adds a professional flourish to any layout, whether you’re designing a magazine, poster or book. This fundamental typographic skill isn’t difficult to master—once you know the basics you can develop your drop cap designs and create jaw-droppingly beautiful results.
+
+![](https://www.indesignskills.com/wp-content/uploads/2017/02/Header-Image-768x506.jpg)
+
+### A drop cap adds a professional flourish to any layout, whether you’re designing a magazine, poster or book. This fundamental typographic skill isn’t difficult to master—once you know the basics you can develop your drop cap designs and create jaw-droppingly beautiful results.
 
 ### Read on to find out how to create a simple drop cap in InDesign, and how to take your designs to the next level with stunning scale, color and graphics…
 
@@ -28,7 +31,9 @@ With your **InDesign** document open, you should first prepare a text frame on y
 
 Highlight with your type cursor the first letter of the paragraph, or simply place your cursor somewhere into the paragraph.
 
-<div class="code-block code-block-3"><ins class="adsbygoogle" data-ad-client="ca-pub-4786340380234672" data-ad-format="fluid" data-ad-layout="in-article" data-ad-slot="4138247372" data-adsbygoogle-status="done"><ins id="aswift_0_expand"><ins id="aswift_0_anchor"><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="173" id="aswift_0" marginheight="0" marginwidth="0" name="aswift_0" scrolling="no" width="691"></iframe></ins></ins></ins></div>From either the **Paragraph Formatting Controls** panel running along the top of the workspace or from the **Paragraph** panel **(Window &gt; Type &amp; Tables &gt; Paragraph)**, locate the **Drop Cap Number of Lines** option (indicated by an uppercase ‘A’ in the corner of a sequence of lines).![drop cap adobe indesign typography magazine design](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-17.09.19.png)
+From either the **Paragraph Formatting Controls** panel running along the top of the workspace or from the **Paragraph** panel **(Window &gt; Type &amp; Tables &gt; Paragraph)**, locate the **Drop Cap Number of Lines** option (indicated by an uppercase ‘A’ in the corner of a sequence of lines).
+
+![drop cap adobe indesign typography magazine design](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-17.09.19.png)
 
 By clicking the arrows up or down, or by manually typing in a number, InDesign will set the drop cap to extend a specified number of lines, increasing the size of the character as it does.
 
@@ -40,9 +45,11 @@ A trio of simple tweaks will help you to get the most out of your drop cap and g
 
 First, go to **Window &gt; Type &amp; Tables &gt; Story**, and check the **Optical Margin Alignment** box. This shifts any straggly serifs or apostrophes to outside of the text frame, giving the whole paragraph, including your drop cap, a cleaner appearance.![drop cap adobe indesign typography magazine design](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-17.09.45.png)
 
-Is your drop cap crowding some of your paragraph text? Here, the tail of the ‘R’ is overlapping some of the body text. You can rectify this by placing your cursor between the drop cap letter and the first letter of the body text (here, between the ‘R’ and ‘o’ of ‘Romanticism’). Then, from either the **Character Formatting Controls** panel at the top of the screen or the **Character**panel **(Window &gt; Type &amp; Tables &gt; Character)**, increase the **Kerning** value, until the drop cap is separated sufficiently from the paragraph text.![drop cap adobe indesign typography magazine design](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-17.10.50.png)
+Is your drop cap crowding some of your paragraph text? Here, the tail of the ‘R’ is overlapping some of the body text. You can rectify this by placing your cursor between the drop cap letter and the first letter of the body text (here, between the ‘R’ and ‘o’ of ‘Romanticism’). Then, from either the **Character Formatting Controls** panel at the top of the screen or the **Character**panel **(Window &gt; Type &amp; Tables &gt; Character)**, increase the **Kerning** value, until the drop cap is separated sufficiently from the paragraph text.
 
-<div class="code-block code-block-2"><ins class="adsbygoogle" data-ad-client="ca-pub-4786340380234672" data-ad-slot="1520815177" data-adsbygoogle-status="done"><ins id="aswift_1_expand"><ins id="aswift_1_anchor"><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="250" id="aswift_1" marginheight="0" marginwidth="0" name="aswift_1" scrolling="no" width="300"></iframe></ins></ins></ins></div>Finally, you can shift the baseline of the drop cap to allow it to be more nicely framed by the surrounding body text. Highlight the drop cap with your type cursor, and then increase the **Baseline Shift** from the bottom-left option in the **Character** panel.![drop cap adobe indesign typography magazine design](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-17.11.18.png)
+![drop cap adobe indesign typography magazine design](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-17.10.50.png)
+
+Finally, you can shift the baseline of the drop cap to allow it to be more nicely framed by the surrounding body text. Highlight the drop cap with your type cursor, and then increase the **Baseline Shift** from the bottom-left option in the **Character** panel.![drop cap adobe indesign typography magazine design](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-17.11.18.png)
 
 And there we have it! A simple, super professional drop cap which looks fantastic. Try pulling out the drop cap in a contrasting color using the **Swatches** panel **(Window &gt; Color &gt; Swatches)** to add even more drama to the effect.![drop cap adobe indesign typography magazine design](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-17.07.16.png)
 
@@ -98,9 +105,13 @@ Another creative technique is to fill your drop cap with an image, making it int
 
 This is really quick and simple to do. Simply **Right-Click (Windows)** or **Ctrl-Click (Mac)** on the letter shape, and choose C**ontent &gt; Graphic**. InDesign will now treat the letter as an image frame.![drop cap adobe indesign typography magazine design](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-16.42.47.png)
 
-Then go to **File &gt; Place** and choose an image. Patterns and landscapes look lovely, but close-up portraits of models and still-life shots can also look really impactful. Once you’ve chosen your image, click **Open**.![drop cap adobe indesign typography magazine design fill with image](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-16.44.00.png)
+Then go to **File &gt; Place** and choose an image. Patterns and landscapes look lovely, but close-up portraits of models and still-life shots can also look really impactful. Once you’ve chosen your image, click **Open**.
 
-And there we have it! Drop caps are a fantastic technique for adding elegance and creativity to your magazine, stationery and book layouts.![drop cap adobe indesign typography magazine design fill with image](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-16.44.24.png)
+![drop cap adobe indesign typography magazine design fill with image](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-16.44.00.png)
+
+And there we have it! Drop caps are a fantastic technique for adding elegance and creativity to your magazine, stationery and book layouts.
+
+![drop cap adobe indesign typography magazine design fill with image](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-16.44.24.png)
 
 Whether you opt for a simple style using InDesign’s inbuilt **Drop Cap** function or create your own custom design you’ll find that drop caps really are the cherry on the cake of a professional typographic layout.
 
