@@ -1,15 +1,18 @@
 ---
-id: 53707
-title: 'Tutorial: Razvan&#8217;s gesture drawing technique'
-date: '2019-11-20T14:30:51-04:00'
-author: admin
+draft: true
+guid: https://www.nuggetofjoy.com/?p=53707
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=53707'
+author: admin
 permalink: /tutorial-razvans-gesture-drawing-technique/
-
+title: "Tutorial: Razvan: Gesture drawing Technique"
+date: 2019-11-20T14:30:51-04:00
 categories:
-    - 'GN: Basic Drawing'
-    - Projects
+  - "GN: Basic Drawing"
+  - Projects
+tags:
+  - drawing
+  - art
+id: 53707
 ---
 #### Step 1:
 
