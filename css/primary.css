@@ -500,7 +500,7 @@ body {
 
   .container ul {
 
-    float: left;
+    display: block;
   }
 
   .item3 {
