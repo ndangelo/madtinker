@@ -384,13 +384,13 @@ body {
   margin-left: 30%;
   margin-top: 10%;
   max-height: 500px;
-}
+}*/
 
-/*.vide {
+.vide {
   aspect-ratio: 16 / 9;
   width: 100%;
   padding: 10px;
-}*/
+}
 
 .highlight {
 
@@ -515,7 +515,7 @@ body {
   }
 
   .headline h1 {
-    font-size: 1.5em;
+    font-size: 2em;
   }
 
    hr {
