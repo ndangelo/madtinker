@@ -175,6 +175,7 @@ a:hover {
   justify-content: center;
   flex-wrap: wrap;
   flex-direction: column;
+  
   border: solid 2px lightblue;
   padding: 20px;
    height: auto;

@@ -15,5 +15,5 @@ tag:
     - video
 ---
 
-<div class="vide">
+<div class="container">
 <iframe class="vide" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/CGB9VqSCRLU?feature=oembed" title="Learn to Draw #10 - Proportion Basics"></iframe></div>
