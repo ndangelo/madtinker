@@ -592,7 +592,7 @@ article.post {
 
 }
 
-iframe {
+/*iframe {
   max-width: 100%;
   min-width: 300px;
  border: solid 2px lightblue;
@@ -602,7 +602,7 @@ iframe {
     margin: auto;
   padding: 5px;
 
-}
+}*/
 
 
 }
