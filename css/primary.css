@@ -491,9 +491,15 @@ body {
     /*border: solid 2px lightblue;*/
     /*flex-grow: 1;*/
     min-width: 350px;
-    max-width: 500px;
+    max-width: 800px;
     /*overflow-wrap: break-word;*/
    
+  }
+
+  .container ul {
+float: left;
+    display: flex;
+    justify-content: center;
   }
 
   .item3 {
