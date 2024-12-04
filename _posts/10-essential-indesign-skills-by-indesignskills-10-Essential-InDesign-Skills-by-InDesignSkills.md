@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 guid: https://www.nuggetofjoy.com/?p=16002
 layout: post
 author: admin
@@ -12,7 +12,6 @@ categories:
   - DMET_160 Introduction to Multimedia
 tags:
   - design
-
 id: 16002
 rating: 5
 ---
