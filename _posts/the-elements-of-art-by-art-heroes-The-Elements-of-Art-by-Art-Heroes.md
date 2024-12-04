@@ -14,11 +14,15 @@ categories:
     - 'DMET 375 IMAGING TECHNOLOGY'
     - 'DMET_160 Introduction to Multimedia'
     - 'Illustrator Tutorials'
-    - InDesign
+    - 'InDesign'
     - 'Interactive and Social Media'
     - 'Photoshop Tutorials'
-    - Projects
-    - Tutorials
+    - 'Projects'
+    - 'Tutorials'
+
+tags:
+    - 'video'
+    - 'art'
 ---
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/uVrh3frrC38?feature=oembed" title="The Elements of Art" width="500"></iframe>
+<iframe class="vide" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/uVrh3frrC38?feature=oembed" title="The Elements of Art"></iframe>

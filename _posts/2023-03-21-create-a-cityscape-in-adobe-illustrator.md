@@ -1,7 +1,7 @@
 ---
 id: 61990
 title: 'CREATE A CITYSCAPE IN ADOBE ILLUSTRATOR'
-date: '2024-11-30T11:56:24-04:00'
+date: '2024-11-03T11:56:24-04:00'
 author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=61990'
@@ -18,13 +18,10 @@ categories:
 # Create a Cityscape in Adobe Illustrator
 **Another Step-by-Step Tutorial**
 
----
-
 ![Create a Cityscape in Adobe Illustrator](https://veerle.duoh.com/images/design/tutorials/cityscape.png)
 
 ## Article Details
 - **Date:** Tuesday, 28 May 2019
-- **Requirements:** Adobe Illustrator CS6  
 - **Level:** Beginner  
 - **Download:** [Illustrator template file](https://www.dropbox.com/s/r2bzx848sapa4tq/cityscape-ai-files.zip?dl=0){:target="_blank"}
 

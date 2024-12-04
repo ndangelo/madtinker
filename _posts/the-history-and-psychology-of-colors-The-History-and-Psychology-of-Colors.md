@@ -6,10 +6,14 @@ author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=12316'
 permalink: '/?p=12316'
-amazonS3_cache:
-    - 'a:2:{s:66:"//www.nuggetofjoy.com/wp-content/uploads/Color-Meanings_BANNER.png";a:2:{s:2:"id";s:5:"12337";s:11:"source_type";s:13:"media-library";}s:95:"//image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132419/Color-Meanings_BANNER.png";a:2:{s:2:"id";s:5:"12337";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'Color Theory'
+    - 'Design'
+tags:
+    - color theory
+    - art
+    - design
 ---
 
 <header class="header-page"><div class="row"><div class="col7"><div class="author-wrapper--banner"><div class="author-thumb-wrapper--banner">[![]()](https://www.canva.com/learn/author/marystribley/)</div><div class="author-info-wrapper--banner"><span class="author">[Mary Stribley](https://www.canva.com/learn/author/marystribley/ "Posts by Mary Stribley")</span></div></div></div></div><div class="row banner-wrapper"><div class="col12"><div class="banner-post"><figure><picture><source media="(min-width: 768px)" srcset="https://www.canva.com/learn/wp-content/uploads/2017/03/Color-Meanings_BANNER-tb-962x0.png , https://www.canva.com/learn/wp-content/uploads/2017/03/Color-Meanings_BANNER-tb-1924x0.png 2x"></source><source media="(min-width: 0px)" srcset="https://www.canva.com/learn/wp-content/uploads/2017/03/Color-Meanings_BANNER-tb-762x0.png , https://www.canva.com/learn/wp-content/uploads/2017/03/Color-Meanings_BANNER-tb-1524x0.png 2x"></source>![Color Meanings_BANNER](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24132419/Color-Meanings_BANNER.png "Color Meanings_BANNER")</picture></figure></div></div></div></header><article class="post-36523 post type-post status-publish format-standard has-post-thumbnail hentry category-general category-hide" id="post-36523"><div class="wrapper-content-article"><div class="row"><div class="col7">## 01. Blue
