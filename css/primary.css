@@ -517,14 +517,13 @@ body {
     font-size: 2em;
   }
 
-   hr {
+hr {
 
-  margin-top: 25px;
-  margin-bottom: 25px;
+  margin:20px;
   margin: auto;
  max-width: 250px;
  min-width: 100px;
-  border: solid 2px #ccc;
+  border: solid 1px #ccc;
  }
 
   .item2 {
