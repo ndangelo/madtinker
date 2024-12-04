@@ -18,7 +18,7 @@ title: Custom Theme
 		{% endif %}
 	  	<!--<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
 		  
-Posted on {{ post.date | date: "%b %d, %Y" }}
+Posted on: {{ post.date | date: "%b %d, %Y" }}
 <br><br>
 
 {% if post.tags.size > 0 %}
@@ -68,7 +68,7 @@ Tag{% if post.tags.size > 1 %}s{% endif %}:
 
 	</div>
 
-	<div>
+	
 {% endif %}
 
 
