@@ -1,11 +1,15 @@
 ---
 id: 66872
 title: '30 TYPOGRAPHY POSTERS THAT YOU’VE PROBABLY NEVER SEEN BEFORE'
-date: '2024-11-23T10:25:26-04:00'
+date: '2024-12-05T10:25:26-04:00'
 author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=66872'
 permalink: '/?p=66872'
+
+tags:
+	- typography
+	- design
 ---
 
 **Typography** is the art of arranging, designing and modifying type.
