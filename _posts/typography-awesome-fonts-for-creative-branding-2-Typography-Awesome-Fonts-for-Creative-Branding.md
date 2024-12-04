@@ -6,11 +6,13 @@ author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=16759'
 permalink: /typography-awesome-fonts-for-creative-branding-2/
-amazonS3_cache:
-    - 'a:2:{s:61:"//www.nuggetofjoy.com/wp-content/uploads/Laura-Solana-2-1.jpg";a:2:{s:2:"id";s:5:"57244";s:11:"source_type";s:13:"media-library";}s:78:"//image-control-storage.s3.amazonaws.com/2019/02/13124635/Laura-Solana-2-1.jpg";a:2:{s:2:"id";s:5:"57244";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET 355 ADVANCED WEB DESIGN'
     - InDesign
+
+tag:
+    - design
 ---
 
 ### Well-chosen typography can take your branding designs from so-so to spectacular, but choosing the right font to use in logo design, and across stationery and marketing materials can seem a daunting task.
@@ -25,7 +27,7 @@ Particularly if you’re designing marketing or branding materials for a creativ
 
 When Art Director [Iñaki Saiz Roiz](http://www.gregorsamsa.es/Laura-Solana-Arquitecto) came to design the branding for architect Laura Solana, he turned to [**Futura Bold**](https://www.myfonts.com/fonts/bitstream/futura/bold/) to give the logo and stationery a clean yet modern look.
 
-<figure class="wp-block-image">![indesign best fonts for marketing stationery branding laura solana architect](https://image-control-storage.s3.amazonaws.com/2019/02/13124635/Laura-Solana-2-1.jpg)</figure>---
+![indesign best fonts for marketing stationery branding laura solana architect](https://image-control-storage.s3.amazonaws.com/2019/02/13124635/Laura-Solana-2-1.jpg)
 
 ### **2. Simple + Calligraphic = Branding Success!**
 

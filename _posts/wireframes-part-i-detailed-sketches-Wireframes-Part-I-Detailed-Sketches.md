@@ -15,12 +15,14 @@ categories:
 
 ## **Why It’s Important to Sketch Before You Wireframe**
 
-<https://www.invisionapp.com/inside-design/how-to-wireframe/>
+[](https://www.invisionapp.com/inside-design/how-to-wireframe)
 
 **Every Idea Needs User Interface Translation**  
 Sketching takes your imaginative mind from the clouds to the user interface screen where you can start thinking about the user experience. You’ll be able to figure out how your app will work to get the desired result. Sketching allows you to visualize the screen-to-screen interaction so that your idea is something that’s visible and clear in user interface form.
 
-<div class="wp-block-image"><figure class="aligncenter">![](https://image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194508/sitemap-1024x910.jpeg)</figure></div>**A Sketch is Not a Wireframe**  
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194508/sitemap-1024x910.jpeg)
+
+**A Sketch is Not a Wireframe**  
 Many designers mistakenly think a sketch is a wireframe. They are similar but they are not the same thing. Both are useful for illustrating an interface concept, but a wireframe and a sketch are done in different mediums and produce different results.
 
 When you sketch, you are trying to get a basic concept of how the app will work in user interface form. There are many ways you could craft an interface concept. But here you are trying to figure out what those ways are and which way works best. There is a lot of quick and dirty thinking that happens from pen to paper. The specifics of the user interface aren’t important here. What matters most is understanding what the user will basically see on each screen that will lead them to the desired result.

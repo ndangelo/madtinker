@@ -20,7 +20,7 @@ tag:
  All Wireframes are due in it’s Dropbox on **April 23, 2019 @ 11:59pm PM**   
 Please upload all of your wireframes to the class dropbox as a single pdf file.
 
-## <span style="font-size: 12pt;">The lecture given in class can be downloaded **[HERE](https://www.dropbox.com/s/nbc15oi1lr4mojp/wireframe_ndangelo_v11.pptx?dl=0).**</span>
+## The lecture given in class can be downloaded **[HERE](https://www.dropbox.com/s/nbc15oi1lr4mojp/wireframe_ndangelo_v11.pptx?dl=0).**
 
 ## Scope Change for Wireframe Assignment
 
@@ -34,9 +34,9 @@ You are going down one path. You are **not** creating a wireframe for every page
 
 **[DOWNLOAD Wireframe Templates HERE](https://www.dropbox.com/s/30aprgagn24lehk/wireframe_examples_esu_2017.zip?dl=0) (There are pdf’s and .ai files) both can be opened in Adobe Illustrator)**
 
-## <span style="color: #808000;">Planning/Sketching</span>
+## Planning/Sketching
 
-**<span style="font-size: 14pt;">Part 1.</span>**
+**Part 1.**
 
 Per the lecture, begin to sketch small “thumbnail” sketches of the website, mobile app, print promotion etc… you will produce to promote your brand. If you are not sure how large your sketches should be you may start with 2″ x 3″ inches. They can get larger later in the planning process.
 
@@ -48,15 +48,27 @@ You should make sure you include sketches for ALL the media types you will be us
 
 **Examples:**
 
-<div class="wp-block-image"><figure class="aligncenter">[![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184137/wireframe-sketch-01.jpg)](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184137/wireframe-sketch-01.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">[![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184135/wireframe-sketch-02.jpg)](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184135/wireframe-sketch-02.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">[![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184134/wireframe-sketch-03.jpg)](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184134/wireframe-sketch-03.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">[![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184132/wireframe-sketch-04.jpg)](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184132/wireframe-sketch-04.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">[![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184130/wireframe-sketch-08.jpg)](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184130/wireframe-sketch-08.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">[![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184128/wireframe-sketch-09.jpg)](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184128/wireframe-sketch-09.jpg)</figure></div>---
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184137/wireframe-sketch-01.jpg)
 
-<span style="font-size: 14pt;">**Part 2.**</span>
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184135/wireframe-sketch-02.jpg)
 
-**EXAMPLE** Wireframes can be downloaded **[HERE](https://www.dropbox.com/s/30aprgagn24lehk/wireframe_examples_esu_2017.zip?dl=0).<span style="color: #808000;"> (There are pdf’s and .ai files) both can be opened in Adobe Illustrator)</span>**
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184134/wireframe-sketch-03.jpg)
 
-**P.S.** Instead of **Avenir**, that is not on the C Labs Computers, use **“<del>Tw Cen MT</del> (Update: I converted the font already)”**. <span style="color: #993300;">**You may want to increase the font size for legibility – one pixel only please.**</span>
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184132/wireframe-sketch-04.jpg)
 
-These are to be used as <span style="color: #800000;">**REFERENCE ONLY (for page structure and style per the class lecture)**</span><span style="color: #808000;">**.**</span> Use your notes from the Wireframes lecture to assist you in your wireframe production.
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184130/wireframe-sketch-08.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184128/wireframe-sketch-09.jpg)
+
+---
+
+**Part 2.**
+
+**EXAMPLE** Wireframes can be downloaded **[HERE](https://www.dropbox.com/s/30aprgagn24lehk/wireframe_examples_esu_2017.zip?dl=0).(There are pdf’s and .ai files) both can be opened in Adobe Illustrator)**
+
+**P.S.** Instead of **Avenir**, that is not on the C Labs Computers, use **“Tw Cen MT (Update: I converted the font already)”**. **You may want to increase the font size for legibility – one pixel only please.**
+
+These are to be used as **REFERENCE ONLY (for page structure and style per the class lecture)**. **Use your notes from the Wireframes lecture to assist you in your wireframe production.**
 
 All wireframes should be produced on a **tabloid sized Artboard. (11″x17″) The templates you have downloaded should already be in this size.**
 
@@ -64,13 +76,17 @@ As you will see from the examples old versions of tablets and phones are used. C
 
 If you missed the lecture please speak with another student for information. You can also see me during office hours for information and parameters regarding this project.
 
-<https://www.nuggetofjoy.com/wireframes-part-i-detailed-sketches/>
+[](https://www.nuggetofjoy.com/wireframes-part-i-detailed-sketches)
 
 ---
 
-# <span style="font-family: 'trebuchet ms', geneva, sans-serif;">What Is a Wireframe? 7 Reasons Why Wireframing Is Important In Web Design</span>
+# What Is a Wireframe? 7 Reasons Why Wireframing Is Important In Web Design
 
-<div class="postMeta"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">by [Nick Haas](https://www.orbitmedia.com/blog/author/nickhaas/ "Posts by Nick Haas")</span></div><div class="wp-block-image"><figure class="aligncenter">![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191243/7-Reasons-Wireframing-Important-Web-Design.jpg)</figure></div>## What is a wireframe?
+by [Nick Haas](https://www.orbitmedia.com/blog/author/nickhaas/)
+
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191243/7-Reasons-Wireframing-Important-Web-Design.jpg)
+
+## What is a wireframe?
 
 - Wireframes are simple layouts that outline the specific size and placement of page elements, site features, conversion areas and navigation for your website.
 - They are often devoid of color, font choices, logos or any real design elements that take away from purely focusing on a site’s structure.
@@ -80,7 +96,15 @@ If you missed the lecture please speak with another student for information. You
 
 It will also be the style you will use to make your wireframes.
 
-<div class="wp-block-image"><figure class="aligncenter">[![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191237/kofman_WebWireframes-1024x604.jpg)](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191237/kofman_WebWireframes.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">[![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191235/2016-03-20-13_17_20-kofman_WebWireframes.pdf-Adobe-Acrobat-Pro-DC-1024x604.jpg)](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191235/2016-03-20-13_17_20-kofman_WebWireframes.pdf-Adobe-Acrobat-Pro-DC.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">[![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191232/Atamian_Vera_iPadVerticalWireframe.-1024x601.jpg)](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191232/Atamian_Vera_iPadVerticalWireframe..jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">[![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191230/Atamian_Vera_WebpageWireframe-1024x605.jpg)](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191230/Atamian_Vera_WebpageWireframe.jpg)</figure></div>Simply overlooking this step in order to get to the look and feel is a huge mistake that would prove disastrous for any website or any contractor building a home. To reinforce the importance of this phase in a web process, I have outlined seven extremely important reasons on why you need to wireframe.
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191237/kofman_WebWireframes-1024x604.jpg)]
+
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191235/2016-03-20-13_17_20-kofman_WebWireframes.pdf-Adobe-Acrobat-Pro-DC-1024x604.jpg)]
+
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191232/Atamian_Vera_iPadVerticalWireframe.-1024x601.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191230/Atamian_Vera_WebpageWireframe-1024x605.jpg)
+
+Simply overlooking this step in order to get to the look and feel is a huge mistake that would prove disastrous for any website or any contractor building a home. To reinforce the importance of this phase in a web process, I have outlined seven extremely important reasons on why you need to wireframe.
 
 ## 1. Wireframes display site architecture visually
 
@@ -102,7 +126,7 @@ It forces everyone to look objectively at a website’s ease of use, conversion 
 
 For clients who purchase a content managed website, this point is especially important. A wireframe will immediately identify how well your site will handle content growth.
 
-For example, if you only have ten products offered right now, but in six months you may have 100, you will want your website to accommodate this growth without impact to the website[ design](http://www.orbitmedia.com/web-process-pages-8.php), site architecture or usability. Wireframes will identify these important areas of content growth.
+For example, if you only have ten products offered right now, but in six months you may have 100, you will want your website to accommodate this growth without impact to the website [design](http://www.orbitmedia.com/web-process-pages-8.php), site architecture or usability. Wireframes will identify these important areas of content growth.
 
 ## 5. Wireframes help make the design process iterative
 
@@ -127,6 +151,5 @@ Building a website is a process. Wireframing is one of those parts of the web pr
 
 Secret Assets: These may help you in building your wireframes.
 
-[https://s3.amazonaws.com/ndangelo-documents/wireframe\_kit\_Web.zip](https://s3.amazonaws.com/ndangelo-documents/wireframe_kit_Web.zip)
+[](https://s3.amazonaws.com/ndangelo-documents/wireframe_kit_Web.zip)
 
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-communication-art-design-amp-instruction"><div class="wp-block-embed__wrapper">https://www.nuggetofjoy.com/wireframes-part-i-detailed-sketches/ </div></figure>

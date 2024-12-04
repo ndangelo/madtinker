@@ -10,13 +10,12 @@ category_sticky_post:
     - '0'
 classic-editor-remember:
     - block-editor
-amazonS3_cache:
-    - 'a:12:{s:104:"//www.nuggetofjoy.com/wp-content/uploads/bf2555c6d047473262802b1110b5608c-chicago-apartment-blue-art.jpg";a:2:{s:2:"id";i:11494;s:11:"source_type";s:13:"media-library";}s:133:"//image-control-storage.s3.amazonaws.com/blog-images/2017/02/21161432/bf2555c6d047473262802b1110b5608c-chicago-apartment-blue-art.jpg";a:2:{s:2:"id";i:11494;s:11:"source_type";s:13:"media-library";}s:84:"//www.nuggetofjoy.com/wp-content/uploads/763233-e3b3e4ff03c46028051bf57bf3674a60.jpg";a:2:{s:2:"id";i:11496;s:11:"source_type";s:13:"media-library";}s:113:"//image-control-storage.s3.amazonaws.com/blog-images/2017/02/21161434/763233-e3b3e4ff03c46028051bf57bf3674a60.jpg";a:2:{s:2:"id";i:11496;s:11:"source_type";s:13:"media-library";}s:58:"//www.nuggetofjoy.com/wp-content/uploads/maxresdefault.jpg";a:2:{s:2:"id";i:11497;s:11:"source_type";s:13:"media-library";}s:87:"//image-control-storage.s3.amazonaws.com/blog-images/2017/02/21161436/maxresdefault.jpg";a:2:{s:2:"id";i:11497;s:11:"source_type";s:13:"media-library";}s:65:"//www.nuggetofjoy.com/wp-content/uploads/The_Golden_Ratio_R03.png";a:2:{s:2:"id";s:5:"11424";s:11:"source_type";s:13:"media-library";}s:94:"//image-control-storage.s3.amazonaws.com/blog-images/2018/02/21152928/The_Golden_Ratio_R03.png";a:2:{s:2:"id";s:5:"11424";s:11:"source_type";s:13:"media-library";}s:61:"//www.nuggetofjoy.com/wp-content/uploads/golden-rectangle.jpg";a:2:{s:2:"id";s:5:"11493";s:11:"source_type";s:13:"media-library";}s:90:"//image-control-storage.s3.amazonaws.com/blog-images/2017/02/21161431/golden-rectangle.jpg";a:2:{s:2:"id";s:5:"11493";s:11:"source_type";s:13:"media-library";}s:66:"//www.nuggetofjoy.com/wp-content/uploads/Inside-article-image1.jpg";a:2:{s:2:"id";s:5:"11495";s:11:"source_type";s:13:"media-library";}s:95:"//image-control-storage.s3.amazonaws.com/blog-images/2017/02/21161433/Inside-article-image1.jpg";a:2:{s:2:"id";s:5:"11495";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET 350 MEDIA GRAPHICS AND DESIGN'
     - 'DMET 375 IMAGING TECHNOLOGY'
     - 'Interactive and Social Media'
-    - Supplementary
+    - 'Supplementary'
 ---
 
 [Rebecca Gross](https://www.canva.com/learn/author/rebecca/)

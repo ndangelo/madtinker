@@ -6,30 +6,33 @@ author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=5702'
 permalink: '/?p=5702'
-amazonS3_cache:
-    - 'a:20:{s:59:"//www.nuggetofjoy.com/wp-content/uploads/Laura-Solana-2.jpg";a:2:{s:2:"id";s:4:"9183";s:11:"source_type";s:13:"media-library";}s:88:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144708/Laura-Solana-2.jpg";a:2:{s:2:"id";s:4:"9183";s:11:"source_type";s:13:"media-library";}s:59:"//www.nuggetofjoy.com/wp-content/uploads/Laura-Solana-1.jpg";a:2:{s:2:"id";s:4:"9184";s:11:"source_type";s:13:"media-library";}s:88:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144711/Laura-Solana-1.jpg";a:2:{s:2:"id";s:4:"9184";s:11:"source_type";s:13:"media-library";}s:59:"//www.nuggetofjoy.com/wp-content/uploads/Laura-Solana-3.jpg";a:2:{s:2:"id";s:4:"9185";s:11:"source_type";s:13:"media-library";}s:88:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144712/Laura-Solana-3.jpg";a:2:{s:2:"id";s:4:"9185";s:11:"source_type";s:13:"media-library";}s:57:"//www.nuggetofjoy.com/wp-content/uploads/Mandy-Ward-1.jpg";a:2:{s:2:"id";s:4:"9186";s:11:"source_type";s:13:"media-library";}s:86:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144714/Mandy-Ward-1.jpg";a:2:{s:2:"id";s:4:"9186";s:11:"source_type";s:13:"media-library";}s:57:"//www.nuggetofjoy.com/wp-content/uploads/Mandy-Ward-2.jpg";a:2:{s:2:"id";s:4:"9187";s:11:"source_type";s:13:"media-library";}s:86:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144716/Mandy-Ward-2.jpg";a:2:{s:2:"id";s:4:"9187";s:11:"source_type";s:13:"media-library";}s:57:"//www.nuggetofjoy.com/wp-content/uploads/Mandy-Ward-3.jpg";a:2:{s:2:"id";s:4:"9188";s:11:"source_type";s:13:"media-library";}s:86:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144718/Mandy-Ward-3.jpg";a:2:{s:2:"id";s:4:"9188";s:11:"source_type";s:13:"media-library";}s:55:"//www.nuggetofjoy.com/wp-content/uploads/Betafirm-2.jpg";a:2:{s:2:"id";s:4:"9189";s:11:"source_type";s:13:"media-library";}s:84:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144720/Betafirm-2.jpg";a:2:{s:2:"id";s:4:"9189";s:11:"source_type";s:13:"media-library";}s:55:"//www.nuggetofjoy.com/wp-content/uploads/Betafirm-3.jpg";a:2:{s:2:"id";s:4:"9190";s:11:"source_type";s:13:"media-library";}s:84:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144722/Betafirm-3.jpg";a:2:{s:2:"id";s:4:"9190";s:11:"source_type";s:13:"media-library";}s:55:"//www.nuggetofjoy.com/wp-content/uploads/Betafirm-1.jpg";a:2:{s:2:"id";s:4:"9191";s:11:"source_type";s:13:"media-library";}s:84:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144723/Betafirm-1.jpg";a:2:{s:2:"id";s:4:"9191";s:11:"source_type";s:13:"media-library";}s:55:"//www.nuggetofjoy.com/wp-content/uploads/Betafirm-4.jpg";a:2:{s:2:"id";s:4:"9192";s:11:"source_type";s:13:"media-library";}s:84:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144725/Betafirm-4.jpg";a:2:{s:2:"id";s:4:"9192";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - Projects
 ---
 
-<header class="post-image"><div class="fimg-wrapper fimg-cl"><div class="featured-image"><div class="fimg-inner"><div class="vm-wrapper"><div class="vm-middle">April 29, 2015
+April 29, 2015
 
-</div></div><div class="backstretch">![]()</div></div></div></div></header><section class="post-content">### Well-chosen typography can take your branding designs from so-so to spectacular, but choosing the right font to use in logo design, and across stationery and marketing materials can seem a daunting task.
+### Well-chosen typography can take your branding designs from so-so to spectacular, but choosing the right font to use in logo design, and across stationery and marketing materials can seem a daunting task.
 
-### **If you’ve got a creative company—perhaps a graphic designer, an architecture firm or an artist’s studio—in need of a fresh brand look, let [*InDesignSkills*](http://www.indesignskills.com/ "Home") give you some inspirational suggestions for the typeface to try.**
+### **If you’ve got a creative company—perhaps a graphic designer, an architecture firm or an artist’s studio—in need of a fresh brand look, let [*InDesignSkills*](http://www.indesignskills.com/) give you some inspirational suggestions for the typeface to try.**
 
 
 ### **1. Try Out the Best of Both Worlds…** 
 
 ---
 
-…Professional-looking fonts certainly don’t need to be dull!
+Professional-looking fonts certainly don’t need to be dull!
 
 Particularly if you’re designing marketing or branding materials for a creative individual or company, you want the typeface to strike the perfect balance of minimal professionalism and look-at-me creativity.
 
-<div class="code-block code-block-3"></div>When Art Director [Iñaki Saiz Roiz](http://www.gregorsamsa.es/Laura-Solana-Arquitecto) came to design the branding for architect Laura Solana, he turned to [**Futura Bold**](https://www.myfonts.com/fonts/bitstream/futura/bold/) to give the logo and stationery a clean yet modern look.
+When Art Director [Iñaki Saiz Roiz](http://www.gregorsamsa.es/Laura-Solana-Arquitecto) came to design the branding for architect Laura Solana, he turned to [**Futura Bold**](https://www.myfonts.com/fonts/bitstream/futura/bold/) to give the logo and stationery a clean yet modern look.
 
-[![indesign best fonts for marketing stationery branding laura solana architect](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144708/Laura-Solana-2.jpg)](http://www.indesignskills.com/wp-content/uploads/2015/04/Laura-Solana-2.jpg)[![indesign best fonts for marketing stationery branding laura solana architect](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144711/Laura-Solana-1.jpg)](http://www.indesignskills.com/wp-content/uploads/2015/04/Laura-Solana-1.jpg)[![indesign best fonts for marketing stationery branding laura solana architect](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144712/Laura-Solana-3.jpg)](http://www.indesignskills.com/wp-content/uploads/2015/04/Laura-Solana-3.jpg)
+![indesign best fonts for marketing stationery branding laura solana architect](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144708/Laura-Solana-2.jpg)
+
+![indesign best fonts for marketing stationery branding laura solana architect](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144711/Laura-Solana-1.jpg)](http://www.indesignskills.com/wp-content/uploads/2015/04/Laura-Solana-1.jpg)
+
+![indesign best fonts for marketing stationery branding laura solana architect](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144712/Laura-Solana-3.jpg)
 
 ---
 
@@ -46,10 +49,13 @@ For a similar look to the decorative calligraphic font used here, try out the cl
 
 For the cleaner, corporate typeface, Matt used [**Ubuntu**](http://font.ubuntu.com/).
 
-<div class="code-block code-block-2"></div>[![indesign best fonts for marketing stationery branding mandy ward](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144714/Mandy-Ward-1.jpg)](http://www.indesignskills.com/wp-content/uploads/2015/04/Mandy-Ward-1.jpg)[![indesign best fonts for marketing stationery branding mandy ward](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144716/Mandy-Ward-2.jpg)](http://www.indesignskills.com/wp-content/uploads/2015/04/Mandy-Ward-2.jpg)[![indesign best fonts for marketing stationery branding mandy ward](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144718/Mandy-Ward-3.jpg)](http://www.indesignskills.com/wp-content/uploads/2015/04/Mandy-Ward-3.jpg)
+![indesign best fonts for marketing stationery branding mandy ward](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144714/Mandy-Ward-1.jpg) 
+
+![best fonts for marketing stationery branding mandy ward](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144716/Mandy-Ward-2.jpg)
+
+![indesign best fonts for marketing stationery branding mandy ward](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144718/Mandy-Ward-3.jpg)
 
 ---
-
 
 
 ### **3. Make Retro Modern**
@@ -62,6 +68,10 @@ The key to using retro-inspired fonts successfully in creative branding is to ke
 
 Also from Australian Designer [Matt Vergotis](http://www.verg.com.au/portfolio/betafirm/) comes this fantastic demonstration of using retro fonts in a modern way, for web development company Betafirm. To imitate the font, give [**Lobster**](http://www.fontsquirrel.com/fonts/Lobster) a whirl, or take [**Pacifico**](http://www.fontsquirrel.com/fonts/pacifico) for a spin.
 
-[![indesign best fonts for marketing stationery branding](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144720/Betafirm-2.jpg)](http://www.indesignskills.com/wp-content/uploads/2015/04/Betafirm-2.jpg)[![indesign best fonts for marketing stationery branding](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144722/Betafirm-3.jpg)](http://www.indesignskills.com/wp-content/uploads/2015/04/Betafirm-3.jpg)[![indesign best fonts for marketing stationery branding betafirm](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144723/Betafirm-1.jpg)](http://www.indesignskills.com/wp-content/uploads/2015/04/Betafirm-1.jpg)[![indesign best fonts for marketing stationery branding](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144725/Betafirm-4.jpg)](http://www.indesignskills.com/wp-content/uploads/2015/04/Betafirm-4.jpg)
+![indesign best fonts for marketing stationery branding](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144720/Betafirm-2.jpg)
 
-</section>
+![indesign best fonts for marketing stationery branding](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144722/Betafirm-3.jpg)
+
+![indesign best fonts for marketing stationery branding betafirm](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144723/Betafirm-1.jpg)
+
+![indesign best fonts for marketing stationery branding](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12144725/Betafirm-4.jpg)
