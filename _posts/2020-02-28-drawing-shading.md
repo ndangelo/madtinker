@@ -16,8 +16,8 @@ tag:
     - 'video'
     - 'art'
 ---
-
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/5Zc1xVS_X7Q?feature=oembed" title="Learn to Draw #03 - Shading Techniques"></iframe>
+<div class="vide">
+<iframe class="vide" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/5Zc1xVS_X7Q?feature=oembed" title="Learn to Draw #03 - Shading Techniques"></iframe></div>
 
 ## What is shading in art?
 
