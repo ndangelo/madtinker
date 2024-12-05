@@ -15,22 +15,22 @@ categories:
     - 'Interactive and Social Media'
 ---
 ![Font-Pairing-Basics2_Page_1.jpg](https://image-control-storage.s3.amazonaws.com/blog-images/2016/12/27184818/Font-Pairing-Basics2_Page_1-1024x818.jpg)
-[Link to Image](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/31150217/font-infography.jpg)
+
 
 ![Font-Pairing-Basics2_Page_2.jpg](https://image-control-storage.s3.amazonaws.com/blog-images/2016/12/27184816/Font-Pairing-Basics2_Page_2-1024x818.jpg)
-[Link to Image](https://image-control-storage.s3.amazonaws.com/blog-images/2016/09/27190748/10-Essential-InDesign-Skills-by-InDesignSkills_1-49.jpg)
+
 
 ![Font-Pairing-Basics2_Page_3.jpg](https://image-control-storage.s3.amazonaws.com/blog-images/2016/12/27184813/Font-Pairing-Basics2_Page_3-1024x818.jpg)
-[Link to Image](https://image-control-storage.s3.amazonaws.com/blog-images/2016/12/27184813/Font-Pairing-Basics2_Page_3.jpg)
+
 
 ![Font-Pairing-Basics2_Page_4.jpg](https://image-control-storage.s3.amazonaws.com/blog-images/2016/12/27184811/Font-Pairing-Basics2_Page_4-1024x818.jpg)
-[Link to Image](https://image-control-storage.s3.amazonaws.com/blog-images/2016/09/27190742/10-Essential-InDesign-Skills-by-InDesignSkills_1_a-51.jpg)
+
 
 ![Font-Pairing-Basics2_Page_5.jpg](https://image-control-storage.s3.amazonaws.com/blog-images/2016/12/27184809/Font-Pairing-Basics2_Page_5-1024x818.jpg)
-[Link to Image](https://image-control-storage.s3.amazonaws.com/blog-images/2016/09/27190739/10-Essential-InDesign-Skills-by-InDesignSkills_1_a-52.jpg)
+
 
 ![fefcbcff8072a11dbc4a51d8db8ccf0d.jpg](https://image-control-storage.s3.amazonaws.com/blog-images/2017/02/27184200/fefcbcff8072a11dbc4a51d8db8ccf0d-447x1024.jpg)
-[Link to Image](https://image-control-storage.s3.amazonaws.com/blog-images/2017/02/27184200/fefcbcff8072a11dbc4a51d8db8ccf0d.jpg)
+
 
 ---
 

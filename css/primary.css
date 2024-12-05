@@ -173,7 +173,7 @@ a:hover {
   
   flex-flow: column wrap;*/
   border: solid 2px lightblue;
-  padding: 20px;
+  padding: 10px;
    height: auto;
  overflow: auto;
 
@@ -298,21 +298,28 @@ h1 {
 }
 
 h1 a {
-  font-size: 1.5em;
+  font-size: 1.7em;
   
   color: #799f52;
 }
 
 h2 {
-    font-size: 1.2em;
+    font-size: 1.5em;
     color: #0f507f;
   }
 
 
 h2 a {
-    margin-left: 1em;
+    margin-left: 1.5em;
     color: #0f507f;
   }
+
+h3 {
+
+margin-left: 1.3em;
+color: e8433e;
+
+}
 
 nav ul li a {
     /*margin-left: 1em;*/

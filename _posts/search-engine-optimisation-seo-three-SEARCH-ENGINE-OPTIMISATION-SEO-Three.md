@@ -8,6 +8,8 @@ guid: 'https://www.nuggetofjoy.com/?p=14657'
 permalink: '/?p=14657'
 categories:
     - 'Social Media'
+tags:
+    -social
 ---
 
 ## SEO: LEARN HOW TO OPTIMISE YOUR SOCIAL MEDIA NETWORKING SITES
@@ -76,10 +78,14 @@ For example, if you go to Google and search for the keyword “click here” –
 
 ### RELATED SEO RESOURCES:
 
-- [Google AdWords explanation](https://support.google.com/adwords/answer/2999770?hl=en-GB&ref_topic=3175091)
-- [Google SEO Starter Guide](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.co.uk/en/uk/webmasters/docs/search-engine-optimization-starter-guide.pdf)
-- [SEO Moz SEO starter Guide](http://moz.com/beginners-guide-to-seo)
+[Google AdWords explanation](https://support.google.com/adwords/answer/2999770?hl=en-GB&ref_topic=3175091)
+
+[Google SEO Starter Guide](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.co.uk/en/uk/webmasters/docs/search-engine-optimization-starter-guide.pdf)
+
+
+[SEO Moz SEO starter Guide](http://moz.com/beginners-guide-to-seo)
 
 ### PASSION4DIGITAL
 
 Feel free to make use of our hash tag [\#passion4digital](https://twitter.com/search?q=%23passion4digital) on Twitter to communicate with your peers and share your own learning experiences!
+

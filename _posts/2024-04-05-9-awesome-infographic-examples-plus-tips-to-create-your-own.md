@@ -10,13 +10,32 @@ categories:
     - Projects
 ---
 
-Keith, T. (2021). 9 Awesome Infographic Examples (Plus Tips to Create Your Own). Retrieved from https://www.columnfivemedia.com/9-infographic-design-examples-that-will-leave-you-inspired/
+Keith, T. (2021). 9 Awesome Infographic Examples (Plus Tips to Create Your Own). Retrieved from []https://www.columnfivemedia.com/9-infographic-design-examples-that-will-leave-you-inspired/
 
-<div class="wp-block-image"><figure class="aligncenter is-resized">![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2021/03/Best-infographic-design-examples.png)</figure></div># **Let’s upgrade your marketing game.**
+![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2021/03/Best-infographic-design-examples.png)
+
+# **Let’s upgrade your marketing game.**
 
 Get fresh tips, how-tos, and expert marketing advice every week. (15,000 people already are.)
 
-<div class="wp-block-image"><figure class="aligncenter">![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2018/10/Infographic_Design_Example_KellyMoore.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2018/10/Infographic_Design_Example_AppliedTrust-scaled.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2018/10/Infographic_Design_Example_MassiveHealth-scaled.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2018/10/Infographic_Design_Example_GOOD.jpeg)</figure></div><div class="wp-block-image"><figure class="aligncenter">![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2018/10/Infographic_Design_Example_Captora-scaled.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2018/10/Infographic_Design_Example_Digit.png)</figure></div>Infographics are a powerful tool to help marketers communicate, hence they’ve grown in popularity over the last decade. Why do they work so well? In addition to [helping your brain process content quicker,](https://www.columnfivemedia.com/why-your-brain-loves-visual-content-infographic) they’re visually appealing and highly shareable, which is why they come in handy for all sorts of applications, from presentations to content marketing. To us, however, a well-crafted infographic isn’t just a piece of content; it’s a thing of beauty. That’s why we’ve compiled some of our favorite infographic examples for your inspiration.
+![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2018/10/Infographic_Design_Example_KellyMoore.jpg)
+
+
+![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2018/10/Infographic_Design_Example_AppliedTrust-scaled.jpg)
+
+
+![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2018/10/Infographic_Design_Example_MassiveHealth-scaled.jpg)
+
+
+![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2018/10/Infographic_Design_Example_GOOD.jpeg)
+
+
+![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2018/10/Infographic_Design_Example_Captora-scaled.jpg)
+
+
+![Graphic Element](https://www.columnfivemedia.com/wp-content/uploads/2018/10/Infographic_Design_Example_Digit.png)
+
+Infographics are a powerful tool to help marketers communicate, hence they’ve grown in popularity over the last decade. Why do they work so well? In addition to [helping your brain process content quicker,](https://www.columnfivemedia.com/why-your-brain-loves-visual-content-infographic) they’re visually appealing and highly shareable, which is why they come in handy for all sorts of applications, from presentations to content marketing. To us, however, a well-crafted infographic isn’t just a piece of content; it’s a thing of beauty. That’s why we’ve compiled some of our favorite infographic examples for your inspiration.
 
 From how-tos to social issues, these infographics are awesome examples of how to do brand storytelling through a visual medium.[](https://www.columnfivemedia.com/resources/content-strategy-toolkit/)
 
@@ -32,7 +51,7 @@ First, it takes a thematic approach to the content. Rather than providing a matr
 
 Second, the use of photography is visually appealing. With photos of meats, vegetables, and grains, the infographic design takes on its own personality. What could be better? We’re left with a great resource that’s amazing to look at.
 
-**Pro tip:** Take a cue from [LinkedIn](https://www.columnfivemedia.com/what-you-can-learn-linkedin-content-strategy) and mix up your design. It’s easy to get stuck in the same infographic style, but you don’t have to do the same thing over and over. From photography to line art, here are [7 different infographic styles to experiment with](https://www.columnfivemedia.com/7-infographic-design-styles-to-try). You might also be inspired by these[ minim](https://www.columnfivemedia.com/10-examples-minimal-but-effective-infographic-design)[al infographic design examples](https://www.columnfivemedia.com/10-examples-minimal-but-effective-infographic-design).
+**Pro tip:** Take a cue from [LinkedIn](https://www.columnfivemedia.com/what-you-can-learn-linkedin-content-strategy) and mix up your design. It’s easy to get stuck in the same infographic style, but you don’t have to do the same thing over and over. From photography to line art, here are [7 different infographic styles to experiment with](https://www.columnfivemedia.com/7-infographic-design-styles-to-try). You might also be inspired by these [minim](https://www.columnfivemedia.com/10-examples-minimal-but-effective-infographic-design)[al infographic design examples](https://www.columnfivemedia.com/10-examples-minimal-but-effective-infographic-design).
 
 ### **2) [The Sound Of Color](https://www.columnfivemedia.com/work-items/infographic-the-sound-of-color-creating-a-color-palette-with-your-favorite-music) by Kelly-Moore Paints**
 
