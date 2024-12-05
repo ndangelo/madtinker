@@ -9,8 +9,8 @@ tags: art
   {% for post in site.categories.Art %}
     <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
    <span> Posted on: {{ post.date | date: "%b %d, %Y" }}</span>
-   <!-- {{ post.date | date_to_string }} -->
-     <span> {{ post.excerpt }}</span>
+  {{ post.date | date_to_string }} 
+      <!-- <span> {{ post.excerpt }}</span>-->
     
   {% endfor %}
 </ul>
