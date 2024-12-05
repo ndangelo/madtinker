@@ -287,6 +287,8 @@ p {
 img {
   width: 100%;
   margin: 0 auto;
+  max-width: 980px;
+  min-width: 300px;
 
 }
 
