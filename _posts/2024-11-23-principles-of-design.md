@@ -109,6 +109,8 @@ Color attracts attention and conveys emotion and mood. For example, red represen
 
 Value is a measure of darkness and lightness in an element or design. Value creates contrast and emphasis. For example, a light object against a dark background draws the viewer’s eye.
 
+<p><img src="https://www.lifewire.com/thmb/Lx1V2GZWBwU6nssFkiitW8_Z-WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/simultaneous-contrast-56a6e5675f9b58b7d0e55ed2.jpg"></p>
+
 ![Example of Simultaneous Color Contrast](https://www.lifewire.com/thmb/Lx1V2GZWBwU6nssFkiitW8_Z-WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/simultaneous-contrast-56a6e5675f9b58b7d0e55ed2.jpg)
 
 <div style="height: 20px; width: 200px;"></div>
