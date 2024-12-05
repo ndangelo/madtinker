@@ -171,8 +171,8 @@ a:hover {
   /*display: flex;
  
   
-  flex-flow: column wrap;*/
-  border: solid 2px lightblue;
+  flex-flow: column wrap;
+  border: solid 2px lightblue;*/
   padding: 10px;
    height: auto;
  overflow: auto;
@@ -183,7 +183,7 @@ a:hover {
   float:left;
  /* display: flex;
  justify-content: space-between;*/
- border: solid 2px lightblue;
+ /*border: solid 2px lightblue;*/
  height: auto;
  overflow: auto;
   flex-wrap: wrap;
@@ -423,7 +423,7 @@ body {
     flex-grow: 1;
     
    width: 360px;
-    padding: 10px;
+    padding: 10 px;
     
  
   }
@@ -580,7 +580,7 @@ max-width: 100%;*/
 article {
   display: flex;
  /*justify-content: space-between;*/
- border: solid 2px lightblue;
+ /*border: solid 2px lightblue;*/
  height: auto;
  overflow: auto;
   flex-wrap: wrap;
