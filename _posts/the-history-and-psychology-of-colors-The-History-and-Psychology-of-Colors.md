@@ -92,19 +92,29 @@ Orange has different tones and shades, each with different meanings and effects.
 
 For example, light pastel peach tones are seen as sweet, conversational, and affable, whereas more intense, vibrant oranges are seen as representative of vitality, energy, and encouragement.
 
-<figure class="lazyload-image" id="image-36545">[![image21](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132544/image21-tb-728x01.jpg)](http://www.fromupnorth.com/best-graphic-design-of-2015/?utm_content=buffer8875a&utm_medium=social&utm_source=pinterest.com&utm_campaign=buffer "Nicholas Schurr")<div class="spinner"><div class="spinner__inner"></div></div></figure>Deeper amber shades are seen as confident, a symbol of pride and self-assertion, and darker orange-brown tones promote ambition, adventure, and opportunity.
+![image21](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132544/image21-tb-728x01.jpg) 
 
-<figure class="lazyload-image" id="image-36560">[![image36](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132546/image36-tb-728x01.jpg)](https://www.designcuts.com/tutorials/create-a-music-festival-poster-design-in-photoshop/ "Chris Spooner")<div class="spinner"><div class="spinner__inner"></div></div></figure>In Western countries, orange is often linked to inexpensive/affordable products and is heavily used in relation to Halloween. In Thailand, orange is the color of Friday, whereas in the Netherlands it is the color of the Dutch Royal Family.
+Deeper amber shades are seen as confident, a symbol of pride and self-assertion, and darker orange-brown tones promote ambition, adventure, and opportunity.
+
+![image36](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132546/image36-tb-728x01.jpg)
+
+In Western countries, orange is often linked to inexpensive/affordable products and is heavily used in relation to Halloween. In Thailand, orange is the color of Friday, whereas in the Netherlands it is the color of the Dutch Royal Family.
 
 In terms of branding, orange has a few different applications.
 
 First of all, orange is often used to communicate a product that is affordable and/or inexpensive. Think of Amazon, JetStar, or Payless shoes’ logos and how they use orange to suggest this.
 
-<figure class="lazyload-image" id="image-36530">![image06](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132547/image06-tb-728x021.jpg)<div class="spinner"><div class="spinner__inner"></div></div></figure>Orange is also used to elicit feelings of adventure, excitement and risks. We can see this in Harley Davidson, WNBA, or Rockstar Games’ logos.
+![image06](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132547/image06-tb-728x021.jpg)
 
-<figure class="lazyload-image" id="image-36526">![image02](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132548/image02-tb-728x01.jpg)<div class="spinner"><div class="spinner__inner"></div></div></figure>Or, alternatively, vibrant oranges are used to promote energy, enthusiasm, and fun. Think of Nickelodeon’s signature orange hue, or Fanta’s bright, enthusiastic use of the color.
+Orange is also used to elicit feelings of adventure, excitement and risks. We can see this in Harley Davidson, WNBA, or Rockstar Games’ logos.
 
-<figure class="lazyload-image" id="image-36570">![20-orange-5](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132550/20-orange-5-tb-728x01.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>## 06. Purple
+![image02](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132548/image02-tb-728x01.jpg)
+
+Or, alternatively, vibrant oranges are used to promote energy, enthusiasm, and fun. Think of Nickelodeon’s signature orange hue, or Fanta’s bright, enthusiastic use of the color.
+
+![20-orange-5](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132550/20-orange-5-tb-728x01.png)
+
+## 06. Purple
 
 Sitting in between red and blue on the color spectrum is none of than purple. Purple has long had a noble and fairly regal history surrounding the hue. Due to the fact that producing purple pigments was expensive and difficult, the color was often worn by those of high status and royal descent throughout the Byzantine and Holy Roman Empires as well as Japanese aristocracy.
 
@@ -116,15 +126,26 @@ Thanks to this, different shades of purple can have significantly different effe
 
 On the lighter end of the spectrum is lavender. This pale, soft shade communicates femininity, nostalgia, romance, and tenderness.
 
-<figure class="lazyload-image" id="image-36550">[![image26](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132551/image26-tb-728x01.jpg)](https://au.pinterest.com/pin/505106914427655861/ "Co-Op")<div class="spinner"><div class="spinner__inner"></div></div></figure>More vibrant purples promote royalty, nobility, extravagance, and luxury. While deeper, darker shades of purple such as mauve can promote ideas of seriousness, professionality as well as gloom and sadness in certain applications.
+![image26](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132551/image26-tb-728x01.jpg)](https://au.pinterest.com/pin/505106914427655861/) 
 
-<figure class="lazyload-image" id="image-36525">[![image01](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132553/image01-tb-728x01.jpg)](http://designobserver.com/feature/the-universal-declaration-of-human-rights/7477 "Woody Pirtle")<div class="spinner"><div class="spinner__inner"></div></div></figure>When it comes to branding purple is used in a multitude of ways. One common application is to draw on the historic ties of the color with royalty to help build a luxurious, expensive, high quality brand. Think of the logos of Hallmark, or luxe whiskey brand Crown Royal.
+More vibrant purples promote royalty, nobility, extravagance, and luxury. While deeper, darker shades of purple such as mauve can promote ideas of seriousness, professionality as well as gloom and sadness in certain applications.
 
-<figure class="lazyload-image" id="image-36535">![image11](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132554/image11-tb-728x01.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>Purple is also a color that can promote fun, creativity, and play. Thanks to this, it is often used in children-oriented brandings such as Wonka candy, or platforms that encourage play, such as video game streaming service Twitch.
+![image01](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132553/image01-tb-728x01.jpg)
 
-<figure class="lazyload-image" id="image-36524">![image00](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132554/image00-tb-728x01.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>Purple is also often used frequently in branding to promote knowledge, innovation, and intelligence. Take a look at Yahoo!, SYFY, and NYU’s logos and see how they each use purple to evoke these ideas.
+When it comes to branding purple is used in a multitude of ways. One common application is to draw on the historic ties of the color with royalty to help build a luxurious, expensive, high quality brand. Think of the logos of Hallmark, or luxe whiskey brand Crown Royal.
 
-<figure class="lazyload-image" id="image-36558">![image34](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132555/image34-tb-728x01.jpg)<div class="spinner"><div class="spinner__inner"></div></div></figure>## 07. Pink
+![image11](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132554/image11-tb-728x01.png)
+
+Purple is also a color that can promote fun, creativity, and play. Thanks to this, it is often used in children-oriented brandings such as Wonka candy, or platforms that encourage play, such as video game streaming service Twitch.
+
+![image00](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132554/image00-tb-728x01.png)
+
+Purple is also often used frequently in branding to promote knowledge, innovation, and intelligence. Take a look at Yahoo!, SYFY, and NYU’s logos and see how they each use purple to evoke these ideas.
+
+
+![image34](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132555/image34-tb-728x01.jpg)
+
+## 07. Pink
 
 Named after the flower of the same name, pink is a vibrant, feminine color with an interesting history.
 
@@ -134,15 +155,25 @@ Pink is regarded widely in the western world as the color of femininity. Because
 
 When it comes to shades of pink, softer, lighter tones often promote innocence, girlhood, nurturing, love, and gentleness, and these soft shades are actually thought to increase female physical strength.
 
-<figure class="lazyload-image" id="image-36532">[![image08](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132557/image08-tb-728x01.jpg)](http://levineleavitt.stfi.re/la-boca-adele/?sf=agbavnx#1 "La Boca")<div class="spinner"><div class="spinner__inner"></div></div></figure>However, brighter, more intense shades of pink are instead thought to promote sensuality, and passion, as well as creativity, energy, and, as studies have suggested, the color is thought to raise pulse rate and blood pressure.
+![image08](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132557/image08-tb-728x01.jpg)](http://levineleavitt.stfi.re/la-boca-adele/?sf=agbavnx#1)
 
-<figure class="lazyload-image" id="image-36553">[![image29](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132558/image29-tb-728x01.jpg)](http://stefanfaehler.tumblr.com/post/124477417779/poster-for-sydney-underground-film-festival-2015 "Stefan Faehler")<div class="spinner"><div class="spinner__inner"></div></div></figure>When it comes to branding pink is used in a variety of ways. Arguably the most common application is on brands that predominately cater towards women. As pink is a symbol of femininity in Western cultures, brands like Victoria’s Secret, Priceline, and Cosmopolitan all use the color to get the attention of their demographic.
+However, brighter, more intense shades of pink are instead thought to promote sensuality, and passion, as well as creativity, energy, and, as studies have suggested, the color is thought to raise pulse rate and blood pressure.
 
-<figure class="lazyload-image" id="image-36546">![image22](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132559/image22-tb-728x01.jpg)<div class="spinner"><div class="spinner__inner"></div></div></figure>Pink is also a color used to promote creativity, artistic expression, and innovation, as seen in Adobe InDesign’s logo, as well as graphic design social network Dribbble’s branding.
+![image29](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132558/image29-tb-728x01.jpg)
 
-<figure class="lazyload-image" id="image-36572">![39-pink-4 (4)](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132600/39-pink-4-4-tb-728x01.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>Arguably the sweetest color of all, naturally pink is also used for sweets, candy, and dessert food brands such as Dunkin Donuts, Baskin Robbins, and Trolli.
+When it comes to branding pink is used in a variety of ways. Arguably the most common application is on brands that predominately cater towards women. As pink is a symbol of femininity in Western cultures, brands like Victoria’s Secret, Priceline, and Cosmopolitan all use the color to get the attention of their demographic.
 
-<figure class="lazyload-image" id="image-36571">![40-pink-5 (1)](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132601/40-pink-5-1-tb-728x01.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>## 08. Brown
+![image22](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132559/image22-tb-728x01.jpg)
+
+Pink is also a color used to promote creativity, artistic expression, and innovation, as seen in Adobe InDesign’s logo, as well as graphic design social network Dribbble’s branding.
+
+![39-pink-4](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132600/39-pink-4-4-tb-728x01.png)
+
+Arguably the sweetest color of all, naturally pink is also used for sweets, candy, and dessert food brands such as Dunkin Donuts, Baskin Robbins, and Trolli.
+
+![40-pink-5](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132601/40-pink-5-1-tb-728x01.png)
+
+## 08. Brown
 
 Hailed as what studies have shown to be “the least favourite color of the public”, brown is not a color to turn a blind eye to.
 
@@ -152,17 +183,29 @@ Brown has long been a symbol of the lower-class, this association stemming from 
 
 However, brown has had quite the revival in modern culture. Now a symbol of all things organic, natural, healthy, and quality, it is a color with many positive associations.
 
-<figure class="lazyload-image" id="image-36565">[![image41](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132603/image41-tb-728x01.jpg)](http://www.fromupnorth.com/beautiful-gig-posters-678/ "From Up North")<div class="spinner"><div class="spinner__inner"></div></div></figure><figure class="lazyload-image" id="image-36562">[![image38](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132604/image38-tb-728x01.jpg)](https://www.flickr.com/photos/nikiskate/7626731066/sizes/l/in/photostream/ " NikiStyle")<div class="spinner"><div class="spinner__inner"></div></div></figure>Brown is not a color applied throughout branding as prolifically as other hues, but when it is used, it has a few distinctive effects.
+![image41](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132603/image41-tb-728x01.jpg)
+
+![image38](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132604/image38-tb-728x01.jpg)
+
+Brown is not a color applied throughout branding as prolifically as other hues, but when it is used, it has a few distinctive effects.
 
 As brown is a color often seen in nature, it has become a symbol of all things organic, authentic and/or natural. We can see this in the branding of brands such as Ugg and Cotton.
 
-<figure class="lazyload-image" id="image-36574">![43-brown-3](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132606/43-brown-3-tb-728x01.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>Brown is also a shade that promotes reliability, efficiency, and high value service, as seen in the UPS and JP Morgan logos.
+![43-brown-3](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132606/43-brown-3-tb-728x01.png)
 
-<figure class="lazyload-image" id="image-36536">![image12](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132607/image12-tb-728x01.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>Deep, rich browns are often applied to signal high quality and luxe style. Two prime examples of this are Louis Vuitton’s signature brown, and Hollister’s deep brown logo.
+Brown is also a shade that promotes reliability, efficiency, and high value service, as seen in the UPS and JP Morgan logos.
 
-<figure class="lazyload-image" id="image-36551">![image27](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132608/image27-tb-728x01.jpg)<div class="spinner"><div class="spinner__inner"></div></div></figure>And finally, brown is also often used as a color to communicate warmth, relaxation, and indulgence. It is often chocolate and coffee brands such as MnMs, Nespresso, Hersheys, and many small coffee chains that make use of this application of the hue.
+![image12](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132607/image12-tb-728x01.png)
 
-<figure class="lazyload-image" id="image-36548">![image24](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132609/image24-tb-728x01.jpg)<div class="spinner"><div class="spinner__inner"></div></div></figure>## 09. White
+Deep, rich browns are often applied to signal high quality and luxe style. Two prime examples of this are Louis Vuitton’s signature brown, and Hollister’s deep brown logo.
+
+![image27](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132608/image27-tb-728x01.jpg)
+
+And finally, brown is also often used as a color to communicate warmth, relaxation, and indulgence. It is often chocolate and coffee brands such as MnMs, Nespresso, Hersheys, and many small coffee chains that make use of this application of the hue.
+
+![image24](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132609/image24-tb-728x01.jpg)
+
+## 09. White
 
 White is an achromatic color, meaning it is a color without a hue. It has been a staple of art, history, and culture for many eras. In fact, it is recorded as the first color ever used in art, with Paleolithic artists using white calcite and chalk to draw.
 
@@ -172,13 +215,21 @@ White is considered the symbolic opposite of black, with the two colors together
 
 In Western cultures, white is the classic color of wedding dresses, symbolizing innocence and purity, whereas in many Asian cultures white is the color of mourning, grief, and loss.
 
-<figure class="lazyload-image" id="image-36528">[![image04](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132610/image04-tb-728x01.jpg)](http://steakmob.tumblr.com/post/18754283326 "Eric Gorvin")<div class="spinner"><div class="spinner__inner"></div></div></figure><figure class="lazyload-image" id="image-36552">[![image28](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132612/image28-tb-728x01.jpg)](http://www.fubiz.net/en/2015/04/24/typographic-and-graphic-games-quotesprints/?utm_content=buffer9cec1&utm_medium=social&utm_source=pinterest.com&utm_campaign=buffer "Kyle Robertson")<div class="spinner"><div class="spinner__inner"></div></div></figure>White is a tricky color to work with when it comes to logos and brand applications as you can’t have a purely white logo. However, many brands choose to either use slight off-white, grey, or silver tones, or combine the white with black to create striking high contrast logos.
+![image04](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132610/image04-tb-728x01.jpg)
+
+![image28](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132612/image28-tb-728x01.jpg)
+
+White is a tricky color to work with when it comes to logos and brand applications as you can’t have a purely white logo. However, many brands choose to either use slight off-white, grey, or silver tones, or combine the white with black to create striking high contrast logos.
 
 White and light off-white colors are often used as a very luxurious color in branding. Brands like Swarovski use it to promote elegance, sophistication, and to draw comparisons between their logo and crystals/diamonds.
 
-<figure class="lazyload-image" id="image-36563">![image39](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132613/image39-tb-728x01.jpg)<div class="spinner"><div class="spinner__inner"></div></div></figure>White is also the color of modern day technology. It is seen as clean, sophisticated, streamlined, and efficient. This association is likely in part thanks to Apple’s prolific use of white throughout their branding.
+![image39](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132613/image39-tb-728x01.jpg)
 
-<figure class="lazyload-image" id="image-36543">![image19](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132614/image19-tb-728x01.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>## 10. Black
+White is also the color of modern day technology. It is seen as clean, sophisticated, streamlined, and efficient. This association is likely in part thanks to Apple’s prolific use of white throughout their branding.
+
+![image19](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132614/image19-tb-728x01.png)
+
+## 10. Black
 
 Earning the title of darkest color thanks to its total absorption of light is none other than black. Similarly to white, black is an achromatic color (a color without a hue) and is one with a long history of use and importance that extends into modern day.
 
@@ -188,19 +239,28 @@ Throughout much of history, black has been a symbol of evil, (such as the Greek 
 
 Black went through many shifts in meaning, application, and perception from era to era and culture to culture. Eventually the color was revolutionised and given a prominent standing in the world of fashion, quickly becoming a symbol of elegance and simplicity.
 
-<figure class="lazyload-image" id="image-36549">[![image25](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132615/image25-tb-728x01.jpg)](http://www.iainclaridge.co.uk/blog/34083 "Iain Claridge")<div class="spinner"><div class="spinner__inner"></div></div></figure>Black is seen as a sharp color that can promote many ideas ranging from sophistication, mystery, sensuality, confidence, through to grief and misery, depending on the application.
+[![image25](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132615/image25-tb-728x01.jpg)
 
-<figure class="lazyload-image" id="image-36541">[![image17](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132617/image17-tb-728x01.jpg)](https://www.behance.net/gallery/31967793/Adidas-Originals-x-Kanye-West-YEEZY-SEASON-1 " Andre Larcev")<div class="spinner"><div class="spinner__inner"></div></div></figure>In the world of branding, black is a staple. While color is thought to increase brand recognition by up to 80%, many brands opt for a sharp black logo thanks to the versatility of the shade.
+Black is seen as a sharp color that can promote many ideas ranging from sophistication, mystery, sensuality, confidence, through to grief and misery, depending on the application.
+
+![image17](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132617/image17-tb-728x01.jpg)
+
+In the world of branding, black is a staple. While color is thought to increase brand recognition by up to 80%, many brands opt for a sharp black logo thanks to the versatility of the shade.
 
 Black can promote ideas of power, elitism, and strength. This is often seen in sports brands such as Nike, Puma, and Adidas. The use of bold flat black logos creates striking, bold, punchy brand marks.
 
-<figure class="lazyload-image" id="image-36559">![image35](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132617/image35-tb-728x01.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>Conversely, black is also often used to promote elegance, luxury, and status. This is why we see plain black logos used for beauty and fashion brands such as Schwarzkopf and Chanel as the color is thought to be timeless and never out of style.
+![image35](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132617/image35-tb-728x01.png)
 
-<figure class="lazyload-image" id="image-36534">![image10](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132619/image10-tb-728x01.png)<div class="spinner"><div class="spinner__inner"></div></div></figure><div class="swp-content-locator"></div></div></div></div></article><section class="post-call-to-action post-call-to-action-c4w"><div class="row"><div class="col7"><div class="give-it-a-try-c4w-inner "><div class="text">## **Great design for**  
-every part of your life
+Conversely, black is also often used to promote elegance, luxury, and status. This is why we see plain black logos used for beauty and fashion brands such as Schwarzkopf and Chanel as the color is thought to be timeless and never out of style.
 
-<button class="btn start-designing">Start designing</button>
+![image10](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24132619/image10-tb-728x01.png)
 
-</div></div></div></div></section><section class="author-wrapper"><div class="row"><div class="col7"><div class="author-info"><div class="author-avatar">[![]()](https://www.canva.com/learn/author/marystribley/)</div><div class="author-name"><div class="author">[Mary Stribley](https://www.canva.com/learn/author/marystribley/ "Posts by Mary Stribley")</div></div></div><div class="author-description">Mary is a recent graduate from a Perth university where she studied creative writing and graphic design and got the bug for both. She has a knack for vector art and for taking on projects that are ambitious to a fault. When she’s not freelancing, she’s usually hunting for cheesy 80’s music videos.
+## **Great design for every part of your life**  
 
-</div></div></div></section>
+
+# Start designing
+
+![Mary Stribley](https://www.canva.com/learn/author/marystribley/)
+
+Mary is a recent graduate from a Perth university where she studied creative writing and graphic design and got the bug for both. She has a knack for vector art and for taking on projects that are ambitious to a fault. When she’s not freelancing, she’s usually hunting for cheesy 80’s music videos.
+

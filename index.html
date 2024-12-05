@@ -16,11 +16,11 @@ title: Custom Theme
 		{% else %}
 			<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 		{% endif %}
-	  	<!--<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>-->
+
 		  
 Posted on: {{ post.date | date: "%b %d, %Y" }}
-<br><br>
 
+<br>
 {% if post.tags.size > 0 %}
 Tag{% if post.tags.size > 1 %}s{% endif %}:
 {{ post.tags | sort | join: ", " }} 
@@ -28,10 +28,9 @@ Tag{% if post.tags.size > 1 %}s{% endif %}:
 
 
 <p> <span>
-	<!--{% for tag in page.tags > 0 %}
-	  {% capture tag_name %}{{ tag }}{% endcapture %}-->
+
 	  <a href="/tag/{{ tag_name }}">&nbsp;<code class="highligher-rouge" >{{ tag_name }}</code>&nbsp;</a>
-<!--	{% endfor %}-->
+
   </span> </p>
 
 <br/>
@@ -83,17 +82,5 @@ Tag{% if post.tags.size > 1 %}s{% endif %}:
   </div>
 
 
-  <!-- {{page.categories | capitalize | join: ', '}}-->
 
-  <!--<hr style="width:100%; margin-top: 15px; margin-bottom: 15px;">-->
-
-
-
-   <!--<span style="text-align: center;">© 2023 Nicholas D'Angelo</span><br/> <br/>
-    </div>
-	        <div class="madtinker_main">
-  <a href="https://www.netlify.com">
-    <img src="https://www.netlify.com/img/global/badges/netlify-light.svg" alt="Deploys by Netlify" />
-  </a>
-    </div><br /><br /><br />-->
 </div>

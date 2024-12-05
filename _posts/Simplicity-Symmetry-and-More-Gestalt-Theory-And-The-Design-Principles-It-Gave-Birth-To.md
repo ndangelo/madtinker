@@ -6,13 +6,27 @@ author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=11288'
 permalink: '/?p=11288'
-amazonS3_cache:
-    - 'a:2:{s:102:"//www.nuggetofjoy.com/wp-content/uploads/Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To.png";a:2:{s:2:"id";s:5:"11290";s:11:"source_type";s:13:"media-library";}s:131:"//image-control-storage.s3.amazonaws.com/blog-images/2018/02/21100110/Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To.png";a:2:{s:2:"id";s:5:"11290";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - Supplementary
 ---
 
-<header class="header-page"><div class="row"><div class="col7"><div class="author-wrapper--banner"><div class="author-info-wrapper--banner"><span class="author">[Laura Busche](https://www.canva.com/learn/author/laurab/ "Posts by Laura Busche")</span></div></div></div></div><div class="row banner-wrapper"><div class="col12"><div class="banner-post"><figure><picture><source media="(min-width: 768px)" srcset="https://www.canva.com/learn/wp-content/uploads/2015/09/Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To-tb-962x0.png , https://www.canva.com/learn/wp-content/uploads/2015/09/Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To-tb-1924x0.png 2x"></source><source media="(min-width: 0px)" srcset="https://www.canva.com/learn/wp-content/uploads/2015/09/Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To-tb-762x0.png , https://www.canva.com/learn/wp-content/uploads/2015/09/Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To-tb-1524x0.png 2x"></source>![Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/21100110/Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To.png "Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To")</picture></figure></div></div></div></header><article class="post-14303 post type-post status-publish format-standard has-post-thumbnail hentry category-creativity-psychology" id="post-14303"><div class="wrapper-content-article"><div class="row"><div class="col7">*Great designers understand the powerful role that psychology plays in visual perception.*
+
+[Laura Busche](https://www.canva.com/learn/author/laurab/)
+
+![]https://www.canva.com/learn/wp-content/uploads/2015/09/Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To-tb-962x0.png)
+
+
+![](https://www.canva.com/learn/wp-content/uploads/2015/09/Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To-tb-1924x0.png)
+
+![](https://www.canva.com/learn/wp-content/uploads/2015/09/Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To-tb-762x0.png
+
+![](https://www.canva.com/learn/wp-content/uploads/2015/09/Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To-tb-1524x0.png)
+
+![Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/21100110/Gestalt-Theory-And-The-Design-Principles-It-Gave-Birth-To.png)
+
+
+*Great designers understand the powerful role that psychology plays in visual perception.*
 
 What happens when someone’s eye meets your design creations? How does their mind react to the message your piece is sharing? As an amateur or professional designer, it’s important that you can answer these questions.
 
@@ -42,9 +56,13 @@ Over the years, Gestalt psychologists have come up with lists to summarize basic
 
 The law of simplicity indicates that our mind perceives everything in its simplest form. The image below, for example, when studied in depth is made up of individual components that have no meaning when viewed separately, yet our mind automatically perceives them in combination to spell out the word ‘logo’.
 
-<figure class="lazyload-image" id="image-15361">[![01](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155232/011-tb-728x01111121111.jpg)](https://daniel-crossfield.blogspot.ca/)<div class="spinner"><div class="spinner__inner"></div></div></figure>It’s important for designers to understand the law of simplicity because when it’s combined artfully with creativity, the two can be harnessed to produce truly stunning designs. Mastering design simplicity requires you to balance two often competing considerations: the use of uncomplicated shapes and objects and the need to produce striking design effects. This example does it perfectly — using simple elements and objects in combination to produce a unique and captivating representation of a guitar.
+![01](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155232/011-tb-728x01111121111.jpg)
 
-<figure class="lazyload-image" id="image-15362">[![02](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155234/02-tb-728x01111111111.png)](http://www.glidemagazine.com/47969/phish-worcester-snow-update-phish-to-headline-hangout-festival/?replytocom=566442)<div class="spinner"><div class="spinner__inner"></div></div></figure>Essentially, simplicity is about helping the eye find “comfortable” figures used to trigger an interpretation of what we are trying to show.
+It’s important for designers to understand the law of simplicity because when it’s combined artfully with creativity, the two can be harnessed to produce truly stunning designs. Mastering design simplicity requires you to balance two often competing considerations: the use of uncomplicated shapes and objects and the need to produce striking design effects. This example does it perfectly — using simple elements and objects in combination to produce a unique and captivating representation of a guitar.
+
+![02](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155234/02-tb-728x01111111111.png)
+
+Essentially, simplicity is about helping the eye find “comfortable” figures used to trigger an interpretation of what we are trying to show.
 
 ## 02. Figure-ground
 
@@ -57,19 +75,31 @@ There are two other related principles you will need to understand before you wi
 
 When you look at the image below, your perception of which is the figure and which is the ground alternates depending on how your mind perceives it. In one instance, it appears as if the black hand is the figure and the white is the ground, and in another it appears as if the white head is the figure and the black is the ground.
 
-<figure class="lazyload-image" id="image-15400">[![image06](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155236/image06-tb-728x01111111111.jpg)](http://www.publiz.net/2011/02/24/100-publicites-minimalistes/)<div class="spinner"><div class="spinner__inner"></div></div></figure>Applied in design, figure-ground can make a significant difference in the way your piece communicates a message. In this ad for Melbourne’s Food &amp; Wine Festival (2007), the wine bottles are strategically placed to create the illusion of a fork. In combining objects related to wine and food, this design conveyed the event’s message much more compellingly.
+[![image06](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155236/image06-tb-728x01111111111.jpg)
 
-<figure class="lazyload-image" id="image-15364">[![04](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155237/041-tb-728x01111111111.jpg)](https://www.pinterest.com/pin/373306256588268351/)<div class="spinner"><div class="spinner__inner"></div></div></figure>This poster for the film “Peter and The Wolf” exemplifies the great creative potential in using the figure-ground principle to your benefit. On one hand, you get the image of a long wolf’s body. When you shift to looking at the white in the image (previously ground) as figure, you immediately spot a man’s silhouette — which we can assume is Peter’s.
+Applied in design, figure-ground can make a significant difference in the way your piece communicates a message. In this ad for Melbourne’s Food &amp; Wine Festival (2007), the wine bottles are strategically placed to create the illusion of a fork. In combining objects related to wine and food, this design conveyed the event’s message much more compellingly.
 
-<figure class="lazyload-image" id="image-15365">[![05](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155239/051-tb-728x01111111111.jpg)](http://www.fromupnorth.com/best-graphic-design-of-2013/)<div class="spinner"><div class="spinner__inner"></div></div></figure>## 03. Proximity
+![04](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155237/041-tb-728x01111111111.jpg)
+
+This poster for the film “Peter and The Wolf” exemplifies the great creative potential in using the figure-ground principle to your benefit. On one hand, you get the image of a long wolf’s body. When you shift to looking at the white in the image (previously ground) as figure, you immediately spot a man’s silhouette — which we can assume is Peter’s.
+
+![05](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155239/051-tb-728x01111111111.jpg)]
+
+## 03. Proximity
 
 We perceive elements as belonging to the same group if they are laid out close together. As an example, think about how proper kerning can help the eye understand which letters make up individual words. In some cases, excessive spaces between letters can cause confusion as to when one word ends and the next begins. In the example below, our mind perceives each of the proximate vertical bars to combine and form a single image of a deer.
 
-<figure class="lazyload-image" id="image-15401">[![crazy-cool-poster-designs-17](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155240/crazy-cool-poster-designs-17-tb-728x01111111111.jpg)](http://www.92pixels.com/60-beautiful-and-modern-poster-designs-for-inspiration/)<div class="spinner"><div class="spinner__inner"></div></div></figure>The principle of proximity is also effectively applied in Unilever’s logo. Since the small figures are laid out closely to each other, you can easily perceive the cluster as a U (in Unilever). According to their [brand site](https://www.unilever.com/about/who-we-are/our-logo/), their logo was designed to include “25 icons, each of which represents something important to Unilever”.
+![crazy-cool-poster-designs-17](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155240/crazy-cool-poster-designs-17-tb-728x01111111111.jpg)
 
-<figure class="lazyload-image" id="image-15367">[![07](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155242/071-tb-728x01111111111.jpg)](http://picshype.com/unilever-logo-transparent/original/21390)<div class="spinner"><div class="spinner__inner"></div></div></figure>In the poster below, Coke wanted to convey happiness (one of its core brand values) by creating the shape of a smile using bottles. The fact that they are placed near each other in such a deliberate fashion helps the viewer perceive that smile.
+The principle of proximity is also effectively applied in Unilever’s logo. Since the small figures are laid out closely to each other, you can easily perceive the cluster as a U (in Unilever). According to their [brand site](https://www.unilever.com/about/who-we-are/our-logo/), their logo was designed to include “25 icons, each of which represents something important to Unilever”.
 
-<figure class="lazyload-image" id="image-15368">[![08](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155243/081-tb-728x01111111111.jpg)](http://www.wabbaly.com/graphic-design-inspiration-search-color-red/)<div class="spinner"><div class="spinner__inner"></div></div></figure>## 04. Similarity
+![07](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155242/071-tb-728x01111111111.jpg)
+
+In the poster below, Coke wanted to convey happiness (one of its core brand values) by creating the shape of a smile using bottles. The fact that they are placed near each other in such a deliberate fashion helps the viewer perceive that smile.
+
+![08](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155243/081-tb-728x01111111111.jpg)
+
+## 04. Similarity
 
 We perceive elements as belonging to the same group if they look like each other. The principle of similarity can be triggered using color, size, orientation, texture and even fonts. When laying out a multi-page document, for example, creating a strong type scheme will help readers understand which chunks of text are captions, which are headlines and which are body copy.
 

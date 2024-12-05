@@ -6,25 +6,29 @@ author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=15985'
 permalink: '/?p=15985'
-amazonS3_cache:
-    - 'a:2:{s:76:"//www.nuggetofjoy.com/wp-content/uploads/infographic_personal_SWOT_460x2.jpg";a:2:{s:2:"id";i:16000;s:11:"source_type";s:13:"media-library";}s:105:"//image-control-storage.s3.amazonaws.com/blog-images/2017/03/07143502/infographic_personal_SWOT_460x2.jpg";a:2:{s:2:"id";i:16000;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'Social Media'
+
+tag:
+    - social
 ---
 
-<div id="article_content"><div class="resource_content__header clearfix"><span class="at-expanded-menu-page-title" data-reactid=".0.2.0.1.0">Personal SWOT Analysis: Making the Most of Your Talents and Opportunities</span>
+Personal SWOT Analysis: Making the Most of Your Talents and Opportunities
 
-[<span class="at-expanded-menu-page-url" data-reactid=".0.2.0.1.1">https://www.mindtools.com/pages/article/newTMC\_05\_1.htm</span>](https://www.mindtools.com/pages/article/newTMC_05_1.htm)
+[Click Here](https://www.mindtools.com/pages/article/newTMC_05_1.htm)
 
 ## Discover New Opportunities, Manage and Eliminate Threats
 
-</div><div class="resource_content__body clearfix">SWOT Analysis is a useful technique for understanding your Strengths and Weaknesses, and for identifying both the Opportunities open to you and the Threats you face.
+SWOT Analysis is a useful technique for understanding your Strengths and Weaknesses, and for identifying both the Opportunities open to you and the Threats you face.
 
 Used in a business context, it helps you carve a sustainable niche in your market. Used in a personal context, it helps you develop your career in a way that takes best advantage of your talents, abilities and opportunities.
 
-<div class="vidright"><iframe allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" height="150" id="" loading="lazy" src="https://www.youtube.com/embed/EJ4uVsSqQ9k?wmode=transparent" width="300"></iframe>Learn how to use SWOT Analysis to create a successful competitive position.
+<iframe class="vide" allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" id="" loading="lazy" src="https://www.youtube.com/embed/EJ4uVsSqQ9k?wmode=transparent"> </iframe>
 
-</div>## Business SWOT Analysis
+Learn how to use SWOT Analysis to create a successful competitive position.
+
+## Business SWOT Analysis
 
 What makes SWOT particularly powerful is that, with a little thought, it can help you uncover opportunities that you are well-placed to exploit. And by understanding the weaknesses of your business, you can manage and eliminate threats that would otherwise catch you unawares.
 
@@ -34,11 +38,11 @@ More than this, by looking at yourself and your competitors using the SWOT frame
 
 Originated by Albert S. Humphrey in the 1960s, the tool is as useful now as it was then. You can use it in two ways – as a simple icebreaker helping people get together to “kick off” strategy formulation, or in a more sophisticated way as a serious strategy tool.
 
-<div class="grey_block">#### Tip:
+#### Tip:
 
 Strengths and weaknesses are often internal to your organization, while opportunities and threats generally relate to external factors. For this reason, SWOT is sometimes called Internal-External Analysis and the SWOT Matrix is sometimes called an IE Matrix.
 
-</div>To help you to carry out your analysis, download and print off our free [worksheet](https://www.mindtools.com/pages/article/newTMC_05.htm?download=1), and write down answers to the following questions.
+To help you to carry out your analysis, download and print off our free [worksheet](https://www.mindtools.com/pages/article/newTMC_05.htm?download=1), and write down answers to the following questions.
 
 ### Strengths
 
@@ -78,11 +82,11 @@ Useful opportunities can come from such things as:
 - Changes in social patterns, population profiles, lifestyle changes, and so on.
 - Local events.
 
-<div class="grey_block">#### Tip:
+#### Tip:
 
 A useful approach when looking at opportunities is to look at your strengths and ask yourself whether these open up any opportunities. Alternatively, look at your weaknesses and ask yourself whether you could open up opportunities by eliminating them.
 
-</div>### Threats
+### Threats
 
 - What obstacles do you face?
 - What are your competitors doing?
@@ -91,9 +95,8 @@ A useful approach when looking at opportunities is to look at your strengths and
 - Do you have bad debt or cash-flow problems?
 - Could any of your weaknesses seriously threaten your business?
 
-<div class="grey_block"></div><div class="newsletter strip" id="newsl-block-module"><div id="bootstrap"><div class="container-fluid newsletter-wide"><div class="clearfix bg-cta row"></div></div></div></div></div><div class="grey_block">![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/07143502/infographic_personal_SWOT_460x2.jpg)
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/07143502/infographic_personal_SWOT_460x2.jpg)
 
-</div>
 
 ## Example
 
@@ -129,7 +132,7 @@ As a result of their analysis, the consultancy may decide to specialize in rapid
 
 Marketing would be in selected local publications to get the greatest possible market presence for a set advertising budget, and the consultancy should keep up-to-date with changes in technology where possible.
 
-<div class="grey_block">## Key Points
+## Key Points
 
 SWOT Analysis is a simple but useful framework for analyzing your organization’s strengths and weaknesses and the opportunities and threats that you face. It helps you focus on your strengths, minimize threats, and take the greatest possible advantage of opportunities available to you.
 
@@ -137,6 +140,8 @@ It can be used to “kick off” strategy formulation, or in a more sophisticate
 
 When carrying out your analysis, be realistic and rigorous. Apply it at the right level, and supplement it with other option-generation tools where appropriate.
 
-</div>[Download Worksheet](https://www.mindtools.com/pages/article/newTMC_05.htm?download=1)
+[Download Worksheet](https://www.mindtools.com/pages/article/newTMC_05.htm?download=1)
 
-</div><div class="upsale-block"></div>
+
+
+

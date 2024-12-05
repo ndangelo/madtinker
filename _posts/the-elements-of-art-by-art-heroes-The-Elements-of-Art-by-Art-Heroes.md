@@ -26,3 +26,5 @@ tags:
 ---
 
 <iframe class="vide" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/uVrh3frrC38?feature=oembed" title="The Elements of Art"></iframe>
+
+
