@@ -16,20 +16,6 @@
 
   <style type="text/css">
 
-    /* .list {
-
-    margin: 10px; 
-    display: flex; 
-    flex-wrap: wrap; 
-    text-decoration: none;
-
-  }
-
-  .list ul li span{
-  display: block;
-  text-decoration: none;
-  }*/
-
   .vide {
   aspect-ratio: 16 / 9;
   width: 100%;
@@ -88,16 +74,13 @@ $(document).ready(function () {
   <div class="wrapper">
 
   
-
-    
-
    <span>
       {% for tag in page.tags %}
 
       <br><br><br><br>
 
       {% capture tag_name %}{{ tag }}{% endcapture %}
-      tag: <a href="/tag/{{ tag_name }}">&nbsp;<nobr>{{ tag_name }}</nobr>&nbsp;</a>
+      tag: <a href="/tag/{{ tag_name }}">&nbsp;{{ tag_name }}&nbsp;</a>
       {% endfor %}
       
 </span>
@@ -107,13 +90,7 @@ $(document).ready(function () {
 
 
 
-
-
-
     <div class="container">
-   <!--  <div class="item3">
-
-      {{page.categories | capitalize | join: ', '}}-->
 
  
 <h2>Code</h2>

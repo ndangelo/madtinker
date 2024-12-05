@@ -15,9 +15,7 @@ tag:
     - 'design'
 ---
 
-<div class="wp-block-image"><figure class="aligncenter size-full">
-
-![](https://image-control-storage.s3.amazonaws.com/2023/01/19160406/54e12b3c8445ea2072c7f9bf3d433014.jpg)</figure></div>
+![Poster](https://image-control-storage.s3.amazonaws.com/2023/01/19160406/54e12b3c8445ea2072c7f9bf3d433014.jpg)
 
 ### In a digital age, print ads still have value.
 
@@ -37,4 +35,21 @@ A **background image** (The main part of your advertisement), illustrations or g
 
 ## [MAGAZINE AND POSTER TEMPLATE DOWNLOAD](https://ndangelo-documents.s3.amazonaws.com/magazine_poster_templates.zip)
 
-<div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/19160451/2ee0710b9e42d48a519eba2ad317b7fc.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/19160413/00996bd6e560ca04f657f2ad2bd0d87a.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/19160500/4594f41bd4237c55bc9f73400eda7538.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/19160508/a941c3af40408c65a9afef27175ef51f.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/19160515/540ea2e94c36c6f2265ff693045df2c4.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/22144851/85f4d9e43c9ccc6005546b241e63007b.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/22144912/9d770654d71d7ff11c022d3e69e6b13d.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/19160533/1a455e571876b1a9d005e0748acf4293.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/22144938/2806ca94b6053498513b59187d28a095.jpg)</figure></div>
+![](https://image-control-storage.s3.amazonaws.com/2023/01/19160451/2ee0710b9e42d48a519eba2ad317b7fc.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/2023/01/19160413/00996bd6e560ca04f657f2ad2bd0d87a.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/2023/01/19160500/4594f41bd4237c55bc9f73400eda7538.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/2023/01/19160508/a941c3af40408c65a9afef27175ef51f.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/2023/01/19160515/540ea2e94c36c6f2265ff693045df2c4.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/2023/01/22144851/85f4d9e43c9ccc6005546b241e63007b.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/2023/01/22144912/9d770654d71d7ff11c022d3e69e6b13d.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/2023/01/19160533/1a455e571876b1a9d005e0748acf4293.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/2023/01/22144938/2806ca94b6053498513b59187d28a095.jpg)
+

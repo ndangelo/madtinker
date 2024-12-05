@@ -168,11 +168,10 @@ a:hover {
   max-width: 1080px;
   min-width: 380px;
   margin: 0 auto;
-  display: flex;
+  /*display: flex;
  
-  flex-wrap: wrap;
-  flex-direction: column;
-  flex-flow: column wrap;
+  
+  flex-flow: column wrap;*/
   border: solid 2px lightblue;
   padding: 20px;
    height: auto;
@@ -285,7 +284,7 @@ p {
 }
 
 img {
-  /*width: 100%;*/
+  width: 100%;
   margin: 0 auto;
   max-width: 1000px;
   min-width: 250px;
@@ -403,7 +402,8 @@ body {
 
   .madtinker_main img {
 
-    width: 140px;
+    max-width: 140px;
+    min-width: 140px;
   }
 
 
