@@ -111,6 +111,8 @@ Value is a measure of darkness and lightness in an element or design. Value crea
 
 ![Example of Simultaneous Color Contrast](https://www.lifewire.com/thmb/Lx1V2GZWBwU6nssFkiitW8_Z-WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/simultaneous-contrast-56a6e5675f9b58b7d0e55ed2.jpg)
 
+<div style="height: 20px; width: 200px;"></div>
+
 ## Size in Graphic Design
 
 The size of an element in graphic design generally indicates its importance. The most important information is typically the largest on the page and draws the viewer’s attention first.
