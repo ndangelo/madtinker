@@ -190,21 +190,21 @@ a:hover {
   max-width: 800px;*/
 }
 
-.footer {
+footer {
   height: 80px;
  border: solid 2px lightblue;
   border-radius: 3px;
   justify-content: center;
   align-items: center;
-  max-width: 100%;
+  width: 100%;
   margin: auto;
 
 }
 
-.footer img {
+/*.footer img {
 
   width: 120px;
-}
+}*/
 
 .item {
   display: flex;
