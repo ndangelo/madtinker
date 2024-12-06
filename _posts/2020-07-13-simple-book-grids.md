@@ -1,14 +1,16 @@
 ---
-id: 57234
-title: 'Simple Grids'
-date: '2020-07-13T12:35:45-04:00'
-author: admin
+guid: https://www.nuggetofjoy.com/?p=57234
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=57234'
+author: admin
 permalink: /simple-book-grids/
-
+title: Simple Grids
+date: 2020-07-13T12:35:45-04:00
 categories:
-    - Projects
+  - Projects
+tags:
+  - grid
+  - design
+id: 57234
 ---
 ![Grid Layout Draft](https://image-control-storage.s3.amazonaws.com/2020/07/22120328/grid_layout_draft-1024x518.png)  
 ![3-Column Split Example](https://image-control-storage.s3.amazonaws.com/2020/07/13130643/4-3columnsplit-3.jpg)  

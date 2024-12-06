@@ -1,18 +1,16 @@
 ---
-id: 17223
-title: '7 Essential Rules to Create Infographics'
-date: '2018-07-18T14:02:10-04:00'
-author: admin
+guid: https://www.nuggetofjoy.com/?p=17223
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=17223'
+author: admin
 permalink: /7-essential-rules-to-create-infographics/
-
-categories:
-    - 'DMET 375 IMAGING TECHNOLOGY'
-    - Projects
+title: 7 Essential Rules to Create Infographics
+date: 2018-07-18T14:02:10-04:00
+categories: List [ "DMET 375 IMAGING TECHNOLOGY", "Projects" ,"Infographics]
 tags:
-    - 'Imaging Tech: Assignments'
-    - 'Media Graphics &amp; Design Assignments'
+  - "Imaging Tech: Assignments"
+  - Media Graphics &amp; Design Assignments
+  - infographics
+id: 17223
 ---
 
 ![blogheader](https://image-control-storage.s3.amazonaws.com/blog-images/2018/04/29101053/blogheader-1.png)  
@@ -124,6 +122,6 @@ It could be said that the ultimate measure of an infographic’s success is in t
 
 **Addictive infographics, like any other kind of addictive content, provide value to your audience. They focus on the audience, providing information the reader would want, not just what shows off the writer’s knowledge or makes the company look good.** Excellent infographics are actionable, meaning that the audience comes away from reading them feeling they’ve learned something that they can do to improve their businesses or their personal lives. Or, at the very least, they’re illuminating: your infographic should drive home the story told within your data, in a way that text or numbers couldn’t have.
 
-From: https://venngage.com/blog/7-essential-rules-create-infographics/
+From: [https://venngage.com/blog/7-essential-rules-create-infographics/](https://venngage.com/blog/7-essential-rules-create-infographics/)
 
-https://www.nuggetofjoy.com/?p=17224&amp;preview=true 7 Essential Rules to Create Infographics. (2023). Retrieved from https://venngage.com/blog/7-essential-rules-create-infographics/
+Retrieved from https://venngage.com/blog/7-essential-rules-create-infographics/
