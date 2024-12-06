@@ -223,6 +223,7 @@ div.b {
 div.c {
   transform: scaleY(1.5);
 }
+
 {% endhighlight %}
 
 For some CSS rules, we might use angles, such as in background gradients or rotations. To use degrees we use “deg”. For instance, “5deg” is rotate from the top by 5 degrees clockwise. We can use the opposite direction by making it negative, i.e. “-5deg”.
@@ -232,11 +233,13 @@ For some CSS rules, we might use angles, such as in background gradients or rota
 Some CSS rules can also take multiplier numbers, such as line heights and scale. This would be just a single number, which might include decimal places. For instance:
 
 {% highlight css linenos%}
+
 body {
 
 line-height: 1.5;
 
 }
+
 {% endhighlight %}
 
 This means make the line height (or leading), 1.5 times the current font size.

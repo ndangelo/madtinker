@@ -7,9 +7,9 @@ layout: post
 guid: 'https://www.nuggetofjoy.com/?p=54453'
 permalink: /geometric-line-drawings/
 categories:
-    - 'GN: Basic Drawing'
-    - 'Projects'
-    - 'Art'
+    - Basic Drawing
+    - Projects
+    - Art
 ---
 
 ![Kandinsky](https://image-control-storage.s3.amazonaws.com/2020/02/10195144/2020-02-10-18_43_46-kandinsky-layout.png)

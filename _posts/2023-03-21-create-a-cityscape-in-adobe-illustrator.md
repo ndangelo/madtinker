@@ -8,11 +8,11 @@ guid: 'https://www.nuggetofjoy.com/?p=61990'
 permalink: /create-a-cityscape-in-adobe-illustrator/
 
 categories:
-    - 'DMET 160 Introduction to Multimedia'
-    - 'Projects'
+    - DMET 160 Introduction to Multimedia
+    - Projects
 
-    tag: 
-    - 'design'
+tag: 
+    - design
 ---
 
 # Create a Cityscape in Adobe Illustrator
