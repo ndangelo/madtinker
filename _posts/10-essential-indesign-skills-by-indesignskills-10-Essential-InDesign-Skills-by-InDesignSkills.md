@@ -1,10 +1,10 @@
 ---
-draft: false
+
 guid: https://www.nuggetofjoy.com/?p=16002
 layout: post
 author: admin
 permalink: /?p=16002
-thumbnail: https://image-control-storage.s3.amazonaws.com/blog-images/2018/03/08151118/10-Essential-InDesign-Skills-by-InDesignSkills_Page_01.jpg
+
 title: 10 Essential InDesign Skills by InDesignSkills
 date: 2024-12-03T09:06:00.000Z
 categories:
