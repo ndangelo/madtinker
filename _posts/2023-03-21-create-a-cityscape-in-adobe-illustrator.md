@@ -1,5 +1,4 @@
 ---
-id: 61990
 title: 'CREATE A CITYSCAPE IN ADOBE ILLUSTRATOR'
 date: '2024-11-03T11:56:24-04:00'
 author: admin
@@ -23,13 +22,13 @@ tag:
 ## Article Details
 - **Date:** Tuesday, 28 May 2019
 - **Level:** Beginner  
-- **Download:** [Illustrator template file](https://www.dropbox.com/s/r2bzx848sapa4tq/cityscape-ai-files.zip?dl=0){:target="_blank"}
+- **Download:** [Illustrator template file](https://www.dropbox.com/s/r2bzx848sapa4tq/cityscape-ai-files.zip?dl=0)
 
 ---
 
 ## Introduction
 
-Today I'll share how to create a colorful cityscape in [Adobe Illustrator](http://www.adobe.com/products/illustrator.html){:target="_blank"}. You'll start from a template file I prepared, including the colors I've used. We'll go step-by-step through creating the sky, grass, houses, trees, bushes, and clouds using simple techniques. Before we dive in, let me share some tips about the illustration setup.
+Today I'll share how to create a colorful cityscape in [Adobe Illustrator](http://www.adobe.com/products/illustrator.html). You'll start from a template file I prepared, including the colors I've used. We'll go step-by-step through creating the sky, grass, houses, trees, bushes, and clouds using simple techniques. Before we dive in, let me share some tips about the illustration setup.
 
 ---
 
@@ -43,7 +42,7 @@ Below is the general setup of the illustration, showing the **Layers** panel's s
 - Organize by categories like trees, houses, and bushes.
 - Separate items in front from those in the back (e.g., front and back bushes).
 
-[Download the template](http://cloud.duoh.com/6a1d23d3dbdb){:target="_blank"} or load the color swatches by selecting **Open Swatch Library > Other Library...** in the **Swatches panel**.
+[Download the template](http://cloud.duoh.com/6a1d23d3dbdb)or load the color swatches by selecting **Open Swatch Library > Other Library...** in the **Swatches panel**.
 
 ---
 
@@ -219,7 +218,7 @@ Make the right side of the house wider by selecting only the most right anchor p
 ### 19. Add 2 square windows
 Draw **2 square windows** on the side wall. Use the brown-grey as fill, and apply **20%** opacity in *multiply* transparency mode. Duplicate the first one like you did before so you end up with 2 windows. Use the same aligning technique as before to perfectly align the windows in the center of the side wall.
 
-![Add 2 square windows](https://veerle.duoh.com/images/design/tutorials/cityscape-illu-houses-19.png){target="_blank"}
+![Add 2 square windows](https://veerle.duoh.com/images/design/tutorials/cityscape-illu-houses-19.png)
 
 ---
 
@@ -240,14 +239,14 @@ First deselect the house. Then drag a rectangle selection over the top part of t
 ### 22. Move the roof down
 Drag the selected anchor points vertically down by holding down the *Shift key* while dragging.
 
-![Select the roof of the house and move it down](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-houses-21-22.png){target="_blank"}
+![Select the roof of the house and move it down](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-houses-21-22.png)
 
 ---
 
 ### 23. Enlarge the house
 Make the house bigger by selecting it and dragging the top right corner outwards (holding down the *Shift key* to keep its proportions). Then make the side wall of the house less wide, again by selecting the anchor points (white arrow) and dragging them while holding down the *Shift key*.
 
-![Resize the house, add windows and align things up](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-houses-23-24.png){target="_blank"}
+![Resize the house, add windows and align things up](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-houses-23-24.png)
 
 ---
 
@@ -261,14 +260,14 @@ To *Horizontal Center Align* the windows with the wall, group the windows togeth
 ### 25. Move the house into place
 Go out of *Isolation mode* and move the house into place. With *Smart Guides* enabled, showing visual clues, this should be easy.
 
-![Move the house into place](https://veerle.duoh.com/images/design/tutorials/cityscape-illu-houses-25.png){target="_blank"}
+![Move the house into place](https://veerle.duoh.com/images/design/tutorials/cityscape-illu-houses-25.png)
 
 
 ### 26. Add the garage
 
 Double-click the house to go back into **Isolation mode**. Create the side/garage part of the house by drawing two rectangles. Use the visual clues of the **Smart Guides** so the rectangles are perfectly aligned to the right and bottom of the house. For the roof, select only the top-right anchor point, and move it to the left by holding down the **Shift key** (or use the left arrow key). Lastly, add the garage door by drawing another rectangle on top. Give it the same dark color as the roof, but apply **20% opacity**.
 
-[![Add the garage](https://veerle.duoh.com/images/design/tutorials/cityscape-illu-houses-26.png)](https://veerle.duoh.com/images/design/tutorials/cityscape-illu-houses-26.png){:target="_blank"}
+[![Add the garage](https://veerle.duoh.com/images/design/tutorials/cityscape-illu-houses-26.png)
 
 ---
 
@@ -276,7 +275,7 @@ Double-click the house to go back into **Isolation mode**. Create the side/garag
 
 Based on what you've learned so far, draw the other houses using the same techniques of copying, reflecting, aligning, recoloring, etc. You can look at the image below as a reference for how things can look. Feel free to do your own thing.
 
-[![Add the other houses](https://veerle.duoh.com/images/design/tutorials/cityscape-illu-houses-27.png)](https://veerle.duoh.com/images/design/tutorials/cityscape-illu-houses-27.png){:target="_blank"}
+[![Add the other houses](https://veerle.duoh.com/images/design/tutorials/cityscape-illu-houses-27.png)
 
 ---
 
@@ -290,7 +289,7 @@ Attention to detail is everything. To finalize our houses, we add a few special 
 
 On the yellow house, add a tiny square of **1 x 1px** on the right and use the **Transform effect** (**Effect > Distort & Transform > Transform...**) to duplicate this square horizontally, leaving some space in between each by moving it **4px** for **12 times**.
 
-[![Add square detail on the yellow house](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-houses-28-29.png)](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-houses-28-29.png){:target="_blank"}
+[![Add square detail on the yellow house](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-houses-28-29.png)
 
 ---
 
@@ -304,7 +303,7 @@ On another house, add an ornamental line. First, draw a horizontal rectangle. Th
 
 Expand this effect via **Object > Expand Appearance**. Select both the big rectangle and all the smaller shapes. Use the **Minus Front** option from the **Pathfinder** panel.
 
-[![Expand the effect and apply Minus Front](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-houses-30-31.png)](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-houses-30-31.png){:target="_blank"}
+![Expand the effect and apply Minus Front](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-houses-30-31.png)
 
 ---
 
@@ -320,7 +319,7 @@ Draw two small horizontal rectangles at the left border of the house. Duplicate 
 
 Draw a dark green vertical rectangle. Use the **Pen tool** to remove the top-left anchor point.
 
-[![Create the left half of the first pine tree](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-trees-and-green-1-2.png)](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-trees-and-green-1-2.png){:target="_blank"}
+![Create the left half of the first pine tree](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-trees-and-green-1-2.png)
 
 ---
 
@@ -332,8 +331,7 @@ Use the **Reflect tool**, hold down **Alt/Option**, and click on the vertical li
 
 Give the other side of the tree a lighter green color. Add a small brown rectangle for the trunk and group all shapes. Move the tree onto the horizon guide.
 
-[![Apply color and add the trunk](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-trees-and-green-3-4.png)](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-trees-and-green-3-4.png){:target="_blank"}
-
+[![Apply color and add the trunk](https://veerle.duoh.com/images/design/tutorials/_wide/cityscape-illu-trees-and-green-3-4.png)
 ---
 
 #### 4. Make it a Symbol

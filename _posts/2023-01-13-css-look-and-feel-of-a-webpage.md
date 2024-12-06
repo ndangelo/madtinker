@@ -111,15 +111,15 @@ font-size: 24px;
 
 In this example, we have two styles, one for the whole of the page, then one style just for the &lt;h1&gt; tags. To add a third, we can just do it at the bottom of the file.
 
-What typeface will the &lt;h1&gt; tag be? We haven’t explicitly said in the style sheet. The answer is it would be Arial because we said in the stylesheet that all the content should be Arial in the “body” selector. The styles get passed down into all tags until we overwrite them.
+What typeface will the tag be? We haven’t explicitly said in the style sheet. The answer is it would be Arial because we said in the stylesheet that all the content should be Arial in the “body” selector. The styles get passed down into all tags until we overwrite them.
 
-What font size would a &lt;p&gt; tag in our HTML be? Well, by default again we said the “body” selector has a size of 16 pixels, so everything in the HTML will be that size until we overwrite it. We have overwritten the default 16px font size in the “h1” selector by making our heading 24 pixels high.
+What font size would a tag in our HTML be? Well, by default again we said the “body” selector has a size of 16 pixels, so everything in the HTML will be that size until we overwrite it. We have overwritten the default 16px font size in the “h1” selector by making our heading 24 pixels high.
 
-Remember we can put tags inside other tags? What font size would an italic &lt;i&gt; tag inside a &lt;p&gt; paragraph tag be? Same as the paragraph — all the styles get passed down to the tags inside bigger tags.
+Remember we can put tags inside other tags? What font size would an italic tag inside a  paragraph tag be? Same as the paragraph — all the styles get passed down to the tags inside bigger tags.
 
 One more question… if we have the style sheet:
 
-{% highlight css linenos%}
+```css
 body {
 
 font-size: 16px;
@@ -131,7 +131,7 @@ p {
 font-size: 24px;
 
 }
-{% endhighlight %}
+```
 
 What size would an &lt;i&gt; italic tag be inside a &lt;p&gt; tag be? In this case, the default font size for the page is 16 pixels, but then we overwrite the
 
