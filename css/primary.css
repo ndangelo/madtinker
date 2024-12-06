@@ -201,10 +201,14 @@ footer {
 
 }
 
-/*.footer img {
+footer img {
 
-  width: 120px;
-}*/
+  max-width: 100%;
+  margin: auto;
+
+}
+
+
 
 .item {
   display: flex;
@@ -555,10 +559,7 @@ max-width: 100%;*/
     justify-content: center;
   }
 
-  .madtinker_main img {
 
-    width: 120px;
-  }
 
 article {
   display: flex;
