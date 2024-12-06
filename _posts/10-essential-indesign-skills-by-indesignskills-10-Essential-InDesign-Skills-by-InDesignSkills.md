@@ -13,7 +13,7 @@ categories:
 tags:
   - design
 id: 16002
-rating: 5
+
 ---
 
 ![Image](https://image-control-storage.s3.amazonaws.com/blog-images/2018/03/08151118/10-Essential-InDesign-Skills-by-InDesignSkills_Page_01.jpg)
