@@ -253,6 +253,7 @@ Some students ask, what’s the difference between using “0” and “0px” o
 Earlier, we were a little bit naughty and we skipped a bit. We didn’t talk about the general structure of HTML files and we need to add a few more tags to our page to split our sets of tags into two. One set of tags is the content of the page that our users see, such as image tags, paragraph tags and header tags. The other set of tags is to do with any other information. The content tags are put in a &lt;body&gt; tag and the other tags are put in a &lt;head&gt; tag (note: not &lt;header&gt;). Then both of these tags are put inside an &lt;html&gt; tag:
 
 {% html css linenos%}
+
 <html>
 
 <head>
@@ -268,6 +269,7 @@ Earlier, we were a little bit naughty and we skipped a bit. We didn’t talk abo
 </body>
 
 </html>
+
 {% endhighlight %}
 
 We’ve also added one more tag, the &lt;title&gt; tag, that lives in the &lt;head&gt; tag. The title isn’t included within the page’s content, but you’ll see the phrase “My website” in your browser tab and for your page’s headline in Google results.
@@ -275,6 +277,7 @@ We’ve also added one more tag, the &lt;title&gt; tag, that lives in the &lt;he
 To link up our HTML file with our CSS file, we need to add one more tag to our &lt;head&gt; tag because it’s not part of our content. If our CSS file is called “style.css”, we need to add a &lt;link&gt; tag:
 
 {% html css linenos%}
+
 <html>
 
 <head>
@@ -320,6 +323,7 @@ We can add multiple stylesheets on the same page by adding another tag:
 </body>
 
 </html>
+
 {% endhighlight %}
 
 The order of the stylesheet is only important if you’re overwriting styles in more than one file — the bottom file will be the one that overwrites styles in the top one.
@@ -335,11 +339,13 @@ Now we know how to use some basic styles, let’s show some of the CSS rules for
 We talked about this earlier but we use:
 
 {% highlight css linenos%}
+
 p {
 
 font-size: 16px;
 
 }
+
 {% endhighlight %}
 
 to give the font a particular size. Notice there’s no space between the number and the “px” — it’s all one word.
@@ -473,23 +479,23 @@ Underlining text and removing underlines
 
 You might want to add underlines to your code:
 
-{% highlight css linenos%}
+```css
 p {
 
 text-decoration: underline;
 
 }
-{% endhighlight %}
+```
 
 You may notice that by default links have underlines, if you want to get rid of them, add:
 
-{% highlight css linenos%}
+```css
 a {
 
 text-decoration: none;
 
 }
-{% endhighlight %}
+```
 
 ### **MAKING TEXT SHOUT**
 
@@ -497,45 +503,45 @@ Sometimes you need to make your text shout out! We could just go back to our HTM
 
 You can make all the letters upper case by adding:
 
-{% highlight css linenos%}
+```css
 p {
 
 text-transform: uppercase;
 
 }
-{% endhighlight %}
+```
 
 You could also make each first letter capitalized too:
 
-{% highlight css linenos%}
+```css
 p {
 
 text-transform: capitalize;
 
 }
-{% endhighlight %}
+```
 
 Putting them all together
 
 Remember you can add several of these rules together in one style or across multiple styles:
 
-{% highlight css linenos%}
+```css
 p {
 
 font-family: Arial; font-weight: 900; font-size: 16px; line-height: 1.5; text-align: center;
 
 }
-{% endhighlight %}
+```
 
 The order of the rules doesn’t matter as long as you don’t include two of the same rule. If you do, the latter one will take effect. For example:
 
-{% highlight css linenos%}
+```css
 p {
 
 font-size: 14px; font-size: 16px;
 
 }
-{% endhighlight %}
+```
 
 The font size will be 16 pixels as the first one gets overwritten by the second.
 
