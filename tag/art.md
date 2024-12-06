@@ -11,6 +11,6 @@ tags: art
    <span> Posted on: {{ post.date | date: "%b %d, %Y" }}</span>
   {{ post.date | date_to_string }} 
       <!-- <span> {{ post.excerpt }}</span>-->
-    
+    <br><br>
   {% endfor %}
 </ul>
