@@ -610,5 +610,13 @@ article.post {
 
 }
 
+img {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 350px;
+  min-width: 250px;
+
+}
+
 
 }
