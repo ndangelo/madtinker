@@ -13,8 +13,6 @@ tags:
 ---
 
 
-
-
 ![Geometric Shape Example](https://s3.amazonaws.com/image-control-storage/2020/02/10195144/2020-02-10-18_43_46-kandinsky-layout.png)
 
 Hans Thiemann  

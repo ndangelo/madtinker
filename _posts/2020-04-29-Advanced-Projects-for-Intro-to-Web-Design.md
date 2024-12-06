@@ -6,7 +6,7 @@ categories: Code
 tags: Code
 ---
 
----
+
 **Web Design is messy.** Tutorials can be great – but it is not only always the best way to learn.
 
 If you have finished classwork please work on this ongoing assignment.
@@ -32,7 +32,7 @@ What kind of media could you include:
 
 ##Codepen.io
 
-If you are feeling very adventurous you can add content from [codepen.io](http://www.codepen.io){target="_blank"}.
+If you are feeling very adventurous you can add content from [codepen.io](http://www.codepen.io){:target="_blank"}.
 
 This is some **VERY advanced code**. Only utilize it if you feel comfortable. You will need to create a free account to use it. The free account is totally free. It is not a trial.
 
