@@ -1,14 +1,16 @@
 ---
-id: 58450
-title: '1. Introduction To HTML And CSS'
-date: '2023-01-09T18:18:04-04:00'
-author: admin
+guid: https://www.nuggetofjoy.com/?p=58450
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=58450'
+author: admin
 permalink: /introduction-to-html-and-css/
+title: 1. Introduction To HTML And CSS
+date: 2023-01-09T18:18:04-04:00
 categories:
-    - 'DMET 155 Introduction to Web Design'
-    - 'odin project'
+  - DMET 155 Introduction to Web Design
+  - odin project
+tags:
+  - code
+id: 58450
 ---
 
 So here it is: it’s time to actually start *making things*. This section will teach you the basics of HTML and CSS, the two foundational building blocks of pretty much everything on the web.
