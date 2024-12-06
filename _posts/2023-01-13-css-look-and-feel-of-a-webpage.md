@@ -290,9 +290,13 @@ To link up our HTML file with our CSS file, we need to add one more tag to our &
 
 </html>
 
-We can add multiple stylesheets on the same page by adding another
+{% endhighlight %}
 
-<link> tag:
+We can add multiple stylesheets on the same page by adding another tag:
+
+{% html css linenos%}
+
+
 
 <html>
 
