@@ -1,16 +1,16 @@
 ---
-guid: https://www.nuggetofjoy.com/?p=59619
-layout: post
-author: admin
-permalink: /css-look-and-feel-of-a-webpage/
-title: "5. CSS: Meet the header tag, Styling with color, Background images,
-  Hover states, Transitions, Child selectors, Classes, Widths and heights"
-date: 2023-01-13T16:51:50-04:00
 id: 59619
+title: '5. CSS: Meet the header tag, Styling with color, Background images, Hover states, Transitions, Child selectors, Classes, Widths and heights'
+date: '2023-01-13T16:51:50-04:00'
+author: admin
+layout: post
+guid: 'https://www.nuggetofjoy.com/?p=59619'
+permalink: /css-look-and-feel-of-a-webpage/
 categories:
-  - DMET 155 Introduction to Web Design
-  - Learn to Code Now
+    - 'DMET 155 Introduction to Web Design'
+    - 'Learn to Code Now'
 ---
+
 So far, we’ve been focusing on the content of our websites.
 
 By default, the browser gives them a style that looks like the web would have looked in the late 1980s — a simple white background with black text in a default font. At the time this simple styling was fine for scientific research and basic websites, but as the Web became more popular, the Web’s authors wanted to tweak the look and feel of their sites.
@@ -37,13 +37,13 @@ There are two main parts to CSS: selectors and rules. The selector picks which p
 
 Let’s see an example:
 
-{% highlight html linenos%}
+```
 h1 {
 
 font-size: 48px; font-family: Arial;
 
 }
-{% endhighlight %}
+```
 
 The selector in this case is the word “h1” — we’re picking all the &lt;h1&gt; tags across our website. We’re then using an open curly bracket “{“ to start selecting. There are two rules in the style, the first telling the font size to be 48 pixels large and the second telling the typeface to be Arial. We’re then finished with styling so we use a close curly bracket “}” to tell the browser to stop styling.
 
@@ -53,25 +53,25 @@ How rules work is you have a defined list of what you can change about the styli
 
 In the previous example, we picked all the &lt;h1&gt; tags on the page by using the CSS selector “h1”. Take a guess at how we’d pick all the &lt;p&gt; paragraph tags on the page? It’s simply “p”.
 
-{% highlight css linenos%}
+```css
 p {
 
 font-size: 14px;
 
 }
-{% endhighlight %}
+```
 
 Here is our CSS picking all the paragraphs on our website and just applying one simple rule to them all, that they should all be 14 pixels font size.
 
 Take a guess at how we’d pick all the links on the page? Well, we add links to the page with &lt;a&gt; tags, so to style them in CSS, we’d use:
 
-{% highlight css linenos%}
+```css
 a {
 
 color: red;
 
 }
-{% endhighlight %}
+```
 
 Here I’ve selected every link on the page, then added one rule to make the text color red. Notice to any one in the UK, Canada, Australia, etc., the word is “color” not “colour”. You’d think Englishman Tim Berners-Lee would have vetoed it, but no.
 
@@ -81,13 +81,13 @@ Let’s talk about the cascading part of CSS a little more. We could go through 
 
 Håkon Wien Lie thought it would be better to do things once and then overwrite individually. To make a style apply across the whole website we can write things in the “body” selector.
 
-{% highlight css linenos%}
+```css
 body {
 
 font-family: Arial; font-size: 16px; color: black;
 
 }
-{% endhighlight %}
+```
 
 This CSS style means that by default, everything in the “body” of our web pages (e.g. the visual content of the page) would get these styles applied to them. Every tag would have the typeface Arial, the font size 16 pixels and the text color black until you overwrite them with another style.
 
@@ -95,7 +95,7 @@ This CSS style means that by default, everything in the “body” of our web pa
 
 In our style sheets, we’re very likely to have multiple styles in the same file. The way we do this is just to put them on top of each other:
 
-{% highlight css linenos%}
+```css
 body {
 
 font-family: Arial; font-size: 16px; color: black;
@@ -107,7 +107,7 @@ h1 {
 font-size: 24px;
 
 }
-{% endhighlight %}
+```
 
 In this example, we have two styles, one for the whole of the page, then one style just for the &lt;h1&gt; tags. To add a third, we can just do it at the bottom of the file.
 
@@ -143,47 +143,47 @@ Mostly in this guide, we’ll be using pixel units. A pixel is a single square o
 
 In CSS, a pixel unit is defined as a number (positive or negative) that ends with “px”:
 
-{% highlight css linenos%}
+```css
 header {
 
 font-size: 16px;
 
 }
-{% endhighlight %}
+```
 
 ### **Percentages**
 
 We can also use percentages in our CSS instead of pixel units. These are mainly useful in layouts:
 
-{% highlight css linenos%}
+```css
 section {
 
 width: 75%;
 
 }
-{% endhighlight %}
+```
 
 ### **Em units**
 
 An em unit is a size relative to the current font size of that tag. By default, the font size would 16px, so we could use em units instead of px if we’re unsure what pixel size to use but want to make it relative sized:
 
-{% highlight css linenos%}
+```css
 header {
 
 font-size: 2em;
 
 }
-{% endhighlight %}
+```
 
 By default, that would be twice 16px (32px). However, if we have something inside the header and use em units, it would be now based on 32px sizes:
 
-{% highlight css linenos%}
+```css
 header h1 {
 
 font-size: 1.5em;
 
 }
-{% endhighlight %}
+```
 
 The pixel size for this &lt;h1&gt; tag would be 1.5 times 32px (not 16px), so 48px large in pixel units.
 
@@ -199,19 +199,19 @@ We can base our sizes on the “viewport” — essentially the part of our page
 
 Sometimes we might not know how wide or tall our user’s browsers are, so using “vw” and “vh” units can work well. For instance, having a section at exactly the height of the browser could be useful for an intro to the page:
 
-{% highlight css linenos%}
+```css
 section {
 
 height: 100vh;
 
 }
-{% endhighlight %}
+```
 
 The “vmin” units look at the sizes of “vh” and “vw” and see which one of the two is the smallest. The “vmax” unit does the same, except looking for the larger of “vh” and “vw”.
 
 ### **Degrees**
 
-{% highlight css linenos%}
+```css
 div.a {
   transform: rotate(20deg);
 }
@@ -223,8 +223,20 @@ div.b {
 div.c {
   transform: scaleY(1.5);
 }
+<<<<<<< HEAD
+
+div.b {
+  transform: skewY(20deg);
+}
+
+div.c {
+  transform: scaleY(1.5);
+}
 
 {% endhighlight %}
+=======
+```
+>>>>>>> parent of b860872 (Update Blog “2023-01-13-css-look-and-feel-of-a-webpage”)
 
 For some CSS rules, we might use angles, such as in background gradients or rotations. To use degrees we use “deg”. For instance, “5deg” is rotate from the top by 5 degrees clockwise. We can use the opposite direction by making it negative, i.e. “-5deg”.
 
@@ -233,13 +245,19 @@ For some CSS rules, we might use angles, such as in background gradients or rota
 Some CSS rules can also take multiplier numbers, such as line heights and scale. This would be just a single number, which might include decimal places. For instance:
 
 ```css
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of b860872 (Update Blog “2023-01-13-css-look-and-feel-of-a-webpage”)
 body {
 
 line-height: 1.5;
 
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of b860872 (Update Blog “2023-01-13-css-look-and-feel-of-a-webpage”)
 ```
 
 This means make the line height (or leading), 1.5 times the current font size.
@@ -252,8 +270,12 @@ Some students ask, what’s the difference between using “0” and “0px” o
 
 Earlier, we were a little bit naughty and we skipped a bit. We didn’t talk about the general structure of HTML files and we need to add a few more tags to our page to split our sets of tags into two. One set of tags is the content of the page that our users see, such as image tags, paragraph tags and header tags. The other set of tags is to do with any other information. The content tags are put in a &lt;body&gt; tag and the other tags are put in a &lt;head&gt; tag (note: not &lt;header&gt;). Then both of these tags are put inside an &lt;html&gt; tag:
 
+<<<<<<< HEAD
 {% html css linenos%}
 
+=======
+```markup
+>>>>>>> parent of b860872 (Update Blog “2023-01-13-css-look-and-feel-of-a-webpage”)
 <html>
 
 <head>
@@ -269,15 +291,23 @@ Earlier, we were a little bit naughty and we skipped a bit. We didn’t talk abo
 </body>
 
 </html>
+<<<<<<< HEAD
 
 {% endhighlight %}
+=======
+```
+>>>>>>> parent of b860872 (Update Blog “2023-01-13-css-look-and-feel-of-a-webpage”)
 
 We’ve also added one more tag, the &lt;title&gt; tag, that lives in the &lt;head&gt; tag. The title isn’t included within the page’s content, but you’ll see the phrase “My website” in your browser tab and for your page’s headline in Google results.
 
 To link up our HTML file with our CSS file, we need to add one more tag to our &lt;head&gt; tag because it’s not part of our content. If our CSS file is called “style.css”, we need to add a &lt;link&gt; tag:
 
+<<<<<<< HEAD
 {% html css linenos%}
 
+=======
+```markup
+>>>>>>> parent of b860872 (Update Blog “2023-01-13-css-look-and-feel-of-a-webpage”)
 <html>
 
 <head>
@@ -323,8 +353,12 @@ We can add multiple stylesheets on the same page by adding another tag:
 </body>
 
 </html>
+<<<<<<< HEAD
 
 {% endhighlight %}
+=======
+```
+>>>>>>> parent of b860872 (Update Blog “2023-01-13-css-look-and-feel-of-a-webpage”)
 
 The order of the stylesheet is only important if you’re overwriting styles in more than one file — the bottom file will be the one that overwrites styles in the top one.
 
@@ -338,15 +372,23 @@ Now we know how to use some basic styles, let’s show some of the CSS rules for
 
 We talked about this earlier but we use:
 
+<<<<<<< HEAD
 {% highlight css linenos%}
 
+=======
+```css
+>>>>>>> parent of b860872 (Update Blog “2023-01-13-css-look-and-feel-of-a-webpage”)
 p {
 
 font-size: 16px;
 
 }
+<<<<<<< HEAD
 
 {% endhighlight %}
+=======
+```
+>>>>>>> parent of b860872 (Update Blog “2023-01-13-css-look-and-feel-of-a-webpage”)
 
 to give the font a particular size. Notice there’s no space between the number and the “px” — it’s all one word.
 
@@ -354,13 +396,13 @@ Font weight and how to make fonts bold
 
 To make a font bold, we give it a font-weight:
 
-{% highlight css linenos%}
+```css
 p {
 
 font-weight: 700;
 
 }
-{% endhighlight %}
+```
 
 This number correlates to a typographic weight. There are essentially nine weights to pick from:
 
@@ -381,13 +423,13 @@ This number correlates to a typographic weight. There are essentially nine weigh
 
 To change the typeface of the site, you can change the font’s family:
 
-{% highlight css linenos%}
+```css
 p {
 
 font-family: Arial;
 
 }
-{% endhighlight %}
+```
 
 By default, there are not many fonts to pick from, just the standard ones such as Arial, Georgia, Helvetica and Times New Roman. We’ll talk later about how to add web fonts into your site.
 
@@ -395,47 +437,47 @@ Make the font italic
 
 To make the font italic:
 
-{% highlight css linenos%}
+```css
 p {
 
 font-style: italic;
 
 }
-{% endhighlight %}
+```
 
 To overwrite an italic font and make it normal again:
 
-{% highlight css linenos%}
+```css
 p {
 
 font-style: normal;
 
 }
-{% endhighlight %}
+```
 
 ### Leading or line heights
 
 To change the ratio between the height of the lines between text, we change the line height:
 
-{% highlight css linenos%}
+```css
 p {
 
 line-height: 1.5;
 
 }
-{% endhighlight %}
+```
 
 The number is a ratio based on the font size, so for instance if the font size is 16 pixels, the space between each line would be 24 pixels (16 times 1.5). A tight leading would be around 1.2 and a looser leading would be around 1.6.
 
 You can also use pixel sizes for this:
 
-{% highlight css linenos%}
+```css
 p {
 
 line-height: 24px;
 
 }
-{% endhighlight %}
+```
 
 But it’s better to use ratios as you may change the font size later on.
 
@@ -443,35 +485,35 @@ But it’s better to use ratios as you may change the font size later on.
 
 To change the distance between characters in text, we can change the letter spacing. To increase the spacing by one pixel per character, we can add:
 
-{% highlight css linenos%}
+```css
 p {
 
 letter-spacing: 1px;
 
 }
-{% endhighlight %}
+```
 
 To reduce the space, we can use negative pixels:
 
-{% highlight css linenos%}
+```css
 p {
 
 letter-spacing: -1px;
 
 }
-{% endhighlight %}
+```
 
 ### **Aligning text**
 
 When it comes to aligning text, you’re not really handling the typography but how the text works, so the rules look slightly different:
 
-{% highlight css linenos%}
+```css
 p {
 
 text-align: left;
 
 }
-{% endhighlight %}
+```
 
 There are four different values you can put in: left, center, right and justify (watch out for “center” not “centre”, British people!).
 
@@ -545,3 +587,4 @@ font-size: 14px; font-size: 16px;
 
 The font size will be 16 pixels as the first one gets overwritten by the second.
 
+</body></html>
