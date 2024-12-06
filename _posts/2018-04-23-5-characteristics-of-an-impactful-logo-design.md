@@ -1,16 +1,18 @@
 ---
-id: 17210
-title: '5 CHARACTERISTICS OF AN IMPACTFUL LOGO DESIGN: Supplementary'
-date: '2018-04-23T18:54:24-04:00'
-author: admin
+guid: https://www.nuggetofjoy.com/?p=17210
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=17210'
+author: admin
 permalink: /5-characteristics-of-an-impactful-logo-design/
+date: 2018-04-23T18:54:24-04:00
 category_sticky_post:
-    - '0'
-
+  - "0"
+title: "5 CHARACTERISTICS OF AN IMPACTFUL LOGO DESIGN: Supplementary"
+tags:
+  - design
+  - logo
+id: 17210
 categories:
-    - 'Design Instruction'
+  - Design Instruction
 ---
 
 At first, logo designing seems like a fairly simple skill to acquire. But, that’s only until you get started on designing one! As David Airey puts it in his book –*Logo Design Love*,
