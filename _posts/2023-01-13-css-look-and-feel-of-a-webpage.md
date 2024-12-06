@@ -232,7 +232,7 @@ For some CSS rules, we might use angles, such as in background gradients or rota
 
 Some CSS rules can also take multiplier numbers, such as line heights and scale. This would be just a single number, which might include decimal places. For instance:
 
-{% highlight css linenos%}
+```css
 
 body {
 
@@ -240,7 +240,7 @@ line-height: 1.5;
 
 }
 
-{% endhighlight %}
+```
 
 This means make the line height (or leading), 1.5 times the current font size.
 
