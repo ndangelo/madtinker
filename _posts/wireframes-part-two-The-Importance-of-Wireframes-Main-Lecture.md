@@ -89,9 +89,9 @@ by [Nick Haas](https://www.orbitmedia.com/blog/author/nickhaas/)
 
 It will also be the style you will use to make your wireframes.
 
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191237/kofman_WebWireframes-1024x604.jpg)]
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191237/kofman_WebWireframes-1024x604.jpg)
 
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191235/2016-03-20-13_17_20-kofman_WebWireframes.pdf-Adobe-Acrobat-Pro-DC-1024x604.jpg)]
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191235/2016-03-20-13_17_20-kofman_WebWireframes.pdf-Adobe-Acrobat-Pro-DC-1024x604.jpg)
 
 ![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191232/Atamian_Vera_iPadVerticalWireframe.-1024x601.jpg)
 
@@ -144,4 +144,4 @@ Building a website is a process. Wireframing is one of those parts of the web pr
 
 Secret Assets: These may help you in building your wireframes.
 
-[](https://s3.amazonaws.com/ndangelo-documents/wireframe_kit_Web.zip)
+[Secret Assets](https://s3.amazonaws.com/ndangelo-documents/wireframe_kit_Web.zip)
