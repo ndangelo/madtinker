@@ -6,8 +6,6 @@ author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=58426'
 permalink: /css-foundations/
-amazonS3_cache:
-    - 'a:2:{s:49:"//www.nuggetofjoy.com/wp-content/uploads/00-5.jpg";a:2:{s:2:"id";s:5:"59379";s:11:"source_type";s:13:"media-library";}s:66:"//image-control-storage.s3.amazonaws.com/2023/01/12172719/00-5.jpg";a:2:{s:2:"id";s:5:"59379";s:11:"source_type";s:13:"media-library";}}'
 categories:
     - 'DMET 155 Introduction to Web Design'
     - 'odin project'
@@ -28,7 +26,9 @@ This section contains a general overview of topics that you will learn in this l
 
 At the most basic level, CSS is made up of various rules. These rules are made up of a selector (more on this in a bit) and a semi-colon separated list of declarations, with each of those declarations being made up of a property:value pair.
 
-<figure class="wp-block-image">[![Basic CSS syntax](https://image-control-storage.s3.amazonaws.com/2023/01/12172719/00-5.jpg)](https://cdn.statically.io/gh/TheOdinProject/curriculum/05ce472eabf8e04eeb2cc9139e66db884074fd7d/foundations/html_css/css-foundations/imgs/00.jpg)</figure>#### Note
+![Basic CSS syntax](https://image-control-storage.s3.amazonaws.com/2023/01/12172719/00-5.jpg)
+
+#### Note
 
 A `<div>` is one of the basic HTML elements. It is simply an empty container. In general, it is best to use other tags such as `<h1>` or `<p>` for content in your projects, but as we learn more about CSS you’ll find that there are many cases where the thing you need is just a container for other elements. Many of our exercises use plain `<div>`s for simplicity. Later lessons will go into much more depth about when it is appropriate to use the various HTML elements.
 
@@ -40,18 +40,19 @@ Selectors simply refer to the HTML elements to which CSS rules apply; they’re 
 
 The universal selector will select elements of any type, hence the name “universal”, and the syntax for it is a simple asterisk. In the example below, every element would have the `color: purple;` style applied to it.
 
-```
+{% highlight css linenos}
+
 * {
   color: purple;
 }
 
-```
+{% endhighlight %}
 
 #### Type Selectors
 
 A type selector (or element selector) will select all elements of the given element type, and the syntax is just the name of the element:
 
-```markup
+{% highlight html linenos %}
 <!-- index.html -->
 
 <div>Hello, World!</div>
@@ -59,16 +60,18 @@ A type selector (or element selector) will select all elements of the given elem
 <p>Hi...</p>
 <div>Okay, bye.</div>
 
-```
+{% endhighlight %}
 
-```css
-/* styles.css */
+
+{% highlight css linenos %}
+
 
 div {
   color: white;
 }
 
-```
+{% endhighlight %}
+
 
 Here, all three `<div>` elements would be selected, while the `<p>` element wouldn’t be.
 
