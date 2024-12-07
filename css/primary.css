@@ -260,7 +260,7 @@ flex-grow: 2;
 .postnavigation {
 
   width: 100%;
-   border: solid 2px lightblue;
+   border-top: solid 2px #111111;
    min-width: 350;
    padding: 15px;
 }
@@ -413,7 +413,7 @@ body {
     flex-wrap: wrap;
     flex-direction: column;
     flex-grow: 1;
-    
+    border-top: solid 2px #111111;
    width: 360px;
     padding: 10 px;
     
@@ -497,7 +497,7 @@ body {
     flex-direction: column;
     flex-grow: 1;
     width: 360px;
-
+border-top: solid 2px #111111;
     padding: 15px;
     margin: auto;
    
