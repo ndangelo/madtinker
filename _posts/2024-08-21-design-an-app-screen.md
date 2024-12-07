@@ -41,7 +41,7 @@ First, open up the same Figma file you were working on yesterday. (It should sho
 
 Like we did yesterday, hit F to select the Frame tool, and pick iPhone SE from the options on the right of the window. Then let’s, set a background color for this screen. While the new Frame is selected, look over e Properties panel on the right of the Figma window. Click the white square under where it says “Fill”, and choose a color. We’ve gone for #2F80ED, which is the shade of blue.
 
-<figure class="vide"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D2_01.mp4"></video></figure>
+<iframe class="vide"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D2_01.mp4"></video></iframe>
 
 ### 2. Add a column grid
 
@@ -53,7 +53,7 @@ In Figma, it’s super easy to add a column grid. Select the Frame by clicking o
 - Gutter: 16 (this adds 16 pixels of space between each column)
 - Margin: 16 (this adds 16 pixels of space at the edges of the Frame)
 
-<figure class="vide"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D2_02.mp4"></video></figure>
+<iframe class="vide"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D2_02.mp4"></video></iframe>
 
 ### 3. Add the name of your app
 
@@ -63,20 +63,22 @@ Let’s create a simple “wordmark” using the Text tool. A wordmark is the na
 - Text size: 42 pixels
 - Case: lowercase
 
-<figure class="vide"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D2_03.mp4"></video></figure>(Check out the lovely ligature that joins the f and the i!)
+<iframe class="vide"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D2_03.mp4"></video></iframe>
+
+(Check out the lovely ligature that joins the f and the i!)
 
 
 ### 4. Reposition the wordmark
 
 If you click and drag on the text you’ve just created, you can move it around the frame to reposition it. If you drag it near the horizontal middle of the frame, you’ll notice that guides will pop up to indicate that the text is centered. Once it’s centered, release the mouse button!
 
-<figure class="vide"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D2_04.mp4"></video></figure>
+<iframe class="vide"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D2_04.mp4"></video></iframe>
 
 ### 5. Create the username field
 
 We can easily create some sleek login fields just using rectangles and text. First, select the Rectangle tool R and click and drag to create a rectangle about 250 pixels wide and about 30 pixels high. Notice how Figma displays the size of the shape in numbers as you’re drawing it?
 
-<figure class="vide"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D2_05.mp4"></video></figure>
+<iframe class="vide"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D2_05.mp4"></video></iframe>
 
 Change the fill color to be white (#FFFFFF). We then need to change the opacity setting to make the shape semi-transparent. This isn’t labeled as Opacity like it is in Adobe Illustrator, but it does exist: it’s the number shown in the Properties panel under “Layer” next to where it says, “Pass through.” It’s set to 100% by default—let’s change that to 25%. You can also set this by simply selecting the object and typing in the opacity value you want. Try it—select the rectangle and simply type “25”. (This is strangely satisfying, you’ll agree.)
 
