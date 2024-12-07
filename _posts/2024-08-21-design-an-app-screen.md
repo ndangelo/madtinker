@@ -41,7 +41,16 @@ First, open up the same Figma file you were working on yesterday. (It should sho
 
 Like we did yesterday, hit F to select the Frame tool, and pick iPhone SE from the options on the right of the window. Then let’s, set a background color for this screen. While the new Frame is selected, look over e Properties panel on the right of the Figma window. Click the white square under where it says “Fill”, and choose a color. We’ve gone for #2F80ED, which is the shade of blue.
 
-<iframe class="vide"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D2_01.mp4"></video></iframe>
+
+ <div class="vide">
+
+<video class="vide" controls>
+  <source src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D2_01.mp4" type="video/mp4" type="video/mp4">
+
+</video>
+  </div>
+
+ 
 
 ### 2. Add a column grid
 
