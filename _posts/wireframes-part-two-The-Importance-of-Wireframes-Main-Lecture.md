@@ -1,7 +1,7 @@
 ---
 id: 2814
 title: 'The Importance of Wireframes: Main Lecture'
-date: '2023-04-01T14:58:24-04:00'
+date: '2024-04-01T14:58:24-04:00'
 author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=2814'
@@ -11,8 +11,12 @@ category_sticky_post:
 categories:
   - DMET 375 IMAGING TECHNOLOGY
   - Projects
+  - UI
 tag:
   - UI
+tags:
+  - UI
+  - UI/UX
 ---
 
 ## Scope Change for Wireframe Assignment
