@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Flexbox Grid
-date: {}
+date:
+  'Fri Dec 06 2024 04:06:00 GMT-0500 (Eastern Standard Time)': null
 categories: Code
 tags: Code
 ---
