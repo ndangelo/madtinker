@@ -1,15 +1,14 @@
 ---
 id: 14657
-title: 'SEARCH ENGINE OPTIMISATION (SEO): Three'
+title: SEARCH ENGINE OPTIMISATION (SEO)
 date: '2018-03-02T14:33:57-04:00'
 author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=14657'
-permalink: '/?p=14657'
+permalink: /?p=14657
 categories:
-    - 'Social Media'
-tags:
-    -social
+  - Social Media
+tags: '-social'
 ---
 
 ## SEO: LEARN HOW TO OPTIMISE YOUR SOCIAL MEDIA NETWORKING SITES
@@ -60,11 +59,11 @@ Bear in mind that each of your web pages and social media profiles should be opt
 
 Your primary keyword should ideally be the URL of your web page for example, a page optimised for “business culture” keyword:
 
-<figure class="wp-block-embed is-type-wp-embed is-provider-business-culture">> [Business Culture](https://businessculture.org/business-culture/)
+[Business Culture](https://businessculture.org/business-culture/)
 
 <iframe class="wp-embedded-content" data-secret="35qbk4HFH7" frameborder="0" height="282" loading="lazy" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://businessculture.org/business-culture/embed/#?secret=JMqCgL34IS#?secret=35qbk4HFH7" style="position: absolute; visibility: hidden;" title="“Business Culture” — Business Culture" width="500"></iframe></figure>Here the web page URL is: “/business-culture/”
 
-Title: “Business culture definition and business etiquette tips”
+##Title: “Business culture definition and business etiquette tips”
 
 Description: “Do you know what is meant by culture? Business culture varies on a number of levels, countries, organisations etc. Find out about business etiquette tips and definition of business culture.”
 
@@ -88,4 +87,3 @@ For example, if you go to Google and search for the keyword “click here” –
 ### PASSION4DIGITAL
 
 Feel free to make use of our hash tag [\#passion4digital](https://twitter.com/search?q=%23passion4digital) on Twitter to communicate with your peers and share your own learning experiences!
-
