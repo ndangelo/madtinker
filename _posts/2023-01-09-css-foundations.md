@@ -40,10 +40,10 @@ Selectors simply refer to the HTML elements to which CSS rules apply; they’re 
 
 The universal selector will select elements of any type, hence the name “universal”, and the syntax for it is a simple asterisk. In the example below, every element would have the `color: purple;` style applied to it.
 
-{% highlight css linenos}
+{% highlight css linenos %}
 
-* {
-  color: purple;
+  * {
+    color: purple;
 }
 
 {% endhighlight %}
