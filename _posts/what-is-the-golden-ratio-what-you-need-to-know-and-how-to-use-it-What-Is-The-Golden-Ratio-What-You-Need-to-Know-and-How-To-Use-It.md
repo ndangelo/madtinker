@@ -1,21 +1,20 @@
 ---
 id: 11421
-title: 'What Is The Golden Ratio? What You Need to Know and How To Use It'
+title: What Is The Golden Ratio? What You Need to Know and How To Use It
 date: '2017-02-21T15:21:49-04:00'
 author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=11421'
 permalink: /what-is-the-golden-ratio-what-you-need-to-know-and-how-to-use-it/
 category_sticky_post:
-    - '0'
+  - '0'
 classic-editor-remember:
-    - block-editor
-
+  - block-editor
 categories:
-    - 'DMET 350 MEDIA GRAPHICS AND DESIGN'
-    - 'DMET 375 IMAGING TECHNOLOGY'
-    - 'Interactive and Social Media'
-    - 'Supplementary'
+  - DMET 350 MEDIA GRAPHICS AND DESIGN
+  - DMET 375 IMAGING TECHNOLOGY
+  - Interactive and Social Media
+  - Supplementary
 ---
 
 [Rebecca Gross](https://www.canva.com/learn/author/rebecca/)
@@ -141,17 +140,3 @@ Rebecca is a freelance writer, researcher, and design historian. She has a Maste
 ## **Great design for**  
 every part of your life
 
-Start designing
-
-[Rebecca Gross](https://www.canva.com/learn/author/rebecca/)
-
-Rebecca is a freelance writer, researcher, and design historian. She has a Masters in the History of Decorative Arts and Design from Parsons The New School for Design, New York, and studies cultural history through the lens of architecture, design, and decorative arts.
-
-## **Great design for**  
-every part of your life
-
-Start designing
-
-[Rebecca Gross](https://www.canva.com/learn/author/rebecca/)
-
-Rebecca is a freelance writer, researcher, and design historian. She has a Masters in the History of Decorative Arts and Design from Parsons The New School for Design, New York, and studies cultural history through the lens of architecture, design, and decorative arts.
