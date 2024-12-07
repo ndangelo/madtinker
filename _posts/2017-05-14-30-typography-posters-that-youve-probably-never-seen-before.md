@@ -3,13 +3,11 @@ title: 30 TYPOGRAPHY POSTERS THAT YOU’VE PROBABLY NEVER SEEN BEFORE
 date: 2024-12-06T14:30:00.000Z
 
 title: '30 TYPOGRAPHY POSTERS THAT YOU’VE PROBABLY NEVER SEEN BEFORE'
-date: '2017-05-14T10:41:49-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=11009'
 permalink: /30-typography-posters-that-youve-probably-never-seen-before/
 categories:
-    - 'DMET_160 Introduction to Multimedia'
+    - DMET_160 Introduction to Multimedia
     - Projects
 
 tag:
