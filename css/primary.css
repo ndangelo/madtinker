@@ -601,7 +601,7 @@ article.post {
   
   flex-flow: column wrap;
   border: solid 2px lightblue;*/
-  padding: 10px;
+  padding: 5px;
    height: auto;
  overflow: auto;
  word-wrap:break-word;
