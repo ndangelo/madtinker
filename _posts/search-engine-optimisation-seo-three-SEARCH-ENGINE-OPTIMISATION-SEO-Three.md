@@ -19,7 +19,7 @@ Please complete this [short course entrance survey](https://docs.google.com/form
 
 ***Please watch this video to the end before attempting the activities. When you are watching the video for the second time and reach an activity (see below a list of these with recommended links) pause the video, complete the activity***
 
-<figure><iframe allowfullscreen="allowfullscreen" height="400" loading="lazy" src="https://www.youtube.com/embed/zw27cRcwtM0" width="700"></iframe></figure>  
+<iframe class="vide" allowfullscreen="allowfullscreen" loading="lazy" src="https://www.youtube.com/embed/zw27cRcwtM0"></iframe> 
 This video features the following industry speaker:
 
 Tom Parnell – [Manning Gottlieb OMD](http://ukgroup.omd.com/mgomd)
@@ -61,7 +61,7 @@ Your primary keyword should ideally be the URL of your web page for example, a p
 
 [Business Culture](https://businessculture.org/business-culture/)
 
-<iframe class="wp-embedded-content" data-secret="35qbk4HFH7" frameborder="0" height="282" loading="lazy" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://businessculture.org/business-culture/embed/#?secret=JMqCgL34IS#?secret=35qbk4HFH7" style="position: absolute; visibility: hidden;" title="“Business Culture” — Business Culture" width="500"></iframe></figure>Here the web page URL is: “/business-culture/”
+<iframe class="vide" class="wp-embedded-content" data-secret="35qbk4HFH7" frameborder="0" loading="lazy" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://businessculture.org/business-culture/embed/#?secret=JMqCgL34IS#?secret=35qbk4HFH7" style="position: absolute; visibility: hidden;" title="“Business Culture” — Business Culture" ></iframe>
 
 ##Title: “Business culture definition and business etiquette tips”
 
