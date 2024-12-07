@@ -381,8 +381,8 @@ body {
 .vide {
   aspect-ratio: 16 / 9;
   width: 100%;
-  padding: 10px;
-  border: solid 2px lightblue;
+  padding: 2px;
+
 }
 
 .highlight {
