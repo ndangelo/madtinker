@@ -179,15 +179,8 @@ a:hover {
 
 }
 
-/* .container {
-  float:left;
- display: flex;
- justify-content: space-between;*/
- /*border: solid 2px lightblue;
- height: auto;
- overflow: auto;
-  flex-wrap: wrap;
-  max-width: 800px;*/
+.container {
+border-top: solid 2px #111111;
 }
 
 footer {
