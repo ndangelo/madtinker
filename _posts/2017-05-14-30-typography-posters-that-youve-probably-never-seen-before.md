@@ -1,11 +1,7 @@
 ---
 title: 30 TYPOGRAPHY POSTERS THAT YOU’VE PROBABLY NEVER SEEN BEFORE
-date: 2024-12-02T14:30:00.000Z
-thumbnail: https://image-control-storage.s3.amazonaws.com/2017/05/09151341/0113.jpg
-rating: 5
----
-------
-id: 11009
+date: 2024-12-06T14:30:00.000Z
+
 title: '30 TYPOGRAPHY POSTERS THAT YOU’VE PROBABLY NEVER SEEN BEFORE'
 date: '2017-05-14T10:41:49-04:00'
 author: admin
