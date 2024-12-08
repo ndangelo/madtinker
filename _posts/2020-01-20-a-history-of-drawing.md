@@ -4,7 +4,7 @@ title: 'A History of Drawing'
 date: '2020-01-20T20:19:00-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=49162'
+
 permalink: /a-history-of-drawing/
 
 categories:

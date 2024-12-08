@@ -4,9 +4,7 @@ title: 'AN IN-DEPTH INTRODUCTION TO HTML &#038; CSS'
 date: '2019-04-24T09:30:54-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=42238'
 permalink: /an-in-depth-introduction-to-html-css-2/
-
 
 categories:
     - Projects

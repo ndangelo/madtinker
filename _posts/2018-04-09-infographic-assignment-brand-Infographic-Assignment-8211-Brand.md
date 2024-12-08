@@ -4,8 +4,7 @@ title: 'Infographic Assignment &#8211; Brand'
 date: '2018-04-09T14:00:00-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=4499'
-permalink: '/?p=4499'
+
 
 categories:
     - 'DMET 375 IMAGING TECHNOLOGY'

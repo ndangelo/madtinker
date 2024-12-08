@@ -4,7 +4,7 @@ title: '8 Brand Awareness Campaign Ideas &amp; Examples For Social Entrepreneurs
 date: '2024-07-09T09:43:25-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65410'
+
 permalink: /8-brand-awareness-campaign-ideas-examples-for-social-entrepreneurs-and-enterprises/
 
 categories:

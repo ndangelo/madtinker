@@ -4,7 +4,7 @@ title: "\_Creating Composite Images"
 date: '2024-02-23T11:18:04-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65136'
+
 permalink: /creating-composite-images/
 categories:
     - 'DMET_160 Introduction to Multimedia'

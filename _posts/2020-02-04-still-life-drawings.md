@@ -4,7 +4,7 @@ title: 'Still Life Drawings and Shading Techniques'
 date: '2020-02-04T12:03:51-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=52346'
+
 permalink: /still-life-drawings/
 
 categories:

@@ -4,10 +4,9 @@ title: '9. The Box Model'
 date: '2023-01-09T18:29:22-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=58472'
+
 permalink: /the-box-model/
-amazonS3_cache:
-    - 'a:6:{s:54:"//www.nuggetofjoy.com/wp-content/uploads/boxes-3-3.png";a:2:{s:2:"id";s:5:"59358";s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2023/01/12170537/boxes-3-3.png";a:2:{s:2:"id";s:5:"59358";s:11:"source_type";s:13:"media-library";}s:59:"//www.nuggetofjoy.com/wp-content/uploads/odin-lined-1-3.png";a:2:{s:2:"id";s:5:"59360";s:11:"source_type";s:13:"media-library";}s:76:"//image-control-storage.s3.amazonaws.com/2023/01/12170538/odin-lined-1-3.png";a:2:{s:2:"id";s:5:"59360";s:11:"source_type";s:13:"media-library";}s:58:"//www.nuggetofjoy.com/wp-content/uploads/box-model-1-3.png";a:2:{s:2:"id";s:5:"59361";s:11:"source_type";s:13:"media-library";}s:75:"//image-control-storage.s3.amazonaws.com/2023/01/12170541/box-model-1-3.png";a:2:{s:2:"id";s:5:"59361";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET 155 Introduction to Web Design'
     - 'odin project'

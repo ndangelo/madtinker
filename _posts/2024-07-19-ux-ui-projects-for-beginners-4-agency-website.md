@@ -4,7 +4,7 @@ title: "UX/UI Project #4: Agency\_Website"
 date: '2024-07-19T14:49:30-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65552'
+
 permalink: /ux-ui-projects-for-beginners-4-agency-website/
 categories:
     - Projects

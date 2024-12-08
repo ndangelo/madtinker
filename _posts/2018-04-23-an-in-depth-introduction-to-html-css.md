@@ -4,10 +4,7 @@ title: 'AN IN-DEPTH INTRODUCTION TO HTML &#038; CSS'
 date: '2018-04-23T18:46:43-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=17042'
-permalink: '/?p=17042'
-amazonS3_cache:
-    - 'a:2:{s:66:"//www.nuggetofjoy.com/wp-content/uploads/Introduction-HTML-CSS.jpg";a:2:{s:2:"id";s:5:"17044";s:11:"source_type";s:13:"media-library";}s:95:"//image-control-storage.s3.amazonaws.com/blog-images/2018/04/23184645/Introduction-HTML-CSS.jpg";a:2:{s:2:"id";s:5:"17044";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'Design Instruction'
 ---

@@ -4,7 +4,7 @@ title: 'Intermediate HTML'
 date: '2023-04-13T07:23:00-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=62734'
+
 permalink: /intermediate-html/
 categories:
     - Projects

@@ -4,8 +4,7 @@ title: 'Designing a Business Card: 50 Awesome Case Studies (And What You Can Lea
 date: '2017-02-24T15:06:01-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=12551'
-permalink: '/?p=12551'
+
 
 categories:
     - 'DMET 375 IMAGING TECHNOLOGY'

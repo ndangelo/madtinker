@@ -4,7 +4,7 @@ title: '8. Mobile-friendly designs with media queries'
 date: '2023-01-13T18:57:37-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=59654'
+
 permalink: /mobile-friendly-designs-with-media-queries/
 categories:
     - 'DMET 155 Introduction to Web Design'

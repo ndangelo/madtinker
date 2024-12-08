@@ -4,10 +4,9 @@ title: 'Social Media Campaign: Instagram'
 date: '2024-08-02T12:30:11-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64966'
+
 permalink: /social-media-campaign-instagram/
-amazonS3_cache:
-    - 'a:16:{s:54:"//www.nuggetofjoy.com/wp-content/uploads/image-139.png";a:2:{s:2:"id";i:65962;s:11:"source_type";s:13:"media-library";}s:63:"//www.nuggetofjoy.com/wp-content/uploads/image-139-1024x332.png";a:2:{s:2:"id";i:65962;s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2024/08/02125044/image-139.png";a:2:{s:2:"id";i:65962;s:11:"source_type";s:13:"media-library";}s:80:"//image-control-storage.s3.amazonaws.com/2024/08/02125044/image-139-1024x332.png";a:2:{s:2:"id";i:65962;s:11:"source_type";s:13:"media-library";}s:54:"//www.nuggetofjoy.com/wp-content/uploads/image-141.png";a:2:{s:2:"id";i:65964;s:11:"source_type";s:13:"media-library";}s:64:"//www.nuggetofjoy.com/wp-content/uploads/image-141-1024x1024.png";a:2:{s:2:"id";i:65964;s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2024/08/02125234/image-141.png";a:2:{s:2:"id";i:65964;s:11:"source_type";s:13:"media-library";}s:81:"//image-control-storage.s3.amazonaws.com/2024/08/02125234/image-141-1024x1024.png";a:2:{s:2:"id";i:65964;s:11:"source_type";s:13:"media-library";}s:54:"//www.nuggetofjoy.com/wp-content/uploads/image-143.png";a:2:{s:2:"id";i:65966;s:11:"source_type";s:13:"media-library";}s:64:"//www.nuggetofjoy.com/wp-content/uploads/image-143-1024x1024.png";a:2:{s:2:"id";i:65966;s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2024/08/02125503/image-143.png";a:2:{s:2:"id";i:65966;s:11:"source_type";s:13:"media-library";}s:81:"//image-control-storage.s3.amazonaws.com/2024/08/02125503/image-143-1024x1024.png";a:2:{s:2:"id";i:65966;s:11:"source_type";s:13:"media-library";}s:54:"//www.nuggetofjoy.com/wp-content/uploads/image-144.png";a:2:{s:2:"id";i:65967;s:11:"source_type";s:13:"media-library";}s:64:"//www.nuggetofjoy.com/wp-content/uploads/image-144-1024x1024.png";a:2:{s:2:"id";i:65967;s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2024/08/02125624/image-144.png";a:2:{s:2:"id";i:65967;s:11:"source_type";s:13:"media-library";}s:81:"//image-control-storage.s3.amazonaws.com/2024/08/02125624/image-144-1024x1024.png";a:2:{s:2:"id";i:65967;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'Interactive and Social Media'
     - UI/UX
@@ -19,7 +18,7 @@ In this assignment, you will **design and produce a social media campaign consis
 
 Each Instagram post will have a graphic, a caption, a campaign hashtag, and post-specific hashtags. Your campaign topic may be anything related to social media marketing trends, design, or UX (user experience).
 
-## **INSTRUCTIONS
+## **INSTRUCTIONS**
 
 ## **LEARN AND EXPLORE**
 

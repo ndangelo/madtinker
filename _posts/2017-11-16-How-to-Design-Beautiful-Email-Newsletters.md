@@ -4,8 +4,7 @@ title: 'How to Design Beautiful Email Newsletters'
 date: '2017-11-16T23:20:40-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5694'
-permalink: '/?p=5694'
+
 categories:
     - 'Design Instruction'
     - InDesign

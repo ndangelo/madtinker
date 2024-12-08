@@ -4,7 +4,7 @@ title: 'How To Create A Circle Polyorama'
 date: '2017-10-25T15:52:45-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5590'
+
 permalink: /how-to-create-a-circle-polyorama/
 categories:
   - 'DMET_160 Introduction to Multimedia'

@@ -4,7 +4,7 @@ title: 'Introduction: How to Achieve Miniature Effect Via Photoshop'
 date: '2023-02-08T13:07:03-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5588'
+
 permalink: /introduction-how-to-achieve-miniature-effect-via-photoshop/
 categories:
     - 'DMET_160 Introduction to Multimedia'

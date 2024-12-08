@@ -4,7 +4,7 @@ title: 'How to Make a Logo in Adobe Illustrator'
 date: '2023-03-14T09:01:46-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=61801'
+
 permalink: /how-to-make-a-logo-in-adobe-illustrator/
 
 categories:

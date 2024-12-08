@@ -4,10 +4,9 @@ title: 'How to Combine Two Images in Photoshop'
 date: '2023-12-30T13:05:27-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64320'
+
 permalink: /how-to-combine-two-images-in-photoshop/
-amazonS3_cache:
-    - 'a:12:{s:70:"//image-control-storage.s3.amazonaws.com/2023/12/02121549/0005_1-4.jpg";a:2:{s:2:"id";s:5:"64334";s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/0005_1-4.jpg";a:2:{s:2:"id";s:5:"64334";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121551/0004_2.jpg";a:2:{s:2:"id";s:5:"64335";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0004_2.jpg";a:2:{s:2:"id";s:5:"64335";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121553/0003_3.jpg";a:2:{s:2:"id";s:5:"64336";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0003_3.jpg";a:2:{s:2:"id";s:5:"64336";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121554/0002_4.jpg";a:2:{s:2:"id";s:5:"64337";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0002_4.jpg";a:2:{s:2:"id";s:5:"64337";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121555/0001_5.jpg";a:2:{s:2:"id";s:5:"64338";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0001_5.jpg";a:2:{s:2:"id";s:5:"64338";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121557/0000_6.jpg";a:2:{s:2:"id";s:5:"64339";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0000_6.jpg";a:2:{s:2:"id";s:5:"64339";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET_160 Introduction to Multimedia'
     - Projects

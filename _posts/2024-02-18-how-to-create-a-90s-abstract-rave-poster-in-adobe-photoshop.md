@@ -4,7 +4,7 @@ title: 'How to Create a 90s Abstract Rave Poster in Adobe Photoshop'
 date: '2024-02-18T13:51:50-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65094'
+
 permalink: /how-to-create-a-90s-abstract-rave-poster-in-adobe-photoshop/
 categories:
     - Projects

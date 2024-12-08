@@ -4,7 +4,7 @@ title: 'Drawing (Values and Edges)'
 date: '2020-02-28T14:55:56-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54936'
+
 permalink: /drawing-values-and-edges/
 categories:
     - Projects

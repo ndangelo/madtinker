@@ -4,7 +4,7 @@ title: 'JavaScript Beginner Tutorial'
 date: '2024-03-04T14:14:27-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65201'
+
 permalink: /javascript-beginner-tutorial/
 categories:
     - Projects

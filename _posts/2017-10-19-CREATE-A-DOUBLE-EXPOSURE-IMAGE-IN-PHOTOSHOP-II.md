@@ -4,7 +4,7 @@ title: 'CREATE A DOUBLE EXPOSURE IMAGE IN PHOTOSHOP II'
 date: '2017-10-19T10:50:22-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5514'
+
 permalink: /create-a-double-exposure-image-in-photoshop-ii/
 
 categories:

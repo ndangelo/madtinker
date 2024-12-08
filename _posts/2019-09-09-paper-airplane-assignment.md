@@ -4,7 +4,7 @@ title: 'Paper Airplane Assignment'
 date: '2019-09-09T13:23:37-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=52779'
+
 permalink: /paper-airplane-assignment/
 
 categories:

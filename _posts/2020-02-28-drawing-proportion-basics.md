@@ -4,7 +4,7 @@ title: 'Drawing (Proportion Basics)'
 date: '2020-02-28T15:00:30-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54940'
+
 permalink: /drawing-proportion-basics/
 categories:
     - Projects

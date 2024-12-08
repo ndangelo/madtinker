@@ -4,10 +4,8 @@ title: 'Style Guides'
 date: '2023-01-22T13:48:53-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=60069'
+
 permalink: /style-guides/
-amazonS3_cache:
-    - 'a:6:{s:79:"//www.nuggetofjoy.com/wp-content/uploads/libbyco_style_guide_download_image.jpg";a:2:{s:2:"id";i:60070;s:11:"source_type";s:13:"media-library";}s:96:"//image-control-storage.s3.amazonaws.com/2023/01/22134712/libbyco_style_guide_download_image.jpg";a:2:{s:2:"id";i:60070;s:11:"source_type";s:13:"media-library";}s:80:"//www.nuggetofjoy.com/wp-content/uploads/LIBBYCo-brand-style-guide-example-2.jpg";a:2:{s:2:"id";i:60071;s:11:"source_type";s:13:"media-library";}s:97:"//image-control-storage.s3.amazonaws.com/2023/01/22134723/LIBBYCo-brand-style-guide-example-2.jpg";a:2:{s:2:"id";i:60071;s:11:"source_type";s:13:"media-library";}s:85:"//www.nuggetofjoy.com/wp-content/uploads/LIBBYCo-brand-style-guide-example-scaled.jpg";a:2:{s:2:"id";i:60072;s:11:"source_type";s:13:"media-library";}s:102:"//image-control-storage.s3.amazonaws.com/2023/01/22134728/LIBBYCo-brand-style-guide-example-scaled.jpg";a:2:{s:2:"id";i:60072;s:11:"source_type";s:13:"media-library";}}'
 categories:
     - Projects
 ---

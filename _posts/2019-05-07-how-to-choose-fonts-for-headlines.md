@@ -4,8 +4,7 @@ layout: post
 author: admin
 permalink: /how-to-choose-fonts-for-headlines/
 date: 2019-05-07T14:28:07-04:00
-category_sticky_post:
-  - "0"
+
 title: How to Choose Fonts for Headlines
 id: 5749
 categories:

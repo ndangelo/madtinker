@@ -4,8 +4,7 @@ title: 'Infographic Assignment &#8211; Student Examples'
 date: '2018-04-11T08:33:54-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=16826'
-permalink: '/?p=16826'
+
 
 categories:
     - 'DMET 375 IMAGING TECHNOLOGY'

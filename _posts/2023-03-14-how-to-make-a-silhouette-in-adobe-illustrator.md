@@ -4,7 +4,7 @@ title: 'How to Make a Silhouette in Adobe Illustrator'
 date: '2023-03-14T09:46:32-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=61930'
+
 permalink: /how-to-make-a-silhouette-in-adobe-illustrator/
 
 categories:

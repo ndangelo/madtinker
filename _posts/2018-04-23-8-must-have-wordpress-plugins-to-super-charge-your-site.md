@@ -4,12 +4,9 @@ title: '8 MUST HAVE WORDPRESS PLUGINS TO SUPER CHARGE YOUR SITE'
 date: '2018-04-23T18:49:09-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=17142'
+
 permalink: /8-must-have-wordpress-plugins-to-super-charge-your-site/
-category_sticky_post:
-    - '0'
-amazonS3_cache:
-    - 'a:6:{s:75:"//www.nuggetofjoy.com/wp-content/uploads/Best-wordpress-plugins-20161-1.jpg";a:2:{s:2:"id";s:5:"40430";s:11:"source_type";s:13:"media-library";}s:92:"//image-control-storage.s3.amazonaws.com/2019/03/28090900/Best-wordpress-plugins-20161-1.jpg";a:2:{s:2:"id";s:5:"40430";s:11:"source_type";s:13:"media-library";}s:55:"//www.nuggetofjoy.com/wp-content/uploads/download2.jpeg";a:2:{s:2:"id";s:5:"40652";s:11:"source_type";s:13:"media-library";}s:72:"//image-control-storage.s3.amazonaws.com/2019/03/28092145/download2.jpeg";a:2:{s:2:"id";s:5:"40652";s:11:"source_type";s:13:"media-library";}s:64:"//www.nuggetofjoy.com/wp-content/uploads/Chaitra-Profile-1-1.png";a:2:{s:2:"id";s:5:"40654";s:11:"source_type";s:13:"media-library";}s:81:"//image-control-storage.s3.amazonaws.com/2019/03/28092147/Chaitra-Profile-1-1.png";a:2:{s:2:"id";s:5:"40654";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'Design Instruction'
 ---

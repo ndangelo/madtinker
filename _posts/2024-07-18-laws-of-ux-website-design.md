@@ -4,7 +4,7 @@ title: 'Laws of UX Website Design'
 date: '2024-07-18T13:23:28-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65532'
+
 permalink: /laws-of-ux-website-design/
 categories:
     - UI/UX

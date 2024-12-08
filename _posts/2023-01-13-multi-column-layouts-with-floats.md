@@ -4,7 +4,7 @@ title: "7. multi-column layouts with\_floats: Wrapping elements using floats, Ov
 date: '2023-01-13T18:56:29-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=59652'
+
 permalink: /multi-column-layouts-with-floats/
 categories:
     - 'DMET 155 Introduction to Web Design'

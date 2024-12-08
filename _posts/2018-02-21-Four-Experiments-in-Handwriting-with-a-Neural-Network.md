@@ -4,8 +4,7 @@ title: 'Four Experiments in Handwriting with a Neural Network'
 date: '2018-02-21T13:09:53-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=11400'
-permalink: '/?p=11400'
+
 
 categories:
     - Projects

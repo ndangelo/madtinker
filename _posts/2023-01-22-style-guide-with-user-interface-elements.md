@@ -4,18 +4,25 @@ title: 'Logo Design, and Style Guide with User Interface Elements'
 date: '2023-01-22T14:02:44-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=60075'
+
 permalink: /style-guide-with-user-interface-elements/
-footnotes:
-    - ''
-amazonS3_cache:
-    - 'a:10:{s:78:"//www.nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_1.jpg";a:2:{s:2:"id";i:60082;s:11:"source_type";s:13:"media-library";}s:95:"//image-control-storage.s3.amazonaws.com/2023/01/22141113/Brand-Style-Guide-Template_Page_1.jpg";a:2:{s:2:"id";i:60082;s:11:"source_type";s:13:"media-library";}s:78:"//www.nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_2.jpg";a:2:{s:2:"id";i:60083;s:11:"source_type";s:13:"media-library";}s:95:"//image-control-storage.s3.amazonaws.com/2023/01/22141124/Brand-Style-Guide-Template_Page_2.jpg";a:2:{s:2:"id";i:60083;s:11:"source_type";s:13:"media-library";}s:78:"//www.nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_3.jpg";a:2:{s:2:"id";i:60084;s:11:"source_type";s:13:"media-library";}s:95:"//image-control-storage.s3.amazonaws.com/2023/01/22141206/Brand-Style-Guide-Template_Page_3.jpg";a:2:{s:2:"id";i:60084;s:11:"source_type";s:13:"media-library";}s:80:"//www.nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_4-1.jpg";a:2:{s:2:"id";i:60134;s:11:"source_type";s:13:"media-library";}s:97:"//image-control-storage.s3.amazonaws.com/2023/01/22210801/Brand-Style-Guide-Template_Page_4-1.jpg";a:2:{s:2:"id";i:60134;s:11:"source_type";s:13:"media-library";}s:85:"//www.nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_5-scaled.jpg";a:2:{s:2:"id";i:60086;s:11:"source_type";s:13:"media-library";}s:102:"//image-control-storage.s3.amazonaws.com/2023/01/22141229/Brand-Style-Guide-Template_Page_5-scaled.jpg";a:2:{s:2:"id";i:60086;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET 375 IMAGING TECHNOLOGY'
     - Projects
 ---
 
-<figure class="wp-block-image size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/22141113/Brand-Style-Guide-Template_Page_1.jpg)</figure><figure class="wp-block-image size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/22141124/Brand-Style-Guide-Template_Page_2.jpg)</figure><figure class="wp-block-image size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/22141206/Brand-Style-Guide-Template_Page_3.jpg)</figure><figure class="wp-block-image size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/22210801/Brand-Style-Guide-Template_Page_4-1.jpg)</figure><figure class="wp-block-image size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/22141229/Brand-Style-Guide-Template_Page_5-scaled.jpg)</figure>## Brand Style Guide
+![](https://image-control-storage.s3.amazonaws.com/2023/01/22141113/Brand-Style-Guide-Template_Page_1.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/2023/01/22141124/Brand-Style-Guide-Template_Page_2.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/2023/01/22141206/Brand-Style-Guide-Template_Page_3.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/2023/01/22210801/Brand-Style-Guide-Template_Page_4-1.jpg)
+
+![](https://image-control-storage.s3.amazonaws.com/2023/01/22141229/Brand-Style-Guide-Template_Page_5-scaled.jpg)
+
+## Brand Style Guide
 
 Use this free style guide template layout to create a custom brand manual for your startup, small or large company. Add your own logo, colors, typography and other elements to fully represent your brand. This template is perfect for communicating your brand with style and sharing guidelines internally within your company.
 

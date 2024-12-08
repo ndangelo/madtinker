@@ -4,7 +4,7 @@ title: 'Best Practices for Facebook and Instagram'
 date: '2019-10-21T15:58:23-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=53388'
+
 permalink: /best-practices-for-facebook-and-instagram/
 categories:
     - 'Interactive and Social Media'

@@ -4,7 +4,7 @@ title: 'Annual Report Design'
 date: '2024-01-02T12:09:00-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64332'
+
 permalink: /annual-report-design/
 categories:
     - Projects

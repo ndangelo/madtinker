@@ -4,8 +4,7 @@ title: 'Drawing Shapes and Illustrations in InDesign'
 date: '2017-11-16T23:17:56-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5692'
-permalink: '/?p=5692'
+
 categories:
     - 'Design Instruction'
     - InDesign

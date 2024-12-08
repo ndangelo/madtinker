@@ -4,7 +4,7 @@ title: 'CSS Background Images and Video'
 date: '2024-10-15T11:51:28-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66789'
+
 permalink: /css-background-images/
 categories:
     - 'DMET 355 ADVANCED WEB DESIGN'

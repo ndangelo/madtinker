@@ -4,7 +4,7 @@ title: 'Adobe InDesign for Beginners'
 date: '2024-01-20T14:19:56-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64392'
+
 permalink: /adobe-indesign-for-beginners/
 categories:
     - '255 Digital Publishing for Graphics &amp; Web'

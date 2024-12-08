@@ -4,10 +4,9 @@ title: "How to Make a Gradient in\_Photoshop"
 date: '2023-12-30T12:57:48-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64318'
+
 permalink: /how-to-make-a-gradient-in-photoshop/
-amazonS3_cache:
-    - 'a:16:{s:53:"//www.nuggetofjoy.com/wp-content/uploads/tool_2-2.jpg";a:2:{s:2:"id";s:5:"64383";s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/12/02121833/tool_2-2.jpg";a:2:{s:2:"id";s:5:"64383";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0006_2.jpg";a:2:{s:2:"id";s:5:"64384";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121834/0006_2.jpg";a:2:{s:2:"id";s:5:"64384";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0005_3.jpg";a:2:{s:2:"id";s:5:"64385";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121835/0005_3.jpg";a:2:{s:2:"id";s:5:"64385";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0004_4.jpg";a:2:{s:2:"id";s:5:"64386";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121836/0004_4.jpg";a:2:{s:2:"id";s:5:"64386";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0003_5.jpg";a:2:{s:2:"id";s:5:"64387";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121837/0003_5.jpg";a:2:{s:2:"id";s:5:"64387";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0002_6.jpg";a:2:{s:2:"id";s:5:"64388";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121838/0002_6.jpg";a:2:{s:2:"id";s:5:"64388";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0001_7.jpg";a:2:{s:2:"id";s:5:"64389";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121839/0001_7.jpg";a:2:{s:2:"id";s:5:"64389";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0000_8.jpg";a:2:{s:2:"id";s:5:"64390";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121840/0000_8.jpg";a:2:{s:2:"id";s:5:"64390";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET_160 Introduction to Multimedia'
     - Projects

@@ -4,7 +4,7 @@ title: 'UX Portfolio Case Study Template'
 date: '2024-10-19T15:32:22-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65574'
+
 permalink: /ux-portfolio-case-study-template/
 categories:
     - Projects

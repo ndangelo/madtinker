@@ -4,7 +4,7 @@ title: 'Illustrator tutorial for beginners in 10 minutes'
 date: '2022-12-15T15:31:13-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=58336'
+
 permalink: /illustrator-tutorial-for-beginners-in-10-minutes/
 categories:
     - 'DMET_160 Introduction to Multimedia'

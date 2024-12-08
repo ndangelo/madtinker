@@ -4,8 +4,8 @@ title: '8. Swatches &#038; color'
 date: '2016-09-25T14:54:14-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=3910'
-permalink: '/?p=3910'
+
+
 
 categories:
     - 'Design Instruction'

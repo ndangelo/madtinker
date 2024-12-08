@@ -4,7 +4,7 @@ title: 'Still Life Photos'
 date: '2019-08-23T12:25:11-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=52391'
+
 permalink: /examples-of-photos-for-lifes/
 
 categories:

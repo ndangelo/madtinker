@@ -4,8 +4,7 @@ title: 'Create a Magazine: Part One of Two'
 date: '2018-03-08T15:52:39-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=16543'
-permalink: '/?p=16543'
+
 
 categories:
     - InDesign

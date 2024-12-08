@@ -4,7 +4,7 @@ title: 'Some of the Most Powerful Social Issue Ads That’ll Make You Stop And T
 date: '2024-11-29T18:22:49-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=10948'
+
 permalink: /40-of-the-most-powerful-social-issue-ads-thatll-make-you-stop-and-think/
 
 categories:

@@ -4,7 +4,7 @@ title: 'Doodling at work could help you be more productive'
 date: '2019-09-09T12:59:12-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=52873'
+
 permalink: /doodling-at-work-could-help-you-be-more-productive/
 categories:
     - 'GN: Basic Drawing'

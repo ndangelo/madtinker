@@ -4,7 +4,7 @@ title: "UX/UI Project #3: Travel\_App"
 date: '2024-07-19T14:40:34-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65549'
+
 permalink: /ux-ui-portfolio-projects-for-beginners-3-travel-app/
 categories:
     - UI/UX

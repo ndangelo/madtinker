@@ -1,13 +1,13 @@
 ---
-draft: true
-guid: 'https://www.nuggetofjoy.com/?p=16185'
+
+
 layout: post
 author: admin
-permalink: /?p=16185
+
 title: Creating Beautiful Drop Caps in InDesign
 date:
   'Fri Jun 07 2024 20:00:00 GMT-0400 (Eastern Daylight Time)': null
-id: 16185
+
 categories:
   - InDesign
   - Tutorials

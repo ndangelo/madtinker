@@ -4,7 +4,7 @@ title: 'Drawing (Two Point Perspective)'
 date: '2020-02-28T14:48:25-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54929'
+
 permalink: /drawing-two-point-perspective/
 categories:
     - Projects

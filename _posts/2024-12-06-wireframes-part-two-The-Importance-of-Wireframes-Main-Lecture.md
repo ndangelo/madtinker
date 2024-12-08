@@ -4,10 +4,9 @@ title: 'The Importance of Wireframes: Main Lecture'
 date: '2024-12-06T14:58:24-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=2814'
+
 permalink: /wireframes-part-two/
-category_sticky_post:
-  - '0'
+
 categories:
   - DMET 375 IMAGING TECHNOLOGY
   - Projects

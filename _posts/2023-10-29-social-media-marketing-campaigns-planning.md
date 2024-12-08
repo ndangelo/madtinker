@@ -4,12 +4,9 @@ title: 'Social Media Marketing Campaigns: Planning'
 date: '2023-10-29T16:42:18-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=63274'
+
 permalink: /social-media-marketing-campaigns-planning/
-footnotes:
-    - ''
-amazonS3_cache:
-    - 'a:6:{s:78:"//www.nuggetofjoy.com/wp-content/uploads/social-media-proposal-template-20.png";a:2:{s:2:"id";s:5:"58117";s:11:"source_type";s:13:"media-library";}s:86:"//www.nuggetofjoy.com/wp-content/uploads/social-media-proposal-template-620x524-20.png";a:2:{s:2:"id";s:5:"58117";s:11:"source_type";s:13:"media-library";}s:103:"//image-control-storage.s3.amazonaws.com/2021/11/05195407/social-media-proposal-template-620x524-20.png";a:2:{s:2:"id";s:5:"58117";s:11:"source_type";s:13:"media-library";}s:72:"//www.nuggetofjoy.com/wp-content/uploads/CrossPlatform-Blog2018-1-20.png";a:2:{s:2:"id";s:5:"58118";s:11:"source_type";s:13:"media-library";}s:80:"//www.nuggetofjoy.com/wp-content/uploads/CrossPlatform-Blog2018-1-620x282-20.png";a:2:{s:2:"id";s:5:"58118";s:11:"source_type";s:13:"media-library";}s:97:"//image-control-storage.s3.amazonaws.com/2021/11/05195408/CrossPlatform-Blog2018-1-620x282-20.png";a:2:{s:2:"id";s:5:"58118";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - Projects
 ---

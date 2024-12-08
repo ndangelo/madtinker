@@ -4,7 +4,7 @@ title: 'How to Create a Still-Life Illustration of German Food in Adobe Illustra
 date: '2024-02-06T13:49:31-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65022'
+
 permalink: /how-to-create-a-still-life-illustration-of-german-food-in-adobe-illustrator/
 categories:
     - 'DMET_160 Introduction to Multimedia'

@@ -4,12 +4,8 @@ title: 'Style Tile Logo and Brand Identity 2020'
 date: '2020-02-05T12:55:55-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54337'
+
 permalink: /style-tile-logo-brand-identity-2020/
-category_sticky_post:
-    - '0'
-classic-editor-remember:
-    - block-editor
 
 categories:
     - 'DMET 375 IMAGING TECHNOLOGY'

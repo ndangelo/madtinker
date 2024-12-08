@@ -4,10 +4,9 @@ title: 'How to Design a Stylish Real Estate Flyer Template in Adobe InDesign'
 date: '2020-02-05T13:14:06-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=53999'
+
 permalink: /how-to-design-a-stylish-real-estate-flyer-template-in-adobe-indesign/
-classic-editor-remember:
-    - block-editor
+
 
 categories:
     - '255 Digital Publishing for Graphics &amp; Web'

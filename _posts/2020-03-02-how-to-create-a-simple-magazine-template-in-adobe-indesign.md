@@ -4,7 +4,6 @@ title: 'Create a Simple Magazine Template in Adobe InDesign'
 date: '2020-03-02T10:39:37-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54948'
 permalink: /how-to-create-a-simple-magazine-template-in-adobe-indesign/
 
 categories:

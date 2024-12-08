@@ -3,7 +3,7 @@ title: 'CREATE A CITYSCAPE IN ADOBE ILLUSTRATOR'
 date: '2024-11-03T11:56:24-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=61990'
+
 permalink: /create-a-cityscape-in-adobe-illustrator/
 
 categories:

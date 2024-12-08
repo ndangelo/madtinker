@@ -4,7 +4,7 @@ title: 'The Difference Between UX and UI Design'
 date: '2024-07-18T13:10:51-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65527'
+
 permalink: /the-difference-between-ux-and-ui-design/
 categories:
     - UI/UX

@@ -4,7 +4,7 @@ title: 'Create and Test a Prototype V'
 date: '2024-08-22T12:52:52-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66339'
+
 permalink: /create-and-test-a-prototype/
 enclosure:
 

@@ -4,12 +4,9 @@ title: What Is The Golden Ratio? What You Need to Know and How To Use It
 date: '2017-02-21T15:21:49-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=11421'
+
 permalink: /what-is-the-golden-ratio-what-you-need-to-know-and-how-to-use-it/
-category_sticky_post:
-  - '0'
-classic-editor-remember:
-  - block-editor
+
 categories:
   - DMET 350 MEDIA GRAPHICS AND DESIGN
   - DMET 375 IMAGING TECHNOLOGY

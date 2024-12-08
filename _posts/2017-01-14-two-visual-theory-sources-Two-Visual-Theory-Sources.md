@@ -4,9 +4,7 @@ title: 'Two Visual Theory Sources'
 date: '2017-01-14T12:23:34-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=11052'
-permalink: '/?p=11052'
-amazonS3_cache:
+
 
 categories:
     - Projects

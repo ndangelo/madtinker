@@ -4,7 +4,7 @@ title: 'Font Pairings'
 date: '2019-05-07T14:28:07-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=19340'
+
 permalink: /font-pairings/
 categories:
     - 'Interactive and Social Media'

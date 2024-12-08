@@ -4,7 +4,7 @@ title: "How to Make a Custom Music Poster in Photoshop With Bitmap\_Mode"
 date: '2024-02-12T18:35:52-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65063'
+
 permalink: /how-to-make-a-custom-music-poster-in-photoshop-with-bitmap-mode/
 categories:
     - 'DMET_160 Introduction to Multimedia'

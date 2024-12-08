@@ -4,7 +4,7 @@ title: 'UI/UX Design Brief'
 date: '2024-07-24T16:35:52-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65658'
+
 permalink: /ui-ux-design-brief/
 categories:
     - UI/UX

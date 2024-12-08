@@ -4,7 +4,7 @@ title: 'Bloom&#8217;s Taxonomy'
 date: '2020-08-11T16:16:39-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=57358'
+
 permalink: /blooms-taxonomy/
 
 categories:

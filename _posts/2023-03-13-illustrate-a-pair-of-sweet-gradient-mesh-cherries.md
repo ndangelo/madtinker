@@ -4,7 +4,7 @@ title: 'Illustrate a Pair of Sweet Gradient Mesh Cherries'
 date: '2023-03-13T17:46:18-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=61726'
+
 permalink: /illustrate-a-pair-of-sweet-gradient-mesh-cherries/
 
 categories:

@@ -4,7 +4,7 @@ title: 'Student Website Examples 2020'
 date: '2020-11-23T13:45:23-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=57766'
+
 permalink: /student-website-examples-2020/
 
 categories:

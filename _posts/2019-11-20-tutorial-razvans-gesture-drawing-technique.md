@@ -1,6 +1,5 @@
 ---
-draft: true
-guid: https://www.nuggetofjoy.com/?p=53707
+
 layout: post
 author: admin
 permalink: /tutorial-razvans-gesture-drawing-technique/

@@ -4,7 +4,7 @@ title: 'How to Create a Calendar Template in InDesign'
 date: '2020-03-18T13:43:03-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=55605'
+
 permalink: /how-to-create-a-calendar-template-in-indesign/
 
 categories:

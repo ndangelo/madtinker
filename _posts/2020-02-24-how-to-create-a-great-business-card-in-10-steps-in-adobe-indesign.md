@@ -4,7 +4,6 @@ title: 'How to Create a Great Business Card in 10 Steps in Adobe InDesign'
 date: '2020-02-24T10:45:14-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54747'
 permalink: /how-to-create-a-great-business-card-in-10-steps-in-adobe-indesign/
 
 categories:

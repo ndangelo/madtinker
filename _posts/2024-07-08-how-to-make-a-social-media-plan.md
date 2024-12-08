@@ -4,7 +4,7 @@ title: 'How to Make a Social Media Plan'
 date: '2024-07-08T11:55:03-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65403'
+
 permalink: /how-to-make-a-social-media-plan/
 categories:
     - 'Interactive and Social Media'

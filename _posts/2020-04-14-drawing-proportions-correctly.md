@@ -4,7 +4,7 @@ title: 'Drawing Proportions Correctly'
 date: '2020-04-14T10:58:15-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=56853'
+
 permalink: /drawing-proportions-correctly/
 
 categories:

@@ -4,7 +4,7 @@ title: 'Create a Garden Scene with Basic Shapes in Adobe Illustrator'
 date: '2017-10-04T12:44:00-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5293'
+
 permalink: /create-a-garden-scene-with-basic-shapes-in-adobe-illustrator/
 
 categories:

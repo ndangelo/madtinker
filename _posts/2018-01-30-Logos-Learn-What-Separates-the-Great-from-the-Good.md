@@ -4,11 +4,9 @@ title: 'Logos: Learn What Separates the Great from the Good'
 date: '2018-01-30T12:32:39-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5973'
+
 permalink: /logos-learn-what-separates-the-great-from-the-good/
-amazonS3_cache:
-  - >-
-    a:6:{s:64:"//www.nuggetofjoy.com/wp-content/uploads/girlup-logo-lockup1.png";a:2:{s:2:"id";s:4:"6114";s:11:"source_type";s:13:"media-library";}s:93:"//image-control-storage.s3.amazonaws.com/blog-images/2017/11/28134052/girlup-logo-lockup1.png";a:2:{s:2:"id";s:4:"6114";s:11:"source_type";s:13:"media-library";}s:72:"//www.nuggetofjoy.com/wp-content/uploads/project-yx-minimalist-logo1.png";a:2:{s:2:"id";s:4:"6115";s:11:"source_type";s:13:"media-library";}s:101:"//image-control-storage.s3.amazonaws.com/blog-images/2017/11/28134054/project-yx-minimalist-logo1.png";a:2:{s:2:"id";s:4:"6115";s:11:"source_type";s:13:"media-library";}s:69:"//www.nuggetofjoy.com/wp-content/uploads/frankfurter-flat-design1.png";a:2:{s:2:"id";s:4:"6116";s:11:"source_type";s:13:"media-library";}s:98:"//image-control-storage.s3.amazonaws.com/blog-images/2017/11/28134056/frankfurter-flat-design1.png";a:2:{s:2:"id";s:4:"6116";s:11:"source_type";s:13:"media-library";}}
+
 categories:
   - Design Instruction
   - DMET 350 MEDIA GRAPHICS AND DESIGN

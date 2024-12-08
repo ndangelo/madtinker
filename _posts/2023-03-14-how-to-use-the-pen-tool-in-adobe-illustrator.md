@@ -4,7 +4,7 @@ title: 'How to Use the Pen Tool in Adobe Illustrator'
 date: '2023-03-14T09:37:09-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=61913'
+
 permalink: /how-to-use-the-pen-tool-in-adobe-illustrator/
 
 categories:

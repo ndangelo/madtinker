@@ -4,7 +4,7 @@ title: '4. Working With Text'
 date: '2023-01-09T18:12:44-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=58440'
+
 permalink: /working-with-text/
 categories:
     - 'DMET 155 Introduction to Web Design'

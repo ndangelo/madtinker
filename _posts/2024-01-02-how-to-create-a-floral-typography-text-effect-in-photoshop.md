@@ -4,7 +4,7 @@ title: "How to Create a Floral Typography Text Effect in\_Photoshop"
 date: '2024-01-02T13:38:44-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64590'
+
 permalink: /how-to-create-a-floral-typography-text-effect-in-photoshop/
 categories:
     - 'DMET_160 Introduction to Multimedia'

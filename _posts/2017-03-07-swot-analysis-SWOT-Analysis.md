@@ -4,8 +4,7 @@ title: 'SWOT Analysis'
 date: '2017-03-07T13:33:17-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=15985'
-permalink: '/?p=15985'
+
 
 categories:
     - 'Social Media'

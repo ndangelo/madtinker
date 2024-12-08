@@ -4,7 +4,7 @@ title: 'Euphoria: Student Magazine Example'
 date: '2023-03-22T10:16:35-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=62110'
+
 permalink: /euphoria-student-magazine-example/
 categories:
     - Projects

@@ -4,7 +4,7 @@ title: 'Shaping the Future Poster — Handmade Type'
 date: '2023-11-25T14:09:18-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64203'
+
 permalink: /shaping-the-future-poster-handmade-type/
 categories:
     - 'Social Design'

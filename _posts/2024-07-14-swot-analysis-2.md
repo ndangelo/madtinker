@@ -4,10 +4,9 @@ title: 'SWOT Analysis'
 date: '2024-07-14T11:48:28-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65423'
+
 permalink: /swot-analysis-2/
-amazonS3_cache:
-    - 'a:4:{s:100:"//www.nuggetofjoy.com/wp-content/uploads/infographic-c0b51f7d-0cde-4118-9845-4a51abee970e-scaled.jpg";a:2:{s:2:"id";i:65425;s:11:"source_type";s:13:"media-library";}s:117:"//image-control-storage.s3.amazonaws.com/2024/07/14114546/infographic-c0b51f7d-0cde-4118-9845-4a51abee970e-scaled.jpg";a:2:{s:2:"id";i:65425;s:11:"source_type";s:13:"media-library";}s:81:"//www.nuggetofjoy.com/wp-content/uploads/72b6cacc64c9967bd3d60804fa2b8522-1-1.jpg";a:2:{s:2:"id";i:66274;s:11:"source_type";s:13:"media-library";}s:98:"//image-control-storage.s3.amazonaws.com/2024/07/17133357/72b6cacc64c9967bd3d60804fa2b8522-1-1.jpg";a:2:{s:2:"id";i:66274;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET 375 IMAGING TECHNOLOGY'
     - 'Social Media'

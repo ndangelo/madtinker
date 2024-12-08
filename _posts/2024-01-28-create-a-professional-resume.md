@@ -4,7 +4,7 @@ title: 'Create a Professional Resume'
 date: '2024-01-28T10:59:06-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64923'
+
 permalink: /create-a-professional-resume/
 categories:
     - '255 Digital Publishing for Graphics &amp; Web'

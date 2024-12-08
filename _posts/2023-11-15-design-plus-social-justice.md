@@ -4,12 +4,9 @@ title: 'Design Plus Social Justice'
 date: '2023-11-15T14:20:39-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64073'
+
 permalink: /design-plus-social-justice/
-footnotes:
-    - ''
-amazonS3_cache:
-    - 'a:4:{s:76:"//www.nuggetofjoy.com/wp-content/uploads/1mHGmPhKjZMN-3NJLxxm1mQ@2x-1-1.jpeg";a:2:{s:2:"id";s:5:"64080";s:11:"source_type";s:13:"media-library";}s:93:"//image-control-storage.s3.amazonaws.com/2023/11/15142122/1mHGmPhKjZMN-3NJLxxm1mQ@2x-1-1.jpeg";a:2:{s:2:"id";s:5:"64080";s:11:"source_type";s:13:"media-library";}s:71:"//www.nuggetofjoy.com/wp-content/uploads/19NNzJUhWlnwUskmWU5pUEQ-1.jpeg";a:2:{s:2:"id";s:5:"64081";s:11:"source_type";s:13:"media-library";}s:88:"//image-control-storage.s3.amazonaws.com/2023/11/15142123/19NNzJUhWlnwUskmWU5pUEQ-1.jpeg";a:2:{s:2:"id";s:5:"64081";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - Projects
     - 'Social Design'

@@ -4,7 +4,7 @@ title: 'Wireframe Production: Part 1'
 date: '2016-10-12T13:00:43-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=2837'
+
 permalink: /wireframe-production-part-1/
 
 categories:

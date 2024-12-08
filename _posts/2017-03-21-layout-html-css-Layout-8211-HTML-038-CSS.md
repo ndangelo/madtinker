@@ -1,10 +1,10 @@
 ---
 id: 4940
-title: 'Layout &#8211; HTML &#038; CSS'
+title: 'Layout: HTML & CSS'
 date: '2017-03-21T23:09:13-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=4940'
+
 permalink: /layout-html-css/
 
 categories:

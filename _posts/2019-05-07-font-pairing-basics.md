@@ -4,10 +4,9 @@ title: 'Font Pairing Basics'
 date: '2019-05-07T14:28:58-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=4675'
+
 permalink: /font-pairing-basics/
-category_sticky_post:
-    - '0'
+
 
 categories:
     - 'DMET 350 MEDIA GRAPHICS AND DESIGN'

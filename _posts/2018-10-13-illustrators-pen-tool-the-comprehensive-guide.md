@@ -4,7 +4,7 @@ title: 'Illustrator’s Pen Tool: The Comprehensive Guide'
 date: '2018-10-13T15:33:24-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=3980'
+
 permalink: /illustrators-pen-tool-the-comprehensive-guide/
 
 categories:

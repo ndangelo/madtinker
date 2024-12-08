@@ -4,7 +4,7 @@ title: 'Principles of Design'
 date: '2024-11-29T10:24:07-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5138'
+
 permalink: /principles-of-design/
 
 categories:

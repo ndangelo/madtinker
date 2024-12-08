@@ -4,10 +4,8 @@ title: 'Book Cover Design “Publication Design: Covers and Interiors”'
 date: '2019-10-23T10:00:41-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=10679'
+
 permalink: /book-cover-design-publication-design-covers-and-interiors-2/
-category_sticky_post:
-    - '0'
 
 categories:
     - 'DMET 350 MEDIA GRAPHICS AND DESIGN'

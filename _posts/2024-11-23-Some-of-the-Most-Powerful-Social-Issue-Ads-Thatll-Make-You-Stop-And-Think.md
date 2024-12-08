@@ -4,8 +4,7 @@ title: 'Some of the Most Powerful Social Issue Ads That’ll Make You Stop And T
 date: '2024-11-23T10:36:48-04:00'
 author: admin
 layout: revision
-guid: 'https://www.nuggetofjoy.com/?p=66898'
-permalink: '/?p=66898'
+
 ---
 
 ## <span class="tadv-color" style="color:#ff6900">Sensitive Material Warning</span>

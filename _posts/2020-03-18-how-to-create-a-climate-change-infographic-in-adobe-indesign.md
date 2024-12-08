@@ -4,7 +4,7 @@ title: 'How to Create a Climate Change Infographic in Adobe InDesign'
 date: '2020-03-18T13:40:19-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=55603'
+
 permalink: /how-to-create-a-climate-change-infographic-in-adobe-indesign/
 
 categories:

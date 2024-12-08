@@ -4,10 +4,9 @@ title: 'Wireframes Part I: Detailed Sketches'
 date: '2018-03-22T13:28:42-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=1054'
+
 permalink: /wireframes-part-i-detailed-sketches/
-category_sticky_post:
-    - '0'
+
 
 categories:
     - 'DMET 375 IMAGING TECHNOLOGY'

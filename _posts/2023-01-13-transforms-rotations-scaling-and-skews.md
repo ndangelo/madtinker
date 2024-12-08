@@ -4,7 +4,7 @@ title: '11. Transforms: rotations, scaling and skews, Vertical alignment, Head t
 date: '2023-01-13T19:03:14-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=59660'
+
 permalink: /transforms-rotations-scaling-and-skews/
 categories:
     - 'DMET 155 Introduction to Web Design'

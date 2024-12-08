@@ -4,7 +4,7 @@ title: '9 Awesome Infographic Examples (Plus Tips to Create Your Own)'
 date: '2024-04-05T13:20:47-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65323'
+
 permalink: /9-awesome-infographic-examples-plus-tips-to-create-your-own/
 categories:
     - Projects

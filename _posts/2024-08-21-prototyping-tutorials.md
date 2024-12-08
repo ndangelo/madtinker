@@ -4,7 +4,7 @@ title: 'Prototyping Tutorials'
 date: '2024-08-21T16:32:44-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66315'
+
 permalink: /prototyping-tutorials/
 categories:
     - Projects

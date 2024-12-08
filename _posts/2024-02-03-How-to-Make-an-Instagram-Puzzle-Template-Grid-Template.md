@@ -4,8 +4,7 @@ title: 'How to Make an Instagram Puzzle Template (Grid Template)'
 date: '2024-02-03T16:44:39-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64987'
-permalink: '/?p=64987'
+
 categories:
     - 'Interactive and Social Media'
 ---

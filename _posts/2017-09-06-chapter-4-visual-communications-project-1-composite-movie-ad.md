@@ -4,7 +4,7 @@ title: 'Chapter 4: Visual Communications: &#038; Project 1: Composite Movie Ad'
 date: '2017-09-06T12:10:37-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5110'
+
 permalink: /chapter-4-visual-communications-project-1-composite-movie-ad/
 
 categories:

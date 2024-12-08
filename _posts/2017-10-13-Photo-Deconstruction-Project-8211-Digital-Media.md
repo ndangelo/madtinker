@@ -4,8 +4,7 @@ title: Photo Deconstruction Project &#8211; Digital Media
 date: '2017-10-13T08:53:50-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5375'
-permalink: /?p=5375
+
 
 categories:
   - Projects

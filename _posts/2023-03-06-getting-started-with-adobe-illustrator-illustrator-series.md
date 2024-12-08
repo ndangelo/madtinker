@@ -4,7 +4,7 @@ title: 'Getting Started with Adobe Illustrator: Illustrator series'
 date: '2023-03-06T14:58:30-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=61253'
+
 permalink: /getting-started-with-adobe-illustrator-illustrator-series/
 categories:
     - InDesign

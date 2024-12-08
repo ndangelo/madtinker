@@ -4,7 +4,7 @@ title: 'Design the Next Two App Screens IV'
 date: '2024-08-21T16:58:55-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66334'
+
 permalink: /design-the-next-two-app-screens/
 enclosure:
   

@@ -4,10 +4,9 @@ title: "How to Flip an Image in\_Photoshop"
 date: '2023-12-30T13:11:07-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64323'
+
 permalink: /how-to-flip-an-image-in-photoshop/
-amazonS3_cache:
-    - 'a:12:{s:55:"//www.nuggetofjoy.com/wp-content/uploads/0005_1_1-3.jpg";a:2:{s:2:"id";s:5:"64370";s:11:"source_type";s:13:"media-library";}s:72:"//image-control-storage.s3.amazonaws.com/2023/12/02121815/0005_1_1-3.jpg";a:2:{s:2:"id";s:5:"64370";s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/0004_1_2.jpg";a:2:{s:2:"id";s:5:"64371";s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/12/02121816/0004_1_2.jpg";a:2:{s:2:"id";s:5:"64371";s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/0003_2_1.jpg";a:2:{s:2:"id";s:5:"64372";s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/12/02121817/0003_2_1.jpg";a:2:{s:2:"id";s:5:"64372";s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/0002_2_2.jpg";a:2:{s:2:"id";s:5:"64373";s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/12/02121819/0002_2_2.jpg";a:2:{s:2:"id";s:5:"64373";s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/0001_2_3.jpg";a:2:{s:2:"id";s:5:"64374";s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/12/02121820/0001_2_3.jpg";a:2:{s:2:"id";s:5:"64374";s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/0000_2_4.jpg";a:2:{s:2:"id";s:5:"64375";s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/12/02121822/0000_2_4.jpg";a:2:{s:2:"id";s:5:"64375";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET_160 Introduction to Multimedia'
     - Projects

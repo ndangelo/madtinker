@@ -4,7 +4,7 @@ title: 'How to Make a Bi-Fold Brochure in InDesign'
 date: '2024-02-06T13:55:06-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65025'
+
 permalink: /how-to-make-a-bi-fold-brochure-in-indesign/
 categories:
     - '255 Digital Publishing for Graphics &amp; Web'

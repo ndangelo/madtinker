@@ -4,7 +4,7 @@ title: 'Drawing (blocking In)'
 date: '2020-02-28T14:45:57-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54925'
+
 permalink: /drawing-blocking-in/
 
 categories:

@@ -4,7 +4,7 @@ title: 'How to Create a Bokeh Effect in Photoshop'
 date: '2018-09-24T11:27:27-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5517'
+
 permalink: /how-to-create-a-bokeh-effect-in-photoshop/
 
 categories:

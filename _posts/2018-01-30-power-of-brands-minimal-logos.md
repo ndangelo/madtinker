@@ -4,10 +4,8 @@ title: 'Power of Brands &#8211; Minimal logos &#8211; Main &#8211; Supplementary
 date: '2018-01-30T12:34:29-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=1671'
+
 permalink: /power-of-brands-minimal-logos/
-category_sticky_post:
-    - '0'
 
 categories:
     - 'Design Instruction'

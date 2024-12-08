@@ -1,10 +1,10 @@
 ---
 id: 974
-title: 'Posters &#8211; Media Graphics and Design'
+title: 'Posters: Media Graphics and Design'
 date: '2017-09-22T10:48:00-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=974'
+
 permalink: /posters-2/
 
 categories:

@@ -4,7 +4,7 @@ title: 'How to make your first wireframe'
 date: '2019-04-01T15:31:34-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=40951'
+
 permalink: /how-to-make-your-first-wireframe/
 category_sticky_post:
     - '0'

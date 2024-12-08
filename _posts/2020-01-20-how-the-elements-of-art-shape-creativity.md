@@ -4,7 +4,6 @@ title: 'The Elements of Art'
 date: '2020-01-20T20:19:00-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=52448'
 permalink: /how-the-elements-of-art-shape-creativity/
 
 categories:

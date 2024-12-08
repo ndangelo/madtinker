@@ -4,7 +4,7 @@ title: 'Klingler Comps Comments'
 date: '2024-10-10T12:45:57-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66747'
+
 permalink: /klingler-comps-comments/
 categories:
     - 'Projects'

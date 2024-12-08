@@ -4,7 +4,7 @@ title: 'How to Create a Bauhaus Poster in Adobe InDesign'
 date: '2024-02-07T09:18:32-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64944'
+
 permalink: /how-to-create-a-bauhaus-poster-in-adobe-indesign/
 categories:
     - '255 Digital Publishing for Graphics &amp; Web'

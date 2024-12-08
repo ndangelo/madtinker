@@ -4,7 +4,7 @@ title: 'Facebook Business Engagement'
 date: '2020-11-02T14:21:16-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=57422'
+
 permalink: /facebook-business-engagement/
 categories:
     - Projects

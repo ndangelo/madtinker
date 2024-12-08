@@ -4,7 +4,7 @@ title: '5 Drawing Exercises That Every Artist Should Practice'
 date: '2020-03-03T08:20:45-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=55164'
+
 permalink: /8-drawing-exercises-that-every-artist-should-practice/
 
 categories:

@@ -4,7 +4,7 @@ title: '1. Different programming languages for different tasks'
 date: '2023-01-13T13:34:58-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=59610'
+
 permalink: /different-programming-languages-for-different-tasks-2/
 categories:
     - 'DMET 155 Introduction to Web Design'

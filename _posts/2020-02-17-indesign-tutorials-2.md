@@ -4,7 +4,7 @@ title: 'InDesign Tutorials Book: Moby- Dick'
 date: '2020-02-17T10:59:21-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54471'
+
 permalink: /indesign-tutorials-2/
 
 categories:

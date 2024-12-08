@@ -4,7 +4,7 @@ title: 'UX/UI design brief: Redesigning the Spotify App'
 date: '2024-07-19T15:44:06-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65582'
+
 permalink: /ux-ui-design-brief-8-redesigning-the-spotify-app/
 categories:
     - Projects

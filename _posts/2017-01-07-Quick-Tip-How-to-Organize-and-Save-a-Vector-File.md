@@ -4,8 +4,6 @@ title: 'Quick Tip: How to Organize and Save a Vector File'
 date: '2017-01-07T14:15:35-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=4037'
-permalink: '/?p=4037'
 
 categories:
     - 'Design Instruction'

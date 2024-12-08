@@ -4,7 +4,7 @@ title: 'Perspective Review and Assignments'
 date: '2020-02-04T12:35:47-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=53092'
+
 permalink: /perspective-review-and-assignments/
 
 categories:

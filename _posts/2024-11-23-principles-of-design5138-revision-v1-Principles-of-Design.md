@@ -4,8 +4,7 @@ title: Principles of Design
 date: '2024-11-23T10:24:31-04:00'
 author: admin
 layout: revision
-guid: 'https://www.nuggetofjoy.com/?p=66871'
-permalink: /?p=66871
+
 ---
 
 ## Check Your Documents for Balance, Alignment and Other Principles of Design

@@ -4,7 +4,7 @@ title: 'Cuboid Project &#8211; Midterm'
 date: '2019-10-02T15:10:26-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=53094'
+
 permalink: /cuboid-project-midterm-project-one/
 
 categories:

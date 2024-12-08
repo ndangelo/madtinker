@@ -4,10 +4,9 @@ title: '8. Inspecting HTML And CSS'
 date: '2023-01-09T17:57:50-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=58408'
+
 permalink: /inspecting-html-and-css/
-amazonS3_cache:
-    - 'a:10:{s:51:"//www.nuggetofjoy.com/wp-content/uploads/00-9-1.png";a:2:{s:2:"id";s:5:"59390";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/01/12172918/00-9-1.png";a:2:{s:2:"id";s:5:"59390";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/01-2-1.png";a:2:{s:2:"id";s:5:"59391";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/01/12172922/01-2-1.png";a:2:{s:2:"id";s:5:"59391";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/02-2-1.png";a:2:{s:2:"id";s:5:"59392";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/01/12172923/02-2-1.png";a:2:{s:2:"id";s:5:"59392";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/03-4-2.png";a:2:{s:2:"id";s:5:"59393";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/01/12172927/03-4-2.png";a:2:{s:2:"id";s:5:"59393";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/04-3-1.png";a:2:{s:2:"id";s:5:"59394";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/01/12172928/04-3-1.png";a:2:{s:2:"id";s:5:"59394";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET 155 Introduction to Web Design'
     - 'odin project'

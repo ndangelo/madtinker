@@ -4,7 +4,7 @@ title: 'Principles of Composition (In Theory)'
 date: '2020-01-19T15:44:39-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54247'
+
 permalink: /principles-of-composition-in-theory/
 classic-editor-remember:
     - classic-editor

@@ -4,11 +4,11 @@ title: "How to Create a Lookbook in\_InDesign"
 date: '2024-02-05T08:53:22-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64942'
+
 permalink: /how-to-create-a-lookbook-in-indesign/
 categories:
     - '255 Digital Publishing for Graphics &amp; Web'
-    - Projects
+    - 'Projects'
 ---
 
 Source: Ein, D. (2023). How to Create a Lookbook in InDesign: Envato Tuts+. Retrieved from https://design.tutsplus.com/tutorials/how-to-create-a-lookbook-in-indesign–cms-108178

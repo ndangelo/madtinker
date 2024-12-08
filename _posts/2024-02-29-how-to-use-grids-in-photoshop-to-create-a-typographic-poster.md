@@ -4,7 +4,7 @@ title: 'How to Use Grids in Photoshop to Create a Typographic Poster'
 date: '2024-02-29T12:22:00-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65190'
+
 permalink: /how-to-use-grids-in-photoshop-to-create-a-typographic-poster/
 categories:
     - Projects

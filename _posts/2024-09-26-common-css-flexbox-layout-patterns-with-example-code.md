@@ -4,7 +4,7 @@ title: 'Common CSS Flexbox Layout Patterns with Example Code'
 date: '2024-09-26T09:53:55-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66597'
+
 permalink: /common-css-flexbox-layout-patterns-with-example-code/
 
 categories:

@@ -4,8 +4,7 @@ title: 'InDesign Basics: A Quick Guide to Master Pages'
 date: '2018-03-08T15:35:21-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=16218'
-permalink: '/?p=16218'
+
 
 categories:
     - InDesign

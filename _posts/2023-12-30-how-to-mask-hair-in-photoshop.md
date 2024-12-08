@@ -4,10 +4,9 @@ title: 'How to Mask Hair in Photoshop'
 date: '2023-12-30T13:00:22-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64319'
+
 permalink: /how-to-mask-hair-in-photoshop/
-amazonS3_cache:
-    - 'a:10:{s:50:"//www.nuggetofjoy.com/wp-content/uploads/sdf-4.jpg";a:2:{s:2:"id";s:5:"64377";s:11:"source_type";s:13:"media-library";}s:67:"//image-control-storage.s3.amazonaws.com/2023/12/02121825/sdf-4.jpg";a:2:{s:2:"id";s:5:"64377";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0003_2.jpg";a:2:{s:2:"id";s:5:"64378";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121826/0003_2.jpg";a:2:{s:2:"id";s:5:"64378";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0002_3.jpg";a:2:{s:2:"id";s:5:"64379";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121828/0002_3.jpg";a:2:{s:2:"id";s:5:"64379";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0001_4.jpg";a:2:{s:2:"id";s:5:"64380";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121829/0001_4.jpg";a:2:{s:2:"id";s:5:"64380";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/0000_5.jpg";a:2:{s:2:"id";s:5:"64381";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/12/02121830/0000_5.jpg";a:2:{s:2:"id";s:5:"64381";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET_160 Introduction to Multimedia'
     - Projects

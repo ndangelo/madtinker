@@ -1,6 +1,6 @@
 ---
-draft: true
-guid: https://www.nuggetofjoy.com/?p=5751
+
+
 layout: post
 author: admin
 permalink: /13-successful-logo-designers-and-their-awesome-tutorials/
@@ -8,7 +8,7 @@ title: 13 Successful Logo Designers And Their Awesome Tutorials
 date: 2024-12-04T13:32:00.000Z
 tag:
   - design
-id: 5751
+
 categories:
   - Design Instruction
   - DMET 350 MEDIA GRAPHICS AND DESIGN

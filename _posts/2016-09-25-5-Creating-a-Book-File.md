@@ -4,8 +4,8 @@ title: 5. Creating a Book File
 date: '2016-09-25T14:56:06-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=3931'
-permalink: /?p=3931
+
+
 
 categories:
   - Design Instruction

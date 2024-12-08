@@ -4,7 +4,7 @@ title: 'Drawing (One Point Perspective)'
 date: '2020-02-28T14:53:03-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54932'
+
 permalink: /drawing-one-point-perspective/
 categories:
     - Projects

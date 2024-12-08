@@ -4,7 +4,7 @@ title: '50 + Still Life Drawing Ideas'
 date: '2020-04-21T14:01:15-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=57070'
+
 permalink: /50-still-life-drawing-ideas/
 
 categories:

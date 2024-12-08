@@ -4,7 +4,7 @@ title: 'Typography: Awesome Fonts for Creative Branding'
 date: '2019-02-19T10:35:22-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=16759'
+
 permalink: /typography-awesome-fonts-for-creative-branding-2/
 
 categories:

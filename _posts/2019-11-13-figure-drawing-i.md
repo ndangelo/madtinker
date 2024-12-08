@@ -4,7 +4,7 @@ title: 'Figure Drawing I'
 date: '2019-11-13T12:14:05-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=53630'
+
 permalink: /figure-drawing-i/
 categories:
     - 'GN: Basic Drawing'

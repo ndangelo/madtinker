@@ -4,7 +4,7 @@ title: 'How to Create a Video Background with CSS [Step-by-Step]'
 date: '2024-10-09T17:06:52-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66735'
+
 permalink: /how-to-create-a-video-background-with-css-step-by-step/
 categories:
     - Projects

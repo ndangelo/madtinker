@@ -4,7 +4,7 @@ title: 'Chapter 15 – Layout'
 date: '2015-10-06T04:30:08-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=707'
+
 permalink: /chapter-15-layout/
 categories:
     - 'DMET 355 ADVANCED WEB DESIGN'

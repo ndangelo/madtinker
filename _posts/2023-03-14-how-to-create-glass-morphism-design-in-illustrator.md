@@ -4,7 +4,7 @@ title: 'How to create glass morphism design in Illustrator'
 date: '2023-03-14T08:43:18-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=61788'
+
 permalink: /how-to-create-glass-morphism-design-in-illustrator/
 
 categories:

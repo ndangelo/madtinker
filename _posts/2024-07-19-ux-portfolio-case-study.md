@@ -4,7 +4,7 @@ title: 'UX Portfolio Case Study: The Making of&#8230;'
 date: '2024-07-19T15:28:13-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65571'
+
 permalink: /ux-portfolio-case-study/
 categories:
     - Projects

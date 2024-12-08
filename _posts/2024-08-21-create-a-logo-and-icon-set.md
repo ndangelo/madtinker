@@ -4,7 +4,7 @@ title: 'Create a logo and icon set. III'
 date: '2024-08-21T16:43:16-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66330'
+
 permalink: /create-a-logo-and-icon-set/
 enclosure:
 

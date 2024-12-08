@@ -4,7 +4,7 @@ title: '6. Links And Images'
 date: '2023-01-09T18:02:43-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=58436'
+
 permalink: /links-and-images/
 categories:
     - 'DMET 155 Introduction to Web Design'

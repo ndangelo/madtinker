@@ -4,7 +4,7 @@ title: 'Perspective and Composition Hierarchy Poster'
 date: '2020-02-13T13:59:50-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54407'
+
 permalink: /perspective-poster/
 
 categories:

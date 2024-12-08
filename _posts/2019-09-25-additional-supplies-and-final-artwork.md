@@ -4,7 +4,7 @@ title: 'Additional Supplies and Final Artwork'
 date: '2019-09-25T10:21:20-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=53076'
+
 permalink: /additional-supplies-and-final-artwork/
 categories:
     - 'GN: Basic Drawing'

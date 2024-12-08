@@ -4,7 +4,6 @@ title: '9. CSS Displays @Media'
 date: '2023-01-13T18:58:08-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=59656'
 permalink: /css-displays/
 categories:
     - 'DMET 155 Introduction to Web Design'

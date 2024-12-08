@@ -4,7 +4,7 @@ title: 'How to Use Snapchat: A Pro Guide for Marketers'
 date: '2019-05-07T14:28:58-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=19453'
+
 permalink: /how-to-use-snapchat-a-pro-guide-for-marketers/
 categories:
     - 'Interactive and Social Media'

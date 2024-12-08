@@ -4,7 +4,7 @@ title: 'UX/UI projects for beginners: Redesigning Airbnb host onboarding'
 date: '2024-07-19T15:08:46-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65560'
+
 permalink: /ux-ui-projects-for-beginners-11-redesigning-airbnb-host-onboarding/
 categories:
   - UI/UX - UI

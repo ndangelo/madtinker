@@ -4,8 +4,7 @@ title: 'Simplicity, Symmetry and More: Gestalt Theory And The Design Principles 
 date: '2018-02-21T10:04:03-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=11288'
-permalink: '/?p=11288'
+
 
 categories:
     - Supplementary

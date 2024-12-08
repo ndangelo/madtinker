@@ -1,5 +1,5 @@
 ---
-guid: https://www.nuggetofjoy.com/?p=5307
+
 layout: post
 author: admin
 permalink: /how-to-make-a-portrait-with-city-elements-in-photoshop/

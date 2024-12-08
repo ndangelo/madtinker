@@ -4,7 +4,7 @@ title: 'Compositional Guidelines'
 date: '2020-04-21T13:47:16-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=56909'
+
 permalink: /compositional-guidelines/
 
 categories:

@@ -4,7 +4,7 @@ title: 'Playing Card Sketches &#038; Style Selections'
 date: '2017-04-19T10:17:12-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5001'
+
 permalink: /playing-card-sketches-style-selections/
 categories:
     - 'DMET 350 MEDIA GRAPHICS AND DESIGN'

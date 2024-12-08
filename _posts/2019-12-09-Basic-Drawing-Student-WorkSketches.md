@@ -4,7 +4,7 @@ title: 'Basic Drawing: Student Work/Sketches'
 date: '2019-12-09T18:18:08-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=53906'
+
 permalink: /basic-drawing-student-work-sketches/
 
 categories:

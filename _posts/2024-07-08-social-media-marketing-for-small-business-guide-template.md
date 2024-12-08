@@ -4,7 +4,7 @@ title: 'Social Media Marketing for Small Business: Guide + Template'
 date: '2024-07-08T12:26:09-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65408'
+
 permalink: /social-media-marketing-for-small-business-guide-template/
 categories:
     - 'Interactive and Social Media'

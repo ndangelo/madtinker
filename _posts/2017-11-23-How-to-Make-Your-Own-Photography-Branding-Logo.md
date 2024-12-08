@@ -4,7 +4,7 @@ title: How to Make Your Own Photography Branding Logo
 date: '2017-11-23T11:30:22-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5743'
+
 permalink: /how-to-make-your-own-photography-branding-logo/
 categories:
   - Design Instruction

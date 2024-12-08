@@ -4,8 +4,7 @@ title: '5 Essential Tools for InDesign Beginners'
 date: '2018-03-08T15:36:38-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=16220'
-permalink: '/?p=16220'
+
 
 categories:
     - InDesign

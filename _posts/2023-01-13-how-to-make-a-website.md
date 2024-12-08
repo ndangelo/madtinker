@@ -4,7 +4,7 @@ title: '2. How to make a website, Recapping front-end web development, But how d
 date: '2023-01-13T13:36:42-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=59613'
+
 permalink: /how-to-make-a-website/
 categories:
     - 'DMET 155 Introduction to Web Design'

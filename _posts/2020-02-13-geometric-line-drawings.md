@@ -3,7 +3,7 @@ title: 'Geometric Line Drawings'
 date: '2020-02-13T16:53:51-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54453'
+
 permalink: /geometric-line-drawings/
 categories:
     - Basic Drawing

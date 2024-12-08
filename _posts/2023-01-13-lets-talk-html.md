@@ -4,7 +4,7 @@ title: '3. Let&#8217;s Talk HTML, Heading, Blocks and inline, Links, Images, Whi
 date: '2023-01-13T13:30:01-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=59609'
+
 permalink: /lets-talk-html/
 categories:
     - 'DMET 155 Introduction to Web Design'

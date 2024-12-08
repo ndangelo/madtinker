@@ -4,8 +4,7 @@ title: SEARCH ENGINE OPTIMISATION (SEO)
 date: '2018-03-02T14:33:57-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=14657'
-permalink: /?p=14657
+
 categories:
   - Social Media
 tags: '-social'

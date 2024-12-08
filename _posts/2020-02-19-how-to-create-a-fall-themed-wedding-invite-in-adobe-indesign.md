@@ -4,7 +4,7 @@ title: 'How to Create a Fall-Themed Wedding Invite in Adobe InDesign'
 date: '2020-02-19T11:09:40-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54612'
+
 permalink: /how-to-create-a-fall-themed-wedding-invite-in-adobe-indesign/
 
 categories:

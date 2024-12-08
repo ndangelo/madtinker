@@ -1,6 +1,4 @@
 ---
-draft: true
-guid: https://www.nuggetofjoy.com/?p=2028
 layout: post
 author: admin
 permalink: /design-a-type-driven-poster/

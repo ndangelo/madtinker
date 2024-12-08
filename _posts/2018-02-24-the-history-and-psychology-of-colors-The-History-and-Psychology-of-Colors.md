@@ -4,8 +4,6 @@ title: 'The History and Psychology of Colors'
 date: '2018-02-24T13:24:10-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=12316'
-permalink: '/?p=12316'
 
 categories:
     - 'Color Theory'

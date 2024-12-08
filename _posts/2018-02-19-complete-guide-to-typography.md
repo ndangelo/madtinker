@@ -4,10 +4,9 @@ title: 'Complete Guide to Typography &#8211; Poster: Supplimentary'
 date: '2018-02-19T11:10:05-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=1584'
+
 permalink: /complete-guide-to-typography/
-category_sticky_post:
-    - '0'
+
 
 categories:
     - 'Design Instruction'

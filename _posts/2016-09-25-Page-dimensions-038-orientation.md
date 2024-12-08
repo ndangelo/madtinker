@@ -4,8 +4,8 @@ title: '6. Page dimensions &#038; orientation'
 date: '2016-09-25T14:55:20-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=3924'
-permalink: '/?p=3924'
+
+
 
 categories:
     - 'Design Instruction'

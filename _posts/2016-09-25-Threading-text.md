@@ -4,8 +4,8 @@ title: '4. Threading text'
 date: '2016-09-25T14:57:13-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=3936'
-permalink: '/?p=3936'
+
+
 
 categories:
     - 'Design Instruction'

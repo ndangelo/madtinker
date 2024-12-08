@@ -4,7 +4,7 @@ title: "How to Create a Space Travel Infographic in Adobe InDesign"
 date: "2020-03-18T11:41:15-04:00"
 author: admin
 layout: post
-guid: "https://www.nuggetofjoy.com/?p=55600"
+
 permalink: /how-to-create-a-space-travel-infographic-in-adobe-indesign/
 categories:
   - "255 Digital Publishing for Graphics & Web"

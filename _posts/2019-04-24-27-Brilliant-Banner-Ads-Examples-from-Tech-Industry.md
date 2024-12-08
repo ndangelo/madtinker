@@ -4,10 +4,9 @@ title: 2019-04-24 27 Brilliant Banner Ads Examples from Tech Industry
 date: '2019-04-24T08:41:27-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=41784'
+
 permalink: /27-brilliant-banner-ads-examples-from-tech-industry/
-category_sticky_post:
-  - '0'
+
 categories:
   - DMET 375 IMAGING TECHNOLOGY
   - Projects

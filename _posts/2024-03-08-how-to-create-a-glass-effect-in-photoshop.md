@@ -4,7 +4,7 @@ title: "How to Create a Glass Effect in\_Photoshop"
 date: '2024-03-08T16:12:16-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65215'
+
 permalink: /how-to-create-a-glass-effect-in-photoshop/
 categories:
     - 'DMET_160 Introduction to Multimedia'

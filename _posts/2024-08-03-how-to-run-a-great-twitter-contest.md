@@ -4,7 +4,7 @@ title: 'How To Run a Great Twitter Contest'
 date: '2024-08-03T14:14:14-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65987'
+
 permalink: /how-to-run-a-great-twitter-contest/
 categories:
     - Projects

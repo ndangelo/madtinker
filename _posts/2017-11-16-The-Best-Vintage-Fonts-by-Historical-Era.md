@@ -4,8 +4,7 @@ title: 'The Best Vintage Fonts by Historical Era'
 date: '2017-11-16T23:33:17-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5696'
-permalink: '/?p=5696'
+
 categories:
     - Projects
 ---

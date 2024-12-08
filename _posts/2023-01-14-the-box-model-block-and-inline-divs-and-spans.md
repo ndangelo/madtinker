@@ -4,10 +4,9 @@ title: 'The CSS Box Model: Block And Inline/Divs and Spans'
 date: '2023-01-14T00:31:49-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=59674'
+
 permalink: /the-box-model-block-and-inline-divs-and-spans/
-amazonS3_cache:
-    - 'a:14:{s:54:"//www.nuggetofjoy.com/wp-content/uploads/boxes-3-3.png";a:2:{s:2:"id";s:5:"59358";s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2023/01/12170537/boxes-3-3.png";a:2:{s:2:"id";s:5:"59358";s:11:"source_type";s:13:"media-library";}s:59:"//www.nuggetofjoy.com/wp-content/uploads/odin-lined-1-3.png";a:2:{s:2:"id";s:5:"59360";s:11:"source_type";s:13:"media-library";}s:76:"//image-control-storage.s3.amazonaws.com/2023/01/12170538/odin-lined-1-3.png";a:2:{s:2:"id";s:5:"59360";s:11:"source_type";s:13:"media-library";}s:58:"//www.nuggetofjoy.com/wp-content/uploads/box-model-1-3.png";a:2:{s:2:"id";s:5:"59361";s:11:"source_type";s:13:"media-library";}s:75:"//image-control-storage.s3.amazonaws.com/2023/01/12170541/box-model-1-3.png";a:2:{s:2:"id";s:5:"59361";s:11:"source_type";s:13:"media-library";}s:58:"//www.nuggetofjoy.com/wp-content/uploads/box-model-1-4.png";a:2:{s:2:"id";s:5:"60289";s:11:"source_type";s:13:"media-library";}s:75:"//image-control-storage.s3.amazonaws.com/2023/01/01181137/box-model-1-4.png";a:2:{s:2:"id";s:5:"60289";s:11:"source_type";s:13:"media-library";}s:63:"//www.nuggetofjoy.com/wp-content/uploads/standard-box-model.png";a:2:{s:2:"id";s:5:"60290";s:11:"source_type";s:13:"media-library";}s:80:"//image-control-storage.s3.amazonaws.com/2023/01/01181138/standard-box-model.png";a:2:{s:2:"id";s:5:"60290";s:11:"source_type";s:13:"media-library";}s:64:"//www.nuggetofjoy.com/wp-content/uploads/alternate-box-model.png";a:2:{s:2:"id";s:5:"60291";s:11:"source_type";s:13:"media-library";}s:81:"//image-control-storage.s3.amazonaws.com/2023/01/01181139/alternate-box-model.png";a:2:{s:2:"id";s:5:"60291";s:11:"source_type";s:13:"media-library";}s:63:"//www.nuggetofjoy.com/wp-content/uploads/box-model-devtools.png";a:2:{s:2:"id";s:5:"60292";s:11:"source_type";s:13:"media-library";}s:80:"//image-control-storage.s3.amazonaws.com/2023/01/01181140/box-model-devtools.png";a:2:{s:2:"id";s:5:"60292";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET 155 Introduction to Web Design'
     - 'Learn to Code Now'

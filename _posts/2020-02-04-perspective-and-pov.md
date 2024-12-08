@@ -4,7 +4,7 @@ title: 'Perspective and POV'
 date: '2020-02-04T17:00:54-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=52774'
+
 permalink: /perspective-and-pov/
 
 categories:

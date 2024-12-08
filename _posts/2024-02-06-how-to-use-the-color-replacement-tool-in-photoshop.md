@@ -4,7 +4,7 @@ title: 'How to Use the Color Replacement Tool in Photoshop'
 date: '2024-02-06T14:20:26-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65034'
+
 permalink: /how-to-use-the-color-replacement-tool-in-photoshop/
 categories:
     - 'DMET_160 Introduction to Multimedia'

@@ -4,7 +4,7 @@ title: "How to Make a Clipping Mask in\_InDesign"
 date: '2024-01-28T11:20:40-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64925'
+
 permalink: /how-to-make-a-clipping-mask-in-indesign/
 categories:
     - '255 Digital Publishing for Graphics &amp; Web'

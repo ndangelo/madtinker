@@ -4,7 +4,7 @@ title: 'Drawing (Drawing from Life)'
 date: '2020-02-28T14:57:40-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54938'
+
 permalink: /drawing-drawing-from-life/
 categories:
     - Projects

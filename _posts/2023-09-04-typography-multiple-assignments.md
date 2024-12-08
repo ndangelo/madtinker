@@ -4,12 +4,8 @@ title: 'The Poster Series — Type Driven Poster'
 date: '2023-09-04T15:58:28-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=945'
+
 permalink: /typography-multiple-assignments/
-category_sticky_post:
-    - '0'
-footnotes:
-    - ''
 
 categories:
     - 'DMET 350 MEDIA GRAPHICS AND DESIGN'

@@ -4,7 +4,7 @@ title: 'Creating Beautiful Drop Caps in InDesign'
 date: '2023-01-14T17:08:30-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=59772'
+
 permalink: /creating-beautiful-drop-caps-in-indesign-2/
 categories:
     - '255 Digital Publishing for Graphics &amp; Web'

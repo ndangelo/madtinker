@@ -4,10 +4,10 @@ title: "The Beginner’s Guide to Font Pairing"
 date: "2017-11-16T23:51:14-04:00"
 author: admin
 layout: post
-guid: "https://www.nuggetofjoy.com/?p=5704"
+
 permalink: /the-beginners-guide-to-font-pairing/
 category_sticky_post:
-  - "0"
+
 categories:
   - Projects
 ---

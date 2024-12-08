@@ -4,7 +4,7 @@ title: 'Shape Building to Create a Football in Illustrator!'
 date: '2023-03-13T17:49:02-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=61735'
+
 permalink: /shape-building-to-create-a-football-in-illustrator/
 categories:
     - 'DMET_160 Introduction to Multimedia'

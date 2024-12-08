@@ -4,7 +4,7 @@ title: 'Facebook and Instagram Assignments: Continued'
 date: '2019-10-28T17:00:31-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=53441'
+
 permalink: /facebook-and-instagram-assignments-continued/
 categories:
     - 'Interactive and Social Media'

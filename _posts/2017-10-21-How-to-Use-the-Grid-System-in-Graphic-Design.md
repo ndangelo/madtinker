@@ -6,8 +6,7 @@ author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=5542'
 permalink: /how-to-use-the-grid-system-in-graphic-design/
-amazonS3_cache:
-    - 'a:2:{s:75:"//www.nuggetofjoy.com/wp-content/uploads/grid1-56a44dae5f9b58b7d0d63bea.jpg";a:2:{s:2:"id";s:4:"8581";s:11:"source_type";s:13:"media-library";}s:104:"//image-control-storage.s3.amazonaws.com/blog-images/2018/01/12140628/grid1-56a44dae5f9b58b7d0d63bea.jpg";a:2:{s:2:"id";s:4:"8581";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'Design Instruction'
     - Projects

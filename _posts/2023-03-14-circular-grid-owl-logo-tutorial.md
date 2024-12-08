@@ -4,7 +4,7 @@ title: 'Circular grid owl logo Tutorial'
 date: '2023-03-14T08:15:31-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=61768'
+
 permalink: /circular-grid-owl-logo-tutorial/
 categories:
     - 'DMET_160 Introduction to Multimedia'

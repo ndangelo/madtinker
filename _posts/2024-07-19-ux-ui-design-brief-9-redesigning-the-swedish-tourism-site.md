@@ -4,7 +4,7 @@ title: 'UX/UI design brief: Tourism Site'
 date: '2024-07-19T15:39:29-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65580'
+
 permalink: /ux-ui-design-brief-9-redesigning-the-swedish-tourism-site/
 categories:
     - UI/UX

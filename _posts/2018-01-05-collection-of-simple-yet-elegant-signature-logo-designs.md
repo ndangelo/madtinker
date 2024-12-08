@@ -4,10 +4,8 @@ title: 'Collection of Simple Yet Elegant Signature Logo Designs'
 date: '2018-01-05T11:17:10-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=10159'
+
 permalink: /collection-of-simple-yet-elegant-signature-logo-designs/
-category_sticky_post:
-    - '0'
 
 categories:
     - 'DMET 350 MEDIA GRAPHICS AND DESIGN'

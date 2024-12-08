@@ -4,7 +4,7 @@ title: 'UX/UI Project #6: Food App'
 date: '2024-07-19T15:01:50-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65556'
+
 permalink: /ux-ui-projects-for-beginners-6-food-app/
 categories:
     - Projects

@@ -4,7 +4,7 @@ title: HTML/CSSExamples
 date: '2023-04-18T12:48:36-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=62794'
+
 permalink: /html-cssexamples/
 categories:
     - Projects

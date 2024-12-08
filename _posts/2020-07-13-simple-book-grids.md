@@ -1,5 +1,5 @@
 ---
-guid: https://www.nuggetofjoy.com/?p=57234
+
 layout: post
 author: admin
 permalink: /simple-book-grids/

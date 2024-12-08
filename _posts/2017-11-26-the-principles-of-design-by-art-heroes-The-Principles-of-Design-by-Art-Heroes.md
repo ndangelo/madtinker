@@ -4,7 +4,7 @@ title: 'The Principles of Design by Art Heroes'
 date: '2017-11-26T16:54:48-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5838'
+
 permalink: /the-principles-of-design-by-art-heroes/
 categories:
     - 'DMET 350 MEDIA GRAPHICS AND DESIGN'

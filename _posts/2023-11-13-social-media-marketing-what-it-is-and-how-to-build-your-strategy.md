@@ -4,7 +4,7 @@ title: 'Social Media Marketing: What it is and how to build your strategy'
 date: '2023-11-13T11:52:41-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64051'
+
 permalink: /social-media-marketing-what-it-is-and-how-to-build-your-strategy/
 footnotes:
     - ''

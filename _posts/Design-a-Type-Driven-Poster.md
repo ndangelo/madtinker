@@ -4,8 +4,7 @@ title: 'Design a Type-Driven Poster'
 date: '2017-01-30T11:59:10-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=4817'
-permalink: '/?p=4817'
+
 categories:
     - 'DMET 350 MEDIA GRAPHICS AND DESIGN'
     - Projects

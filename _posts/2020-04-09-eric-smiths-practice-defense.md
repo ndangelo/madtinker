@@ -4,7 +4,7 @@ title: 'Eric Smith&#8217;s Practice Defense'
 date: '2020-04-09T11:35:18-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=56808'
+
 permalink: /eric-smiths-practice-defense/
 categories:
     - Projects

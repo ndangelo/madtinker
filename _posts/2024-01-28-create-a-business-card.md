@@ -4,7 +4,7 @@ title: 'Create a Business Card'
 date: '2024-01-28T10:47:32-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64918'
+
 permalink: /create-a-business-card/
 categories:
     - '255 Digital Publishing for Graphics &amp; Web'

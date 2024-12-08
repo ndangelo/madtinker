@@ -4,7 +4,7 @@ title: 'InDesign Tutorials'
 date: '2020-02-12T10:37:00-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54149'
+
 permalink: /indesign-tutorials/
 classic-editor-remember:
     - block-editor

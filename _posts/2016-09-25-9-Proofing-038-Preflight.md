@@ -1,11 +1,11 @@
 ---
 id: 3904
-title: '9. Proofing &#038; Preflight'
+title: '9. Proofing ; Preflight'
 date: '2016-09-25T14:53:35-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=3904'
-permalink: '/?p=3904'
+
+
 
 categories:
     - 'Design Instruction'

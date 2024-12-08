@@ -4,7 +4,7 @@ title: '6. Let&#8217;s get mathematical: Ratios, Margins and paddings, Borders, 
 date: '2023-01-13T18:54:30-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=59650'
+
 permalink: /lets-get-mathematical/
 categories:
     - 'DMET 155 Introduction to Web Design'

@@ -4,7 +4,7 @@ title: 'Get to know Photoshop'
 date: '2023-01-04T14:17:02-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=58355'
+
 permalink: /get-to-know-photoshop/
 
 categories:

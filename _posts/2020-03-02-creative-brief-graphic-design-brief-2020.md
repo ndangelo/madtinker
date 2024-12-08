@@ -4,7 +4,7 @@ title: 'Creative Brief (Graphic Design Brief) &#8211; 2024'
 date: '2020-03-02T16:40:41-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=55348'
+
 permalink: /creative-brief-graphic-design-brief-2020/
 
 categories:

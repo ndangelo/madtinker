@@ -4,8 +4,7 @@ title: 'Inspecting HTML And CSS'
 date: '2023-01-14T00:34:08-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=59676'
-permalink: '/?p=59676'
+
 
 categories:
     - 'DMET 155 Introduction to Web Design'

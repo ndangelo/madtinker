@@ -4,12 +4,8 @@ title: '20 Incredible Book Covers'
 date: '2019-02-19T16:26:12-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=35971'
+
 permalink: /20-incredible-book-covers-non-designers-can-pull-off-2/
-category_sticky_post:
-    - '0'
-footnotes:
-    - ''
 
 categories:
     - Projects

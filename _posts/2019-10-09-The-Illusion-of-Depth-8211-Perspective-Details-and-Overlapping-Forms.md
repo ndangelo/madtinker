@@ -4,7 +4,7 @@ title: 'The Illusion of Depth & Perspective, Details and Overlapping Forms'
 date: '2019-10-09T12:26:25-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=53282'
+
 permalink: /the-illusion-of-depth-perspective-details-and-overlapping-forms/
 categories:
   - Projects

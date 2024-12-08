@@ -4,7 +4,7 @@ title: 'Systems Thinking for the Graphic Designer 101: A Toolkit for Making Posi
 date: '2023-11-25T14:26:55-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64212'
+
 permalink: /systems-thinking-for-the-graphic-designer-101-a-toolkit-for-making-positive-impact/
 
 categories:

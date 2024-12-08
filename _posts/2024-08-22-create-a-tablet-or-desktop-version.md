@@ -4,7 +4,7 @@ title: 'Create a Tablet or Desktop Version VI'
 date: '2024-08-22T14:29:49-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66345'
+
 permalink: /create-a-tablet-or-desktop-version/
 enclosure:
 

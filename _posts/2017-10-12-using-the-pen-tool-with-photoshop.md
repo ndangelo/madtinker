@@ -4,7 +4,7 @@ title: 'Using the Pen Tool with Photoshop'
 date: '2017-10-12T10:52:47-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5367'
+
 permalink: /using-the-pen-tool-with-photoshop/
 category_sticky_post:
     - '0'

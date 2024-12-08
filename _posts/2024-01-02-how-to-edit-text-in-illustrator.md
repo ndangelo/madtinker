@@ -4,10 +4,9 @@ title: 'How to Edit Text in Illustrator'
 date: '2024-01-02T13:12:25-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64404'
+
 permalink: /how-to-edit-text-in-illustrator/
-amazonS3_cache:
-    - 'a:14:{s:56:"//www.nuggetofjoy.com/wp-content/uploads/EditText1-1.gif";a:2:{s:2:"id";s:5:"64481";s:11:"source_type";s:13:"media-library";}s:73:"//image-control-storage.s3.amazonaws.com/2024/01/02132339/EditText1-1.gif";a:2:{s:2:"id";s:5:"64481";s:11:"source_type";s:13:"media-library";}s:54:"//www.nuggetofjoy.com/wp-content/uploads/EditText2.gif";a:2:{s:2:"id";s:5:"64482";s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2024/01/02132340/EditText2.gif";a:2:{s:2:"id";s:5:"64482";s:11:"source_type";s:13:"media-library";}s:55:"//www.nuggetofjoy.com/wp-content/uploads/EditText2B.jpg";a:2:{s:2:"id";s:5:"64483";s:11:"source_type";s:13:"media-library";}s:72:"//image-control-storage.s3.amazonaws.com/2024/01/02132341/EditText2B.jpg";a:2:{s:2:"id";s:5:"64483";s:11:"source_type";s:13:"media-library";}s:54:"//www.nuggetofjoy.com/wp-content/uploads/EditText3.jpg";a:2:{s:2:"id";s:5:"64484";s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2024/01/02132342/EditText3.jpg";a:2:{s:2:"id";s:5:"64484";s:11:"source_type";s:13:"media-library";}s:54:"//www.nuggetofjoy.com/wp-content/uploads/EditText4.jpg";a:2:{s:2:"id";s:5:"64485";s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2024/01/02132343/EditText4.jpg";a:2:{s:2:"id";s:5:"64485";s:11:"source_type";s:13:"media-library";}s:54:"//www.nuggetofjoy.com/wp-content/uploads/EditText5.jpg";a:2:{s:2:"id";s:5:"64486";s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2024/01/02132344/EditText5.jpg";a:2:{s:2:"id";s:5:"64486";s:11:"source_type";s:13:"media-library";}s:54:"//www.nuggetofjoy.com/wp-content/uploads/EditText6.gif";a:2:{s:2:"id";s:5:"64487";s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2024/01/02132344/EditText6.gif";a:2:{s:2:"id";s:5:"64487";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET_160 Introduction to Multimedia'
     - Projects

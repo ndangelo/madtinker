@@ -4,10 +4,9 @@ title: 'Social Pastiche'
 date: '2023-11-25T13:29:45-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64182'
+
 permalink: /social-pastiche/
-amazonS3_cache:
-    - 'a:16:{s:54:"//www.nuggetofjoy.com/wp-content/uploads/image-104.png";a:2:{s:2:"id";i:64183;s:11:"source_type";s:13:"media-library";}s:63:"//www.nuggetofjoy.com/wp-content/uploads/image-104-640x1024.png";a:2:{s:2:"id";i:64183;s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2023/11/25131839/image-104.png";a:2:{s:2:"id";i:64183;s:11:"source_type";s:13:"media-library";}s:80:"//image-control-storage.s3.amazonaws.com/2023/11/25131839/image-104-640x1024.png";a:2:{s:2:"id";i:64183;s:11:"source_type";s:13:"media-library";}s:54:"//www.nuggetofjoy.com/wp-content/uploads/image-105.png";a:2:{s:2:"id";i:64184;s:11:"source_type";s:13:"media-library";}s:63:"//www.nuggetofjoy.com/wp-content/uploads/image-105-640x1024.png";a:2:{s:2:"id";i:64184;s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2023/11/25131929/image-105.png";a:2:{s:2:"id";i:64184;s:11:"source_type";s:13:"media-library";}s:80:"//image-control-storage.s3.amazonaws.com/2023/11/25131929/image-105-640x1024.png";a:2:{s:2:"id";i:64184;s:11:"source_type";s:13:"media-library";}s:54:"//www.nuggetofjoy.com/wp-content/uploads/image-106.png";a:2:{s:2:"id";i:64185;s:11:"source_type";s:13:"media-library";}s:63:"//www.nuggetofjoy.com/wp-content/uploads/image-106-640x1024.png";a:2:{s:2:"id";i:64185;s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2023/11/25132019/image-106.png";a:2:{s:2:"id";i:64185;s:11:"source_type";s:13:"media-library";}s:80:"//image-control-storage.s3.amazonaws.com/2023/11/25132019/image-106-640x1024.png";a:2:{s:2:"id";i:64185;s:11:"source_type";s:13:"media-library";}s:54:"//www.nuggetofjoy.com/wp-content/uploads/image-107.png";a:2:{s:2:"id";i:64186;s:11:"source_type";s:13:"media-library";}s:63:"//www.nuggetofjoy.com/wp-content/uploads/image-107-640x1024.png";a:2:{s:2:"id";i:64186;s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2023/11/25132054/image-107.png";a:2:{s:2:"id";i:64186;s:11:"source_type";s:13:"media-library";}s:80:"//image-control-storage.s3.amazonaws.com/2023/11/25132054/image-107-640x1024.png";a:2:{s:2:"id";i:64186;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - Projects
     - 'Social Design'

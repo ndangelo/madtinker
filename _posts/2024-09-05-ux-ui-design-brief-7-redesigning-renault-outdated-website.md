@@ -4,7 +4,7 @@ title: 'UX/UI design brief #7: Redesigning Renault outdated website'
 date: '2024-09-05T14:53:44-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66502'
+
 permalink: /ux-ui-design-brief-7-redesigning-renault-outdated-website/
 categories:
     - Projects

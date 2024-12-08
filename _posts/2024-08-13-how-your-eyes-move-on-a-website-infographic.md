@@ -4,7 +4,7 @@ title: 'How Your Eyes Move on a Website [INFOGRAPHIC]'
 date: '2024-08-13T11:02:39-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66201'
+
 permalink: /how-your-eyes-move-on-a-website-infographic/
 
 categories:

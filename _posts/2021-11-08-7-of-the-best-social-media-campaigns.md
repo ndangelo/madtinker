@@ -4,10 +4,8 @@ title: "7 of the Best Social Media Campaigns"
 date: '2021-11-08T13:49:26-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=57999'
+
 permalink: /7-of-the-best-social-media-campaigns/
-footnotes:
-    - ''
 
 categories:
     - Projects

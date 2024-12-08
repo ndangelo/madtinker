@@ -4,7 +4,7 @@ title: 'UX/UI Portfolio Project: eCommerce Site'
 date: '2024-07-18T14:01:41-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65544'
+
 permalink: /ux-ui-portfolio-projects-for-beginners-2-ecommerce-site/
 categories:
   - UI/UX

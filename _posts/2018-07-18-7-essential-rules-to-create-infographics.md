@@ -1,5 +1,5 @@
 ---
-guid: https://www.nuggetofjoy.com/?p=17223
+
 layout: post
 author: admin
 permalink: /7-essential-rules-to-create-infographics/

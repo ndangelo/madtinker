@@ -4,7 +4,7 @@ title: My MealPlan &#8211; App UX Case Study
 date: '2024-07-18T13:35:01-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65537'
+
 permalink: /my-mealplan-app-ux-case-study/
 categories:
   - UI/UX

@@ -4,7 +4,7 @@ title: 'Composition: The Foundation of Everything'
 date: '2024-11-23T10:18:40-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=1058'
+
 permalink: /composition-the-foundation-of-everything/
 
 categories:

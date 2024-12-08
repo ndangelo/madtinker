@@ -4,7 +4,7 @@ title: 'Drawing (Compositional Guidelines)'
 date: '2020-02-28T14:54:31-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54934'
+
 permalink: /drawing-compositional-guidelines/
 categories:
     - Projects

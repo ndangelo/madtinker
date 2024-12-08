@@ -4,7 +4,7 @@ title: '2. CSS: Units, Connecting HTML + CSS, Typography'
 date: '2023-01-14T01:25:35-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=59694'
+
 permalink: /css-units-connecting-html-css-typography/
 categories:
     - 'DMET 155 Introduction to Web Design'

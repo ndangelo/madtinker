@@ -4,7 +4,7 @@ title: 'Effective Twitter Ads (Lecture and Assignment)'
 date: '2024-08-03T14:52:39-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65995'
+
 permalink: /effective-twitter-ads-lecture-and-assignment/
 categories:
     - 'Interactive and Social Media'

@@ -4,7 +4,7 @@ title: 'UX/UI design brief #10: Redesigning Uber App for Increased Holiday Rides
 date: '2024-09-05T14:57:16-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66505'
+
 permalink: /ux-ui-design-brief-10-redesigning-uber-app-for-increased-holiday-rides/
 categories:
   - Projects

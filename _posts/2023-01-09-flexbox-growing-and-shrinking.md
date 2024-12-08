@@ -4,10 +4,9 @@ title: '12. Flexbox: Growing And Shrinking'
 date: '2023-01-09T17:45:51-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=58385'
+
 permalink: /flexbox-growing-and-shrinking/
-amazonS3_cache:
-    - 'a:2:{s:51:"//www.nuggetofjoy.com/wp-content/uploads/10-7-1.png";a:2:{s:2:"id";s:5:"59414";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/01/12174145/10-7-1.png";a:2:{s:2:"id";s:5:"59414";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET 155 Introduction to Web Design'
     - 'odin project'

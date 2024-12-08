@@ -4,7 +4,7 @@ title: 'Advanced HTML/CSS'
 date: '2023-04-13T07:25:57-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=62736'
+
 permalink: /advanced-html-css/
 
 categories:

@@ -4,7 +4,7 @@ title: 'CSS Cheat Sheet'
 date: '2019-09-24T09:11:11-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=114'
+
 permalink: /css-cheat-sheet/
 
 categories:

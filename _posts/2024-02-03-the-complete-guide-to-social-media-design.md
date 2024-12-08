@@ -4,11 +4,11 @@ title: 'The complete guide to social media design'
 date: '2024-02-03T17:25:26-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64991'
+
 permalink: /the-complete-guide-to-social-media-design/
 categories:
     - 'Interactive and Social Media'
-    - Projects
+    - 'Projects'
 ---
 
 Source: Levanier, J (n.d.). from https://99designs.com/blog/marketing-advertising/social-media-design/

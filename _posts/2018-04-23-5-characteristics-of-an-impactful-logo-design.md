@@ -4,8 +4,7 @@ layout: post
 author: admin
 permalink: /5-characteristics-of-an-impactful-logo-design/
 date: 2018-04-23T18:54:24-04:00
-category_sticky_post:
-  - "0"
+
 title: "5 CHARACTERISTICS OF AN IMPACTFUL LOGO DESIGN: Supplementary"
 tags:
   - design

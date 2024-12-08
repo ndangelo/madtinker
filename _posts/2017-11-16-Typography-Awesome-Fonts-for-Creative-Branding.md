@@ -4,8 +4,6 @@ title: 'Typography: Awesome Fonts for Creative Branding'
 date: '2017-11-16T23:49:49-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5702'
-permalink: '/?p=5702'
 
 categories:
     - Projects

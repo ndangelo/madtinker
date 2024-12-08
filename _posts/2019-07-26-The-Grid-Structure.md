@@ -4,8 +4,7 @@ title: 'The Grid Structure'
 date: '2019-07-26T13:39:41-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=30583'
-permalink: /30583-2/
+
 category_sticky_post:
     - '0'
 

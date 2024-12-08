@@ -4,7 +4,7 @@ title: 'Drawing the Head'
 date: '2019-11-25T09:31:39-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=53833'
+
 permalink: /drawing-the-head/
 
 categories:

@@ -4,7 +4,7 @@ title: 'Lateral Density'
 date: '2017-11-23T11:40:22-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5745'
+
 permalink: /lateral-density/
 
 categories:

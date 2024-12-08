@@ -4,7 +4,7 @@ title: 'Book Cover Design “Publication Design: Covers and Interiors”'
 date: '2018-02-06T11:44:43-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=1088'
+
 permalink: /book-cover-design-publication-design-covers-and-interiors/
 footnotes:
     - ''

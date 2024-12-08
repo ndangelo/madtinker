@@ -4,7 +4,7 @@ title: 'The Elements of Art by Art Heroes'
 date: '2017-11-26T16:55:38-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5840'
+
 permalink: /the-elements-of-art-by-art-heroes/
 categories:
     - 'Design Instruction'

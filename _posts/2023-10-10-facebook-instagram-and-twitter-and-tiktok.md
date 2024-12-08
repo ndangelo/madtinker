@@ -4,12 +4,9 @@ title: 'Facebook, Instagram and Twitter and Tiktok'
 date: '2023-10-10T18:32:26-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=63233'
+
 permalink: /facebook-instagram-and-twitter-and-tiktok/
-footnotes:
-    - ''
-amazonS3_cache:
-    - 'a:12:{s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-87.png";a:2:{s:2:"id";i:63234;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/10/10180708/image-87.png";a:2:{s:2:"id";i:63234;s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-88.png";a:2:{s:2:"id";i:63235;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/10/10180730/image-88.png";a:2:{s:2:"id";i:63235;s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-89.png";a:2:{s:2:"id";i:63236;s:11:"source_type";s:13:"media-library";}s:63:"//www.nuggetofjoy.com/wp-content/uploads/image-89-1024x1024.png";a:2:{s:2:"id";i:63236;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/10/10180746/image-89.png";a:2:{s:2:"id";i:63236;s:11:"source_type";s:13:"media-library";}s:80:"//image-control-storage.s3.amazonaws.com/2023/10/10180746/image-89-1024x1024.png";a:2:{s:2:"id";i:63236;s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-90.png";a:2:{s:2:"id";i:63237;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/10/10181246/image-90.png";a:2:{s:2:"id";i:63237;s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-91.png";a:2:{s:2:"id";i:63238;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/10/10181328/image-91.png";a:2:{s:2:"id";i:63238;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - Projects
 ---

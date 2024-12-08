@@ -4,7 +4,7 @@ title: 'Advanced Web Design 10-1&#8211;2020'
 date: '2020-10-01T13:43:16-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=57389'
+
 permalink: /advanced-web-design-9-30-2020/
 categories:
     - Projects

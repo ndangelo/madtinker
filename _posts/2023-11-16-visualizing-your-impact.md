@@ -4,12 +4,9 @@ title: 'Visualizing Your Impact: What you Eat and it&#8217;s Carbon Footprint'
 date: '2023-11-16T14:52:20-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64084'
+
 permalink: /visualizing-your-impact/
-footnotes:
-    - ''
-amazonS3_cache:
-    - 'a:8:{s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-97.png";a:2:{s:2:"id";i:64085;s:11:"source_type";s:13:"media-library";}s:62:"//www.nuggetofjoy.com/wp-content/uploads/image-97-767x1024.png";a:2:{s:2:"id";i:64085;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/11/15144721/image-97.png";a:2:{s:2:"id";i:64085;s:11:"source_type";s:13:"media-library";}s:79:"//image-control-storage.s3.amazonaws.com/2023/11/15144721/image-97-767x1024.png";a:2:{s:2:"id";i:64085;s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-98.png";a:2:{s:2:"id";i:64086;s:11:"source_type";s:13:"media-library";}s:62:"//www.nuggetofjoy.com/wp-content/uploads/image-98-687x1024.png";a:2:{s:2:"id";i:64086;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/11/15144818/image-98.png";a:2:{s:2:"id";i:64086;s:11:"source_type";s:13:"media-library";}s:79:"//image-control-storage.s3.amazonaws.com/2023/11/15144818/image-98-687x1024.png";a:2:{s:2:"id";i:64086;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - Projects
     - 'Social Design'

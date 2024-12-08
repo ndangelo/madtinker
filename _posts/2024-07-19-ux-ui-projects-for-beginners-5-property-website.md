@@ -4,7 +4,7 @@ title: 'UX/UI Project #5: Property Website'
 date: '2024-07-19T14:58:18-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65554'
+
 permalink: /ux-ui-projects-for-beginners-5-property-website/
 categories:
     - Projects

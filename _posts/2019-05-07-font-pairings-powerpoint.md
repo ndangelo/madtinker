@@ -4,10 +4,9 @@ title: 'Font Pairings: Powerpoint'
 date: '2019-05-07T14:42:14-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=4797'
+
 permalink: /font-pairings-powerpoint/
-category_sticky_post:
-    - '0'
+
 
 categories:
     - 'DMET 355 ADVANCED WEB DESIGN'

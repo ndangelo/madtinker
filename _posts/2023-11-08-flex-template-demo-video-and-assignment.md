@@ -4,7 +4,7 @@ title: 'Flex-Template: Demo Video and Assignment'
 date: '2023-11-08T12:42:48-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64007'
+
 permalink: /flex-template-demo-video-and-assignment/
 footnotes:
     - ''
@@ -142,7 +142,9 @@ Having trouble removing flex commands in @media? Use the folling command and sta
 
 ```css
 .column {
- all: initial;
+ all: initial;
+
+
 }
 ```
 

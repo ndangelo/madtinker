@@ -4,7 +4,7 @@ title: '13. Flexbox: Axes'
 date: '2023-01-09T18:19:52-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=58456'
+
 permalink: /flexbox-axes/
 categories:
     - 'DMET 155 Introduction to Web Design'

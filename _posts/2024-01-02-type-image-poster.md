@@ -4,11 +4,11 @@ title: 'Type + Image Poster'
 date: '2024-01-02T15:13:58-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=64592'
+
 permalink: /type-image-poster/
 categories:
     - 'DMET 350 MEDIA GRAPHICS AND DESIGN'
-    - Projects
+    - 'Projects'
 ---
 
 #### PROJECT BRIEF

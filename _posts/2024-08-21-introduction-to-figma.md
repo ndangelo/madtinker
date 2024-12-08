@@ -4,7 +4,7 @@ title: 'Introduction to Figma I'
 date: '2024-08-21T16:06:54-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66318'
+
 permalink: /introduction-to-figma/
 enclosure:
 

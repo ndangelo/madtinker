@@ -4,10 +4,9 @@ title: '11. Introduction To Flexbox'
 date: '2023-01-09T17:47:30-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=58398'
+
 permalink: /introduction-to-flexbox/
-amazonS3_cache:
-    - 'a:6:{s:51:"//www.nuggetofjoy.com/wp-content/uploads/03-4-4.png";a:2:{s:2:"id";s:5:"59404";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/01/12173410/03-4-4.png";a:2:{s:2:"id";s:5:"59404";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/04-3-3.png";a:2:{s:2:"id";s:5:"59405";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/01/12173412/04-3-3.png";a:2:{s:2:"id";s:5:"59405";s:11:"source_type";s:13:"media-library";}s:51:"//www.nuggetofjoy.com/wp-content/uploads/05-1-1.png";a:2:{s:2:"id";s:5:"59406";s:11:"source_type";s:13:"media-library";}s:68:"//image-control-storage.s3.amazonaws.com/2023/01/12173412/05-1-1.png";a:2:{s:2:"id";s:5:"59406";s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'DMET 155 Introduction to Web Design'
     - 'odin project'

@@ -4,8 +4,7 @@ title: 'Add Text'
 date: '2020-01-08T16:03:23-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=53990'
-permalink: '/?p=53990'
+
 categories:
     - Projects
 ---

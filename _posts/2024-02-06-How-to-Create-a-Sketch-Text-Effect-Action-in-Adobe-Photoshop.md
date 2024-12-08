@@ -4,8 +4,7 @@ title: 'How to Create a Sketch Text Effect Action in Adobe Photoshop'
 date: '2024-02-06T14:08:25-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65030'
-permalink: '/?p=65030'
+
 categories:
     - 'DMET_160 Introduction to Multimedia'
     - Projects

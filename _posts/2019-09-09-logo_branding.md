@@ -4,10 +4,8 @@ title: 'Logo/Corporate Branding'
 date: '2019-09-09T15:35:43-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=575'
+
 permalink: /logo_branding/
-category_sticky_post:
-    - '0'
 
 categories:
     - 'DMET 375 IMAGING TECHNOLOGY'

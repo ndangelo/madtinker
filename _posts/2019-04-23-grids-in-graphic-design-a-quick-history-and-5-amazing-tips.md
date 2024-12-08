@@ -4,10 +4,9 @@ title: 'Grids In Graphic Design: A Quick History, and 5 Amazing Tips'
 date: '2019-04-23T11:46:04-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=31002'
+
 permalink: /grids-in-graphic-design-a-quick-history-and-5-amazing-tips/
-category_sticky_post:
-    - '0'
+
 
 categories:
     - Projects

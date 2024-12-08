@@ -4,7 +4,7 @@ title: 'Observational Drawing'
 date: '2020-02-10T18:59:24-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=54403'
+
 permalink: /observational-drawing/
 
 categories:

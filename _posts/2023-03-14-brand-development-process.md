@@ -4,7 +4,7 @@ title: 'Brand Development/Process'
 date: '2023-03-14T08:27:22-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=61770'
+
 permalink: /brand-development-process/
 
 categories:

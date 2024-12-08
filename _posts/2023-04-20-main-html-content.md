@@ -4,10 +4,8 @@ title: 'HTML/CSS Reference for DMET 155 Introduction to Web'
 date: '2023-04-20T07:30:43-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=62117'
+
 permalink: /main-html-content/
-footnotes:
-    - ''
 
 categories:
     - 'DMET 155 Introduction to Web Design'

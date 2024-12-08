@@ -1,5 +1,5 @@
 ---
-guid: https://www.nuggetofjoy.com/?p=58450
+
 layout: post
 author: admin
 permalink: /introduction-to-html-and-css/
@@ -10,7 +10,7 @@ categories:
   - odin project
 tags:
   - code
-id: 58450
+
 ---
 
 So here it is: it’s time to actually start *making things*. This section will teach you the basics of HTML and CSS, the two foundational building blocks of pretty much everything on the web.

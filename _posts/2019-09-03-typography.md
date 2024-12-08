@@ -4,10 +4,8 @@ title: 'Signature Logo &#8211; Section &#8211; Media Graphics'
 date: '2019-09-03T10:59:42-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=1621'
+
 permalink: /typography/
-category_sticky_post:
-    - '0'
 
 categories:
     - 'Design Instruction'

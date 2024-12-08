@@ -4,10 +4,9 @@ title: 'What is Twitter?'
 date: '2024-08-03T14:59:08-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65997'
+
 permalink: /what-is-twitter/
-amazonS3_cache:
-    - 'a:2:{s:54:"//www.nuggetofjoy.com/wp-content/uploads/image-146.png";a:2:{s:2:"id";i:65999;s:11:"source_type";s:13:"media-library";}s:71:"//image-control-storage.s3.amazonaws.com/2024/08/03145850/image-146.png";a:2:{s:2:"id";i:65999;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - 'Interactive and Social Media'
     - Projects

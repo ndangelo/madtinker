@@ -4,7 +4,7 @@ title: 'UX Sketching Exercises for Ideation Part 2: Sketching flows'
 date: '2024-07-24T10:55:26-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65627'
+
 permalink: /ux-sketching-exercises-for-ideation-part-2-sketching-flows/
 categories:
     - UI/UX

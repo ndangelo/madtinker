@@ -4,7 +4,7 @@ title: '3. HTML Boilerplate'
 date: '2023-01-09T18:15:13-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=58442'
+
 permalink: /html-boilerplate/
 categories:
     - 'DMET 155 Introduction to Web Design'

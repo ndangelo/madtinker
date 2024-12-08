@@ -4,10 +4,9 @@ title: 'DMET 155: Introduction to Web Design'
 date: '2020-01-20T15:10:46-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=6716'
+
 permalink: /welcome-to-dmet-155-introduction-to-web-design/
-category_sticky_post:
-    - '0'
+
 classic-editor-remember:
     - block-editor
 

@@ -4,7 +4,7 @@ title: '10. Block And Inline'
 date: '2023-01-09T17:52:56-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=58406'
+
 permalink: /block-and-inline/
 categories:
     - 'DMET 155 Introduction to Web Design'

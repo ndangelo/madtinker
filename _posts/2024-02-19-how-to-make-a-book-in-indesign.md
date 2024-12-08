@@ -4,10 +4,9 @@ title: 'How to Create a Book Jacket Template in InDesign'
 date: '2024-02-19T10:38:26-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65098'
+
 permalink: /how-to-make-a-book-in-indesign/
-amazonS3_cache:
-    - 'a:2:{s:50:"//www.nuggetofjoy.com/wp-content/uploads/fpo-1.gif";a:2:{s:2:"id";i:65153;s:11:"source_type";s:13:"media-library";}s:67:"//image-control-storage.s3.amazonaws.com/2024/02/26130328/fpo-1.gif";a:2:{s:2:"id";i:65153;s:11:"source_type";s:13:"media-library";}}'
+
 categories:
     - '255 Digital Publishing for Graphics &amp; Web'
 ---

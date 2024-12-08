@@ -4,12 +4,10 @@ title: 'How to Create a Double Exposure Image in Adobe Photoshop'
 date: '2019-04-30T14:08:38-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5512'
+
 permalink: /how-to-create-a-double-exposure-action-in-adobe-photoshop/
-category_sticky_post:
-    - '0'
-amazonS3_cache:
-    - 'a:18:{s:56:"//www.nuggetofjoy.com/wp-content/uploads/cabecera1-1.jpg";a:2:{s:2:"id";s:5:"42593";s:11:"source_type";s:13:"media-library";}s:73:"//image-control-storage.s3.amazonaws.com/2019/04/29094925/cabecera1-1.jpg";a:2:{s:2:"id";s:5:"42593";s:11:"source_type";s:13:"media-library";}s:69:"//www.nuggetofjoy.com/wp-content/uploads/n6stb5kbruu-lea-dubedout.jpg";a:2:{s:2:"id";s:5:"42594";s:11:"source_type";s:13:"media-library";}s:86:"//image-control-storage.s3.amazonaws.com/2019/04/29094926/n6stb5kbruu-lea-dubedout.jpg";a:2:{s:2:"id";s:5:"42594";s:11:"source_type";s:13:"media-library";}s:56:"//www.nuggetofjoy.com/wp-content/uploads/city-569093.jpg";a:2:{s:2:"id";s:5:"42595";s:11:"source_type";s:13:"media-library";}s:73:"//image-control-storage.s3.amazonaws.com/2019/04/29094927/city-569093.jpg";a:2:{s:2:"id";s:5:"42595";s:11:"source_type";s:13:"media-library";}s:47:"//www.nuggetofjoy.com/wp-content/uploads/1x.jpg";a:2:{s:2:"id";s:5:"42596";s:11:"source_type";s:13:"media-library";}s:64:"//image-control-storage.s3.amazonaws.com/2019/04/29094928/1x.jpg";a:2:{s:2:"id";s:5:"42596";s:11:"source_type";s:13:"media-library";}s:47:"//www.nuggetofjoy.com/wp-content/uploads/5x.jpg";a:2:{s:2:"id";s:5:"42598";s:11:"source_type";s:13:"media-library";}s:64:"//image-control-storage.s3.amazonaws.com/2019/04/29094929/5x.jpg";a:2:{s:2:"id";s:5:"42598";s:11:"source_type";s:13:"media-library";}s:47:"//www.nuggetofjoy.com/wp-content/uploads/6x.jpg";a:2:{s:2:"id";s:5:"42599";s:11:"source_type";s:13:"media-library";}s:64:"//image-control-storage.s3.amazonaws.com/2019/04/29094929/6x.jpg";a:2:{s:2:"id";s:5:"42599";s:11:"source_type";s:13:"media-library";}s:47:"//www.nuggetofjoy.com/wp-content/uploads/8x.jpg";a:2:{s:2:"id";s:5:"42600";s:11:"source_type";s:13:"media-library";}s:64:"//image-control-storage.s3.amazonaws.com/2019/04/29094930/8x.jpg";a:2:{s:2:"id";s:5:"42600";s:11:"source_type";s:13:"media-library";}s:48:"//www.nuggetofjoy.com/wp-content/uploads/910.jpg";a:2:{s:2:"id";s:5:"42601";s:11:"source_type";s:13:"media-library";}s:65:"//image-control-storage.s3.amazonaws.com/2019/04/29094931/910.jpg";a:2:{s:2:"id";s:5:"42601";s:11:"source_type";s:13:"media-library";}s:48:"//www.nuggetofjoy.com/wp-content/uploads/10x.jpg";a:2:{s:2:"id";s:5:"42603";s:11:"source_type";s:13:"media-library";}s:65:"//image-control-storage.s3.amazonaws.com/2019/04/29094932/10x.jpg";a:2:{s:2:"id";s:5:"42603";s:11:"source_type";s:13:"media-library";}}'
+
+
 categories:
     - 'DMET 350 MEDIA GRAPHICS AND DESIGN'
     - 'Photoshop Tutorials'

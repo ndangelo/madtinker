@@ -4,7 +4,7 @@ title: 'Photo-Based Poster Art'
 date: '2023-01-19T16:06:24-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=60053'
+
 permalink: /poster-art/
 
 categories:

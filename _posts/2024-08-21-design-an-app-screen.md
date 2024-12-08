@@ -4,9 +4,9 @@ title: Design an App Screen II
 date: '2024-12-07T16:35:41-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=66325'
+
 permalink: /design-an-app-screen/
-enclosure: null
+
 categories:
   - UI/UX
 tag:

@@ -4,7 +4,7 @@ title: 'Designing an SEO-Friendly Website Menu'
 date: '2024-07-24T14:36:59-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=65654'
+
 permalink: /designing-an-seo-friendly-website-menu/
 categories:
     - UI/UX

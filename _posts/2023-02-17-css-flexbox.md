@@ -4,12 +4,9 @@ title: 'CSS Flexbox Poster and Demo'
 date: '2023-02-17T13:24:36-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=58382'
+
 permalink: /css-flexbox/
-footnotes:
-    - ''
-amazonS3_cache:
-    - 'a:5:{s:63:"//www.nuggetofjoy.com/wp-content/uploads/css-flexbox-poster.png";a:1:{s:9:"timestamp";i:1732397993;}s:72:"//www.nuggetofjoy.com/wp-content/uploads/css-flexbox-poster-683x1024.png";a:1:{s:9:"timestamp";i:1732385582;}s:72:"//www.nuggetofjoy.com/wp-content/uploads/css-flexbox-poster-768x1152.png";a:1:{s:9:"timestamp";i:1732385582;}s:73:"//www.nuggetofjoy.com/wp-content/uploads/css-flexbox-poster-1024x1536.png";a:1:{s:9:"timestamp";i:1732385582;}s:73:"//www.nuggetofjoy.com/wp-content/uploads/css-flexbox-poster-1365x2048.png";a:1:{s:9:"timestamp";i:1732385582;}}'
+
 categories:
     - 'DMET 155 Introduction to Web Design'
 ---

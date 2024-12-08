@@ -4,7 +4,7 @@ title: 'How to Turn Day Into Night in Adobe Photoshop'
 date: '2017-11-26T17:37:16-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=5842'
+
 permalink: /final-part-i-how-to-turn-day-into-night-in-adobe-photoshop/
 
 categories:
