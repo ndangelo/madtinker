@@ -74,16 +74,16 @@ $(document).ready(function () {
   <div class="wrapper">
 
   
-   <span>
+  
       {% for tag in page.tags %}
 
-      <br><br><br><br>
+      <br>
 
       {% capture tag_name %}{{ tag }}{% endcapture %}
       tag: <a href="/tag/{{ tag_name }}">&nbsp;{{ tag_name }}&nbsp;</a>
       {% endfor %}
       
-</span>
+
       {{ content }}
 
       <br /><br /><br />

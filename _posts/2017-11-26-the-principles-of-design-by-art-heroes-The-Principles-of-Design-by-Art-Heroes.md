@@ -1,5 +1,5 @@
 ---
-id: 5838
+
 title: 'The Principles of Design by Art Heroes'
 date: '2017-11-26T16:54:48-04:00'
 author: admin
