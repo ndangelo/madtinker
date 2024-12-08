@@ -4,8 +4,8 @@ title: 'InDesign Magazine Layouts: Working With Photos'
 date: '2018-03-08T15:33:02-04:00'
 author: admin
 layout: post
-guid: 'https://www.nuggetofjoy.com/?p=16203'
-permalink: '/?p=16203'
+
+permalink: ''
 
 categories:
     - InDesign
