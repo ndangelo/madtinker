@@ -4,7 +4,6 @@ title: 'Chapter 6: Composition'
 date: '2015-02-12T18:01:41-04:00'
 author: admin
 layout: post
-
 permalink: /chapter-6-composition/
 categories:
   - DMET 350 MEDIA GRAPHICS AND DESIGN
