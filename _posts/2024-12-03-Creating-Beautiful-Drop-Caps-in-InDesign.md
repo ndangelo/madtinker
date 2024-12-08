@@ -5,9 +5,14 @@ layout: post
 author: admin
 permalink: /?p=16185
 title: Creating Beautiful Drop Caps in InDesign
-date: {}
+date:
+  'Fri Jun 07 2024 20:00:00 GMT-0400 (Eastern Daylight Time)': null
 id: 16185
 categories:
+  - InDesign
+  - Tutorials
+tag:
+  - tutorials
   - InDesign
 ---
 
@@ -112,5 +117,3 @@ And there we have it! Drop caps are a fantastic technique for adding elegance an
 ![drop cap adobe indesign typography magazine design fill with image](https://www.indesignskills.com/wp-content/uploads/2017/02/Screen-Shot-2017-01-26-at-16.44.24.png)
 
 Whether you opt for a simple style using InDesign’s inbuilt **Drop Cap** function or create your own custom design you’ll find that drop caps really are the cherry on the cake of a professional typographic layout.
-
-
