@@ -1,16 +1,16 @@
 ---
 id: 41784
-title: '27 Brilliant Banner Ads Examples from Tech Industry'
+title: 2019-04-24 27 Brilliant Banner Ads Examples from Tech Industry
 date: '2019-04-24T08:41:27-04:00'
 author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=41784'
 permalink: /27-brilliant-banner-ads-examples-from-tech-industry/
 category_sticky_post:
-    - '0'
+  - '0'
 categories:
-    - 'DMET 375 IMAGING TECHNOLOGY'
-    - Projects
+  - DMET 375 IMAGING TECHNOLOGY
+  - Projects
 ---
 
 by [Robert Katai](https://blog.bannersnack.com/author/robert-katai/)[May 9, 2016](https://blog.bannersnack.com/banner-ads-examples-from-tech-industry/)**[39 COMMENTS](https://blog.bannersnack.com/banner-ads-examples-from-tech-industry/#comments)**
