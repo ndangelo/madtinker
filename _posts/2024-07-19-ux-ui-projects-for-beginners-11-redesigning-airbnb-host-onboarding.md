@@ -7,18 +7,20 @@ layout: post
 guid: 'https://www.nuggetofjoy.com/?p=65560'
 permalink: /ux-ui-projects-for-beginners-11-redesigning-airbnb-host-onboarding/
 categories:
-    - UI/UX
-        - UI
-
+  - UI/UX - UI
 tag:
-    - UI
+  - UI
 ---
 
-Source: Pedzai, C. (2024). UX/UI projects for beginners #11: Redesigning Airbnb host onboarding. Retrieved from https://uxdesignmastery.com/ux-ui-projects-for-beginners-11-redesigning-airbnb-host-onboarding/
+Source: Pedzai, C. (2024). UX/UI projects for beginners #11: 
+
+Redesigning Airbnb host onboarding. Retrieved from https://uxdesignmastery.com/ux-ui-projects-for-beginners-11-redesigning-airbnb-host-onboarding/
 
 This project requires you to redesign the Airbnb website to streamline and accelerate the onboarding process for new hosts. The focus will be on simplifying the user journey, providing clear guidance, and reducing the time required to become an active host.
 
-<div class="wp-block-image"><figure class="aligncenter">[![Design Element](https://uxdesignmastery.com/wp-content/uploads/2024/07/Airbnb-host-website-page-Source-Retrieved-from-https-wwwairbnbcom-host-homes-in.jpg)](https://uxdesignmastery.com/wp-content/uploads/2024/07/Airbnb-host-website-page-Source-Retrieved-from-https-wwwairbnbcom-host-homes-in.jpg)</figure></div>## UX UI Design Project 6: Redesigning Airbnb Host Onboarding
+![Design Element](https://uxdesignmastery.com/wp-content/uploads/2024/07/Airbnb-host-website-page-Source-Retrieved-from-https-wwwairbnbcom-host-homes-in.jpg)
+
+## UX UI Design Project 6: Redesigning Airbnb Host Onboarding
 
 ## **Client:** Airbnb
 
@@ -66,7 +68,7 @@ Website screens are 1440px wide, and mobile web screens are 375px wide. Large in
 
 References that our company would like the new website to follow in terms of structure and layout. It will be your job to replicate something close to these examples but add your creative flair to it.
 
-- **Vrbo:**[ ](https://www.vrbo.com/)[Vrbo](https://www.vrbo.com/)
+- **Vrbo:**[Vrbo](https://www.vrbo.com/)[Vrbo](https://www.vrbo.com/)
 
 - **Booking.com:**[Booking.com](https://www.booking.com/)
 
@@ -86,8 +88,12 @@ References that our company would like the new website to follow in terms of str
 
 **6. Host Dashboard:** This dashboard offers an overview of listings, performance metrics, booking management, and guest communication tools. It offers a user-friendly interface for managing properties and tracking performance.
 
-<div class="wp-block-image"><figure class="aligncenter">![Design Element](https://uxdesignmastery.com/wp-content/uploads/2023/05/testing-1024x415.png)</figure></div>## Testing and Results section
+![Design Element](https://uxdesignmastery.com/wp-content/uploads/2023/05/testing-1024x415.png)
+
+## Testing and Results section
 
 Show your wireframes to 5 people and ask them, using your designs, what they think about them, what they would improve, and an overall rating.
 
 Take their feedback, iterate the designs, and have a final round of testing with five users. See that you improve your overall rating. If not go back to the drawing board and change your designs and retest.
+
+  

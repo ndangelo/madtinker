@@ -7,11 +7,11 @@ layout: post
 guid: 'https://www.nuggetofjoy.com/?p=66505'
 permalink: /ux-ui-design-brief-10-redesigning-uber-app-for-increased-holiday-rides/
 categories:
-    - Projects
-
+  - Projects
+  - UI
 tag:
-    - UI
-    - IA
+  - UI
+  - IA
 ---
 
 Pedzai, C. (2024). UX/UI design brief #10: Redesigning Uber App for Increased Holiday Rides. Retrieved from [https://uxdesignmastery.com/ux-ui-design-brief-10-redesigning-uber-app-for-increased-holiday-rides/](https://uxdesignmastery.com/ux-ui-design-brief-10-redesigning-uber-app-for-increased-holiday-rides/)
