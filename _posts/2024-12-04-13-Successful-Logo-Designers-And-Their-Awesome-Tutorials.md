@@ -1,14 +1,11 @@
 ---
-
-
 layout: post
 author: admin
 permalink: /13-successful-logo-designers-and-their-awesome-tutorials/
 title: 13 Successful Logo Designers And Their Awesome Tutorials
-date: 2024-12-04T13:32:00.000Z
+date: {}
 tag:
   - design
-
 categories:
   - Design Instruction
   - DMET 350 MEDIA GRAPHICS AND DESIGN
@@ -129,9 +126,9 @@ Hope you find this helpful.
 
 ![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184233/1_3eeTrbiPMpiK9ytRzBVsQQ.png)
 
-![]](https://cdn-images-1.medium.com/max/1600/1*3eeTrbiPMpiK9ytRzBVsQQ.png)
+![](https://cdn-images-1.medium.com/max/1600/1*3eeTrbiPMpiK9ytRzBVsQQ.png)
 
-![]()](https://cdn-images-1.medium.com/max/1600/1*3eeTrbiPMpiK9ytRzBVsQQ.png)
+![](https://cdn-images-1.medium.com/max/1600/1*3eeTrbiPMpiK9ytRzBVsQQ.png)
 
 ![](https://cdn-images-1.medium.com/max/1600/1*3eeTrbiPMpiK9ytRzBVsQQ.png)[Sean McCabe](https://seanwes.com/lettering/)
 
@@ -153,7 +150,7 @@ Hope you find this helpful.
 ### 7. Matt Yow — Graphic Designer, San Francisco, CA
 
 
-[![]()](https://cdn-images-1.medium.com/max/1600/1*7WE96kmulFLA0lwgSzZmXQ.png)
+![](https://cdn-images-1.medium.com/max/1600/1*7WE96kmulFLA0lwgSzZmXQ.png)
 
 
 ![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184255/1_7WE96kmulFLA0lwgSzZmXQ.png)
@@ -173,9 +170,9 @@ Hope you find this helpful.
 ### 8. Martina Flor — Letterer &amp; Designer, Berlin, Germany
 
 
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184318/1_ATgsFj3K6lVykX2f3Rtv7w.png)[
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/11/21184318/1_ATgsFj3K6lVykX2f3Rtv7w.png)
 
-![]()](https://cdn-images-1.medium.com/max/1600/1*ATgsFj3K6lVykX2f3Rtv7w.png)
+![](https://cdn-images-1.medium.com/max/1600/1*ATgsFj3K6lVykX2f3Rtv7w.png)
 
 [Martina Flor](http://www.martinaflor.com/)
 
@@ -283,6 +280,5 @@ Hope you find this helpful.
 - [Instagram](https://www.instagram.com/willpat/)
 - [Dribbble](https://dribbble.com/Willpaterson)
 
-> Hi guys, how are you? We all know how hard it is to create awesome, effective logos that align with the company’s mission and voice. After…
 
-Source: *[13 Successful Logo Designers And Their Awesome Tutorials](https://medium.muz.li/10-succesfull-logo-designers-and-their-awesome-tutorials-f0540d655829)*
+Source: [*13 Successful Logo Designers And Their Awesome Tutorials*](https://medium.muz.li/10-succesfull-logo-designers-and-their-awesome-tutorials-f0540d655829)
