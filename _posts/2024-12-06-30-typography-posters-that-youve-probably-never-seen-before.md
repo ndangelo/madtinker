@@ -1,17 +1,18 @@
 ---
-title: 30 TYPOGRAPHY POSTERS THAT YOU’VE PROBABLY NEVER SEEN BEFORE
-date: 2024-12-06T14:30:00.000Z
-
-title: '30 TYPOGRAPHY POSTERS THAT YOU’VE PROBABLY NEVER SEEN BEFORE'
+date: '2024-12-06T14:58:24-04:00'
 author: admin
 layout: post
-permalink: /30-typography-posters-that-youve-probably-never-seen-before/
+permalink: /wireframes-part-two/
 categories:
-    - DMET_160 Introduction to Multimedia
-    - Projects
-
+  - Design
+  - DMET 375 IMAGING TECHNOLOGY
+  - Projects
+  - Typography
 tag:
-    - design
+  - typography
+tags:
+  - typography
+  - design
 ---
 
 **Typography** is the art of arranging, designing, and modifying type.
