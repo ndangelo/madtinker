@@ -2,7 +2,7 @@
 
 layout: post
 author: admin
-permalink: /?p=3750
+
 title: 2. Page number your Masters
 date: 2016-09-24T16:55:56-04:00
 tag:
