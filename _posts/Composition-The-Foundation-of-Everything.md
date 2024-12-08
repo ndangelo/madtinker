@@ -5,7 +5,7 @@ date: '2024-11-23T10:18:40-04:00'
 author: admin
 layout: revision
 guid: 'https://www.nuggetofjoy.com/?p=66868'
-permalink: '/?p=66868'
+permalink: /?p=66868
 ---
 
 ### PROJECT: Composition
