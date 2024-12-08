@@ -6,7 +6,7 @@ permalink: /:categories/:year/:month/:day/:title/
 paginate: 1
 
 plugins: [jekyll-paginate]
-         [jekyll-admin]
+         
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
 baseurl: /

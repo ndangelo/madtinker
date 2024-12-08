@@ -6,4 +6,4 @@ gem 'github-pages'
 
 gem 'jekyll-archives'
 
-gem 'jekyll-admin'
+
