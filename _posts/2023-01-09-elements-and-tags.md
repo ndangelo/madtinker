@@ -1,16 +1,17 @@
 ---
 id: 58444
-title: '2. Elements And Tags'
+title: 2. Elements And Tags
 date: '2023-01-09T18:16:32-04:00'
 author: admin
 layout: post
 guid: 'https://www.nuggetofjoy.com/?p=58444'
 permalink: /elements-and-tags/
 amazonS3_cache:
-    - 'a:2:{s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-12.png";a:2:{s:2:"id";i:59373;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/01/12172223/image-12.png";a:2:{s:2:"id";i:59373;s:11:"source_type";s:13:"media-library";}}'
+  - >-
+    a:2:{s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-12.png";a:2:{s:2:"id";i:59373;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/01/12172223/image-12.png";a:2:{s:2:"id";i:59373;s:11:"source_type";s:13:"media-library";}}
 categories:
-    - 'DMET 155 Introduction to Web Design'
-    - 'odin project'
+  - DMET 155 Introduction to Web Design
+  - odin project
 ---
 
 HTML (HyperText Markup Language) defines the structure and content of webpages. We use HTML elements to create all of the paragraphs, headings, lists, images, and links that make up a typical webpage. In this lesson, we will explore how HTML elements work.
@@ -32,7 +33,9 @@ Closing tags tell the browser where an element ends. They are almost the same as
 
 A full paragraph element looks like this:
 
-<figure class="wp-block-image size-full">![](https://image-control-storage.s3.amazonaws.com/2023/01/12172223/image-12.png)</figure>You can think of elements as containers for content. The opening and closing tags tell the browser what content the element contains. The browser can then use that information to determine how it should interpret and format the content.
+![](https://image-control-storage.s3.amazonaws.com/2023/01/12172223/image-12.png)
+
+You can think of elements as containers for content. The opening and closing tags tell the browser what content the element contains. The browser can then use that information to determine how it should interpret and format the content.
 
 There are some HTML elements that do not have a closing tag. These elements often look like this: `<br />` or `<img/>`, but some can also be used without the closing forward slash such as `<br>` or `<img>`. These are known as self-closing tags or empty elements because they don’t wrap any content. We will encounter a few of these in later lessons, but for the most part, elements will have both opening and closing tags.
 
