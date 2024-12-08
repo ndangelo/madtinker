@@ -8,6 +8,12 @@ guid: 'https://www.nuggetofjoy.com/?p=947'
 permalink: /chapter-6-composition/
 categories:
   - DMET 350 MEDIA GRAPHICS AND DESIGN
+  - Drawing
+  - Design
+tag:
+  - design
+  - drawing
+  - art
 ---
 
 ### PROJECT 6-1
