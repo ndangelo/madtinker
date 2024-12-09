@@ -1,5 +1,5 @@
 ---
-id: 65997
+
 title: 'What is Twitter?'
 date: '2024-08-03T14:59:08-04:00'
 author: admin
@@ -10,6 +10,9 @@ permalink: /what-is-twitter/
 categories:
     - 'Interactive and Social Media'
     - Projects
+    - Social
+tags:
+    - social
 ---
 
 Hetler, A. (2024). What is Twitter? Retrieved from https://www.techtarget.com/whatis/definition/Twitter

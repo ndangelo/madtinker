@@ -1,5 +1,5 @@
 ---
-id: 66072
+
 title: 'The Project Process in Figma/FigJam: User Flow, Low-Fidelity and High-Fidelity Prototyping'
 date: '2024-08-07T12:25:55-04:00'
 author: admin
@@ -9,20 +9,27 @@ permalink: /the-project-process-in-figma-figjam/
 
 categories:
     - UI/UX
+    - UI
+
+tags:
+    - UI
 ---
 
 ## User Flow:
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized">![User Flow in Figma](https://image-control-storage.s3.amazonaws.com/2024/08/08143018/image-157-1024x580.png)</figure></div>**User flows, UX flows, or flowcharts**, sometimes called diagrams that display the complete path a user takes when using a product.
+![User Flow in Figma](https://image-control-storage.s3.amazonaws.com/2024/08/08143018/image-157-1024x580.png)
+
+**User flows, UX flows, or flowcharts**, sometimes called diagrams that display the complete path a user takes when using a product.
 
 The user flow maps out the user’s movement through the product, mapping out each step from the entry point to the final interaction.
 
-Browne, C., (2024). What Are User Flows In UX Design? \[Full Beginner’s Guide\]. Retrieved from https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/#:~:text=User%20flows%2C%20UX%20flows%2C%20or,through%20to%20the%20final%20interaction.
+Browne, C., (2024). [What Are User Flows In UX Design? Retrieved from:](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/#:~:text=User%20flows%2C%20UX%20flows%2C%20or,through%20to%20the%20final%20interaction.)
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized">![User Flow](https://image-control-storage.s3.amazonaws.com/2024/08/07130626/image-150.png)</figure></div>Source: Source:  
+![User Flow](https://image-control-storage.s3.amazonaws.com/2024/08/07130626/image-150.png)
+
+Source:  
 Style, C. (n.d.). My MealPlan – App UX Case Study. Retrieved from https://www.behance.net/gallery/86974285/My-MealPlan-App-UX-Case-Study
 
-<https://www.figma.com/community/file/1174820493855619258>
 
 ## Low Fidelity Wireframes
 
@@ -38,7 +45,11 @@ Here are the basic characteristics of low-fidelity prototyping:
 
 Source: Babich, N. (n.d.). Prototyping 101: The Difference between Low-Fidelity and High-Fidelity Prototypes and When to Use Each: Adobe Blog. Retrieved from https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use?gclid=CjwKCAjw2dG1BhB4EiwA998cqLIZDJZT2NE222rBF56mfy2qekvJrrEgYx-BpBEpIw5dIVExRrbxsBoChmQQAvD\_BwE&amp;ef\_id=CjwKCAjw2dG1BhB4EiwA998cqLIZDJZT2NE222rBF56mfy2qekvJrrEgYx-BpBEpIw5dIVExRrbxsBoChmQQAvD\_BwE%3AG%3As&amp;s\_kwcid=AL%213085%213%21708151097249%21%21%21g%21%21%2121541756247%21168366847569&amp;mv=search&amp;gad\_source=1
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized">![Low Fidelity Wireframes](https://image-control-storage.s3.amazonaws.com/2024/08/07131454/image-153.png)</figure></div><div class="wp-block-image"><figure class="aligncenter size-full is-resized">![Paper Prototyping](https://image-control-storage.s3.amazonaws.com/2024/08/07131530/image-154.png)</figure></div>## Hi-Fidelity Wireframes and Prototyping
+![Low Fidelity Wireframes](https://image-control-storage.s3.amazonaws.com/2024/08/07131454/image-153.png)
+
+![Paper Prototyping](https://image-control-storage.s3.amazonaws.com/2024/08/07131530/image-154.png)
+
+## Hi-Fidelity Wireframes and Prototyping
 
 Although we can describe a design with this level of fidelity as a high-fidelity wireframe, at this point, you are dealing more with a digital product mockup. Once you add functional user journeys and clickable areas to your high-fidelity wireframes, in practical terms, you are dealing with a functional prototype.
 
@@ -48,15 +59,21 @@ A high-fidelity wireframe, also known as a hi-fi wireframe, shows how a website 
 
 [Wireframing and Designing at the same time? Figma! Then prototype!](https://www.figma.com/wireframe-tool/)
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="700" loading="lazy" src="https://capture.dropbox.com/embed/troqCIc9r5M7RM84?source=copy-embed" width="1200"></iframe><div class="wp-block-image"><figure class="aligncenter size-full is-resized">![Hi-Fidelity Wireframes and Prototyping](https://image-control-storage.s3.amazonaws.com/2024/08/07130843/image-152.png)</figure></div>## Prototyping in Figma
+![Hi-Fidelity Wireframes and Prototyping](https://image-control-storage.s3.amazonaws.com/2024/08/07130843/image-152.png)
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized">![Figma](https://image-control-storage.s3.amazonaws.com/2024/08/08142603/image-155-1024x566.png)</figure></div>**With Figma prototyping, you can create multiple flows for your prototype on one page to preview a user’s full journey and experience through your designs.**
+## Prototyping in Figma
+
+![Figma](https://image-control-storage.s3.amazonaws.com/2024/08/08142603/image-155-1024x566.png)
+
+**With Figma prototyping, you can create multiple flows for your prototype on one page to preview a user’s full journey and experience through your designs.**
 
 A flow is the network of frames and connections on a single page. A prototype can map out a user’s entire journey through your app or website or focus on a specific segment of it via its own flow. For example, your prototype covers all possible interactions on an eCommerce site. Within the prototype, you have flows for creating an account, adding items to a cart, and checking out.
 
 Figma creates a flow starting point when you add your first connection between two frames. There are a few other ways to add a flow starting point to your prototype:
 
-- With the starting frame selected, click ![](https://image-control-storage.s3.amazonaws.com/2024/08/08142038/Screenshot-by-Dropbox-Capture.png) in the **Flow starting point** section of the right sidebar.
+- With the starting frame selected, click 
+![](https://image-control-storage.s3.amazonaws.com/2024/08/08142038/Screenshot-by-Dropbox-Capture.png) 
+in the **Flow starting point** section of the right sidebar.
 - Right-click on the frame, then click **Add starting point**.
 - Duplicate a frame with an existing starting point.
 
@@ -73,7 +90,9 @@ Note: A top-level frame can be part of multiple flows but can only have one star
 3. Drag it to the destination.
 4. If there are no existing connections, Figma will make the first frame a starting point.
 
-<div class="wp-block-image"><figure class="aligncenter">![Anatomy of a connection between two frames](https://help.figma.com/hc/article_attachments/4404146549271)</figure></div>You can create connections from multiple objects to the same destination frame simultaneously, saving you time and effort when building out your prototype flows. Select multiple starting hotspots on your canvas, then click and drag the icon to the destination.
+![Anatomy of a connection between two frames](https://help.figma.com/hc/article_attachments/4404146549271)
+
+You can create connections from multiple objects to the same destination frame simultaneously, saving you time and effort when building out your prototype flows. Select multiple starting hotspots on your canvas, then click and drag the icon to the destination.
 
 **[Learn more about creating and editing connections in bulk →](https://help.figma.com/hc/en-us/articles/360040315773-Prototype-interactions-and-animations)**
 
@@ -85,11 +104,16 @@ Note: A top-level frame can be part of multiple flows but can only have one star
 4. Apply an **animation**
 5. **Preview** your animation
 
-<div class="wp-block-image"><figure class="aligncenter">![Create interactions and animations](https://help.figma.com/hc/article_attachments/4404153733655)</figure></div>## Adjust prototype settings
+![Create interactions and animations](https://help.figma.com/hc/article_attachments/4404153733655)
+
+## Adjust prototype settings
 
 1. Select a **Device** and **Model**
 2. **Preview** your prototype
 3. Select **Background** color
 4. Set the prototype’s **Starting Frame**
 
-<div class="wp-block-image"><figure class="aligncenter is-resized">![Prototype tab of right sidebar with device preview background and flow settings](https://help.figma.com/hc/article_attachments/4404153736087)</figure></div>(N.d.). Retrieved from https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma
+![Prototype tab of right sidebar with device preview background and flow settings](https://help.figma.com/hc/article_attachments/4404153736087). 
+
+Retrieved from https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma
+

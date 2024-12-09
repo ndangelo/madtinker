@@ -1,5 +1,5 @@
 ---
-id: 63233
+
 title: 'Facebook, Instagram and Twitter and Tiktok'
 date: '2023-10-10T18:32:26-04:00'
 author: admin
@@ -9,9 +9,17 @@ permalink: /facebook-instagram-and-twitter-and-tiktok/
 
 categories:
     - Projects
+    - Social
+    - Social Media
+
+tags:
+    - social
+    - social media
 ---
 
-<div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/10/10180708/image-87.png)</figure></div><div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/10/10180730/image-88.png)</figure></div><div class="wp-block-image"><figure class="aligncenter size-large is-resized">![](https://image-control-storage.s3.amazonaws.com/2023/10/10180746/image-89-1024x1024.png)</figure></div>- Before we embark on a full social media marketing campaign it is important that we experiment with creating posts using your brand.
+![](https://image-control-storage.s3.amazonaws.com/2023/10/10180708/image-87.png)
+
+![](https://image-control-storage.s3.amazonaws.com/2023/10/10180730/image-88.png)</figure></div><div class="wp-block-image"><figure class="aligncenter size-large is-resized">![](https://image-control-storage.s3.amazonaws.com/2023/10/10180746/image-89-1024x1024.png)</figure></div>- Before we embark on a full social media marketing campaign it is important that we experiment with creating posts using your brand.
 - Create three text based posts on “X” or twitter and two text and image based. Remember to keep them branded.
 
 - Please create five branded posts (use your logo, colors and info from your creative brief.) for Facebook and Instagram. They should be image-based. Give them branded messages and a call to action (people need to know what to do when they see your ad) for each social media platform.)

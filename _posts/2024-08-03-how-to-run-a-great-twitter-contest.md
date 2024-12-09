@@ -1,5 +1,5 @@
 ---
-id: 65987
+
 title: 'How To Run a Great Twitter Contest'
 date: '2024-08-03T14:14:14-04:00'
 author: admin
@@ -8,6 +8,9 @@ layout: post
 permalink: /how-to-run-a-great-twitter-contest/
 categories:
     - Projects
+    - Social
+tags:
+    - social
 ---
 
 Source:  

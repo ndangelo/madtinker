@@ -1,5 +1,5 @@
 ---
-id: 65995
+
 title: 'Effective Twitter Ads (Lecture and Assignment)'
 date: '2024-08-03T14:52:39-04:00'
 author: admin

@@ -1,5 +1,5 @@
 ---
-id: 63180
+
 title: 'Book Cover Design “The Three Books”'
 date: '2023-10-05T13:16:31-04:00'
 author: admin
@@ -9,6 +9,7 @@ permalink: /book-cover-design-publication-design-covers-and-interiors-3/
 
 categories:
     - Projects
+    - Design
 ---
 
 ### ANALYZING BOOK JACKETS AND MAGAZINE COVERS
