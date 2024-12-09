@@ -1,5 +1,5 @@
 ---
-id: 10948
+
 title: 'Some of the Most Powerful Social Issue Ads That’ll Make You Stop And Think'
 date: '2024-11-29T18:22:49-04:00'
 author: admin
