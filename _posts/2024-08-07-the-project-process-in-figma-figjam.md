@@ -1,5 +1,4 @@
 ---
-
 title: 'The Project Process in Figma/FigJam: User Flow, Low-Fidelity and High-Fidelity Prototyping'
 date: '2024-08-07T12:25:55-04:00'
 author: admin
