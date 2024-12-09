@@ -5,7 +5,7 @@ author: admin
 permalink: /how-to-make-a-portrait-with-city-elements-in-photoshop/
 title: How to Make a Portrait with City Elements in Photoshop
 date: 2017-10-04T13:30:46-04:00
-id: 5307
+
 categories:
   - Photoshop Tutorials
   - Tutorials

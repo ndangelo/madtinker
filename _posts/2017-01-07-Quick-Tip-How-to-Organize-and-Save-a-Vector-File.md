@@ -1,5 +1,5 @@
 ---
-id: 4037
+
 title: 'Quick Tip: How to Organize and Save a Vector File'
 date: '2017-01-07T14:15:35-04:00'
 author: admin

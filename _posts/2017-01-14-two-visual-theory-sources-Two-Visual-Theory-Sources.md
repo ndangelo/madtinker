@@ -14,7 +14,7 @@ tags:
     - grids
 ---
 
-![]](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/14122432/universal_principal.jpg)
+![](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/14122432/universal_principal.jpg)
 
 [Universal Principal](https://s3.amazonaws.com/ndangelo-documents/universal-principles-of-design-rockport-publishers-2003.pdf)
 

@@ -7,16 +7,24 @@ layout: post
 
 categories:
     - 'Interactive and Social Media'
-    - Supplementary
+    - 'Supplementary'
 ---
 
-<header class="header-page"><div class="row"><div class="col7"><div class="author-wrapper--banner"><div class="author-thumb-wrapper--banner">[![Maria Jose](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154158/majose2-150x1502121.jpg)](https://www.canva.com/learn/author/mariajose/)</div><div class="author-info-wrapper--banner"><span class="author">[Maria Jose](https://www.canva.com/learn/author/mariajose/ "Posts by Maria Jose")</span></div></div></div></div><div class="row banner-wrapper"><div class="col12"><div class="banner-post"><figure><picture><source media="(min-width: 768px)" srcset="https://www.canva.com/learn/wp-content/uploads/2016/06/how-to-create-impactful-1-tb-962x0.png , https://www.canva.com/learn/wp-content/uploads/2016/06/how-to-create-impactful-1-tb-1924x0.png 2x"></source><source media="(min-width: 0px)" srcset="https://www.canva.com/learn/wp-content/uploads/2016/06/how-to-create-impactful-1-tb-762x0.png , https://www.canva.com/learn/wp-content/uploads/2016/06/how-to-create-impactful-1-tb-1524x0.png 2x"></source></picture>[![how to create impactful (1)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24152645/how-to-create-impactful-1.png "how to create impactful (1)")](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24152645/how-to-create-impactful-1.png)</figure></div></div></div></header><article class="post-23450 post type-post status-publish format-standard has-post-thumbnail hentry category-social-media-marketing-strategy" id="post-23450"><div class="wrapper-content-article"><div class="row"><div class="col7">*Marketers have been aching to throw advertising money at Instagram even before they rolled out their ad platform.*
+![Maria Jose](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154158/majose2-150x1502121.jpg)
+
+[Maria Jose](https://www.canva.com/learn/author/mariajose/ "Posts by Maria Jose")
+
+![how to create impactful Instagram ads](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24152645/how-to-create-impactful-1.png )
+
+*Marketers have been aching to throw advertising money at Instagram even before they rolled out their ad platform.*
 
 According to a survey by Payvision, [79% of retailers](http://www.emarketer.com/Article.aspx?R=1013374&ecid=MX1086) saw a major growth in mobile commerce in 2015, while more recent studies show that [45% of all shopping](http://www.adweek.com/news/technology/heres-why-people-choose-shop-or-not-shop-their-phones-169419) now involves some level of mobile use.
 
 When it comes to mobile, getting Instagram right has become the holy grail of marketers. With [400 million users](https://business.instagram.com/) active on the platform, who can blame them?
 
-<figure class="lazyload-image" id="image-27865">[![image08](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154159/image08-5-tb-728x0121.png)](https://business.instagram.com/advertising)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure>Even beyond the impressive figures, the magic of visual storytelling makes Instagram a cut above the rest. Images set in a simple, linear format makes for interactions more intimate and immediate than filtered timelines or 140 words.
+![image08](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154159/image08-5-tb-728x0121.png)
+
+Even beyond the impressive figures, the magic of visual storytelling makes Instagram a cut above the rest. Images set in a simple, linear format makes for interactions more intimate and immediate than filtered timelines or 140 words.
 
 Their advertising platform isn’t second-rate either. There are three ways you can present your brand on Instagram: image ads, carousel ads, and video ads. In addition to that, you can choose from direct response buttons with different call-to-actions like learn more, install now, sign up, and many more.
 
@@ -24,15 +32,15 @@ If you’re still hesitant about joining the Instagram advertising bandwagon, ke
 
 Here are the steps to creating impactful Instagram ads that we’ll be discussing in this article:
 
-Step 1 Define a clear goal and structure your concept according to it  
-Step 2 Select the ad type fit for your concept  
-Step 3 Build a visually compelling campaign in line with your brand identity  
-Step 4 Set up your advertising account  
-Step 5 Get to know the adverts section  
-Step 6 Use compelling and relevant calls-to-action  
-Step 7 Don’t forget hashtags
+**Step 1** Define a clear goal and structure your concept according to it  
+**Step 2** Select the ad type fit for your concept  
+**Step 3** Build a visually compelling campaign in line with your brand identity  
+**Step 4** Set up your advertising account  
+**Step 5** Get to know the adverts section  
+**Step 6** Use compelling and relevant calls-to-action  
+**Step 7** Don’t forget hashtags
 
-<div class="alert-element content-element alert-info"><div class="messagebox-text"></div></div>## 01. Define a clear goal and structure your concept according to it
+## 01. Define a clear goal and structure your concept according to it
 
 As those behind Instagram [put it](https://business.instagram.com/gettingstarted/): “compelling ads on Instagram have a strong concept tied to a clear objective.” In fact, when you log into the Facebook Ads Manager, you’ll be required to select a campaign objective before being able to do anything else. No worries if you’ve never logged in, we’ll walk through the process in a bit.
 
@@ -40,11 +48,17 @@ Take a step back and define what your campaign goal is. Are you trying to increa
 
 Below you’ll find an ad by [Jobr.](http://www.jobrapp.com/) To convince viewers to download their job search app, they’ve created an image of cellphone with a notification from their app, letting the user know they’ve matched with a job that has an alluring salary. This serves as an evidence of what their app can do for their users and gives them a motivation to download.
 
-<figure class="lazyload-image" id="image-28179">![1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154201/14-1-tb-728x0121.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>In many cases, goals will align with some of the predefined CTA buttons Instagram offers. Check out the example below from [The Bride Story app](https://itunes.apple.com/us/app/bridestory/id1067262519?mt=8), designed to motivate future brides to download the app.
+![1](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154201/14-1-tb-728x0121.png)
 
-<figure class="lazyload-image" id="image-28180">![2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154205/15-2-tb-728x0121.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>Try out this technique by using the customizable Canva design right here—
+In many cases, goals will align with some of the predefined CTA buttons Instagram offers. Check out the example below from [The Bride Story app](https://itunes.apple.com/us/app/bridestory/id1067262519?mt=8), designed to motivate future brides to download the app.
 
-<figure class="lazyload-image" id="image-28158">[![want free recipes- (1)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154209/want-free-recipes-1-tb-728x0121.png)](https://www.canva.com/design/DAB2UTiGwC4/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure>First and foremost, you must give your goal a name. Because you will need to develop ideas and concepts for your ads that align with your goal and help you work towards achieving it.
+![2](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154205/15-2-tb-728x0121.png)
+
+Try out this technique by using the customizable Canva design right here—
+
+![want free recipes- (1)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154209/want-free-recipes-1-tb-728x0121.png)
+
+First and foremost, you must give your goal a name. Because you will need to develop ideas and concepts for your ads that align with your goal and help you work towards achieving it.
 
 In other words, if you’re aiming to get viewers to click over to your site in order to make a purchase, it would make sense to produce an ad featuring beautiful product photography. If, on the other hand, you were working towards building brand awareness, you might want to create an ad that motivates users to post your image. This means you have to know what your audience is like and what they would want associated with them as a representation of themselves. You could use an endorsement from an influencer or words and images that connect on an emotional level. Maybe add a hashtag or ask them to tag friends when sharing to compound its effectiveness.
 
@@ -52,25 +66,48 @@ Let’s take a look at a couple great Instagram ads that will give you a solid u
 
 Check out the [Fossil](https://www.fossil.com/) ad below. Fossil, in this case, shared a great product shot aiming to get you to click over to their website and make a purchase. To further motivate you to do so, they’ve created a sense of urgency by letting you know these items are available for a limited time only in the post copy.
 
-<figure class="lazyload-image" id="image-28182">![3](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154212/13-1-tb-728x0121.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>If you were aiming to increase brand awareness, you might want to take the same approach showcased below. To motivate viewers to comment or engage, [Levi’s](http://global.levi.com/) integrates their #LifeinLevis hashtag into engaging questions.
+![3](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154212/13-1-tb-728x0121.png)
 
-<figure class="lazyload-image" id="image-28183">![4](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154213/12-1-tb-728x0121.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>## 02. Select the ad type fit for your concept
+If you were aiming to increase brand awareness, you might want to take the same approach showcased below. To motivate viewers to comment or engage, [Levi’s](http://global.levi.com/) integrates their #LifeinLevis hashtag into engaging questions.
+
+![4](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154213/12-1-tb-728x0121.png)
+
+## 02. Select the ad type fit for your concept
 
 With a clear goal and creative direction in mind, decide which of the three Instagram ad formats you’ll be working with. Currently, Instagram offers photo ads, video ads, and carousel ads. Which will better suit your ad will depend on your concept and creative brief (not to mention, your budget).
 
 **Photo ads**, like the one below from [Monki,](http://www.monki.com/gb/) are by far the simplest way to create an ad. All you’ll need is a sharp photograph, solid copy for your post, and you’re good to go.
 
-<figure class="lazyload-image" id="image-28184">![5](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154215/10-2-tb-728x0121.png)<div class="spinner"><div class="spinner__inner"></div></div></figure><figure class="lazyload-image" id="image-27999">[![up to 50% off (1)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154217/up-to-50-off-1-tb-728x0121.png)](https://www.canva.com/design/DAB2TiSKdDs/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure><figure class="lazyload-image" id="image-28000">[![6 (7)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154219/6-7-tb-728x0121.png)](https://www.canva.com/templates/MABhWcMntuo/copy)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure><figure class="lazyload-image" id="image-28001">[![1 (20)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154227/1-20-tb-728x0121.png)](https://www.canva.com/templates/MABzg3-GQ_o/copy)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-28002">[![4 (13)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154229/4-13-tb-728x0121.png)](https://www.canva.com/templates/MABhVbTHVfQ/copy)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure><figure class="lazyload-image" id="image-28004">[![5 (11)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154231/5-11-tb-728x0121.png)](https://www.canva.com/templates/MABhV7maEcc/copy)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure>[Nike+ Running Club](https://www.nike.com/us/en_us/c/running/nike-run-club) has also used photo ads to motivate users to install their app. Note how the composition is creative and makes it easy for viewers to quickly understand what the ad is for.
+![5](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154215/10-2-tb-728x0121.png)
 
-<figure class="lazyload-image" id="image-28185">![6](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154233/11-1-tb-728x0121.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>**Video ads**, on the other hand, will require that you put a bit more time and effort into production. However, they’ll provide you with an opportunity to create a much more immersive experience, as you’ll be able to take advantage of both sound and motion.
+![up to 50% off (1)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154217/up-to-50-off-1-tb-728x0121.png)
+
+![6 (7)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154219/6-7-tb-728x0121.png)
+
+![1 (20)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154227/1-20-tb-728x0121.png)
+
+![4 (13)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154229/4-13-tb-728x0121.png)
+
+![5 (11)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154231/5-11-tb-728x0121.png)
+
+[Nike+ Running Club](https://www.nike.com/us/en_us/c/running/nike-run-club) has also used photo ads to motivate users to install their app. Note how the composition is creative and makes it easy for viewers to quickly understand what the ad is for.
+
+
+![6](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154233/11-1-tb-728x0121.png)
+
+**Video ads**, on the other hand, will require that you put a bit more time and effort into production. However, they’ll provide you with an opportunity to create a much more immersive experience, as you’ll be able to take advantage of both sound and motion.
 
 [Frooti](http://thefrootilife.com/) has made some of my favorite videos on Instagram. They’ve shared super fun mini stories of a miniature mango world.
 
-<figure class="lazyload-image" id="image-27857">![image22](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154235/image22-2-tb-728x0121.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>You can also choose to go with a **carousel ad**. Put simply, they are a string of images that users can swipe through to access further information or images. They let you share more than regular photo ads and don’t require as much work as video ads.
+![image22](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154235/image22-2-tb-728x0121.png)
+
+You can also choose to go with a **carousel ad**. Put simply, they are a string of images that users can swipe through to access further information or images. They let you share more than regular photo ads and don’t require as much work as video ads.
 
 While it may not seem so at first glance, carousel ads offer a great opportunity for you to get creative. Check out the ad below for [Delta Airlines](https://www.delta.com/). Think of them as comic strips that can let you engage viewers through storytelling.
 
-<figure class="lazyload-image" id="image-27860">![image02](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154237/image02-5-tb-728x0121.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>## 03. Build a visually compelling campaign in line with your brand identity
+![image02](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154237/image02-5-tb-728x0121.png)
+
+## 03. Build a visually compelling campaign in line with your brand identity
 
 Once you’ve got a goal, a creative direction, and you’ve decided which of the three formats you’ll be working with — you’re finally ready to create your ad.
 
@@ -82,7 +119,11 @@ All your ads must reference your brand and each other by using the same color pa
 
 [Headspace](https://www.headspace.com/headspace-meditation-app), an app that helps you learn how to meditate, makes sure to use its brand color palette and cute illustration style throughout all of its Instagram ads.Edit this design in Canva
 
-<figure class="lazyload-image" id="image-28036">[![8 (4)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154239/8-4-tb-728x0121.png)](https://www.canva.com/design/DAB2Un-qhuQ/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure><figure class="lazyload-image" id="image-28038">[![4 (14)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154240/4-14-tb-728x0121.png)](https://www.canva.com/templates/MABhWXbr7Vg/copy)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure>Canva makes it extremely easy for you to build ads and a whole variety of on-brand materials. Because Canva automatically stores anything you create in it, you’ll be able to tweak existing branded templates you’ve developed.
+![8 (4)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154239/8-4-tb-728x0121.png)
+
+![4 (14)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154240/4-14-tb-728x0121.png)
+
+Canva makes it extremely easy for you to build ads and a whole variety of on-brand materials. Because Canva automatically stores anything you create in it, you’ll be able to tweak existing branded templates you’ve developed.
 
 In a sense, Canva will act as a visual, interactive style guide for you brand as it lets you build your own brand kit and share it with your entire team.
 
@@ -92,13 +133,34 @@ Always design high quality ads. Make sure your images are properly lit and inter
 
 In the example below, [DealRay](https://dealray.com/) pairs high quality photographs of the destinations they advertise with crisp white typography. A simple approach that yields a good-looking ad that speaks for itself.
 
-<figure class="lazyload-image" id="image-28200">![16](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154242/9-tb-728x0121.png)<div class="spinner"><div class="spinner__inner"></div></div></figure><figure class="lazyload-image" id="image-27990"><figcaption></figcaption></figure><figure class="lazyload-image" id="image-27991">[![6 (6)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154244/6-6-tb-728x0121.png)](https://www.canva.com/templates/MABzhBWWIbg/copy)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure><figure class="lazyload-image" id="image-27992">[![4 (11)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154246/4-11-tb-728x0121.png)](https://www.canva.com/templates/MABzhIZK1so/copy)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure><figure class="lazyload-image" id="image-27993">[![7 (4)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154248/7-4-tb-728x0121.png)](https://www.canva.com/templates/MABzhNcxbj8/copy)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure>[Chatbooks](https://chatbooks.com/), on the other hand, shoots photos where they can integrate text in post-production. There’s a beautiful product shot, brand personality, all tied together by a great promo.
+![16](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154242/9-tb-728x0121.png)
+
+![6 (6)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154244/6-6-tb-728x0121.png)
+
+![4 (11)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154246/4-11-tb-728x0121.png)
+
+![7 (4)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154248/7-4-tb-728x0121.png)
+
+[Chatbooks](https://chatbooks.com/), on the other hand, shoots photos where they can integrate text in post-production. There’s a beautiful product shot, brand personality, all tied together by a great promo.
 
 Apply the same principle in your own Canva design by using the templates below.
 
-<figure class="lazyload-image" id="image-28083">[![SEASONAL SALE (1)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154250/SEASONAL-SALE-1-tb-728x0121.png)](https://www.canva.com/design/DAB2Tzy1imY/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure><figure class="lazyload-image" id="image-27997">[![1 (19)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154252/1-19-tb-728x0121.png)](https://www.canva.com/design/DAB2ON9qT9I/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure>You can also use eye-catching visuals and photographs with dynamic compositions, like the two examples below by [Sun Basket](https://www.sunbasket.com/) and [Smile Direct Club](https://smiledirectclub.com/).
+![SEASONAL SALE (1)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154250/SEASONAL-SALE-1-tb-728x0121.png)
 
-<figure class="lazyload-image" id="image-28188">![9](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154254/6-1-tb-728x0121.png)<div class="spinner"><div class="spinner__inner"></div></div></figure><figure class="lazyload-image" id="image-28042"><figcaption></figcaption></figure><figure class="lazyload-image" id="image-27998">[![4 (12)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154256/4-12-tb-728x0121.png)](https://www.canva.com/templates/MABhVujPFwk/copy)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure><figure class="lazyload-image" id="image-28142">[![2 (15)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154258/2-15-tb-728x0121.png)](https://www.canva.com/design/DAB2UoGG4EE/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure><figure class="lazyload-image" id="image-28143">[![5 (13)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154300/5-13-tb-728x0121.png)](https://www.canva.com/templates/MABzg6RRxnM/copy)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 04. Set up your advertising account
+![1 (19)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154252/1-19-tb-728x0121.png)
+
+You can also use eye-catching visuals and photographs with dynamic compositions, like the two examples below by [Sun Basket](https://www.sunbasket.com/) and [Smile Direct Club](https://smiledirectclub.com/).
+
+
+![9](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154254/6-1-tb-728x0121.png)
+
+![4 (12)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154256/4-12-tb-728x0121.png)
+
+![2 (15)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154258/2-15-tb-728x0121.png)
+
+![5 (13)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154300/5-13-tb-728x0121.png)
+
+## 04. Set up your advertising account
 
 Once you’ve created an ad, you are ready to post it for the world to see. But before you can share it, you’ll need to connect your Instagram account to Facebook and set a few things up.
 
@@ -130,7 +192,9 @@ If you are in charge of inserting the pixels into your website, head over to[Fac
 
 The very last section you will see in the Facebook Adverts Manager is the Advert section. This is where you’ll input your images, text, and your call to action (CTA).
 
-<figure class="lazyload-image" id="image-28192">![18_New Advert](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154301/18_New-Advert-tb-728x0111.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>Once you’ve uploaded your creative, entered the text you wish to have accompany your ad, and have selected a CTA, you’ll be able to preview your ad. If everything looks good, you’re ready to place your order.
+![18_New Advert](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154301/18_New-Advert-tb-728x0111.png)
+
+Once you’ve uploaded your creative, entered the text you wish to have accompany your ad, and have selected a CTA, you’ll be able to preview your ad. If everything looks good, you’re ready to place your order.
 
 You’ll want to keep a few things in mind as you work on developing the information you’ll input into the Advert section revolving around calls-to-action and hashtags.
 
@@ -155,11 +219,17 @@ Below you’ll find a few examples showcasing the use of different CTA options.
 
 [Winc](https://clubw.com/) invited viewers to attend a special even in their copy, cleverly integrating their CTA in their copy and opting to not include a button. [SunnyRebel](https://www.sunnyrebel.com/), on the other hand, opts for a straightforward approach and uses a button with a clear *Shop Now* call-to-action button in their ad.
 
-<figure class="lazyload-image" id="image-28140">[![5 (12)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154303/5-12-tb-728x0111.png)](https://www.canva.com/templates/MABhVHnnnrI/copy)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure>If you want to motivate users to take a closer look at the products on your site — like [DaPulse](https://dapulse.com/) (whose simplicity stole my heart since day one) in the example below — the inviting *Learn More* CTA option is the way to go.
+![5 (12)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154303/5-12-tb-728x0111.png)
 
-<figure class="lazyload-image" id="image-28195">![11](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154305/4-4-tb-728x0111.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>Motivating followers to sign up or start an application is an excellent way to generate leads. To do so, use Instagram’s built in *Sign Up* or *Apply Now*CTAs. Below, are examples from [Smartly](https://www.smartly.io/?gclid=CMyT2Nm2ps0CFRY8gQodyUkAng) and [Quickbooks](http://www.quickbooks.in/qbhome/) that showcase just that.
+If you want to motivate users to take a closer look at the products on your site — like [DaPulse](https://dapulse.com/) (whose simplicity stole my heart since day one) in the example below — the inviting *Learn More* CTA option is the way to go.
 
-<figure class="lazyload-image" id="image-28204">![12](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154306/Untitled-design-5-1-tb-728x0111.png)<div class="spinner"><div class="spinner__inner"></div></div></figure>Notice how all the examples we’ve provided also showcase all the tips we’ve shared above. They use beautiful photography, feel branded, and have been built around a clear goal.
+![11](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154305/4-4-tb-728x0111.png)
+
+Motivating followers to sign up or start an application is an excellent way to generate leads. To do so, use Instagram’s built in *Sign Up* or *Apply Now*CTAs. Below, are examples from [Smartly](https://www.smartly.io/?gclid=CMyT2Nm2ps0CFRY8gQodyUkAng) and [Quickbooks](http://www.quickbooks.in/qbhome/) that showcase just that.
+
+![12](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154306/Untitled-design-5-1-tb-728x0111.png)
+
+Notice how all the examples we’ve provided also showcase all the tips we’ve shared above. They use beautiful photography, feel branded, and have been built around a clear goal.
 
 ## 07. Don’t forget your hashtag
 
@@ -171,12 +241,19 @@ Below you’ll find an ad for [Allstate](https://www.allstate.com/), an insuranc
 
 Use the templates below for a design with an instant hashtag!
 
-<figure class="lazyload-image" id="image-28126">[![3 (15)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154308/3-15-tb-728x0111.png)](https://www.canva.com/design/DAB2UXAA3GI/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure><figure class="lazyload-image" id="image-28127">[![6 (9)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154310/6-9-tb-728x0111.png)](https://www.canva.com/templates/MABzhEdhivs/copy)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure><figure class="lazyload-image" id="image-28128">[![2 (18)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154313/2-18-tb-728x0111.png)](https://www.canva.com/design/DAB2UV_tuk8/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption></figcaption></figure>Keep in mind that too many hashtags can be annoying. Use them strategically and as a general rule of thumb, aim for no more than three. When designing hashtags, make sure they are unique, easy to remember, and as simple as possible.
+![3 (15)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154308/3-15-tb-728x0111.png)
+
+![6 (9)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154310/6-9-tb-728x0111.png)
+
+![2 (18)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154313/2-18-tb-728x0111.png)
+
+Keep in mind that too many hashtags can be annoying. Use them strategically and as a general rule of thumb, aim for no more than three. When designing hashtags, make sure they are unique, easy to remember, and as simple as possible.
 
 ## Over to You
 
 Phew! That’s a whole lot of information to digest. If you feel intimidated by the process, keep our tips open in a separate tab and walk through the process while referencing our article. Feel free to use it as a guide and you’ll be producing ads as full of impact as all the others we’ve shared above. Our last tip: Don’t forget to have fun infusing the magic of visual storytelling in your marketing strat!
 
-</div></div></div></article><section class="author-wrapper"><div class="row"><div class="col7"><div class="author-info"><div class="author-avatar">[![Maria Jose](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154158/majose2-150x1502121.jpg)](https://www.canva.com/learn/author/mariajose/)</div><div class="author-name"><div class="author">[Maria Jose](https://www.canva.com/learn/author/mariajose/ "Posts by Maria Jose")</div></div></div><div class="author-description">Maria is a professional designer and social media devotee. After a few years of working in boutique agencies in New York and Boston, she decided to trade in her morning runs for morning dives and moved down to the warm Caribbean. She is currently working on becoming a scuba instructor in order to find a way to merge her two loves: design and the ocean.
+![Maria Jose](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24154158/majose2-150x1502121.jpg)
 
-</div></div></div></section>
+[Maria Jose](https://www.canva.com/learn/author/mariajose/)Maria is a professional designer and social media devotee. After a few years of working in boutique agencies in New York and Boston, she decided to trade in her morning runs for morning dives and moved down to the warm Caribbean. She is currently working on becoming a scuba instructor in order to find a way to merge her two loves: design and the ocean.
+

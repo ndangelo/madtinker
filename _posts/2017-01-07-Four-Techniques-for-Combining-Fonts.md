@@ -8,9 +8,12 @@ layout: post
 
 categories:
     - Projects
+    - Fonts
+tags:
+    - fonts
 ---
 
-[![H&FJ](https://image-control-storage.s3.amazonaws.com/blog-images/2017/01/27184804/hfj_logo-c.gif)
+![H&FJ](https://image-control-storage.s3.amazonaws.com/blog-images/2017/01/27184804/hfj_logo-c.gif)
 
 
 ![The H&FJ Quick Look](https://image-control-storage.s3.amazonaws.com/blog-images/2017/01/27184803/hfj_header-c.gif)

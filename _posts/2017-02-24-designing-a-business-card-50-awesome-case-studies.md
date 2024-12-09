@@ -12,7 +12,9 @@ categories:
     - Supplementary
 ---
 
-<header class="header-page"><div class="row"><div class="col7"><div class="author-wrapper--banner"><div class="author-thumb-wrapper--banner">[![]()](https://www.canva.com/learn/author/caitlinjordan/)</div><div class="author-info-wrapper--banner"><span class="author">[Caitlin Jordan](https://www.canva.com/learn/author/caitlinjordan/ "Posts by Caitlin Jordan")</span></div></div></div></div><div class="row banner-wrapper"><div class="col12"><div class="banner-post"><figure><picture><source media="(min-width: 768px)" srcset="https://www.canva.com/learn/wp-content/uploads/2016/06/Designing-a-Business-Card-50-Awesome-Case-Studies-1-tb-962x0.png , https://www.canva.com/learn/wp-content/uploads/2016/06/Designing-a-Business-Card-50-Awesome-Case-Studies-1-tb-1924x0.png 2x"></source><source media="(min-width: 0px)" srcset="https://www.canva.com/learn/wp-content/uploads/2016/06/Designing-a-Business-Card-50-Awesome-Case-Studies-1-tb-762x0.png , https://www.canva.com/learn/wp-content/uploads/2016/06/Designing-a-Business-Card-50-Awesome-Case-Studies-1-tb-1524x0.png 2x"></source>![Designing a Business Card- 50 Awesome Case Studies (1)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24150849/Designing-a-Business-Card-50-Awesome-Case-Studies-1.png "Designing a Business Card- 50 Awesome Case Studies (1)")</picture></figure></div></div></div></header><article class="post-8419 post type-post status-publish format-standard has-post-thumbnail hentry category-design-inspiration" id="post-8419"><div class="wrapper-content-article"><div class="row"><div class="col7">*Imagine this: You just left an important meeting with some industry big shots.*
+![](https://www.canva.com/learn/author/caitlinjordan/)</div><div class="author-info-wrapper--banner"><span class="author">[Caitlin Jordan](https://www.canva.com/learn/author/caitlinjordan/ "Posts by Caitlin Jordan")</span></div></div></div></div><div class="row banner-wrapper"><div class="col12"><div class="banner-post"><figure><picture><source media="(min-width: 768px)" srcset="https://www.canva.com/learn/wp-content/uploads/2016/06/Designing-a-Business-Card-50-Awesome-Case-Studies-1-tb-962x0.png , https://www.canva.com/learn/wp-content/uploads/2016/06/Designing-a-Business-Card-50-Awesome-Case-Studies-1-tb-1924x0.png 2x"></source><source media="(min-width: 0px)" srcset="https://www.canva.com/learn/wp-content/uploads/2016/06/Designing-a-Business-Card-50-Awesome-Case-Studies-1-tb-762x0.png , https://www.canva.com/learn/wp-content/uploads/2016/06/Designing-a-Business-Card-50-Awesome-Case-Studies-1-tb-1524x0.png 2x"></source>
+
+![Designing a Business Card- 50 Awesome Case Studies (1)](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/24150849/Designing-a-Business-Card-50-Awesome-Case-Studies-1.png "Designing a Business Card- 50 Awesome Case Studies (1)")</picture></figure></div></div></div></header><article class="post-8419 post type-post status-publish format-standard has-post-thumbnail hentry category-design-inspiration" id="post-8419"><div class="wrapper-content-article"><div class="row"><div class="col7">*Imagine this: You just left an important meeting with some industry big shots.*
 
 They really dug the ideas you brought to the table and you’re thinking a promotion could be in order. What do you do? Fumble with your phone to take down their contact information? Ask them to fumble with their phone to take down yours?
 
@@ -24,7 +26,9 @@ Every last one of these business cards is stunning, but they won’t beat the on
 
 We put together this list of 50 awesome business cards for your inspiration. When you’re ready to design your own – check out [our collection of awesome templates.](https://www.canva.com/templates/business-cards/?utm_source=templates&utm_campaign=learn&utm_medium=blog&utm_content=businesscards)
 
-<figure class="lazyload-image" id="image-34692">[![business card templates](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155426/Untitled-design-1-tb-728x02.png)](https://www.canva.com/templates/business-cards/?utm_source=templates&utm_campaign=learn&utm_medium=blog&utm_content=businesscards)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Click the image to see more business card templates</figcaption></figure>## Want to make your own business card?
+
+![business card templates](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155426/Untitled-design-1-tb-728x02.png)
+
 
 We’ve sprinkled some Canva business card layouts throughout this article!
 
@@ -150,49 +154,98 @@ In the examples below, subtle patterns were used in the background, serving to a
 
 <figure class="lazyload-image" id="image-8439">[![22]()](https://dribbble.com/shots/275154-Cinch-Creative-Business-Card?list=searches&tag=business_card&offset=78)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Dribbble</figcaption></figure>These cards are hand pressed to give a wooden texture to the background. The indentations give a nice feel when you hold the card, and make the white background more interesting.
 
-A simple texture also works — like in the Canva templates below.
+![Screen Shot 2016-06-10 at 1.07.34 PM](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155529/Screen-Shot-2016-06-10-at-1.07.34-PM-tb-728x02.png)
 
-<figure class="lazyload-image" id="image-25941">[![22. Create Feeling with Texture]()](https://www.canva.com/design/DAB0Qf5aMqs/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27680">[![Screen Shot 2016-06-10 at 1.07.34 PM](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155529/Screen-Shot-2016-06-10-at-1.07.34-PM-tb-728x02.png)](https://www.canva.com/design/DAB2DKC2t58/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27709">[![Screen Shot 2016-06-13 at 10.25.46 AM](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155531/Screen-Shot-2016-06-13-at-10.25.46-AM-1-tb-728x02.png)](https://www.canva.com/templates/MABQ0lzN7mA/copy)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 23. Get Relative
+![Screen Shot 2016-06-13 at 10.25.46 AM](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155531/Screen-Shot-2016-06-13-at-10.25.46-AM-1-tb-728x02.png)
 
-<figure class="lazyload-image" id="image-8440">[![23](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155532/23-tb-728x02.jpg)](https://dribbble.com/shots/1816796-Business-Card?%20list=searches&tag=business_card&offset=121)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Dribbble</figcaption></figure>Here is a play on a deck of cards. Relating a business card to something it’s similar to is a fun way to stand out and be remembered.
 
-Here’s a Canva template that perfectly illustrates the life of a PR person:
+## 23. Get Relative
 
-<figure class="lazyload-image" id="image-25944">[![23. Get Relative_]()](https://www.canva.com/design/DAB0QrqK6Yg/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 24. Difference with Diamonds
+![23](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155532/23-tb-728x02.jpg)
 
-<figure class="lazyload-image" id="image-8441">[![24](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155533/24-tb-728x02.jpg)](https://dribbble.com/shots/101958--The-New-Black-Business-Cards?list=searches&tag=business_card&offset=176)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Dribbble</figcaption></figure>If you like the square shape but want it to be a bit more interesting, turn it on its end. Diamonds are simple enough to get printed standardly, but different enough to stand out.
+*Image Credit: Dribbble*
 
-Try it out for yourself with this design:
+Here is a play on a deck of cards. Relating a business card to something it’s similar to is a fun way to stand out and be remembered.
 
-<figure class="lazyload-image" id="image-25945">[![24. Difference with Diamonds](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155535/24.-Difference-with-Diamonds-tb-728x02.jpg)](https://www.canva.com/design/DAB0QkW8fJU/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 25. 3D Effects
 
-<figure class="lazyload-image" id="image-8442">[![25](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155536/25-tb-728x02.jpg)](https://dribbble.com/shots/1183695-Busy-Building-Things-Cards?list=searches&tag=business_card&offset=179)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Dribbble</figcaption></figure>The custom shape makes this card unique, but the two shades of teal paired with the shape gives it an almost three-dimensional effect. Different tones in the same color family help make designs more cohesive.
+## 24. Difference with Diamonds
+
+![24](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155533/24-tb-728x02.jpg)
+
+*Image Credit: Dribbble*
+
+If you like the square shape but want it to be a bit more interesting, turn it on its end. Diamonds are simple enough to get printed standardly, but different enough to stand out.
+
+
+![24. Difference with Diamonds](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155535/24.-Difference-with-Diamonds-tb-728x02.jpg)
+
+## 25. 3D Effects
+
+![25](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155536/25-tb-728x02.jpg)
+
+*Image Credit: Dribbble*
+
+The custom shape makes this card unique, but the two shades of teal paired with the shape gives it an almost three-dimensional effect. Different tones in the same color family help make designs more cohesive.
 
 ## 26. Reference your Materials
 
-<figure class="lazyload-image" id="image-8443">[![26]()](https://dribbble.com/shots/369345-Transparent-Business-Card?list=searches&tag=business_card&offset=180)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Dribbble</figcaption></figure>The transparency of this card makes it stand out, but not as much as the meaning behind it. Photographers look through a lens. Much like you look through this card. Try relating the significance of your materials with your profession as much as possible.
+![26]()](https://dribbble.com/shots/369345-Transparent-Business-Card?list=searches&tag=business_card&offset=180)
+
+*Image Credit: Dribbble*
+
+The transparency of this card makes it stand out, but not as much as the meaning behind it. Photographers look through a lens. Much like you look through this card. Try relating the significance of your materials with your profession as much as possible.
 
 ## 27. Create Curves
 
-<figure class="lazyload-image" id="image-8444">[![27](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155537/27-tb-728x02.jpg)](https://dribbble.com/shots/863215-Monkey-Square-Business-Card?list=searches&tag=business_card&offset=202)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Dribbble</figcaption></figure>Simple and square again, yet with rounded corners this time. This card relates the curves of the logo with the curves of the corners.
+![27](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155537/27-tb-728x02.jpg)
+
+*Image Credit: Dribbble*
+
+Simple and square again, yet with rounded corners this time. This card relates the curves of the logo with the curves of the corners.
 
 ## 28. Create an Illusion
 
-<figure class="lazyload-image" id="image-8445">[![28](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155538/28-tb-728x02.jpg)](https://dribbble.com/shots/121635-St-John-s-Ink-Business-Cards?list=searches&tag=business_card&offset=207)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Dribbble</figcaption></figure>The shape of this card relates well to the profession and acts as a visual element along with the logo, giving it the illusion of a tattoo itself.
+![28](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155538/28-tb-728x02.jpg)
+
+*Image Credit: Dribbble*
+
+The shape of this card relates well to the profession and acts as a visual element along with the logo, giving it the illusion of a tattoo itself.
 
 ## 29. Hand Stitched Logo
 
-<figure class="lazyload-image" id="image-8446">[![29](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155539/29-tb-728x02.jpg)](https://dribbble.com/shots/340918-Gary?list=searches&tag=business_card&offset=219)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Dribbble</figcaption></figure>Thinking of creative ways to display your logo without taking up a bunch of space can help keep things simple. Hand stitching the logo on the side like a clothing tag saves space on the card, yet adds an interesting element.
+![29](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155539/29-tb-728x02.jpg)
+
+*Image Credit: Dribbble*
+
+Thinking of creative ways to display your logo without taking up a bunch of space can help keep things simple. Hand stitching the logo on the side like a clothing tag saves space on the card, yet adds an interesting element.
 
 ## 30. Nice and Slim
 
-<figure class="lazyload-image" id="image-8447">[![30]()](https://dribbble.com/shots/964312-New-tie-a-tie-business-cards?list=searches&tag=business_card&offset=245)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Dribbble</figcaption></figure>Shaving off an inch of a standard rectangular card gives you a more elongated shape that looks nice and slim. Bigger isn’t always better, and this is a good example.
+![30]()](https://dribbble.com/shots/964312-New-tie-a-tie-business-cards?list=searches&tag=business_card&offset=245)
+
+*Image Credit: Dribbble*
+
+Shaving off an inch of a standard rectangular card gives you a more elongated shape that looks nice and slim. Bigger isn’t always better, and this is a good example.
 
 Here are more good examples (and they’re fully customizable!) —
 
-<figure class="lazyload-image" id="image-25960">[![30. Nice and Slim](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155541/30.-Nice-and-Slim-tb-728x02.jpg)](https://www.canva.com/design/DAB0Q7aPPgU/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27687">[![Screen Shot 2016-06-10 at 3.11.06 PM](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155543/Screen-Shot-2016-06-10-at-3.11.06-PM-tb-728x02.png)](https://www.canva.com/design/DAB2DWLi3wE/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27688">[![Screen Shot 2016-06-10 at 3.11.17 PM](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155544/Screen-Shot-2016-06-10-at-3.11.17-PM-tb-728x01.png)](https://www.canva.com/design/DAB2DQqDhZg/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27689">[![Screen Shot 2016-06-10 at 3.11.31 PM]()](https://www.canva.com/design/DAB2DekDJjg/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27690">[![Screen Shot 2016-06-10 at 3.04.58 PM]()](https://www.canva.com/design/DAB2DXfTtO8/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 31. Design With a Twist
+![30. Nice and Slim](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155541/30.-Nice-and-Slim-tb-728x02.jpg)
 
-<figure class="lazyload-image" id="image-8448">[![31](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155546/31-tb-728x01.jpg)](http://coolmaterial.com/wp-content/uploads/2013/05/flow-yoga-mat-business-card.jpg)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Coolmaterial</figcaption></figure>Utilizing aspects of your business to create your card makes it feel more authentic and approachable. Here foldable foam is used to create a mini yoga mat for a yoga studio, a fun and witty take on a traditional card.
+![Screen Shot 2016-06-10 at 3.11.06 PM](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155543/Screen-Shot-2016-06-10-at-3.11.06-PM-tb-728x02.png)
+
+![Screen Shot 2016-06-10 at 3.11.17 PM](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155544/Screen-Shot-2016-06-10-at-3.11.17-PM-tb-728x01.png)
+
+![Screen Shot 2016-06-10 at 3.11.31 PM]()](https://www.canva.com/design/DAB2DekDJjg/remix)
+
+![Screen Shot 2016-06-10 at 3.04.58 PM]()](https://www.canva.com/design/DAB2DXfTtO8/remix)
+
+## 31. Design With a Twist
+
+![31](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155546/31-tb-728x01.jpg)](http://coolmaterial.com/wp-content/uploads/2013/05/flow-yoga-mat-business-card.jpg)
+
+*Image Credit: Coolmaterial*
+
+Utilizing aspects of your business to create your card makes it feel more authentic and approachable. Here foldable foam is used to create a mini yoga mat for a yoga studio, a fun and witty take on a traditional card.
 
 ## 32. A Fun Experience
 

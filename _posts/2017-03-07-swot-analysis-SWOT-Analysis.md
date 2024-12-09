@@ -1,5 +1,5 @@
 ---
-id: 15985
+
 title: 'SWOT Analysis'
 date: '2017-03-07T13:33:17-04:00'
 author: admin

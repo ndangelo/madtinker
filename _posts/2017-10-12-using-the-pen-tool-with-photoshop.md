@@ -16,6 +16,6 @@ categories:
     - Tutorials
 ---
 
-<iframe class="vide" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/XTPp95bFSc0?feature=oembed" title="Using the Pen Tool in Adobe Photoshop CC" width="500"></iframe>
+<iframe class="vide" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/XTPp95bFSc0?feature=oembed" title="Using the Pen Tool in Adobe Photoshop CC"></iframe>
 
 All assets can be downloaded here: [Download](https://www.dropbox.com/sh/xsh5r1gsz2xqnkn/AAAvhKCxB1bN6XSeoVhGQAGsa?dl=0)

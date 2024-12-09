@@ -1,5 +1,5 @@
 ---
-id: 5514
+
 title: 'CREATE A DOUBLE EXPOSURE IMAGE IN PHOTOSHOP II'
 date: '2017-10-19T10:50:22-04:00'
 author: admin
@@ -12,7 +12,9 @@ categories:
     - Projects
 ---
 
-<div class="entry-media"><figure class="video-wrapper"><div class="fluid-width-video-wrapper">In this Photoshop tutorial, we’ll start by cutting out our model using Select and Mask to create a complex mask and then we’ll double up our tree texture and use masks and blend mode to set the double exposure effect and then we’ll use a combination of mid-tone sharpening, lens flares, and color effects to pull the double exposure effect together and get a great final result. This is an effect that should work on any object or person! Mask, Overlay, Color Correct, Blend, Sharpen, Flare, Color Grade and finish! That’s the process we’ll use in this tutorial.</div></figure></div><div class="wrapper"><div class="grids"><div class="grid-8 column-1"><div class="single-box clearfix entry-content">### Cut Out the Subject With Quick Mask + Select and Mask
+In this Photoshop tutorial, we’ll start by cutting out our model using Select and Mask to create a complex mask and then we’ll double up our tree texture and use masks and blend mode to set the double exposure effect and then we’ll use a combination of mid-tone sharpening, lens flares, and color effects to pull the double exposure effect together and get a great final result. This is an effect that should work on any object or person! Mask, Overlay, Color Correct, Blend, Sharpen, Flare, Color Grade and finish! That’s the process we’ll use in this tutorial.
+
+### Cut Out the Subject With Quick Mask + Select and Mask
 
 ![01-double-exposure-photoshop-tutorial](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12140755/01-double-exposure-photoshop-tutorial-700x50011111111111.jpg)
 
@@ -44,4 +46,3 @@ Next, click on the layer mask thumbnail in the Layers panel and grab the Brush t
 
 We can also add a layer mask to the model layer and paint away edges of the model to blend the tree image with the subject of the photo until you get a double exposure that you just love. Make sure you watch the full 20-minute video at the top of this post to get a really good idea of how to create every aspect of this effect and learn so much about Photoshop in the process!
 
-</div></div></div></div>

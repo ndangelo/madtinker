@@ -1,5 +1,5 @@
 ---
-id: 5542
+
 title: 'How to Use the Grid System in Graphic Design'
 date: '2017-10-21T18:46:31-04:00'
 author: admin
@@ -12,11 +12,13 @@ categories:
     - Projects
 ---
 
-<header class="loc article-header article-header">## Keep Designs Consistent With Grid.
+## Keep Designs Consistent With Grid.
 
-</header><figure class="comp figure-article lock-primary figure-portrait" id="figure-article_1-0"><div class="figure-media"><div class="img-placeholder">![A Basic Grid](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12140628/grid1-56a44dae5f9b58b7d0d63bea.jpg)</div>[](https://www.thoughtco.com/use-grid-system-in-graphic-design-1697574# "Pin to Pinterest")
+![A Basic Grid](https://image-control-storage.s3.amazonaws.com/blog-images/2018/01/12140628/grid1-56a44dae5f9b58b7d0d63bea.jpg)</div>[](https://www.thoughtco.com/use-grid-system-in-graphic-design-1697574#)
 
-</div><figcaption class="figure-article-caption"> A Basic Grid.</figcaption></figure><div class="loc pre-content"><div class="comp article-meta mntl-block" data-tracking-container="true" id="article-meta_1-0"><div class="comp byline" id="byline_1-0"><span class="byline-name">by [Eric Miller](http://graphicdesign.about.com/bio/Eric-Miller-29383.htm)</span></div><div class="comp updated-label article-updated-label" id="updated-label_1-0">Updated August 29, 2017</div></div></div><div class="comp flex article-content" id="flex_1-0">The grid system used in the [graphic design](https://www.thoughtco.com/principles-of-graphic-design-1077541) process is a way of organizing content on a page. It uses any combination of margins, guides, rows, and columns to form a uniform arrangement. It is most apparent in newspaper and magazine layout with columns of text and images, though it can be used in any project.
+A Basic Grid. by [Eric Miller](http://graphicdesign.about.com/bio/Eric-Miller-29383.htm) Updated August 29, 2017
+
+The grid system used in the [graphic design](https://www.thoughtco.com/principles-of-graphic-design-1077541) process is a way of organizing content on a page. It uses any combination of margins, guides, rows, and columns to form a uniform arrangement. It is most apparent in newspaper and magazine layout with columns of text and images, though it can be used in any project.
 
 ### USING GRIDS IN YOUR DESIGNS
 
@@ -46,4 +48,4 @@ Once the grid is established, it is up to the designer as to when and how to bre
 
 Breaking out of the grid can lead to the most interesting page designs. You will see this quite often in modern magazine design.
 
-</div>Miller, Eric. “How to Use the Grid System in Graphic Design.” ThoughtCo, Aug. 29, 2017, thoughtco.com/use-grid-system-in-graphic-design-1697574.
+Miller, Eric. “How to Use the Grid System in Graphic Design.” ThoughtCo, Aug. 29, 2017, thoughtco.com/use-grid-system-in-graphic-design-1697574.
