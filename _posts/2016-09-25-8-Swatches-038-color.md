@@ -1,11 +1,9 @@
 ---
-id: 3910
+
 title: '8. Swatches &#038; color'
 date: '2016-09-25T14:54:14-04:00'
 author: admin
 layout: post
-
-
 
 categories:
     - 'Design Instruction'

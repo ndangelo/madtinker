@@ -1,11 +1,9 @@
 ---
-id: 3941
+
 title: '3. Typography basics'
 date: '2016-09-25T14:58:05-04:00'
 author: admin
 layout: post
-
-
 categories:
     - 'Design Instruction'
     - 'InDesign'

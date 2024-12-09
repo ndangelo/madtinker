@@ -1,11 +1,9 @@
 ---
-id: 3936
+
 title: '4. Threading text'
 date: '2016-09-25T14:57:13-04:00'
 author: admin
 layout: post
-
-
 
 categories:
     - 'Design Instruction'

@@ -1,5 +1,5 @@
 ---
-id: 2837
+
 title: 'Wireframe Production: Part 1'
 date: '2016-10-12T13:00:43-04:00'
 author: admin
@@ -9,8 +9,11 @@ permalink: /wireframe-production-part-1/
 
 categories:
     - 'DMET 375 IMAGING TECHNOLOGY'
-    - UI
-    - IA
+    - 'UI'
+    - 'IA'
+tags:
+    - 'UI'
+    - 'IA'
 ---
 
 **You can Download sample wireframe files here:** **[DOWNLOAD](https://www.dropbox.com/s/2uvuapxj55h5nn8/wireframe_examples_esu.zip?dl=0)**

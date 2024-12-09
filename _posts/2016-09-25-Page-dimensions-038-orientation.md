@@ -5,11 +5,9 @@ date: '2016-09-25T14:55:20-04:00'
 author: admin
 layout: post
 
-
-
 categories:
     - 'Design Instruction'
-    - InDesign
+    - 'InDesign'
 ---
 
 ### Sometimes you will create an InDesign document, only to realize that you want to insert a page with different dimensions or orientation, like a pull-out page or a flipped spread. Here’s how to do it…

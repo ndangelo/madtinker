@@ -1,15 +1,13 @@
 ---
-id: 3918
+
 title: '7. Placing &#038; Linking images'
 date: '2016-09-25T14:54:48-04:00'
 author: admin
 layout: post
 
-
-
 categories:
     - 'Design Instruction'
-    - InDesign
+    - 'InDesign'
 ---
 
 There are some basic rules about inserting images in InDesign. Once you’re clued up you can create all sorts of dynamic image-filled documents.

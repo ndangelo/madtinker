@@ -1,5 +1,5 @@
 ---
-id: 947
+
 title: 'Chapter 6: Composition'
 date: '2015-02-12T18:01:41-04:00'
 author: admin

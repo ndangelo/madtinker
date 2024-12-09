@@ -1,11 +1,9 @@
 ---
-id: 3931
+
 title: 5. Creating a Book File
 date: '2016-09-25T14:56:06-04:00'
 author: admin
 layout: post
-
-
 
 categories:
   - Design Instruction

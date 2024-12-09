@@ -1,11 +1,9 @@
 ---
-id: 3904
+
 title: '9. Proofing ; Preflight'
 date: '2016-09-25T14:53:35-04:00'
 author: admin
 layout: post
-
-
 
 categories:
     - 'Design Instruction'

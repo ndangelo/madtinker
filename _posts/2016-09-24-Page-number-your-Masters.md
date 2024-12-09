@@ -1,17 +1,15 @@
 ---
-
 layout: post
 author: admin
-
 title: 2. Page number your Masters
 date: 2016-09-24T16:55:56-04:00
 tag:
   - design
-id: 3750
+
 categories:
   - Design Instruction
   - InDesign
-rating: -1
+
 ---
 
 #### If you’re creating a document which is moderately lengthy, like an Annual Report, or very long, like a book, you should apply Page Numbers. The most efficient way to do this is to add them to a Master Page.
