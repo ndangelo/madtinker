@@ -1,5 +1,5 @@
 ---
-id: 4915
+
 title: 'Typography Cheat Sheet'
 date: '2017-02-06T15:13:30-04:00'
 author: admin

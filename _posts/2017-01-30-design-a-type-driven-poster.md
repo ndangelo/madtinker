@@ -3,16 +3,19 @@ layout: post
 author: admin
 permalink: /design-a-type-driven-poster/
 date: 2017-01-30T11:59:26-04:00
-footnotes:
-  - ""
 title: DESIGN A TYPE-DRIVEN POSTER
 tags:
   - design
-tag:
-  - design
-id: 2028
+  - type
+  - fonts
+  - poster
+
 categories:
   - DMET 350 MEDIA GRAPHICS AND DESIGN
+  - Design
+  - Type
+  - Fonts
+  - Poster
 ---
 
 ### DESIGN A TYPE-DRIVEN POSTER
