@@ -387,6 +387,14 @@ body {
 
 }
 
+
+.social {
+  aspect-ratio: auto;
+  width: 100%;
+  padding: 2px;
+
+}
+
 .highlight {
 
   width: 90%;
