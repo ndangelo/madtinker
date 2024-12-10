@@ -387,6 +387,13 @@ body {
 
 }
 
+.videm {
+  aspect-ratio: 1 / 1;
+  width: 100%;
+  padding: 2px;
+
+}
+
 
 .social_em{
   aspect-ratio: 1 / 1;
