@@ -381,7 +381,7 @@ body {
 }*/
 
 .vide {
-  aspect-ratio: 16 / 16;
+  aspect-ratio: 16 / 9;
   width: 100%;
   padding: 2px;
 
@@ -389,8 +389,8 @@ body {
 
 
 .social_em{
-  aspect-ratio: auto;
-  width: 100%;
+  aspect-ratio: 1 / 1;
+  width: 80%;
   padding: 2px;
 
 }
