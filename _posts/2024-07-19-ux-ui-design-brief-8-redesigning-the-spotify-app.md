@@ -26,7 +26,9 @@ After reviewing the following design brief, we will discuss prompts in this proj
 
 **Client:** Spotify
 
-<div class="wp-block-image"><figure class="aligncenter">[![Design Element](https://uxdesignmastery.com/wp-content/uploads/2024/05/Spotify_logo.png)](https://uxdesignmastery.com/wp-content/uploads/2024/05/Spotify_logo.png)</figure></div>**Timeline** TBD
+![Design Element](https://uxdesignmastery.com/wp-content/uploads/2024/05/Spotify_logo.png)
+
+**Timeline** TBD
 
 ### Objectives
 
@@ -41,11 +43,15 @@ We aim to redesign the Spotify music app to provide users a richer and more pers
 
 ### Target audience
 
-<div class="wp-block-image"><figure class="aligncenter">![Design Element](https://uxdesignmastery.com/wp-content/uploads/2023/05/Target-Audience-Food-App-1024x338.png)</figure></div>**Marcus Lee**, 35 | Musician  
+![Design Element](https://uxdesignmastery.com/wp-content/uploads/2023/05/Target-Audience-Food-App-1024x338.png)
+
+**Marcus Lee**, 35 | Musician  
+
 NEEDS  
 He likes to create and share his music with others. He wants a platform that allows him to collaborate with other artists easily, share his work, and get feedback from the community. He finds it challenging to get his music noticed in the crowded music industry and struggles to find a platform that caters to independent artists like him.
 
-**Sophia Patel**, 23 | Music Enthusiast  
+**Sophia Patel**, 23 | Music Enthusiast
+
 NEEDS  
 She enjoys discovering new artists and attending live concerts. She also likes to create playlists for different moods and occasions. However, she finds it frustrating when she cannot easily find new music recommendations or when she has to switch between multiple apps to listen to different genres.
 
@@ -79,11 +85,11 @@ These are the references that our company would like the app to follow in terms 
 
 ### Deliverables
 
-• **Onboarding screens—These screens** introduce the app to new users and explain how to use it. They might include a welcome message, an explanation of the app’s features, and instructions on creating an account.  
-**• Homepage** – displays recommended music based on user preferences, popular playlists, and trending songs.  
-**• Search** – allows users to search for songs, artists, and playlists.  
-**• Playlist** – allows users to create and save their playlists.  
-**• Player**—displays the current song playing, its lyrics, and options for sharing or adding to a playlist.  
-• **Settings** – allows users to personalize their music preferences, including genre and artist preferences.
+- **Onboarding screens—These screens** introduce the app to new users and explain how to use it. They might include a welcome message, an explanation of the app’s features, and instructions on creating an account.  
+- **Homepage** – displays recommended music based on user preferences, popular playlists, and trending songs.  
+- **Search** – allows users to search for songs, artists, and playlists.  
+- **Playlist** – allows users to create and save their playlists.  
+- **Player**—displays the current song playing, its lyrics, and options for sharing or adding to a playlist.  
+- **Settings** – allows users to personalize their music preferences, including genre and artist preferences.
 
-<div class="wp-block-image"><figure class="aligncenter">![Design Element](https://uxdesignmastery.com/wp-content/uploads/2023/05/testing-1024x415.png)</figure></div>
+![Design Element](https://uxdesignmastery.com/wp-content/uploads/2023/05/testing-1024x415.png)
