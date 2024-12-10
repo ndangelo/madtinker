@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2013-06-05 17:06:25
+date:   2013-06-05T18:01:41-04:00
 categories: 
     - 'Audio'
 
