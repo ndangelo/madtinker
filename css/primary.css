@@ -183,6 +183,7 @@ a:hover {
 
 .container {
 border-top: solid 2px #111111;
+padding: 20px;
 }
 
 footer {
@@ -389,8 +390,9 @@ body {
 
 .videm {
   aspect-ratio: 1 / 1;
-  width: 100%;
+  width: 80%;
   padding: 2px;
+  max-width: 400px;
 
 }
 
@@ -399,6 +401,7 @@ body {
   aspect-ratio: 1 / 1;
   width: 70%;
   padding: 2px;
+
 
 }
 
