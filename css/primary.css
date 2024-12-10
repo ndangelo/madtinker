@@ -388,7 +388,7 @@ body {
 }
 
 
-.social {
+.social_em{
   aspect-ratio: auto;
   width: 100%;
   padding: 2px;
@@ -628,6 +628,12 @@ img {
 
 .vide {
   width: 340px;
+}
+
+iframe {
+
+   max-width: 350px;
+   min-width: 250px;
 }
 
 

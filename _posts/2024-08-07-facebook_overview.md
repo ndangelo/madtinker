@@ -1,8 +1,8 @@
 ---
 
 id: 665644
-title: 'Facebook and Social Media Asset Collection'
-date: '2024-08-07T14:34:28-04:00'
+title: 'Facebook'
+date: '2024-12-08T14:34:28-04:00'
 author: admin
 layout: post
 
@@ -79,7 +79,7 @@ The Facebook Page will require you to create a basic look and feel, which includ
 
 - **Effective landing page.** If you click on this ad, you’ll be taken to a landing page that describes the product—and why it’s valuable—in more detail. This is a tried-and-true online marketing strategy that even the most beginner brands can use. It’s also a good reminder that you don’t have to say everything in your ad.
 
-<iframe class="social" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FWaze%2Fposts%2Fpfbid02zhEa6UGxg13LGHFyC4i1gxnSPzpi6fCYPFMNkwMvTRh5ECKrBm3euvsgWp5nd8Qyl&show_text=true&width=500" width="500" height="714" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe class="social_em" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FWaze%2Fposts%2Fpfbid02zhEa6UGxg13LGHFyC4i1gxnSPzpi6fCYPFMNkwMvTRh5ECKrBm3euvsgWp5nd8Qyl&show_text=true&width=500" width="500" height="714" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
 #### What’s great about this ad:
@@ -99,7 +99,7 @@ The Facebook Page will require you to create a basic look and feel, which includ
 - **Simple messaging.** In addition to keeping the video brief, the message in the video is clear: Subscribe to Headspace. Sometimes a direct call-to-action is all you need.
 
 
-<iframe class="social" src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fnewyorker%2Fvideos%2F660910336382529%2F&show_text=true&width=380&t=0" width="380" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe class="social_em" src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fnewyorker%2Fvideos%2F660910336382529%2F&show_text=true&width=380&t=0" width="380" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 
 #### What’s great about this ad:
@@ -110,7 +110,7 @@ The Facebook Page will require you to create a basic look and feel, which includ
 
 - **Upfront and to-the-point.** At only six seconds in length, this video likely has a good completion rate. But even if it doesn’t—a Facebook study finds the majority of viewers bail after 1.7 seconds—the New Yorker’s message will have reached its audience. The call-to-action is present from the moment the video starts.
 
-<iframe class="social" allowfullscreen="true" allowtransparency="true" class="embera-facebook-iframe-7762a embedpress-facebook--iframe" frameborder="0" height="450" loading="lazy" scrolling="no" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftokyotreat%2Fvideos%2F832778373869939%2F%3Fref%3Dembed_video&width=600&height=450&show_text=true" style="border:none;overflow:hidden"></iframe> 
+<iframe class="social_em" allowfullscreen="true" allowtransparency="true" class="embera-facebook-iframe-7762a embedpress-facebook--iframe" frameborder="0" height="450" loading="lazy" scrolling="no" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftokyotreat%2Fvideos%2F832778373869939%2F%3Fref%3Dembed_video&width=600&height=450&show_text=true" style="border:none;overflow:hidden"></iframe> 
 
 
 #### What’s great about this ad:
@@ -119,7 +119,7 @@ The Facebook Page will require you to create a basic look and feel, which includ
 
 - **Free shipping and a bonus offer**. Free shipping is usually an eye-catcher all on its own, but by combining it with a bonus coupon, TokyoTreat gives an additional incentive to sign up.
 
-<iframe class="social" allowfullscreen="true" allowtransparency="true" class="embera-facebook-iframe-f1e4f embedpress-facebook--iframe" frameborder="0" height="450" loading="lazy" scrolling="no" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCreativeEndeavorsLab%2Fposts%2F511945538051745%3Fref%3Dembed_post&width=600&height=450&show_text=true" style="border:none;overflow:hidden"></iframe>
+<iframe class="social_em" allowfullscreen="true" allowtransparency="true" class="embera-facebook-iframe-f1e4f embedpress-facebook--iframe" frameborder="0" height="450" loading="lazy" scrolling="no" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCreativeEndeavorsLab%2Fposts%2F511945538051745%3Fref%3Dembed_post&width=600&height=450&show_text=true" style="border:none;overflow:hidden"></iframe>
 
 
 
