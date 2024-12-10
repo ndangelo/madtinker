@@ -392,6 +392,7 @@ body {
   aspect-ratio: 1 / 1;
   padding: 2px;
   max-width: 400px;
+  max-height: 400px;
 
 }
 
@@ -638,6 +639,7 @@ img {
 .vide {
   width: 340px;
 }
+
 
 iframe {
 
