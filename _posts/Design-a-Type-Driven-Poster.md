@@ -1,5 +1,5 @@
 ---
-id: 4817
+
 title: 'Design a Type-Driven Poster'
 date: '2017-01-30T11:59:10-04:00'
 author: admin

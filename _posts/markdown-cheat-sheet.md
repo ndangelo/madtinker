@@ -1,3 +1,21 @@
+---
+
+title: 'Markdown Cheat Sheet'
+date: '2024-11-30T11:59:10-04:00'
+author: admin
+layout: post
+
+categories:
+    - 'DMET 350 MEDIA GRAPHICS AND DESIGN'
+    - 'Projects'
+    - 'Code'
+
+tags:
+    - 'code'
+
+---
+
+
 # Markdown Cheat Sheet
 
 Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
