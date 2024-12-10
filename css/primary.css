@@ -397,7 +397,7 @@ body {
 
 .social_em{
   aspect-ratio: 1 / 1;
-  width: 80%;
+  width: 100%;
   padding: 2px;
 
 }
@@ -641,6 +641,7 @@ iframe {
 
    max-width: 350px;
    min-width: 250px;
+
 }
 
 
