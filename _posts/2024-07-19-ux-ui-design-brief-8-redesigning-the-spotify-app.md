@@ -46,17 +46,17 @@ We aim to redesign the Spotify music app to provide users a richer and more pers
 ![Design Element](https://uxdesignmastery.com/wp-content/uploads/2023/05/Target-Audience-Food-App-1024x338.png)
 
 **Marcus Lee**, 35 | Musician  
+***NEEDS***
 
-NEEDS  
 He likes to create and share his music with others. He wants a platform that allows him to collaborate with other artists easily, share his work, and get feedback from the community. He finds it challenging to get his music noticed in the crowded music industry and struggles to find a platform that caters to independent artists like him.
 
 **Sophia Patel**, 23 | Music Enthusiast
+***NEEDS***
 
-NEEDS  
 She enjoys discovering new artists and attending live concerts. She also likes to create playlists for different moods and occasions. However, she finds it frustrating when she cannot easily find new music recommendations or when she has to switch between multiple apps to listen to different genres.
 
-**Sandra Jenkins**, 28 | Fitness Enthusiast  
-NEEDS
+**Sandra Jenkins**, 28 | Fitness Enthusiast
+***NEEDS***
 
 She enjoys working out and needs music to motivate her during her exercise routine. She wants a platform that allows her to easily create workout playlists and discover new music that fits her workout style. She finds it frustrating when the music app doesn’t provide enough variety in workout music or doesn’t have features that help her track her fitness goals.
 
@@ -83,7 +83,9 @@ These are the references that our company would like the app to follow in terms 
 - Apple Music
 - Pandora
 
+
 ### Deliverables
+
 
 - **Onboarding screens—These screens** introduce the app to new users and explain how to use it. They might include a welcome message, an explanation of the app’s features, and instructions on creating an account.  
 - **Homepage** – displays recommended music based on user preferences, popular playlists, and trending songs.  
