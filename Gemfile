@@ -7,4 +7,5 @@ gem 'github-pages'
 gem 'jekyll-archives'
 
 
-gem "jekyll-contentful-data-import"
+gem 'jekyll-admin', group: :jekyll_plugins
+
