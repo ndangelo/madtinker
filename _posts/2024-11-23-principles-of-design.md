@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: 2024-10-29
 title: Principles of Design
 ---
@@ -19,7 +19,7 @@ Are your designs in [balance](https://www.thoughtco.com/balance-in-design-107823
 
 ### Proximity / Unity
 
-![Proximity](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184103/proximity-58babbfe3df78c353c433546.png)
+<p style="text-align: center"><img src="https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184103/proximity-58babbfe3df78c353c433546.png" alt="Proximity"></p>
 
 Do your designs have unity? In design, proximity or closeness creates a bond between elements on a page. How close together or far apart elements are placed suggests a relationship (or lack of) between otherwise disparate parts. Unity is also achieved by using a third element to connect distant parts. Are title elements together? Is contact information all in one place? Do frames and boxes tie together or are they separate related elements in your document?
 
@@ -95,8 +95,11 @@ The size of an element in graphic design generally indicates its importance. The
 Most good graphic designs achieve visual balance by using symmetrical, asymmetrical, or radial symmetry around a visual center.
 
 *   In **symmetrical balance**, both sides of a page layout are the same in weight, shape, lines, and other elements.
+    
 *   **Asymmetrical balance** occurs when the two sides of a website aren’t the same, but they have similar elements.
+    
 *   **Radial symmetry** places elements in a circular pattern. Although it is popular in print layouts, radial symmetry isn’t seen much on websites because the circular placements are difficult to achieve.
+    
 
 Occasionally, a graphic designer intentionally produces an unbalanced design, usually to focus attention on a single element. In design, as in other areas, you need to know the rules before you can break them effectively, but unbalanced designs can work.
 
