@@ -29,17 +29,7 @@ You should make sure you include sketches for ALL the media types you will be us
 
 **Examples:**
 
-<p style="text-align: center"><img src="https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184137/wireframe-sketch-01.jpg" alt=""></p>
-
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184135/wireframe-sketch-02.jpg)
-
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184134/wireframe-sketch-03.jpg)
-
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184132/wireframe-sketch-04.jpg)
-
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184130/wireframe-sketch-08.jpg)
-
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184128/wireframe-sketch-09.jpg)
+<p style="text-align: center"><img src="https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184137/wireframe-sketch-01.jpg" alt=""></p><p style="text-align: center"><img src="https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184135/wireframe-sketch-02.jpg" alt=""></p><p style="text-align: center"><img src="https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184134/wireframe-sketch-03.jpg" alt=""></p><p style="text-align: center"><img src="https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184132/wireframe-sketch-04.jpg" alt=""></p><p style="text-align: center"><img src="https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184130/wireframe-sketch-08.jpg" alt=""></p><p style="text-align: center"><img src="https://image-control-storage.s3.amazonaws.com/blog-images/2017/03/27184128/wireframe-sketch-09.jpg" alt=""></p>
 
 * * *
 
@@ -63,7 +53,7 @@ If you missed the lecture please speak with another student for information. You
 
 by [Nick Haas](https://www.orbitmedia.com/blog/author/nickhaas/)
 
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191243/7-Reasons-Wireframing-Important-Web-Design.jpg)
+<p style="text-align: center"><img src="https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191243/7-Reasons-Wireframing-Important-Web-Design.jpg" alt=""></p>
 
 ## What is a wireframe?
 
@@ -78,7 +68,7 @@ by [Nick Haas](https://www.orbitmedia.com/blog/author/nickhaas/)
 
 It will also be the style you will use to make your wireframes.
 
-![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191237/kofman_WebWireframes-1024x604.jpg)
+<p style="text-align: center"><img src="https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191237/kofman_WebWireframes-1024x604.jpg" alt=""></p>
 
 ![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/03/27191235/2016-03-20-13_17_20-kofman_WebWireframes.pdf-Adobe-Acrobat-Pro-DC-1024x604.jpg)
 
