@@ -7,5 +7,4 @@ gem 'github-pages'
 gem 'jekyll-archives'
 
 
-gem 'jekyll-admin', group: :jekyll_plugins
 
