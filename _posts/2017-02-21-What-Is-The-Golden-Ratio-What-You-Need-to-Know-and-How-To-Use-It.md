@@ -137,6 +137,7 @@ Start designing
 
 Rebecca is a freelance writer, researcher, and design historian. She has a Masters in the History of Decorative Arts and Design from Parsons The New School for Design, New York, and studies cultural history through the lens of architecture, design, and decorative arts.
 
-## **Great design for**  
-every part of your life
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTg3NjkwNjIyXX0=
+-->
