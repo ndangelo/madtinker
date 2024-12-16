@@ -80,9 +80,11 @@ If you really like the horizontal rectangular format, you can add in customized 
 
 Look no further for a lush business card design that would look perfect with sleeves (or on their own) — check out the template below.
 
-![06- Upscale](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155443/06-Upscale-tb-728x02.jpg)](https://www.canva.com/design/DAB0F3eTox8/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 07. A Personal Touch
+![06- Upscale](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155443/06-Upscale-tb-728x02.jpg)](https://www.canva.com/design/DAB0F3eTox8/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>
 
-<figure class="lazyload-image" id="image-8424">[![7]()](https://www.behance.net/gallery/10924135/NAYA-KOKKALI)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>Using rubber stamps to place your logo on your card makes it feel much more personal, since you’ve taken the time to stamp each individual one, which shows you have an investment in your company or business.
+## 07. A Personal Touch
+
+Using rubber stamps to place your logo on your card makes it feel much more personal, since you’ve taken the time to stamp each individual one, which shows you have an investment in your company or business.
 
 ## 08. Fun and Informal
 
@@ -362,5 +364,5 @@ every part of your life
 
 </div></div></div></section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMDU5NzYwXX0=
+eyJoaXN0b3J5IjpbLTI4NzQ3MjY0XX0=
 -->
