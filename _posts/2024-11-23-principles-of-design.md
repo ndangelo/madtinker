@@ -1,5 +1,5 @@
 ---
-<<<<<<< HEAD
+
 id: 5138
 title: 'Principles of Design'
 date: '2024-11-29T10:24:07-04:00'
@@ -15,7 +15,7 @@ categories:
 tag: 
     - design
     - art
-=======
+
 published: true
 date: 2024-10-29
 title: Principles of Design
