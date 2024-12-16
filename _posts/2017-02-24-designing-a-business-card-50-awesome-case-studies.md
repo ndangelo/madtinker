@@ -57,17 +57,19 @@ Things get taken up quite a few notches with this creative card. Transparency pa
 
 ## 03. Explore the Unconventional
 
-![3](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155437/3-tb-728x02.png)](https://www.behance.net/gallery/5106257/MYLENE-POISSON-SOMMELIERE)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>This is a great example of using an unconventional medium to create visual elements. Since you can’t duplicate every wine ring to look the same, each card has its own personality yet still fits together cohesively.
+![3](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155437/3-tb-728x02.png)This is a great example of using an unconventional medium to create visual elements. Since you can’t duplicate every wine ring to look the same, each card has its own personality yet still fits together cohesively.
 
 ## 04. Elegant Shapes
 
-<figure class="lazyload-image" id="image-8421">[![4]()](https://www.behance.net/gallery/4858837/Moxie-Tuesday-Design-Branding)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>A simple change in shape can set your card apart from the hundreds of others that use the rectangular format. A square is a simple, elegant shape that provides a great starting point for a business card.
+A simple change in shape can set your card apart from the hundreds of others that use the rectangular format. A square is a simple, elegant shape that provides a great starting point for a business card.
 
 Here are a couple of square business card templates you can customize:
 
-<figure class="lazyload-image" id="image-25935">[![04. Elegant Shape]()](https://www.canva.com/design/DAB0FlVci3I/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27662">[![Screen Shot 2016-06-10 at 11.23.19 AM]()](https://www.canva.com/design/DAB1wJHj308/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 05. Subtle Curves
+![04. Elegant Shape]](https://www.canva.com/design/DAB0FlVci3I/remix)
 
-<figure class="lazyload-image" id="image-8422">[![5](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155439/5-tb-728x02.jpg)](https://www.behance.net/gallery/9213553/Two-Sisters-Photography)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>If you really like the horizontal rectangular format, you can add in customized edges to stand out. The shape is still simple, but adjusted just enough to give it a softer feel with the subtle curves.
+![Screen Shot 2016-06-10 at 11.23.19 AM](https://www.canva.com/design/DAB1wJHj308/remix)
+
+![5](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155439/5-tb-728x02.jpg)](https://www.behance.net/gallery/9213553/Two-Sisters-Photography)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>If you really like the horizontal rectangular format, you can add in customized edges to stand out. The shape is still simple, but adjusted just enough to give it a softer feel with the subtle curves.
 
 ## 06. Upscale
 
@@ -357,5 +359,5 @@ every part of your life
 
 </div></div></div></section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzMzNTg3NjldfQ==
+eyJoaXN0b3J5IjpbLTIwNjE0ODU0ODVdfQ==
 -->
