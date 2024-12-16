@@ -1,7 +1,25 @@
 ---
+<<<<<<< HEAD
+id: 5138
+title: 'Principles of Design'
+date: '2024-11-29T10:24:07-04:00'
+author: admin
+layout: post
+
+permalink: /principles-of-design/
+
+categories:
+    - Projects.
+    - Art
+
+tag: 
+    - design
+    - art
+=======
 published: true
 date: 2024-10-29
 title: Principles of Design
+
 ---
 ## Check Your Documents for Balance, Alignment and Other Principles of Design
 
@@ -13,7 +31,7 @@ All the principles of design, also known as principles of composition, apply to 
 
 ![balance](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184105/balance-58babbb55f9b58af5cb400cf.png)
 
-Are your designs in [balance](https://www.thoughtco.com/balance-in-design-1078231)Visual balance comes from arranging elements on the page so that no one section is heavier than the other. At times, a designer may intentionally throw elements out of balance to create tension or a certain mood. Are your page elements all over the place or does each portion of the page balance out the rest? If the page is out of balance, it should be done purposely and with a specific intention in mind.
+Are your designs in [balance](https://www.thoughtco.com/balance-in-design-1078231) Visual balance comes from arranging elements on the page so that no one section is heavier than the other. At times, a designer may intentionally throw elements out of balance to create tension or a certain mood. Are your page elements all over the place or does each portion of the page balance out the rest? If the page is out of balance, it should be done purposely and with a specific intention in mind.
 
 [Check Your Use of the Principle of Balance](https://www.thoughtco.com/balance-in-design-1078231)
 
