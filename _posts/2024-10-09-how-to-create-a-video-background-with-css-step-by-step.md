@@ -6,6 +6,7 @@ author: admin
 layout: post
 
 permalink: /how-to-create-a-video-background-with-css-step-by-step/
+
 categories:
     - Projects
 ---
@@ -130,3 +131,6 @@ There’s no excuse to use videos nowadays. Videos in websites are a very powerf
 
 As you could see, you only need a few lines of CSS to set any video as a background. And, if you want to go one step further, you can go full-screen by using components like [fullPage.js](https://alvarotrigo.com/fullPage/). Check out the [video example here](https://alvarotrigo.com/fullPage/examples/videoBackground.html).
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIyNzc0MDk2Ml19
+-->
