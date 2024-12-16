@@ -65,11 +65,14 @@ A simple change in shape can set your card apart from the hundreds of others tha
 
 Here are a couple of square business card templates you can customize:
 
-![04. Elegant Shape]](https://www.canva.com/design/DAB0FlVci3I/remix)
+[04. Elegant Shape](https://www.canva.com/design/DAB0FlVci3I/remix)
 
-![Screen Shot 2016-06-10 at 11.23.19 AM](https://www.canva.com/design/DAB1wJHj308/remix)
+[Screen Shot 2016-06-10 at 11.23.19 AM](https://www.canva.com/design/DAB1wJHj308/remix)
 
-![5](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155439/5-tb-728x02.jpg)](https://www.behance.net/gallery/9213553/Two-Sisters-Photography)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>If you really like the horizontal rectangular format, you can add in customized edges to stand out. The shape is still simple, but adjusted just enough to give it a softer feel with the subtle curves.
+![5](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155439/5-tb-728x02.jpg)
+
+
+If you really like the horizontal rectangular format, you can add in customized edges to stand out. The shape is still simple, but adjusted just enough to give it a softer feel with the subtle curves.
 
 ## 06. Upscale
 
@@ -359,5 +362,5 @@ every part of your life
 
 </div></div></div></section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE0ODU0ODVdfQ==
+eyJoaXN0b3J5IjpbLTE1MTYxNzc0NF19
 -->
