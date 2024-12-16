@@ -76,11 +76,11 @@ If you really like the horizontal rectangular format, you can add in customized 
 
 ## 06. Upscale
 
-<figure class="lazyload-image" id="image-8423">[![6](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155441/6-tb-728x02.png)](https://www.behance.net/gallery/10699815/EXIGO-Boutique)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>Adding extra elements like sleeves can make your cards feel more upscale. The process of taking the card out is reminiscent of opening a gift or a letter, which makes the idea of receiving it much more exciting.
+![6](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155441/6-tb-728x02.png)Adding extra elements like sleeves can make your cards feel more upscale. The process of taking the card out is reminiscent of opening a gift or a letter, which makes the idea of receiving it much more exciting.
 
 Look no further for a lush business card design that would look perfect with sleeves (or on their own) — check out the template below.
 
-<figure class="lazyload-image" id="image-25927">[![06- Upscale](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155443/06-Upscale-tb-728x02.jpg)](https://www.canva.com/design/DAB0F3eTox8/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 07. A Personal Touch
+![06- Upscale](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155443/06-Upscale-tb-728x02.jpg)](https://www.canva.com/design/DAB0F3eTox8/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 07. A Personal Touch
 
 <figure class="lazyload-image" id="image-8424">[![7]()](https://www.behance.net/gallery/10924135/NAYA-KOKKALI)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>Using rubber stamps to place your logo on your card makes it feel much more personal, since you’ve taken the time to stamp each individual one, which shows you have an investment in your company or business.
 
@@ -362,5 +362,5 @@ every part of your life
 
 </div></div></div></section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYxNzc0NF19
+eyJoaXN0b3J5IjpbNDEyMDU5NzYwXX0=
 -->
