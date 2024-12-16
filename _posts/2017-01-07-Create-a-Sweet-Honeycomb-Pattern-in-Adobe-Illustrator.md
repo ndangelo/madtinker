@@ -1,5 +1,4 @@
 ---
-
 title: 'Have Fun With Pattern Options &#8211; Create a Sweet Honeycomb Pattern in Adobe Illustrator'
 date: '2017-01-07T14:15:35-04:00'
 author: admin
@@ -8,7 +7,7 @@ layout: post
 categories:
     - 'Design Instruction'
     - 'Illustrator Tutorials'
-    - Projects
+    - 'Projects'
 ---
 
 ![Final product image](https://image-control-storage.s3.amazonaws.com/blog-images/2016/09/27190159/inal.jpg)
@@ -39,7 +38,7 @@ Apply a **Linear Gradient** to the offset hexagon with the **Gradient Tool (G)**
 - **R=255 G=189 B=63**
 - **R=255 G=234 B=144**
 - **R=255 G=204 B=102**
-- R=255 G=179 B=45**
+- **R=255 G=179 B=45**
 
 ![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/09/27190154/honey003.jpg)
 
@@ -117,3 +116,6 @@ Your honeycomb design is complete. Use it as a wallpaper for your desktop or pho
 
 ![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/09/27190136/inal-1.jpg)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ2MTkzMTIwNl19
+-->
