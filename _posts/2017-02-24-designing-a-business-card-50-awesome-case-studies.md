@@ -46,9 +46,13 @@ Try it on the clean and professional look for size with the Canva business card 
 
 ![01- Clean and Professional](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155430/01-Clean-and-Professional-tb-728x02.jpg)![Screen Shot 2016-06-10 at 10.50.03 AM](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155432/Screen-Shot-2016-06-10-at-10.50.03-AM-tb-728x02.png)
 
-![Screen Shot 2016-06-10 at 10.49.32 AM]()](https://www.canva.com/design/DAB2CttQWC4/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27658">[![Screen Shot 2016-06-10 at 9.23.02 AM]()](https://www.canva.com/design/DAB2CmjzADU/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27661">[![Screen Shot 2016-06-10 at 10.48.54 AM]()](https://www.canva.com/design/DAB2CrxxyX4/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 02. Transparency Meets Color
+[Screen Shot 2016-06-10 at 10.49.32 AM](https://www.canva.com/design/DAB2CttQWC4/remix)
 
-<figure class="lazyload-image" id="image-8469">[![2](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155433/2-tb-728x02.jpg)](https://www.behance.net/gallery/10164985/Film-Maker-Namecard)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>Things get taken up quite a few notches with this creative card. Transparency paper paired with different colors creates an interesting overlap effect when paired together, and when separate, light shines through to reveal whatever is underneath.
+[Screen Shot 2016-06-10 at 9.23.02 AM](https://www.canva.com/design/DAB2CmjzADU/remix)
+
+[Screen Shot 2016-06-10 at 10.48.54 AM]()](https://www.canva.com/design/DAB2CrxxyX4/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 02. Transparency Meets Color
+
+![2](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155433/2-tb-728x02.jpg)](https://www.behance.net/gallery/10164985/Film-Maker-Namecard)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>Things get taken up quite a few notches with this creative card. Transparency paper paired with different colors creates an interesting overlap effect when paired together, and when separate, light shines through to reveal whatever is underneath.
 
 <figure class="lazyload-image" id="image-25925">[![02- Transparency Meets Color](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155435/02-Transparency-Meets-Color-tb-728x02.jpg)](https://www.canva.com/design/DAB0FmE9oX8/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>You can simulate the look with the design template above. Print it out on transparent paper for a memorable business card.
 
@@ -354,5 +358,5 @@ every part of your life
 
 </div></div></div></section>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4OTgyMzg4XX0=
+eyJoaXN0b3J5IjpbLTE2NTY0OTQ1NzZdfQ==
 -->
