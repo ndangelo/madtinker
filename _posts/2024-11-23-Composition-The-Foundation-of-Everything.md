@@ -1,10 +1,23 @@
 ---
-published: true
-title: "Composition: The Foundation of Everything"
+id: 1058
+title: 'Composition: The Foundation of Everything'
+date: '2024-11-23T10:18:40-04:00'
+author: admin
+layout: post
+
+permalink: /composition-the-foundation-of-everything/
+
+categories:
+    - 'Design Instruction'
+    - 'DMET 350 MEDIA GRAPHICS AND DESIGN'
+
+tag:
+    - 'design'
 ---
+
 ### PROJECT: Composition
 
-#### GRAPHIC SPACE: DOMINANT VISUAL VERSUS MULTIPLE VISUALS
+#### <span style="color: #993300;">GRAPHIC SPACE: DOMINANT VISUAL VERSUS MULTIPLE VISUALS</span>
 
 ➊ **First composition:** Find or take a photograph of an object or person, which will be the dominant visual in the final composition. Then find or take photographs of related images, for example: a person (dominant visual) and subordinate visuals: a suitcase, an umbrella, a puddle, a dog, and a fire hydrant. Convert all the photos into silhouettes.
 
@@ -14,7 +27,9 @@ title: "Composition: The Foundation of Everything"
 
 ![Dominant](https://image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194209/Dominant-1024x559.jpg)
 
-<p style="text-align: center"><img src="https://image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194501/ment.jpg" alt="ment"></p><p style="text-align: center"><img src="https://image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194458/basic.jpg" alt="basic"></p>
+![ment](https://image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194501/ment.jpg)
+
+![basic](https://image-control-storage.s3.amazonaws.com/blog-images/2015/03/27194458/basic.jpg)
 
 ➌ **Second composition:** using the same silhouettes, now build a composition where there is no single overtly dominant visual; here relationships are built among several shapes or forms through some unifying principle. No element dominates. In a multiple composition, all movements have equal or close to equal force.
 
@@ -26,7 +41,7 @@ title: "Composition: The Foundation of Everything"
 
 ### PROJECT Part Two
 
-#### MODULAR GRID: PERSONAL OR PRESIDENTIAL HISTORY
+#### <span style="color: #993300;">MODULAR GRID: PERSONAL OR PRESIDENTIAL HISTORY</span>
 
 ➊ Find photographs that commemorate or represent important moments in your own life or in the life of a country’s president. Scan the photos.
 
@@ -40,4 +55,5 @@ title: "Composition: The Foundation of Everything"
 
 ➎ Use the grid for a three-page history.
 
-#### [Composition Guide](https://dl.dropboxusercontent.com/u/12746/chapter_6_v2.ppt)
+#### <span style="color: #ffffff;"><span style="color: #808000;">[Composition Guide](https://dl.dropboxusercontent.com/u/12746/chapter_6_v2.ppt)</span>  
+</span>
