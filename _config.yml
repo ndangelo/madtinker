@@ -1,13 +1,3 @@
-name: Custom
-url: https://madtinker.net
+title: Madtinker
 description: The Mad Tinker
-
-permalink: /:categories/:year/:month/:day/:title/
-paginate: 1
-
-plugins: [jekyll-paginate]
-         
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-highlighter: rouge
-baseurl: /
-
+url: https://madtinker.net
