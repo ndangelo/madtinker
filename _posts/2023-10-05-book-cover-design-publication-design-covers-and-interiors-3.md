@@ -12,7 +12,7 @@ categories:
     - Design
 ---
 
-### ANALYZING BOOK JACKETS AND MAGAZINE COVERS
+## ANALYZING BOOK JACKETS AND MAGAZINE COVERS
 
 ### Find three examples of book jackets that express the spirit or personality of their Contents. Justify your choices.
 
@@ -60,10 +60,71 @@ Please use Adobe Indesign. You can use Illustrator and Photoshop to create most 
 
 ## Sample Layout
 
-<figure class="wp-block-image">![graphic](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/07101210/Paperback-Cover-Mockup-750x5062111111111111111111111111111111111111111111.jpg)</figure><div class="wp-block-image"><figure class="aligncenter">![Graphic](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/07101212/Paperback-Cover-Screenshot-1024x7732111111111111111111111111111111111111111111.jpg)</figure></div>### Student Examples:
+![graphic](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/07101210/Paperback-Cover-Mockup-750x5062111111111111111111111111111111111111111111.jpg)
 
-<figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133121/image-84-1024x683.png)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133217/image-85-1024x679.png)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133327/image-86-1024x685.png)</figure><div class="wp-block-image"><figure class="aligncenter">![c72NRr1qmfyEy5FCiRyukj49vkM07ZN-0F07nL1Lek8](https://image-control-storage.s3.amazonaws.com/blog-images/2015/03/27193338/c72NRr1qmfyEy5FCiRyukj49vkM07ZN-0F07nL1Lek8.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">![Sso2CcCoBD5Cg5-x4hqfcfHFBfxMX9H-0yFQaimJjeo](https://image-control-storage.s3.amazonaws.com/blog-images/2015/03/27193335/Sso2CcCoBD5Cg5-x4hqfcfHFBfxMX9H-0yFQaimJjeo.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05134645/Final-book-cover.-1pdf_Page_1-1024x662.jpg)</figure></div><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05134658/Final-book-cover.-1pdf_Page_2-1024x662.jpg)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05134704/Final-book-cover.-1pdf_Page_3-1024x662.jpg)</figure><div class="wp-block-image"><figure class="aligncenter size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133721/Skylar_Book-Covers_Page_1-1024x683.jpg)</figure></div><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133729/Skylar_Book-Covers_Page_2-1024x683.jpg)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133741/Skylar_Book-Covers_Page_3-1024x683.jpg)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133746/Skylar_Book-Covers_Page_4-1024x683.jpg)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133752/Skylar_Book-Covers_Page_5-1024x683.jpg)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133756/Skylar_Book-Covers_Page_6-1024x683.jpg)</figure><div class="wp-block-image"><figure class="aligncenter">![ta-sketchkaleidoscope](https://image-control-storage.s3.amazonaws.com/blog-images/2016/10/27185110/TA-SketchKaleidoscope-1.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">![tafrombeyondmockup](https://image-control-storage.s3.amazonaws.com/blog-images/2016/10/27185107/TAfrombeyondmockup-1.jpg)</figure></div><figure class="wp-block-image size-full">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05134730/a-certain-hunger-spread.jpg)</figure><figure class="wp-block-image size-full">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05134734/gone-girl-spread.jpg)</figure><figure class="wp-block-image size-full">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05134738/rest-spread.jpg)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05135122/A-Time-To-Kill-2-1-1024x819.png)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05135129/A-Time-To-Kill-1024x819.png)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05135129/Into-The-Wild-2-1024x819.png)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05135130/Into-The-Wild-1024x819.png)</figure><figure class="wp-block-image size-large is-resized">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05135148/The-Outsiders-2-1024x819.png)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05135154/The-Outsiders-1024x819.png)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05132133/image-82-1024x476.png)</figure><figure class="wp-block-image size-large">![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05132205/image-83-1024x473.png)</figure>## Book Cover Examples for Inspiration
+![Graphic](https://image-control-storage.s3.amazonaws.com/blog-images/2018/02/07101212/Paperback-Cover-Screenshot-1024x7732111111111111111111111111111111111111111111.jpg)
 
-<figure class="wp-block-embed is-type-wp-embed is-provider-communication-art-design-amp-instruction wp-block-embed-communication-art-design-amp-instruction"><div class="wp-block-embed__wrapper">> [20 Incredible Book Covers](https://www.nuggetofjoy.com/20-incredible-book-covers-non-designers-can-pull-off-2/)
+### Student Examples:
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133121/image-84-1024x683.png)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133217/image-85-1024x679.png)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133327/image-86-1024x685.png)
+
+![c72NRr1qmfyEy5FCiRyukj49vkM07ZN-0F07nL1Lek8](https://image-control-storage.s3.amazonaws.com/blog-images/2015/03/27193338/c72NRr1qmfyEy5FCiRyukj49vkM07ZN-0F07nL1Lek8.jpg)
+
+![Sso2CcCoBD5Cg5-x4hqfcfHFBfxMX9H-0yFQaimJjeo](https://image-control-storage.s3.amazonaws.com/blog-images/2015/03/27193335/Sso2CcCoBD5Cg5-x4hqfcfHFBfxMX9H-0yFQaimJjeo.jpg)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05134645/Final-book-cover.-1pdf_Page_1-1024x662.jpg)
+
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05134658/Final-book-cover.-1pdf_Page_2-1024x662.jpg)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05134704/Final-book-cover.-1pdf_Page_3-1024x662.jpg)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133721/Skylar_Book-Covers_Page_1-1024x683.jpg)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133729/Skylar_Book-Covers_Page_2-1024x683.jpg)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133741/Skylar_Book-Covers_Page_3-1024x683.jpg)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133746/Skylar_Book-Covers_Page_4-1024x683.jpg)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133752/Skylar_Book-Covers_Page_5-1024x683.jpg)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05133756/Skylar_Book-Covers_Page_6-1024x683.jpg)
+
+![ta-sketchkaleidoscope](https://image-control-storage.s3.amazonaws.com/blog-images/2016/10/27185110/TA-SketchKaleidoscope-1.jpg)
+
+![tafrombeyondmockup](https://image-control-storage.s3.amazonaws.com/blog-images/2016/10/27185107/TAfrombeyondmockup-1.jpg)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05134730/a-certain-hunger-spread.jpg)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05134734/gone-girl-spread.jpg)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05134738/rest-sprea
+
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05135122/A-Time-To-Kill-2-1-1024x819.png)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05135129/A-Time-To-Kill-1024x819.png)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05135129/Into-The-Wild-2-1024x819.png)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05135130/Into-The-Wild-1024x819.png)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05135148/The-Outsiders-2-1024x819.png)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05135154/The-Outsiders-1024x819.png)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05132133/image-82-1024x476.png)
+
+![Graphic](https://image-control-storage.s3.amazonaws.com/2023/10/05132205/image-83-1024x473.png)
+
+## Book Cover Examples for Inspiration
+
+
+> [20 Incredible Book Covers](https://www.nuggetofjoy.com/20-incredible-book-covers-non-designers-can-pull-off-2/)
 
 <iframe class="wp-embedded-content" data-secret="u7TtasJ69t" frameborder="0" height="282" loading="lazy" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://www.nuggetofjoy.com/20-incredible-book-covers-non-designers-can-pull-off-2/embed/#?secret=4bxVBK70ru#?secret=u7TtasJ69t" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“20 Incredible Book Covers” — Communication, Art, Design & Instruction" width="500"></iframe></div></figure>
