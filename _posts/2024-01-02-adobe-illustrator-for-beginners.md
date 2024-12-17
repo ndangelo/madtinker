@@ -12,11 +12,11 @@ categories:
     - Projects
 ---
 
-<div class="wp-block-image"><figure class="aligncenter">![Illustrator for Beginners](https://image-control-storage.s3.amazonaws.com/2024/01/02132432/Illustrator_for_beginners_Cover-6.jpg)</figure></div>## Lessons
+![Illustrator for Beginners](https://image-control-storage.s3.amazonaws.com/2024/01/02132432/Illustrator_for_beginners_Cover-6.jpg)
+
+## Lessons
 
 ### Welcome to the Course
-
-[](javascript:void(0))
 
 [ Play lesson (2 mins)](javascript:void(0))
 
@@ -71,7 +71,9 @@ You can download all the source files for the course by clicking this button:
 
 Our first exercise to practice in Illustrator will be to draw a penguin! You’ll start with a pencil drawing and learn how to draw over it to create your own vector artwork. Watch this lesson to find out how to import the drawing from the source files and set up your document properly.
 
-<div class="wp-block-image"><figure class="aligncenter">![new document](https://image-control-storage.s3.amazonaws.com/2024/01/02132433/newdoc.jpg)</figure></div>Once we’ve set up your document, we’ll look at how to import our drawing using **File &gt; Place** and then lock the layer so that we can easily draw over the top of it.
+![new document](https://image-control-storage.s3.amazonaws.com/2024/01/02132433/newdoc.jpg)
+
+Once we’ve set up your document, we’ll look at how to import our drawing using **File &gt; Place** and then lock the layer so that we can easily draw over the top of it.
 
 ### 4. Drawing With Shapes and Lines
 
@@ -79,17 +81,25 @@ Now let’s learn how to draw shapes in Illustrator. This is a fundamental skill
 
 For example, we can start by creating a simple rectangle using the **Rectangle Tool**.
 
-<div class="wp-block-image"><figure class="aligncenter">![rectangle shape](https://image-control-storage.s3.amazonaws.com/2024/01/02132434/penguin_rectangle.jpg)</figure></div>Then we can make adjustments to the shape so that it matches the outline of our penguin.
+![rectangle shape](https://image-control-storage.s3.amazonaws.com/2024/01/02132434/penguin_rectangle.jpg)
 
-<div class="wp-block-image"><figure class="aligncenter">![penguin drawing next step](https://image-control-storage.s3.amazonaws.com/2024/01/02132435/penguin_start.jpg)</figure></div>And eventually we can create a whole drawing, just using simple shapes.
+Then we can make adjustments to the shape so that it matches the outline of our penguin.
 
-<div class="wp-block-image"><figure class="aligncenter">![penguin drawing complete](https://image-control-storage.s3.amazonaws.com/2024/01/02132436/penguin.jpg)</figure></div>This is the longest part of the course, but the skills you pick up here will help you create all sorts of cool artwork in Illustrator, so it’s time well spent!
+![penguin drawing next step](https://image-control-storage.s3.amazonaws.com/2024/01/02132435/penguin_start.jpg)
+
+And eventually we can create a whole drawing, just using simple shapes.
+
+![penguin drawing complete](https://image-control-storage.s3.amazonaws.com/2024/01/02132436/penguin.jpg)
+
+This is the longest part of the course, but the skills you pick up here will help you create all sorts of cool artwork in Illustrator, so it’s time well spent!
 
 ### 5. Grouping and Arranging
 
 The drawing we just created looked pretty good, but we can improve it by filling in the shapes with color and making it look more professional and finished.
 
-<div class="wp-block-image"><figure class="aligncenter">![penguin in colour](https://image-control-storage.s3.amazonaws.com/2024/01/02132437/penguin_colour.jpg)</figure></div>To create this result, you’ll need to learn:
+![penguin in colour](https://image-control-storage.s3.amazonaws.com/2024/01/02132437/penguin_colour.jpg)
+
+To create this result, you’ll need to learn:
 
 - how to group shapes in Illustrator
 - how to move shapes in front of and behind one other
@@ -101,7 +111,9 @@ I cover all of those things in the video, so follow along to see how it’s done
 
 Our penguin drawing keeps getting better! This time, we’re adding shadows to give our drawing more of a 3D look, and we’re working on details like the eye. Let’s practice in Illustrator.
 
-<div class="wp-block-image"><figure class="aligncenter">![penguin drawn with shape builder tool](https://image-control-storage.s3.amazonaws.com/2024/01/02132439/shape_builder.jpg)</figure></div>Again, we’re just using simple shapes as the building blocks, but we’re making them overlap to create more complex results.
+![penguin drawn with shape builder tool](https://image-control-storage.s3.amazonaws.com/2024/01/02132439/shape_builder.jpg)
+
+Again, we’re just using simple shapes as the building blocks, but we’re making them overlap to create more complex results.
 
 You’ll learn all about the Shape Builder Tool in this video—it’s a powerful tool to help you transform simple shapes into more complex ones.
 
@@ -109,76 +121,118 @@ You’ll learn all about the Shape Builder Tool in this video—it’s a powerfu
 
 We’ve learned some useful techniques now, so let’s put them into practice with a real-world example: logo design. Let’s see how to turn a drawing into the logo shown below, using the tools and techniques we’ve covered so far.
 
-<div class="wp-block-image"><figure class="aligncenter">![logo exercise in illustrator](https://image-control-storage.s3.amazonaws.com/2024/01/02132440/logo_exercise.jpg)</figure></div>### 8. How to Use the Curvature Tool in Illustrator
+![logo exercise in illustrator](https://image-control-storage.s3.amazonaws.com/2024/01/02132440/logo_exercise.jpg)
+
+### 8. How to Use the Curvature Tool in Illustrator
 
 Although drawing with simple shapes can get you a long way, you’ll also need to master some of the more complex drawing tools in Illustrator. Let’s start with the **Curvature Tool**.
 
 You can create a fluid, curving line simply by choosing the **Curvature Tool** and then clicking to create anchor points along the curve.
 
-<div class="wp-block-image"><figure class="aligncenter">![curvature tool in illustrator](https://image-control-storage.s3.amazonaws.com/2024/01/02132440/curvature_tool.jpg)</figure></div>Then you can go in and refine your curve by adjusting the guides for each anchor point.
+![curvature tool in illustrator](https://image-control-storage.s3.amazonaws.com/2024/01/02132440/curvature_tool.jpg)
 
-<div class="wp-block-image"><figure class="aligncenter">![adjusting anchors](https://image-control-storage.s3.amazonaws.com/2024/01/02132441/anchors.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">![straight lines with curvature tool](https://image-control-storage.s3.amazonaws.com/2024/01/02132442/curvature_straight.jpg)</figure></div>Despite its name, you can also use the Curvature Tool in Illustrator to draw straight lines! Double-click as you create each anchor point to create a corner instead of a curve.
+Then you can go in and refine your curve by adjusting the guides for each anchor point.
+
+![adjusting anchors](https://image-control-storage.s3.amazonaws.com/2024/01/02132441/anchors.jpg)
+
+![straight lines with curvature tool](https://image-control-storage.s3.amazonaws.com/2024/01/02132442/curvature_straight.jpg)
+
+Despite its name, you can also use the Curvature Tool in Illustrator to draw straight lines! Double-click as you create each anchor point to create a corner instead of a curve.
 
 ### 9. How to Use the Pen Tool in Illustrator
 
 Another important drawing tool to master is the Pen Tool. So let’s jump in and learn how to use the Pen Tool in Illustrator by creating these icons:
 
-<div class="wp-block-image"><figure class="aligncenter">![icons created with pen tool](https://image-control-storage.s3.amazonaws.com/2024/01/02132443/pen_tool_icons.jpg)</figure></div>We’ll talk about when to use the Pen Tool vs. the Curvature Tool, and how to use them both together to draw more complex yet easily adjustable shapes. The Pen Tool is very powerful, so mastering it is an important step in learning how to draw in Illustrator.
+![icons created with pen tool](https://image-control-storage.s3.amazonaws.com/2024/01/02132443/pen_tool_icons.jpg)
 
-Learn more in this free course:https://www.youtube.com/embed/YDSE05XWs2g?rel=0&amp;start=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fdesign.tutsplus.com
+We’ll talk about when to use the Pen Tool vs. the Curvature Tool, and how to use them both together to draw more complex yet easily adjustable shapes. The Pen Tool is very powerful, so mastering it is an important step in learning how to draw in Illustrator.
+
+[Learn more in this free course](https://www.youtube.com/embed/YDSE05XWs2g?rel=0&amp;start=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fdesign.tutsplus.com)
 
 ### 10. How to Use the Pencil Tool in Illustrator
 
 What if you want to draw freehand? Then you’ll need yet another drawing tool—the Pencil Tool! Let’s learn how to use the Pencil Tool in Illustrator to draw these freeform lines and arrows over a photo:
 
-<div class="wp-block-image"><figure class="aligncenter">![pencil tool illustrator](https://image-control-storage.s3.amazonaws.com/2024/01/02132444/pencil.jpg)</figure></div>### 11. Using Brushes
+![pencil tool illustrator](https://image-control-storage.s3.amazonaws.com/2024/01/02132444/pencil.jpg)
+
+### 11. Using Brushes
 
 We’ll finish off this section on drawing in Illustrator by looking at how to use brushes. Here’s what you’ll be creating:
 
-<div class="wp-block-image"><figure class="aligncenter">![brush tool in illustrator](https://image-control-storage.s3.amazonaws.com/2024/01/02132445/Illustrator_brushes.jpg)</figure></div>You’ll learn to transform the lines you’ve created with the pen, curvature, and pencil tools into stunning “[painterly](https://en.wikipedia.org/wiki/Painterliness)” strokes. Learn how to use Illustrator brushes, how to change the brush size in Illustrator, and more.
+![brush tool in illustrator](https://image-control-storage.s3.amazonaws.com/2024/01/02132445/Illustrator_brushes.jpg)
+
+You’ll learn to transform the lines you’ve created with the pen, curvature, and pencil tools into stunning “[painterly](https://en.wikipedia.org/wiki/Painterliness)” strokes. Learn how to use Illustrator brushes, how to change the brush size in Illustrator, and more.
 
 ### 12. Working With Color
 
 This chapter is all about color, one of the top Illustrator basics. First, let’s explore how Illustrator controls color through RGB and HSB settings.
 
-<div class="wp-block-image"><figure class="aligncenter">![color settings rgb vs hsb](https://image-control-storage.s3.amazonaws.com/2024/01/02132446/color_rgb.jpg)</figure></div>**RGB** stands for “Red, Green, Blue”, and **HSB** stands for “Hue, Saturation, Brightness”. They’re two ways of defining colors, and you’ll learn about them in more detail in the video.
+![color settings rgb vs hsb](https://image-control-storage.s3.amazonaws.com/2024/01/02132446/color_rgb.jpg)
+
+**RGB** stands for “Red, Green, Blue”, and **HSB** stands for “Hue, Saturation, Brightness”. They’re two ways of defining colors, and you’ll learn about them in more detail in the video.
 
 You’ll also learn how to use Adobe Color to find exciting color combinations. Just go to **Window &gt; Color Themes &gt; Explore** to find some inspiring color swatches to use in your projects.
 
-<div class="wp-block-image"><figure class="aligncenter">![adobe color themes](https://image-control-storage.s3.amazonaws.com/2024/01/02132447/color_themes.jpg)</figure></div>### 13. How to Use the Gradient Tool in Illustrator
+![adobe color themes](https://image-control-storage.s3.amazonaws.com/2024/01/02132447/color_themes.jpg)
+
+### 13. How to Use the Gradient Tool in Illustrator
 
 In this Adobe Illustrator course section, you’ll learn how to use Illustrator’s **Gradient Tool** to apply and adjust gradients to objects. We’ll take a plain document and give it a colorful gradient background.
 
 #### Boring Background
 
-<div class="wp-block-image"><figure class="aligncenter">![boring background](https://image-control-storage.s3.amazonaws.com/2024/01/02132448/boring.jpg)</figure></div>#### Gradient Background
+![boring background](https://image-control-storage.s3.amazonaws.com/2024/01/02132448/boring.jpg)
 
-<div class="wp-block-image"><figure class="aligncenter">![gradient background](https://image-control-storage.s3.amazonaws.com/2024/01/02132449/gradient.jpg)</figure></div>I’ll also show you how to get gradient color inspiration from a site called [Grabient ](https://www.grabient.com/)and copy the color values into Illustrator.
+#### Gradient Background
 
-<div class="wp-block-image"><figure class="aligncenter">![grabient](https://image-control-storage.s3.amazonaws.com/2024/01/02132450/grabient.jpg)</figure></div>### 14. How to Use Type and Fonts in Illustrator
+![gradient background](https://image-control-storage.s3.amazonaws.com/2024/01/02132449/gradient.jpg)
+
+I’ll also show you how to get gradient color inspiration from a site called [Grabient](https://www.grabient.com/)and copy the color values into Illustrator.
+
+![grabient](https://image-control-storage.s3.amazonaws.com/2024/01/02132450/grabient.jpg)
+
+### 14. How to Use Type and Fonts in Illustrator
 
 Now let’s see how to work with text in Illustrator. I’ll show you how to use Illustrator’s **Type Tool** and how to choose the font color, style, size, weight, and spacing.
 
-<div class="wp-block-image"><figure class="aligncenter">![type tool](https://image-control-storage.s3.amazonaws.com/2024/01/02132451/type.jpg)</figure></div>You’ll learn the differences between point type and area type boxes. You’ll also learn how to use Adobe’s Typekit system to find exciting new typefaces for your projects. See how to add and change fonts in Illustrator, and much more.
+![type tool](https://image-control-storage.s3.amazonaws.com/2024/01/02132451/type.jpg)
+
+You’ll learn the differences between point type and area type boxes. You’ll also learn how to use Adobe’s Typekit system to find exciting new typefaces for your projects. See how to add and change fonts in Illustrator, and much more.
 
 ### 15. Liquifying and Distorting in Illustrator
 
 How do you apply effects to shapes and typography? In this part of the Adobe Illustrator course, you’ll learn how to use the **Liquify Tool** in Illustrator and how to distort text in Illustrator. You’ll also learn how to cut, twist, and explode your artwork in creative ways.
 
-<div class="wp-block-image"><figure class="aligncenter">![warping text in illustrator](https://image-control-storage.s3.amazonaws.com/2024/01/02132453/warp-1.jpg)</figure></div>You can find the **Warp Tool** and other liquifying and distorting tools by clicking and holding on the **Width Tool** in the toolbar to reveal the dropdown menu.
+![warping text in illustrator](https://image-control-storage.s3.amazonaws.com/2024/01/02132453/warp-1.jpg)
 
-<div class="wp-block-image"><figure class="aligncenter">![warp tool menu](https://image-control-storage.s3.amazonaws.com/2024/01/02132453/warp_text.jpg)</figure></div>### 16. Bending and Warping Shapes and Text
+You can find the **Warp Tool** and other liquifying and distorting tools by clicking and holding on the **Width Tool** in the toolbar to reveal the dropdown menu.
 
-<div class="wp-block-image"><figure class="aligncenter">![distort shapes in illustrator](https://image-control-storage.s3.amazonaws.com/2024/01/02132454/distort_shapes.jpg)</figure></div><div class="wp-block-image"><figure class="aligncenter">![warp effects](https://image-control-storage.s3.amazonaws.com/2024/01/02132455/warp_effects.jpg)</figure></div>After you’ve applied an effect, the **Warp Options** window will open automatically. There you can adjust the values to customize your effect. Simple!
+![warp tool menu](https://image-control-storage.s3.amazonaws.com/2024/01/02132453/warp_text.jpg)
 
-<div class="wp-block-image"><figure class="aligncenter">![warp options](https://image-control-storage.s3.amazonaws.com/2024/01/02132456/warp_options.jpg)</figure></div>### 17. How to Make a Pattern in Illustrator
+### 16. Bending and Warping Shapes and Text
+
+![distort shapes in illustrator](https://image-control-storage.s3.amazonaws.com/2024/01/02132454/distort_shapes.jpg)
+
+![warp effects](https://image-control-storage.s3.amazonaws.com/2024/01/02132455/warp_effects.jpg)
+
+After you’ve applied an effect, the **Warp Options** window will open automatically. There you can adjust the values to customize your effect. Simple!
+
+![warp options](https://image-control-storage.s3.amazonaws.com/2024/01/02132456/warp_options.jpg)
+
+### 17. How to Make a Pattern in Illustrator
 
 The Adobe Illustrator for beginners course isn’t complete without this section. Now, you’ll learn how to create a pattern in Illustrator. This pattern can then be repeated—great for backgrounds, wallpaper, fabric prints, and wrapping paper.
 
 We’ll start with the logo we created earlier, and flip it upside-down…
 
-<div class="wp-block-image"><figure class="aligncenter">![logo](https://image-control-storage.s3.amazonaws.com/2024/01/02132457/logo_repeat.jpg)</figure></div>Then we’ll go to **Window &gt; Pattern Options** to turn this logo into a repeating pattern:
+![logo](https://image-control-storage.s3.amazonaws.com/2024/01/02132457/logo_repeat.jpg)
 
-<div class="wp-block-image"><figure class="aligncenter">![repeating pattern](https://image-control-storage.s3.amazonaws.com/2024/01/02132458/pattern.jpg)</figure></div>And finally, we’ll rotate and duplicate our logo to make a more complex pattern:
+Then we’ll go to **Window &gt; Pattern Options** to turn this logo into a repeating pattern:
 
-<div class="wp-block-image"><figure class="aligncenter">![complex pattern](https://image-control-storage.s3.amazonaws.com/2024/01/02132459/complex_pattern.jpg)</figure></div>Adobe Illustrator for Beginners: Envato Tuts+. (n.d.). Retrieved from https://design.tutsplus.com/adobe-illustrator-for-beginners–ytc-5c
+![repeating pattern](https://image-control-storage.s3.amazonaws.com/2024/01/02132458/pattern.jpg)
+
+And finally, we’ll rotate and duplicate our logo to make a more complex pattern:
+
+![complex pattern](https://image-control-storage.s3.amazonaws.com/2024/01/02132459/complex_pattern.jpg)
+
+Adobe Illustrator for Beginners: Envato Tuts+. (n.d.). Retrieved from https://design.tutsplus.com/adobe-illustrator-for-beginners–ytc-5c
