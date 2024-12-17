@@ -53,7 +53,7 @@ Pick one of these general larger issues below and then propose a specific sub-to
     - 3. Brainstorm design outcomes
     - 4. Evaluate each possible project outcome
 
-—
+---
 
 **At the end of the project, students should be able to:**
 
@@ -104,10 +104,25 @@ When I do this project again, I will give more time in the project for Step Two 
 
 Benson, E. (n.d.). Systems Thinking for the Graphic Designer 101: A Toolkit for Making Positive Impact. Retrieved from https://teachingresource.aiga.org/project/systems-thinking-for-the-graphic-designer-101-a-toolkit-for-making-positive-impact/
 
-<div class="wp-block-image"><figure class="aligncenter size-large">![Systems Thinking for the Graphic Designer 101: A Toolkit for Making Positive Impact](https://image-control-storage.s3.amazonaws.com/2023/11/25142804/image-118-1024x768.png)<figcaption class="wp-element-caption">Systems Thinking for the Graphic Designer 101: A Toolkit for Making Positive Impact</figcaption></figure></div><figure class="wp-block-image aligncenter size-large">![Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.
-Project Goals](https://image-control-storage.s3.amazonaws.com/2023/11/25142903/image-121-1024x660.png)<figcaption class="wp-element-caption">Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.  
-Project Goals</figcaption></figure><figure class="wp-block-image aligncenter size-large">![Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.
-Problem Map](https://image-control-storage.s3.amazonaws.com/2023/11/25143021/image-122-1024x619.png)<figcaption class="wp-element-caption">Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.  
-Problem Map</figcaption></figure><figure class="wp-block-image aligncenter size-full">![Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.
-Project implemented on the streets](https://image-control-storage.s3.amazonaws.com/2023/11/25143105/image-123.png)<figcaption class="wp-element-caption">Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.  
-Project implemented on the streets</figcaption></figure>
+![Systems Thinking for the Graphic Designer 101: A Toolkit for Making Positive Impact](https://image-control-storage.s3.amazonaws.com/2023/11/25142804/image-118-1024x768.png)
+
+Systems Thinking for the Graphic Designer 101: A Toolkit for Making Positive Impact<
+
+![Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.
+Project Goals](https://image-control-storage.s3.amazonaws.com/2023/11/25142903/image-121-1024x660.png)
+
+Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.  
+
+Project Goals
+
+![Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.
+Problem Map](https://image-control-storage.s3.amazonaws.com/2023/11/25143021/image-122-1024x619.png)
+
+Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial. 
+
+Problem Map
+
+![Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.
+Project implemented on the streets](https://image-control-storage.s3.amazonaws.com/2023/11/25143105/image-123.png)
+
+Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.  
