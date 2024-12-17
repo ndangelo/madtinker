@@ -1,65 +1,46 @@
 ---
-layout: post
+
+title: 'Design a Type-Driven Poster'
+date: '2017-01-30T11:59:10-04:00'
 author: admin
-permalink: /design-a-type-driven-poster/
-date: 2017-01-30T11:59:26-04:00
-title: DESIGN A TYPE-DRIVEN POSTER
-tags:
-  - design
-  - type
-  - fonts
-  - poster
+layout: post
 
 categories:
-  - DMET 350 MEDIA GRAPHICS AND DESIGN
-  - Design
-  - Type
-  - Fonts
-  - Poster
+    - 'DMET 350 MEDIA GRAPHICS AND DESIGN'
+    - Projects
 ---
 
-### DESIGN A TYPE-DRIVEN POSTER
+Design a Type-Driven Poster
 
-#### **Step 1**
+Choice of subject: Healthier kids or flu prevention
 
-Choose from among:
-- Flu prevention  
-- Wellness (sources: [webmd.com](https://www.webmd.com) or [prevention.com](https://www.prevention.com))  
-- A cable television or web channel featuring old films and TV programs (e.g., TCM or [hulu.com](https://www.hulu.com))
+STEP 1  
+. Choose from: Healthier kids (http://www.letsmove.gov/) or flu prevention  
+(http://www.cdc.gov/flu/). Research your subject.
 
-![Flu Poster Example](https://image-control-storage.s3.amazonaws.com/blog-images/2015/08/27193516/2015-09-09-10_52_03-FluPoster.pdf.png)
+. In one sentence, write your objective. For example, motivate kids to move more and sit less. Or,  
+motivate people to wash their hands more often to avoid spreading germs. Define the purpose and  
+function of the poster, the audience, and the information to be communicated.
 
-![Hulu Poster Example](https://image-control-storage.s3.amazonaws.com/blog-images/2015/08/27193511/2015-09-09-10_57_02-Hulu-Poster.pdf.png)
+. Find one interesting fact. Use this fact as the basis for writing a headline.
 
-**Research your subject.**
+STEP 2  
+. Find typefaces that express the spirit of the subject. Or use handmade or found  
+type or a combination of handmade type and a typeface.
 
-1. Submit your objective in one sentence via the d2l dropbox.  
-2. Define the purpose and function of the poster, the target audience, and the key information to be communicated.  
+. Design a poster that is type driven—that is, type mostly carries the message of the poster. If you use any image, it should play a secondary role to the type- driven composition. 
 
-For flu prevention or health and wellness, find an interesting fact and use it as your headline.  
-For a film/TV subject, choose a famous line from a classic work, e.g., *“Of all the gin joints in all the towns in all the world, she walks into mine.”*
+Produce at least twenty sketches.
 
----
+STEP 3  
+- Choose two of your best sketches and refine them.
 
-#### **Step 2**
+- Establish emphasis through a visual hierarchy.
 
-1. Select typefaces that reflect the essence of your subject. Consider handmade or found typefaces, or a mix of both.  
-2. Design a **type-driven** poster where typography is the central element. Any imagery should play a secondary role.  
-3. Create at least **20 sketches**.
+Carefully examine the spacing between letters, among words, and between lines of type. 
 
-![Sketch Example](https://image-control-storage.s3.amazonaws.com/blog-images/2015/08/27193514/2015-09-09-10_43_30-Sean-Puzzo-1.pdf.png)
-
----
-
-#### **Step 3**
-
-1. Refine your two best sketches.  
-2. Use visual hierarchy to emphasize key elements.  
-3. Ensure proper spacing between letters, words, and lines.
-
----
-
-#### **Step 4**
-
-- Produce the final design solution.  
-- Your poster may have either a portrait or landscape orientation.  
+STEP 4  
+Create a finished solution.  
+The poster should be no larger than 14” × 17” when held in portrait or landscape orientation.  
+PRESENTATION  
+Present your solution mounted with a 2” border all around or display on screen.
