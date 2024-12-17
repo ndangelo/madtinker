@@ -15,9 +15,11 @@ tags:
     - social
 ---
 
-Hetler, A. (2024). What is Twitter? Retrieved from https://www.techtarget.com/whatis/definition/Twitter
+<span style="font-size:11px;">Hetler, A. (2024). What is Twitter? Retrieved from <a href="https://www.techtarget.com/whatis/definition/Twitter">ttps://www.techtarget.com/whatis/definition/</a></span>
 
-<div class="wp-block-image"><figure class="aligncenter size-full">![Twitter or X](https://image-control-storage.s3.amazonaws.com/2024/08/03145850/image-146.png)</figure></div>Twitter is a free social networking site where users broadcast short posts known as tweets. These tweets can contain text, videos, photos or links. To access Twitter, users need an internet connection or smart phone to use the app or website, Twitter.com.
+![Twitter or X](https://image-control-storage.s3.amazonaws.com/2024/08/03145850/image-146.png)
+
+Twitter is a free social networking site where users broadcast short posts known as tweets. These tweets can contain text, videos, photos or links. To access Twitter, users need an internet connection or smart phone to use the app or website, Twitter.com.
 
 It is a microblogging service—a combination of blogging and instant messaging—where registered users can post, share, like, and reply to tweets with short messages. Nonregistered users can only read tweets.
 

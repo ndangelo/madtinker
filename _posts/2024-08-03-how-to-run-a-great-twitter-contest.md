@@ -13,44 +13,46 @@ tags:
     - social
 ---
 
-Source:  
-Israel, S. (2022). How To Run a Great Twitter Contest \[Ideas + Examples\]. Retrieved from https://blog.hootsuite.com/twitter-contests/
+<span style="font-size:11px;">Source:  
+Israel, S. (2022). How To Run a Great Twitter Contest \[Ideas + Examples]. Retrieved from https://blog.hootsuite.com/twitter-contests/</span>
 
 A Twitter contest is the quickest way to get more followers, improve your engagement rate, and increase brand awareness on the platform.
 
-<div class="wp-block-image"><figure class="aligncenter">![How To Run a Great Twitter Contest [Ideas + Examples] | Hootsuite](https://blog.hootsuite.com/wp-content/uploads/2019/08/Twitter-contests-556x556.png)</figure></div>Twitter contests and giveaways are a fun and easy way to drive engagement. They’re quick to set up, simple to run, and can help you gather useful information about your audience.
+![How To Run a Great Twitter Contest [Ideas + Examples] | Hootsuite](https://blog.hootsuite.com/wp-content/uploads/2019/08/Twitter-contests-556x556.png)
+
+Twitter contests and giveaways are a fun and easy way to drive engagement. They’re quick to set up, simple to run, and can help you gather useful information about your audience.
 
 Best of all, running a Twitter contest doesn’t have to be complicated or time-consuming. In fact, the simpler, the better!
 
 Keep reading for an easy guide to running contests on Twitter, including nine great contest ideas to jumpstart your next promotion.[](https://hootsuite.com/resources/blog/twitter-marketing-checklist)
 
-## <a></a>Why run a Twitter contest?
+## Why run a Twitter contest?
 
 You can use Twitter contests or giveaways to achieve a variety of different goals. Before you get started, think about what you want to accomplish with your contest.
 
 For example, your goals could include the following:
 
-### <a></a>Growing your follower base
+### Growing your follower base
 
 Twitter giveaways can help boost your follower count. If your goal is to grow your audience, include a “tag a friend” or “retweet” component in your contest. Before launching, decide how many new followers you’re hoping to gain. (Remember, your [goals should always be SMART](https://blog.hootsuite.com/smart-social-media-goals/) — **s**pecific, **m**easurable, **a**ttainable, **r**elevant, and **t**ime-bound)
 
-### <a></a>Building brand awareness
+### Building brand awareness
 
 Twitter contests are a great way to build brand awareness. As of mid-2022, Twitter has [206 million daily active users](https://www.businessofapps.com/data/twitter-statistics/) worldwide. That means your contest has the opportunity to reach a huge number of users. If you want to build buzz, include a clear and straightforward brand message.
 
-### <a></a>Promoting a new product
+### Promoting a new product
 
 Use a Twitter contest or giveaway to build hype around the launch of a new product. This type of contest relies heavily on imagery, so keep this in mind, as it may incur a cost. Make sure you have great photos of your product or giveaway bundle so your social posts pop.
 
-## <a></a>How to set up a Twitter contest
+## How to set up a Twitter contest
 
 Setting up a Twitter contest or giveaway is simple. It just requires a bit of planning on your part.
 
-### <a></a>1. Set an objective for your Twitter contest
+### 1. Set an objective for your Twitter contest
 
 Start by defining a clear goal for your Twitter contest. Include measurable targets such as increased follower count or impressions. This will help you gauge your success after the contest closes. Solid numbers can help you decide whether to run contests again in the future.
 
-### <a></a>2. Plan your contest
+### 2. Plan your contest
 
 Sort out the logistics for your contest, including:
 
@@ -59,7 +61,7 @@ Sort out the logistics for your contest, including:
 - How long will it run?
 - What is the closing date? Be specific here to avoid disappointment, ex. September 30th, 2022, at 11:59 PM ET
 
-### <a></a>3. Select a prize
+### 3. Select a prize
 
 Next, pick a prize for your contest or giveaway. This may be a digital prize or a physical item that the winner must ship or pick up.
 
@@ -93,14 +95,14 @@ Choose a unique hashtag so you’re not sifting through unrelated tweets to find
 
 If your brand is active on another platform, try cross-promoting your contest. For example, post a direct link in your Instagram Stories to bring some of those followers over to Twitter.
 
-### <a></a>6. Track your contest entries with a social media management tool
+### 6. Track your contest entries with a social media management tool
 
 A robust tool can help you track contest entries and monitor engagement in real-time.
 
 Hootsuite Streams is a great tool for tracking social media activity. It allows you to monitor post engagement, conversations, mentions, keywords, and hashtags—all in one place!
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">> 🛒 RETWEET to WIN 🛒   
->   
+🛒 RETWEET to WIN 🛒   
+
 > Hit that RT button for a chance to win a $500 [@Fred\_Meyer](https://twitter.com/Fred_Meyer?ref_src=twsrc%5Etfw) gift card, as we celebrate the new Mariners Rewards Program! Accumulate points as you shop and cash them in for tickets, merch, memorabilia and more.
 > 
 > — Seattle Mariners (@Mariners) [August 20, 2022](https://twitter.com/Mariners/status/1561061252008493058?ref_src=twsrc%5Etfw)

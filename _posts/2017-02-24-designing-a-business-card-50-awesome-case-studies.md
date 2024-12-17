@@ -34,45 +34,56 @@ We’ve sprinkled some Canva business card layouts throughout this article!
 
 Click on any of the examples with an “Edit this design in Canva” tag on it and you’ll be taken to your Canva account to make it your own. You can also design one from scratch by going through [this link](https://www.canva.com/design?create&type=businessCard). Ready to make business cards?
 
-<div class="alert-element content-element alert-info"><div class="messagebox-text"><span class="s1">**Not sure how to use this article?**</span>
+**Not sure how to use this article?**
 
-<span class="s1">[Click here](https://learn.canva.com/blog/how-do-you-use-design-school-articles/) to learn how Canva users all over the world are solving their real-world problems with the help of these articles.</span>
+[Click here](https://learn.canva.com/blog/how-do-you-use-design-school-articles/) to learn how Canva users all over the world are solving their real-world problems with the help of these articles.</span>
 
-</div></div>## 01. Clean and Professional
+## 01. Clean and Professional
 
-<figure class="lazyload-image" id="image-8468">[![1](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155428/1-tb-728x02.jpg)](https://www.behance.net/gallery/19590031/CUB-animation-studio)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>This card is relatively simple to start, yet shines a light on how attention to detail can really set you apart. The simple front and back looks clean and professional, yet the subtle splatter effect on the logo and edges gives it a textural element that really stands out.
+![1](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155428/1-tb-728x02.jpg)This card is relatively simple to start, yet shines a light on how attention to detail can really set you apart. The simple front and back looks clean and professional, yet the subtle splatter effect on the logo and edges gives it a textural element that really stands out.
 
 Try it on the clean and professional look for size with the Canva business card templates below.
 
-<figure class="lazyload-image" id="image-25924">[![01- Clean and Professional](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155430/01-Clean-and-Professional-tb-728x02.jpg)](https://www.canva.com/design/DAB0Fo0cIjc/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27657">[![Screen Shot 2016-06-10 at 10.50.03 AM](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155432/Screen-Shot-2016-06-10-at-10.50.03-AM-tb-728x02.png)](https://www.canva.com/design/DAB1wD2s4tk/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27660">[![Screen Shot 2016-06-10 at 10.49.32 AM]()](https://www.canva.com/design/DAB2CttQWC4/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27658">[![Screen Shot 2016-06-10 at 9.23.02 AM]()](https://www.canva.com/design/DAB2CmjzADU/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27661">[![Screen Shot 2016-06-10 at 10.48.54 AM]()](https://www.canva.com/design/DAB2CrxxyX4/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 02. Transparency Meets Color
+![01- Clean and Professional](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155430/01-Clean-and-Professional-tb-728x02.jpg)![Screen Shot 2016-06-10 at 10.50.03 AM](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155432/Screen-Shot-2016-06-10-at-10.50.03-AM-tb-728x02.png)
 
-<figure class="lazyload-image" id="image-8469">[![2](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155433/2-tb-728x02.jpg)](https://www.behance.net/gallery/10164985/Film-Maker-Namecard)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>Things get taken up quite a few notches with this creative card. Transparency paper paired with different colors creates an interesting overlap effect when paired together, and when separate, light shines through to reveal whatever is underneath.
 
-<figure class="lazyload-image" id="image-25925">[![02- Transparency Meets Color](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155435/02-Transparency-Meets-Color-tb-728x02.jpg)](https://www.canva.com/design/DAB0FmE9oX8/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>You can simulate the look with the design template above. Print it out on transparent paper for a memorable business card.
+## 02. Transparency Meets Color
+
+![2](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155433/2-tb-728x02.jpg)
+
+Things get taken up quite a few notches with this creative card. Transparency paper paired with different colors creates an interesting overlap effect when paired together, and when separate, light shines through to reveal whatever is underneath.
+
+![02- Transparency Meets Color](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155435/02-Transparency-Meets-Color-tb-728x02.jpg)You can simulate the look with the design template above. Print it out on transparent paper for a memorable business card.
 
 ## 03. Explore the Unconventional
 
-<figure class="lazyload-image" id="image-8420">[![3](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155437/3-tb-728x02.png)](https://www.behance.net/gallery/5106257/MYLENE-POISSON-SOMMELIERE)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>This is a great example of using an unconventional medium to create visual elements. Since you can’t duplicate every wine ring to look the same, each card has its own personality yet still fits together cohesively.
+![3](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155437/3-tb-728x02.png)This is a great example of using an unconventional medium to create visual elements. Since you can’t duplicate every wine ring to look the same, each card has its own personality yet still fits together cohesively.
 
 ## 04. Elegant Shapes
 
-<figure class="lazyload-image" id="image-8421">[![4]()](https://www.behance.net/gallery/4858837/Moxie-Tuesday-Design-Branding)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>A simple change in shape can set your card apart from the hundreds of others that use the rectangular format. A square is a simple, elegant shape that provides a great starting point for a business card.
+A simple change in shape can set your card apart from the hundreds of others that use the rectangular format. A square is a simple, elegant shape that provides a great starting point for a business card.
 
 Here are a couple of square business card templates you can customize:
 
-<figure class="lazyload-image" id="image-25935">[![04. Elegant Shape]()](https://www.canva.com/design/DAB0FlVci3I/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure><figure class="lazyload-image" id="image-27662">[![Screen Shot 2016-06-10 at 11.23.19 AM]()](https://www.canva.com/design/DAB1wJHj308/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 05. Subtle Curves
+[04. Elegant Shape](https://www.canva.com/design/DAB0FlVci3I/remix)
 
-<figure class="lazyload-image" id="image-8422">[![5](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155439/5-tb-728x02.jpg)](https://www.behance.net/gallery/9213553/Two-Sisters-Photography)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>If you really like the horizontal rectangular format, you can add in customized edges to stand out. The shape is still simple, but adjusted just enough to give it a softer feel with the subtle curves.
+[Screen Shot 2016-06-10 at 11.23.19 AM](https://www.canva.com/design/DAB1wJHj308/remix)
+
+![5](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155439/5-tb-728x02.jpg)
+
+
+If you really like the horizontal rectangular format, you can add in customized edges to stand out. The shape is still simple, but adjusted just enough to give it a softer feel with the subtle curves.
 
 ## 06. Upscale
 
-<figure class="lazyload-image" id="image-8423">[![6](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155441/6-tb-728x02.png)](https://www.behance.net/gallery/10699815/EXIGO-Boutique)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>Adding extra elements like sleeves can make your cards feel more upscale. The process of taking the card out is reminiscent of opening a gift or a letter, which makes the idea of receiving it much more exciting.
+![6](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155441/6-tb-728x02.png)Adding extra elements like sleeves can make your cards feel more upscale. The process of taking the card out is reminiscent of opening a gift or a letter, which makes the idea of receiving it much more exciting.
 
 Look no further for a lush business card design that would look perfect with sleeves (or on their own) — check out the template below.
 
-<figure class="lazyload-image" id="image-25927">[![06- Upscale](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155443/06-Upscale-tb-728x02.jpg)](https://www.canva.com/design/DAB0F3eTox8/remix)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Edit this design in Canva</figcaption></figure>## 07. A Personal Touch
+![06- Upscale](https://s3.amazonaws.com/image-control-storage/blog-images/2018/02/24155443/06-Upscale-tb-728x02.jpg)
+## 07. A Personal Touch
 
-<figure class="lazyload-image" id="image-8424">[![7]()](https://www.behance.net/gallery/10924135/NAYA-KOKKALI)<div class="spinner"><div class="spinner__inner"></div></div><figcaption>Image Credit: Behance</figcaption></figure>Using rubber stamps to place your logo on your card makes it feel much more personal, since you’ve taken the time to stamp each individual one, which shows you have an investment in your company or business.
+Using rubber stamps to place your logo on your card makes it feel much more personal, since you’ve taken the time to stamp each individual one, which shows you have an investment in your company or business.
 
 ## 08. Fun and Informal
 
@@ -351,3 +362,6 @@ every part of your life
 </div></div></div></div></section><section class="author-wrapper"><div class="row"><div class="col7"><div class="author-info"><div class="author-avatar">[![]()](https://www.canva.com/learn/author/caitlinjordan/)</div><div class="author-name"><div class="author">[Caitlin Jordan](https://www.canva.com/learn/author/caitlinjordan/ "Posts by Caitlin Jordan")</div></div></div><div class="author-description">Caitlin Jordan is a graphic designer and copywriter from Columbus, OH. Apart from design and writing, she loves all things beauty. She combines her passion for both in a beauty blog and beauty channel on YouTube.
 
 </div></div></div></section>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNDE3MDQwNzJdfQ==
+-->

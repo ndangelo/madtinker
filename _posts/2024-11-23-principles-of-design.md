@@ -1,4 +1,5 @@
 ---
+
 id: 5138
 title: 'Principles of Design'
 date: '2024-11-29T10:24:07-04:00'
@@ -8,44 +9,43 @@ layout: post
 permalink: /principles-of-design/
 
 categories:
-    - Projects
+    - Projects.
     - Art
 
 tag: 
     - design
     - art
----
 
+published: true
+date: 2024-10-29
+title: Principles of Design
+
+---
 ## Check Your Documents for Balance, Alignment and Other Principles of Design
 
-by [Jacci Howard Bear](https://www.thoughtco.com/jacci-howard-bear-1073678){:target="_blank"} The principles of design suggest how a designer can best arrange the various components of a page layout to connect to the overall design and to one another.
+by [Jacci Howard Bear](https://www.thoughtco.com/jacci-howard-bear-1073678){:target="\_blank"} The principles of design suggest how a designer can best arrange the various components of a page layout to connect to the overall design and to one another.
 
 All the principles of design, also known as principles of composition, apply to any piece you create. How you apply those principles determines how effective your design is in conveying the desired message and how attractive it appears. There is seldom only one correct way to apply each principle but check your document to see how well you applied each of these six principles of design.
-
 
 ### Balance
 
 ![balance](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184105/balance-58babbb55f9b58af5cb400cf.png)
 
-Are your designs in [balance](https://www.thoughtco.com/balance-in-design-1078231)Visual balance comes from arranging elements on the page so that no one section is heavier than the other. At times, a designer may intentionally throw elements out of balance to create tension or a certain mood. Are your page elements all over the place or does each portion of the page balance out the rest? If the page is out of balance, it should be done purposely and with a specific intention in mind.
+Are your designs in [balance](https://www.thoughtco.com/balance-in-design-1078231) Visual balance comes from arranging elements on the page so that no one section is heavier than the other. At times, a designer may intentionally throw elements out of balance to create tension or a certain mood. Are your page elements all over the place or does each portion of the page balance out the rest? If the page is out of balance, it should be done purposely and with a specific intention in mind.
 
 [Check Your Use of the Principle of Balance](https://www.thoughtco.com/balance-in-design-1078231)
 
-
 ### Proximity / Unity
 
+<p style="text-align: center"><img src="https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184103/proximity-58babbfe3df78c353c433546.png" alt="Proximity"></p>
 
-![Proximity](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184103/proximity-58babbfe3df78c353c433546.png)
-
-Do your designs have unity? In design, proximity or closeness creates a bond between elements on a page. How close together or far apart elements are placed suggests a relationship (or lack of) between otherwise disparate parts. Unity is also achieved by using a third element to connect distant parts. Are title elements together? Is contact information all in one place? Do frames and boxes tie together or are they separate related elements in your document? 
+Do your designs have unity? In design, proximity or closeness creates a bond between elements on a page. How close together or far apart elements are placed suggests a relationship (or lack of) between otherwise disparate parts. Unity is also achieved by using a third element to connect distant parts. Are title elements together? Is contact information all in one place? Do frames and boxes tie together or are they separate related elements in your document?
 
 [Check Your Use of the Principle of Proximity](https://www.thoughtco.com/proximity-in-design-1078154)
 
-
 ### Alignment
 
-![Alignment](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184101/alignment-58babbf03df78c353c4334b2.png)
-Is your layout in ![alignment](https://www.thoughtco.com/alignment-in-page-layout-1077533) with your goals? Alignment brings order to chaos. How you align type and graphics on a page and in relation to each other can make your layout easier or more difficult to read, foster familiarity, or bring excitement to a stale design. Have you used a grid? Is there a common alignment—top, bottom, left, right or centered—between blocks of text and graphics on the page? The text alignment should aid readability. If certain elements are out of alignment, it should be done purposefully with a specific design goal in mind.  
+![Alignment](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184101/alignment-58babbf03df78c353c4334b2.png) Is your layout in ![alignment](https://www.thoughtco.com/alignment-in-page-layout-1077533) with your goals? Alignment brings order to chaos. How you align type and graphics on a page and in relation to each other can make your layout easier or more difficult to read, foster familiarity, or bring excitement to a stale design. Have you used a grid? Is there a common alignment—top, bottom, left, right or centered—between blocks of text and graphics on the page? The text alignment should aid readability. If certain elements are out of alignment, it should be done purposefully with a specific design goal in mind.  
 [Check Your Use of the Principle of Alignment](https://www.thoughtco.com/alignment-in-graphic-design-1077535)
 
 ### Repetition / Consistency
@@ -55,25 +55,18 @@ Is your layout in ![alignment](https://www.thoughtco.com/alignment-in-page-layou
 ![](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184059/consistency-58babbe23df78c353c433487.png) Do your designs exhibit [consistency](https://www.thoughtco.com/desktop-publishing-4133437)?Repeating design elements and consistent use of type and graphics styles within a document shows readers where to go and helps them navigate your designs and layouts safely. Ensure that your document utilizes the principles of repetition, consistency and unity in page design. Do page numbers appear in the same location from page to page? Are major and minor headlines consistent in size, style and placement? Have you used a consistent graphic or illustration style throughout?  
 Check Your Use of the Principles of Repetition and [Consistency](https://www.thoughtco.com/use-fewer-fonts-1074171)
 
-
 ### Contrast
 
-
-
-![Contrast](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184057/contrast-58babbd33df78c353c433413.png)](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184057/contrast-58babbd33df78c353c433413.png)
-Do you have good [contrast](https://www.thoughtco.com/create-contrast-with-obvious-differences-1077469) among components of your design?In design, big and small elements, black and white text, squares and circles, can all create contrast in design. Contrast helps [different design elements](https://www.thoughtco.com/create-contrast-with-obvious-differences-1077469) stand out. Is there enough contrast between the text size and color and background color and pattern to keep text readable? If everything is the same size even when some elements are more important than others, the design lacks contrast.  
+![Contrast](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184057/contrast-58babbd33df78c353c433413.png)\]([https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184057/contrast-58babbd33df78c353c433413.png](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184057/contrast-58babbd33df78c353c433413.png)) Do you have good [contrast](https://www.thoughtco.com/create-contrast-with-obvious-differences-1077469) among components of your design?In design, big and small elements, black and white text, squares and circles, can all create contrast in design. Contrast helps [different design elements](https://www.thoughtco.com/create-contrast-with-obvious-differences-1077469) stand out. Is there enough contrast between the text size and color and background color and pattern to keep text readable? If everything is the same size even when some elements are more important than others, the design lacks contrast.  
 [Check Your Use of the Principle of Contrast](https://www.thoughtco.com/create-contrast-with-obvious-differences-1077469)
 
 ### White Space
 
-![White Space](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184056/whitespace-58babbc55f9b58af5cb4011c.png)
-Do you have white space in the right place? Designs that try to cram too much text and graphics onto the page are uncomfortable and may be impossible to read. White space gives your design breathing room. Do you have enough space between columns of text? Does text run into frames or graphics? Do you have a generous margin? You can also have too much white space if items float on the page without any anchor.
+![White Space](https://image-control-storage.s3.amazonaws.com/blog-images/2017/09/27184056/whitespace-58babbc55f9b58af5cb4011c.png) Do you have white space in the right place? Designs that try to cram too much text and graphics onto the page are uncomfortable and may be impossible to read. White space gives your design breathing room. Do you have enough space between columns of text? Does text run into frames or graphics? Do you have a generous margin? You can also have too much white space if items float on the page without any anchor.
 
 ### ADDITIONAL PRINCIPLES OF DESIGN
 
 Other designers and instructors may include principles such as harmony, flow, or hierarchy in addition to or in place of some of these principles of design. Some principles may be combined or go by other names, such as grouping (proximity) or emphasis (use of various other principles to create a focal point). These are different ways of expressing the same basic page layout practices.
-
-
 
 # Graphic Design Basics
 
@@ -109,9 +102,7 @@ Color attracts attention and conveys emotion and mood. For example, red represen
 
 Value is a measure of darkness and lightness in an element or design. Value creates contrast and emphasis. For example, a light object against a dark background draws the viewer’s eye.
 
-
 ![Example of Simultaneous Color Contrast](https://www.lifewire.com/thmb/Lx1V2GZWBwU6nssFkiitW8_Z-WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/simultaneous-contrast-56a6e5675f9b58b7d0e55ed2.jpg)
-
 
 ## Size in Graphic Design
 
@@ -121,9 +112,12 @@ The size of an element in graphic design generally indicates its importance. The
 
 Most good graphic designs achieve visual balance by using symmetrical, asymmetrical, or radial symmetry around a visual center.
 
-- In **symmetrical balance**, both sides of a page layout are the same in weight, shape, lines, and other elements.
-- **Asymmetrical balance** occurs when the two sides of a website aren’t the same, but they have similar elements.
-- **Radial symmetry** places elements in a circular pattern. Although it is popular in print layouts, radial symmetry isn’t seen much on websites because the circular placements are difficult to achieve.
+*   In **symmetrical balance**, both sides of a page layout are the same in weight, shape, lines, and other elements.
+    
+*   **Asymmetrical balance** occurs when the two sides of a website aren’t the same, but they have similar elements.
+    
+*   **Radial symmetry** places elements in a circular pattern. Although it is popular in print layouts, radial symmetry isn’t seen much on websites because the circular placements are difficult to achieve.
+    
 
 Occasionally, a graphic designer intentionally produces an unbalanced design, usually to focus attention on a single element. In design, as in other areas, you need to know the rules before you can break them effectively, but unbalanced designs can work.
 

@@ -120,3 +120,6 @@ Make a small text (.txt) file with some basic information about your files and h
 A stitch in time saves nine, and if you take the time to organize and file your vectors properly, you will always be able to find, edit and collaborate at a moments notice! You will find some helpful Quick Tips and Tutorials below. I hope you’ve enjoyed this Quick Tip.
 
 <div class="tutorial_image">![](https://image-control-storage.s3.amazonaws.com/blog-images/2016/09/27190135/preview.jpg)</div></div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzAwNjc2NDU4XX0=
+-->

@@ -9,6 +9,7 @@ layout: post
 categories:
     - Projects
     - Fonts
+    
 tags:
     - fonts
 ---
@@ -90,3 +91,6 @@ What do a neoclassical modern, a suave sans serif, and a sporty slab have in com
 ![Vitesse](https://image-control-storage.s3.amazonaws.com/blog-images/2017/01/27184735/spec-vitesse.gif)
 
   
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc0NTU0MTk3MF19
+-->
