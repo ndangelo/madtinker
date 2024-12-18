@@ -140,5 +140,5 @@ Please use Adobe Indesign. You can use Illustrator and Photoshop to create most 
 
 > [20 Incredible Book Covers](https://www.nuggetofjoy.com/20-incredible-book-covers-non-designers-can-pull-off-2/)
 
-<iframe class="wp-embedded-content" data-secret="u7TtasJ69t" frameborder="0" height="282" loading="lazy" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://www.nuggetofjoy.com/20-incredible-book-covers-non-designers-can-pull-off-2/embed/#?secret=4bxVBK70ru#?secret=u7TtasJ69t" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“20 Incredible Book Covers” — Communication, Art, Design & Instruction" width="500"></iframe>
+<iframe class="vide" data-secret="u7TtasJ69t" frameborder="0" height="282" loading="lazy" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://www.nuggetofjoy.com/20-incredible-book-covers-non-designers-can-pull-off-2/embed/#?secret=4bxVBK70ru#?secret=u7TtasJ69t" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“20 Incredible Book Covers” — Communication, Art, Design & Instruction" width="500"></iframe>
 
