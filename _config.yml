@@ -1,5 +1,7 @@
-name: Custom
-url: https://madtinker.net
+url: "https://ndangelo.github.io"
+baseurl: "/madtinker"
+
+
 description: The Mad Tinker
 
 permalink: /:categories/:year/:month/:day/:title/
