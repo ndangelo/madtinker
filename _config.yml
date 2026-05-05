@@ -1,6 +1,7 @@
 url: "https://ndangelo.github.io"
 baseurl: "/madtinker"
 
+{{ site.baseurl }}/assets/
 
 description: The Mad Tinker
 
