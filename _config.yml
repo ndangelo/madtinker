@@ -1,16 +1,11 @@
+title: MadTinker
+description: ""
 url: "https://ndangelo.github.io"
 baseurl: "/madtinker"
 
-{{ site.baseurl }}/assets/
+markdown: kramdown
+permalink: pretty
 
-description: The Mad Tinker
-
-permalink: /:categories/:year/:month/:day/:title/
-paginate: 1
-
-
-         
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-highlighter: rouge
-baseurl: /
-
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
