@@ -1,18 +1,15 @@
 title: MadTinker
 description: ""
-url: "https://ndangelo.github.io"
-baseurl: "/madtinker"
+url: "https://ndangelo.github.io/madtinker"
 
+baseurl: "https://ndangelo.github.io/madtinker" # the subpath of your site, e.g. /blog
+
+# Build settings
 markdown: kramdown
-permalink: pretty
+theme: minima
 
-bundle update
-
-source "https://rubygems.org"
-gem "github-pages" 
-
-group: :jekyll_plugins
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# Exclude files from production
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
