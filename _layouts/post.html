@@ -83,7 +83,7 @@
   <!-- FIX: tags (was page.tag → should be page.tags) -->
   <p>
     {% for tag in page.tags %}
-      <a href="{{ '/tag/' | append: tag | relative_url }}">#{{ tag }}</a>
+      <a href="{{ '/tag/?tag=' | append: tag_name | relative_url }}">#{{ tag }}</a>
     {% endfor %}
   </p>
 
