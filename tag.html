@@ -1,0 +1,45 @@
+---
+layout: default
+title: Tags
+permalink: /tag/
+---
+
+<h1 id="tag-title">Tag</h1>
+
+<ul id="tag-results" class="post-list"></ul>
+
+<script>
+  // Get tag from URL: ?tag=code
+  const params = new URLSearchParams(window.location.search);
+  const tag = params.get("tag");
+
+  document.getElementById("tag-title").innerText = tag ? "Tag: " + tag : "All Tags";
+
+  const posts = [
+    {% for post in site.posts %}
+      {
+        title: {{ post.title | jsonify }},
+        url: {{ post.url | relative_url | jsonify }},
+        date: "{{ post.date | date: "%b %d, %Y" }}",
+        tags: {{ post.tags | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
+
+  const container = document.getElementById("tag-results");
+
+  const filtered = tag
+    ? posts.filter(p => p.tags && p.tags.includes(tag))
+    : posts;
+
+  if (filtered.length === 0) {
+    container.innerHTML = "<p>No posts found.</p>";
+  } else {
+    container.innerHTML = filtered.map(post => `
+      <li>
+        <h2><a href="${post.url}">${post.title}</a></h2>
+        <span>${post.date}</span>
+      </li>
+    `).join("");
+  }
+</script>
