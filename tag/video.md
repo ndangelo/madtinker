@@ -1,5 +1,6 @@
 ---
-layout: category
-title:  "Video Archives"
-categories: Video
+layout: tagpage
+title: "Video"
+tag: video
+permalink: /tag/design/
 ---

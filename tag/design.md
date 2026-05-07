@@ -1,5 +1,6 @@
 ---
-layout: category
+layout: tagpage
 title: "Design"
-category: Design
+tag: design
+permalink: /tag/design/
 ---

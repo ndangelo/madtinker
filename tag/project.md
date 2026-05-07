@@ -1,5 +1,6 @@
 ---
-layout: category
+layout: tagpage
 title: "Projects"
-category: Project
+tag: project
+permalink: /tag/project/
 ---

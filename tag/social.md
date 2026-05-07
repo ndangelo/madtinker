@@ -1,6 +1,6 @@
 ---
 layout: category
-title:  "Social"
-categories: Social
-
+title: "Social"
+tag: social
+permalink: /tag/social/
 ---

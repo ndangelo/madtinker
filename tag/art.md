@@ -1,5 +1,6 @@
 ---
-layout: category
+layout: tagpage
 title: "Art"
-category: Art
+tag: art
+permalink: /tag/art/
 ---

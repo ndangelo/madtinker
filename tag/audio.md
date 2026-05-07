@@ -1,5 +1,6 @@
 ---
-layout: category
+layout: tagpage
 title: "Audio"
-category: Audio
+tag: audio
+permalink: /tag/audio/
 ---
