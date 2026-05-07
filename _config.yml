@@ -6,6 +6,9 @@ baseurl: "/madtinker"
 markdown: kramdown
 permalink: pretty
 
+source "https://rubygems.org"
+gem "github-pages", group: :jekyll_plugins
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
