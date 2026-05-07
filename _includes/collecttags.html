@@ -1,18 +1,10 @@
-{% assign rawtags = "" %}
-{% for post in site.posts %}
-  {% assign ttags = post.tags | join:'|' | append:'|' %}
-  {% assign rawtags = rawtags | append:ttags %}
-{% endfor %}
-{% assign rawtags = rawtags | split:'|' | sort %}
+{% for tag in site.tags %}
+  {% assign tag_name = tag[0] %}
+  {% assign posts = tag[1] %}
 
-{% assign site.tags = "" %}
-{% for tag in rawtags %}
-  {% if tag != "" %}
-    {% if tags == "" %}
-      {% assign tags = tag | split:'|' %}
-    {% endif %}
-    {% unless tags contains tag %}
-      {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
-    {% endunless %}
-  {% endif %}
+  <h3>{{ tag_name }}</h3>
+
+  {% for post in posts %}
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br>
+  {% endfor %}
 {% endfor %}

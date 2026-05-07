@@ -2,22 +2,32 @@
 layout: default
 ---
 
-<!--permalink: /categories/-->
-
 <div class="all" id="archives">
-    {% for category in site.categories %}
-      <div class="archive-group all">
-        {% capture category_name %}{{ category | first }}{% endcapture %}
-        <div id="#{{ category_name | slugize }}"></div>
-        <p></p>
-    
-        <h2 class="category-head all">{{ category_name }}</h2>
-        <a class="allart" name="{{ category_name | slugize }}"></a>
-        {% for post in site.categories[category_name] %}
-        <article class="archive-item allart">
-          <h4><a class="allart" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+
+  {% for category in site.categories %}
+
+    {% assign category_name = category[0] %}
+    {% assign posts = category[1] %}
+
+    <div class="archive-group">
+
+      <!-- FIX: correct id + slugify -->
+      <h2 id="{{ category_name | slugify }}" class="category-head">
+        {{ category_name }}
+      </h2>
+
+      {% for post in posts %}
+        <article class="archive-item">
+          <h4>
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title }}
+            </a>
+          </h4>
         </article>
-        {% endfor %}
-      </div>
-    {% endfor %}
+      {% endfor %}
+
     </div>
+
+  {% endfor %}
+
+</div>
