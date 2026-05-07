@@ -3,8 +3,7 @@ layout: post
 author: admin
 title: 2. Page number your Masters
 date: 2016-09-24T16:55:56-04:00
-tag:
-  - design
+tag: design
 
 categories:
   - Design Instruction

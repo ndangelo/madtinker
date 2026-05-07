@@ -9,10 +9,7 @@ categories:
   - DMET 350 MEDIA GRAPHICS AND DESIGN
   - Drawing
   - Design
-tag:
-  - design
-  - drawing
-  - art
+tag: design
 ---
 
 ### PROJECT 6-1
