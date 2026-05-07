@@ -6,6 +6,8 @@ baseurl: "/madtinker"
 markdown: kramdown
 permalink: pretty
 
+bundle update
+
 source "https://rubygems.org"
 gem "github-pages" 
 
