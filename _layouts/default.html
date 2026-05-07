@@ -1,214 +1,160 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/primary.css">
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/syntax-base16.dark.css">
+  <!-- FIX: use relative_url filter -->
+  <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/css/primary.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/css/syntax-base16.dark.css' | relative_url }}">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-  <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
 
+  <!-- safer CDN -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
+  <!-- REMOVE (deprecated / can break HTTPS) -->
+  <!-- <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script> -->
 
-
-  <style type="text/css">
-
-  .vide {
-  aspect-ratio: 16 / 9;
-  width: 100%;
-}
-  
+  <style>
+    .vide {
+      aspect-ratio: 16 / 9;
+      width: 100%;
+    }
   </style>
 
   <script>
     $(function () {
-  $(".toggleNav").on("click", function () {
-    $(".flex-nav ul").toggleClass("open");
-  });
-});
+      $(".toggleNav").on("click", function () {
+        $(".flex-nav ul").toggleClass("open");
+      });
 
-$(document).ready(function () {
-  $("a.scrollLink").click(function (event) {
-    event.preventDefault();
-    $("html, body").animate(
-      {
-        scrollTop: $($(this).attr("href")).offset().top
-      },
-      500
-    );
-  });
-});
-    
+      $("a.scrollLink").click(function (event) {
+        event.preventDefault();
+        $("html, body").animate({
+          scrollTop: $($(this).attr("href")).offset().top
+        }, 500);
+      });
+    });
   </script>
-
 </head>
 
 <body>
-  <div class="top hr-main">
-    <div class="logo">
-     <a href="{{ site.baseurl }}">  <img src="{{ site.baseurl }}/images/mad_tinker_logo_2.png" width="150px"></a>
-    </div>
-    <nav class="flex-nav">
 
-      <a href="#" class="toggleNav"><i class="fa fa-bars"></i> Menu</a>
-      <ul>
-       <!-- <li><a href="https://madtinker.net" class="menus-title">Home</a></li>-->
-        <li><a href="{{ site.baseurl }}/tag/video" class="menus-title" title="About">Video</a></li>
-        <li><a href="{{ site.baseurl }}/tag/audio" class="menus-title" title="">Audio</a></li>
+<div class="top hr-main">
+  <div class="logo">
+    <!-- FIX: homepage link -->
+    <a href="{{ '/' | relative_url }}">
+      <img src="{{ '/images/mad_tinker_logo_2.png' | relative_url }}" width="150">
+    </a>
+  </div>
 
-        <li><a href="{{ site.baseurl }}/tag/code" class="menus-title" title="Services">Code</a></li>
-        <li><a href="{{ site.baseurl }}/tag/art" class="menus-title" title="Contact">Art</a></li>
-        <li><a href="{{ site.baseurl }}/tag/design" class="smenus-title" title="Contact">Design</a></li>
-          <li><a href="{{ site.baseurl }}/tag/UI" class="menus-title" title="Contact">UI/UX</a></li>
-        <li><a href="{{ site.baseurl }}/tag/project" class="menus-title" title="Contact">Projects</a></li>
-        <li><a href="{{ site.baseurl }}/categories" class="menus-title" title="Categories">Categories</a></li>
+  <nav class="flex-nav">
+    <a href="#" class="toggleNav">Menu</a>
+    <ul>
+      <li><a href="{{ '/tag/video' | relative_url }}">Video</a></li>
+      <li><a href="{{ '/tag/audio' | relative_url }}">Audio</a></li>
+      <li><a href="{{ '/tag/code' | relative_url }}">Code</a></li>
+      <li><a href="{{ '/tag/art' | relative_url }}">Art</a></li>
+      <li><a href="{{ '/tag/design' | relative_url }}">Design</a></li>
+      <li><a href="{{ '/tag/UI' | relative_url }}">UI/UX</a></li>
+      <li><a href="{{ '/tag/project' | relative_url }}">Projects</a></li>
+      <li><a href="{{ '/categories' | relative_url }}">Categories</a></li>
+    </ul>
+  </nav>
+</div>
 
+<div class="wrapper">
 
-      </ul>
-    </nav>
+  <!-- FIX: tag links -->
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    tag: <a href="{{ '/tag/' | append: tag_name | relative_url }}">{{ tag_name }}</a>
+  {% endfor %}
+
+  {{ content }}
+
+  <div class="container">
+
+    <h2>Code</h2>
+    <ul>
+      {% for post in site.categories.Code limit:6 %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <h2>Art</h2>
+    <ul>
+      {% for post in site.categories.Art limit:6 %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <h2>Design</h2>
+    <ul>
+      {% for post in site.categories.Design limit:6 %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <h2>UI/UX</h2>
+    <ul>
+      {% for post in site.categories.UI limit:6 %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <h2>Video</h2>
+    <ul>
+      {% for post in site.categories.Video limit:6 %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+      {% for post in site.categories.Project limit:6 %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <h2>Social</h2>
+    <ul>
+      {% for post in site.categories.Social limit:6 %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
 
   </div>
-  <div class="wrapper">
-
-      {% for tag in page.tags %}
-
-      <br>
-
-      {% capture tag_name %}{{ tag }}{% endcapture %}
-      tag: <a href="/tag/{{ tag_name }}">&nbsp;{{ tag_name }}&nbsp;</a>
-      {% endfor %}
-      
-
-      {{ content }}
-
-      <br /><br /><br />
-
-
-
-    <div class="container">
-
- 
-<h2>Code</h2>
-      <ul>
-         
-{% for post in site.categories.Code limit:6 %}
-    <li><a href="{{ post.url }}">{{ post.title}}</a>
-    <span class="postDate">Posted on: &nbsp;{{ post.date | date: "%b %-d, %Y" }}</span>
-    </li>
-{% endfor %}
-
-</ul>
-
-<br>
-
-<h2>Art</h2>
-<ul>
-{% for post in site.categories.Art limit:6 %}
-    <li><a href="{{ post.url }}">{{ post.title}}</a>
-    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
-    </li>
-{% endfor %}
-
-</ul>
-
-<br>
-
-<h2>Design</h2>
-
-<ul>
-
-{% for post in site.categories.Design limit:6 %}
-    <li><a href="{{ post.url }}">{{ post.title}}</a>
-    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
-    </li>
-{% endfor %}
-
-</ul>
-
-<br><br>
-
-<h2>UI/UX</h2>
-
-<ul>
-{% for post in site.categories.UI limit:6 %}
-    <li><a href="{{ post.url }}">{{ post.title}}</a>
-    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
-    </li>
-{% endfor %}
-</ul>
-
-<br><br>
-
-<h2>Video</h2>
-
-<ul>
-{% for post in site.categories.Video limit:6 %}
-    <li><a href="{{ post.url }}">{{ post.title}}</a>
-    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
-    </li>
-{% endfor %}
-</ul>
-
-
-<br><br>
-
-<h2>Projects</h2>
-
-<ul>
-{% for post in site.categories.Project limit:6 %}
-    <li><a href="{{ post.url }}">{{ post.title}}</a>
-    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
-    </li>
-{% endfor %}
-
-
-</ul>
-
-<br><br>
-
-<h2>Social</h2>
-
-<ul>
-{% for post in site.categories.Social limit:6 %}
-    <li><a href="{{ post.url }}">{{ post.title}}</a>
-    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
-    </li>
-{% endfor %}
-
-
-</ul>
 </div>
-</div>
-    
- </div>
 
- </div>
-
- <br><br><br>
-
-      <footer>
-
-        
-
-        
-
-
-            <br>
-          
-<div style="height: 50px; width: 100%; display: flex; justify-content: center;">{% include google-search.html %}</div>
-        
-
-      </footer>
-
-      
- <br> <br>
-
+<footer>
+  <div style="height:50px; display:flex; justify-content:center;">
+    {% include google-search.html %}
+  </div>
+</footer>
 
 </body>
-
-    
+</html>
