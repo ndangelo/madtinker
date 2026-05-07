@@ -4,7 +4,7 @@ title: '6. Page dimensions &#038; orientation'
 date: '2016-09-25T14:55:20-04:00'
 author: admin
 layout: post
-
+tag: design
 categories:
     - 'Design Instruction'
     - 'InDesign'

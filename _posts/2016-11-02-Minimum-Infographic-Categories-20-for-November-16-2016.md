@@ -11,8 +11,7 @@ categories:
     - 'DMET 375 IMAGING TECHNOLOGY'
     - 'Infographic'
     - 'Design'
-tags:
-    - 'infographic'
+tag: ui
 ---
 
 **Please note:**

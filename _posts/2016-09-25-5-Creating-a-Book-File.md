@@ -4,11 +4,8 @@ title: 5. Creating a Book File
 date: '2016-09-25T14:56:06-04:00'
 author: admin
 layout: post
+tag: design
 
-categories:
-  - Design Instruction
-  - InDesign
----
 
 ### If you’re creating a long document with multiple sections, e.g. chapters, you should create a Book File to better organize the large file.
 

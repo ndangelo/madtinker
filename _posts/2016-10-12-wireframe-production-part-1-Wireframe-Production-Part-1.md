@@ -11,9 +11,7 @@ categories:
     - 'DMET 375 IMAGING TECHNOLOGY'
     - 'UI'
     - 'IA'
-tags:
-    - 'UI'
-    - 'IA'
+tag: ui
 ---
 
 **You can Download sample wireframe files here:** **[DOWNLOAD](https://www.dropbox.com/s/2uvuapxj55h5nn8/wireframe_examples_esu.zip?dl=0)**

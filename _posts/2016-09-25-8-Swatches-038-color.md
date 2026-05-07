@@ -4,10 +4,8 @@ title: '8. Swatches &#038; color'
 date: '2016-09-25T14:54:14-04:00'
 author: admin
 layout: post
+tag: design
 
-categories:
-    - 'Design Instruction'
-    - InDesign
 ---
 
 **InDesign is primarily designed for creating print documents, which means it works by default in CMYK color when you set the Intent of your document to Print. You should know a little about how InDesign translates Swatches to final printed colors on your document before sending anything to print to avoid any problems at the press.**

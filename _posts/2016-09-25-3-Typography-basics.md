@@ -4,12 +4,8 @@ title: '3. Typography basics'
 date: '2016-09-25T14:58:05-04:00'
 author: admin
 layout: post
-categories:
-    - 'Design Instruction'
-    - 'InDesign'
 
-tag:
-    - 'design'
+tag: design
 ---
 ### InDesign offers a number of options for setting typography formatting and ensuring your text styling stays consistent throughout your document.
 
