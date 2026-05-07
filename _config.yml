@@ -1,12 +1,17 @@
 title: MadTinker
 description: ""
-url: "https://ndangelo.github.io/madtinker"
 
-baseurl: "https://ndangelo.github.io/madtinker" # the subpath of your site, e.g. /blog
+# Correct separation
+url: "https://ndangelo.github.io"
+baseurl: "/madtinker"
 
 # Build settings
 markdown: kramdown
 theme: minima
+
+# Plugins (safe for GitHub Pages)
+plugins:
+  - jekyll-feed
 
 # Exclude files from production
 exclude:
