@@ -75,6 +75,7 @@
     {{ tag }}
   </a>
 {% endfor %}
+{{ '/tag/?tag=' | append: tag | relative_url }}
     <!---->  <a class="anchor" href="{{ page.url | relative_url }}">#</a>-->
     </h1>
   {% else %}
