@@ -75,24 +75,7 @@ a:hover {
   margin: 15px 0;
 }
 
-.flex-nav ul {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  list-style: none;
-  padding: 10px 0;
-}
 
-.flex-nav li a {
-  font-size: 0.9rem;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  color: #555;
-}
-
-.flex-nav li a:hover {
-  color: #000;
-}
 
 /* ===== Cards (for your new visual layout) ===== */
 .grid {
@@ -168,5 +151,44 @@ footer {
 
   body {
     padding-top: 180px;
+  }
+}
+
+/* ===== Mobile Nav Fix ===== */
+
+.toggleNav {
+  display: none;
+  cursor: pointer;
+  padding: 10px;
+  text-align: center;
+  font-weight: 600;
+}
+
+/* Mobile behavior */
+@media (max-width: 700px) {
+
+  .toggleNav {
+    display: block;
+  }
+
+  .flex-nav ul {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background: #fff;
+  }
+
+  .flex-nav ul.open {
+    display: flex;
+  }
+
+  .flex-nav li {
+    width: 100%;
+    border-bottom: 1px solid #eee;
+  }
+
+  .flex-nav li a {
+    padding: 12px;
+    display: block;
   }
 }
