@@ -12,15 +12,18 @@ body {
   color: #111;
   background: #fff;
   padding: 140px 20px 0;
-  line-height: 1.6;
+  line-height: 1.7;
   margin-top: 135px;
+  
 }
 
 /* ===== Layout ===== */
 .wrapper {
+  background: #fff;
   max-width: 960px;
   margin: 0 auto;
   padding: 15px;
+  
 }
 
 .container {
@@ -57,6 +60,11 @@ p {
 }
 
 /* ===== Links ===== */
+
+a {
+  transition: #2f6f4e 0.2s ease;
+}
+
 a {
   color: #2f6f4e;
   text-decoration: none;
@@ -215,4 +223,20 @@ hr {
   background: linear-gradient(90deg, #2f6f4e, #e76f51);
   z-index: 9999;
   transition: width 0.1s ease-out;
+}
+
+.post-list li {
+  margin-bottom: 25px;
+}
+
+img {
+  border-radius: 6px;
+}
+
+.nav-menu a {
+  opacity: 0.8;
+}
+
+.nav-menu a:hover {
+  opacity: 1;
 }
