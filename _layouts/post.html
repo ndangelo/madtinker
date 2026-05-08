@@ -179,9 +179,15 @@
 window.addEventListener("scroll", () => {
   const scrollTop = window.scrollY;
   const docHeight = document.body.scrollHeight - window.innerHeight;
+
+  if (docHeight <= 0) return;
+
   const progress = (scrollTop / docHeight) * 100;
 
-  document.getElementById("scroll-progress").style.width = progress + "%";
+  const bar = document.getElementById("scroll-progress");
+  if (bar) {
+    bar.style.width = progress + "%";
+  }
 });
 </script>
 </body>
