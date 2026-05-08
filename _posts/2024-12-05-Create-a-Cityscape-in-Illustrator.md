@@ -8,8 +8,7 @@ date: 2024-12-04T09:06:00.000Z
 categories:
   - Design
   - DMET_160 Introduction to Multimedia
-tags:
-  - design
+tag: design
 
 
 ---

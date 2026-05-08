@@ -4,7 +4,7 @@ title: '4. Threading text'
 date: '2016-09-25T14:57:13-04:00'
 author: admin
 layout: post
-
+tag: design
 categories:
     - 'Design Instruction'
     - 'InDesign'

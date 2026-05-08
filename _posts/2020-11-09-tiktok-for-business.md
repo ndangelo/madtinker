@@ -12,8 +12,7 @@ categories:
     - Projects
     - social
 
-tag:
-    - social
+tag: social
 ---
 
 ## What is TikTok?

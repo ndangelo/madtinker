@@ -2,6 +2,7 @@
 published: true
 date: 2024-11-01
 title: "The Importance of Wireframes: Main Lecture"
+tag: ui
 ---
 ## Scope Change for Wireframe Assignment
 

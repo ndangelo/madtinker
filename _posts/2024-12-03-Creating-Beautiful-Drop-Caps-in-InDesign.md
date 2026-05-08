@@ -11,9 +11,7 @@ date:
 categories:
   - InDesign
   - Tutorials
-tag:
-  - tutorials
-  - InDesign
+tag: design
 ---
 
 ![](https://www.indesignskills.com/wp-content/uploads/2017/02/Header-Image-768x506.jpg)

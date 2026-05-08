@@ -4,8 +4,7 @@ author: admin
 permalink: /13-successful-logo-designers-and-their-awesome-tutorials/
 title: 13 Successful Logo Designers And Their Awesome Tutorials
 date: {2024-12-04}
-tag:
-  - design
+tag: design
 categories:
   - Design Instruction
   - DMET 350 MEDIA GRAPHICS AND DESIGN
