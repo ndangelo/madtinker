@@ -2,8 +2,8 @@ title: MadTinker
 description: ""
 
 # Correct separation
-url: "https://ndangelo.github.io/madtinker"
-baseurl: ""
+url: "https://ndangelo.github.io"
+baseurl: "/madtinker"
 
 # Build settings
 markdown: kramdown
