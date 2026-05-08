@@ -70,7 +70,12 @@
   {% if page.external-url %}
     <h1>
       <a href="{{ page.external-url }}">{{ page.title }}</a>
-      <a class="anchor" href="{{ page.url | relative_url }}">#</a>
+      {% for tag in page.tags %}
+  <a href="{{ '/tag/?tag=' | append: tag | relative_url }}">
+    {{ tag }}
+  </a>
+{% endfor %}
+    <!---->  <a class="anchor" href="{{ page.url | relative_url }}">#</a>-->
     </h1>
   {% else %}
     <h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
