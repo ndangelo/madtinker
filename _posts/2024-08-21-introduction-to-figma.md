@@ -44,6 +44,8 @@ Getting started in Figma is as simple as going to [www.figma.com](http://www.fig
 
 Unlike regular desktop design apps, Figma’s menu can be found by clicking the Figma logo in the top-left of the screen. Take a minute to browse around this dropdown and see what’s there! Here, you can also search for specific commands you need. Click on the magnifying glass where it says “Quick actions…” and type in “rectangle,” and you’ll quickly find the Rectangle Tool, complete with a handy reminder of its keyboard shortcut (it’s R, by the way).
 
+
+
 #### **Tools:**
 
 Here you can quickly access the tools you’ll likely use most often: move, frame, shapes, pen, text, etc. (We’ll cover these tools in the next couple of days!)
@@ -153,3 +155,8 @@ The final thing to do for today is to give our file a name. To do this, deselect
 Right-click on your finished project to get a share link. Please post this link to the dropbox on d2l. You will complete all of the tutorials in this section within one file. You will not have to submit multiple links for this tutorial series.
 
 From: Figma 101: Design an App Screen. (n.d.). Retrieved from [https://designlab.com/figma-101-course/design-an-app-screen](https://designlab.com/figma-101-course/design-an-app-screen)
+
+
+
+![](/media/rotunda_family.jpg)
+
