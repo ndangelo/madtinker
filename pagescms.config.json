@@ -1,0 +1,118 @@
+{
+  "content": [
+    {
+      "name": "posts",
+      "label": "Posts",
+      "path": "_posts",
+      "type": "collection",
+
+      "fields": [
+
+        {
+          "name": "title",
+          "label": "Title",
+          "type": "string",
+          "required": true
+        },
+
+        {
+          "name": "date",
+          "label": "Date",
+          "type": "date"
+        },
+
+        {
+          "name": "layout",
+          "label": "Layout",
+          "type": "string",
+          "default": "post"
+        },
+
+        {
+          "name": "categories",
+          "label": "Category",
+          "type": "select",
+          "options": [
+            "Art",
+            "Design",
+            "Code",
+            "Audio",
+            "Project",
+            "Video",
+            "UI"
+          ]
+        },
+
+        {
+          "name": "tags",
+          "label": "Tags",
+          "type": "string",
+          "list": true
+        },
+
+        {
+          "name": "featured",
+          "label": "Featured Post",
+          "type": "boolean",
+          "default": false
+        },
+
+        {
+          "name": "image",
+          "label": "Featured Image",
+          "type": "image"
+        },
+
+        {
+          "name": "excerpt",
+          "label": "Excerpt",
+          "type": "text"
+        },
+
+        {
+          "name": "body",
+          "label": "Post Content",
+          "type": "rich-text"
+        }
+      ]
+    },
+
+    {
+      "name": "pages",
+      "label": "Pages",
+      "path": ".",
+      "include": [
+        "index.md",
+        "about.md"
+      ],
+      "type": "collection",
+
+      "fields": [
+
+        {
+          "name": "title",
+          "label": "Title",
+          "type": "string"
+        },
+
+        {
+          "name": "layout",
+          "label": "Layout",
+          "type": "string",
+          "default": "default"
+        },
+
+        {
+          "name": "body",
+          "label": "Content",
+          "type": "rich-text"
+        }
+      ]
+    }
+  ],
+
+  "media": {
+    "input": "images/uploads",
+    "output": "/images/uploads"
+  }
+}
