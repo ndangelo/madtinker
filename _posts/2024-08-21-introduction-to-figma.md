@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2026-05-11
-title: Introduction to Figma I
+title: Introduction to Figma I - Update
 ---
 From: Figma 101: Design an App Screen. (n.d.). Retrieved from [https://designlab.com/figma-101-course/design-an-app-screen](https://designlab.com/figma-101-course/design-an-app-screen)
 
