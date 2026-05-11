@@ -156,7 +156,3 @@ Right-click on your finished project to get a share link. Please post this link 
 
 From: Figma 101: Design an App Screen. (n.d.). Retrieved from [https://designlab.com/figma-101-course/design-an-app-screen](https://designlab.com/figma-101-course/design-an-app-screen)
 
-
-
-![](/media/rotunda_family.jpg)
-
