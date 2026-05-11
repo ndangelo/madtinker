@@ -1,22 +1,9 @@
 ---
-id: 66318
-title: 'Introduction to Figma I'
-date: '2024-08-21T16:06:54-04:00'
-author: admin
-layout: post
-
-permalink: /introduction-to-figma/
-enclosure:
-
-categories:
-    - UI/UX
-
-tag:
-    - UI
-    - IA
+published: true
+date: 2026-05-11
+title: Introduction to Figma I
 ---
-
-From: Figma 101: Design an App Screen. (n.d.). Retrieved from https://designlab.com/figma-101-course/design-an-app-screen
+From: Figma 101: Design an App Screen. (n.d.). Retrieved from [https://designlab.com/figma-101-course/design-an-app-screen](https://designlab.com/figma-101-course/design-an-app-screen)
 
 Get to know Figma’s interface by designing a button.
 
@@ -95,9 +82,6 @@ Note that we’ll often refer to keyboard shortcuts in these tutorials. It’s w
 
 There are two ways to create a Frame. We can either click and drag in the canvas area or select a pre-set Frame size from the Properties panel on the right side of the window. We chose the iPhone SE template. Try both ways now!
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_04.mp4"></video></figure>
-
-###   
 5. Practice zooming in and out
 
 You’ll probably want to zoom in and out quite a bit in Figma, particularly once we start working with multiple Frames. The standard zoom commands are accessed with ⌘+ and ⌘-. Try it now!
@@ -109,7 +93,7 @@ Those commands will focus in on the center of your current view. But there are s
 
 Click on the Frame’s name to select it. Then, try alternating these commands to switch between the selection and the whole canvas.
 
-Finally, here’s an \*extra\* handy zoom tip to move between Frames without having to zoom in and out the whole time:
+Finally, here’s an extra handy zoom tip to move between Frames without having to zoom in and out the whole time:
 
 - N will zoom to the next Frame
 - Shift ⇧N will zoom to the previous Frame
@@ -122,28 +106,27 @@ The Hand tool is another useful tool, particularly when you’re zoomed in close
 
 Next, let’s create some text. Press T to select the Text tool, and click anywhere within your iPhone SE frame to create a Text layer. This will be part of a button design, so let’s type “Sign In”. Hit Escape to exit the Text tool.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_05.mp4"></video></figure>###   
-8. Create a rectangle and arrange the layers
+### 8. Create a rectangle and arrange the layers
 
 Press R to select the Rectangle tool. Drag a button-shaped rectangle around the text you just created.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_06.mp4"></video></figure>Currently, the text is hidden underneath the rectangle. We need to use Figma’s “Arrange” commands to fix this. Head over to the Layers panel on the left of the window. Select the “Sign In” text layer, then right-click (PC/Mac) or ctrl-click (Mac) to bring up a list of options. Click “Bring to front”, and the text will now be placed on the rectangle.
+Currently, the text is hidden underneath the rectangle. We need to use Figma’s “Arrange” commands to fix this. Head over to the Layers panel on the left of the window. Select the “Sign In” text layer, then right-click (PC/Mac) or ctrl-click (Mac) to bring up a list of options. Click “Bring to front”, and the text will now be placed on the rectangle.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_06.mp4"></video></figure>You can also access Arrange tools using keyboard shortcuts:
+You can also access Arrange tools using keyboard shortcuts:
 
 Mac:
 
-- ⌘\]: bring forward
-- ⌘Opt\]: bring to front
-- ⌘\[: send backward
-- ⌘Opt\[: send to back
+- ⌘: bring forward
+- ⌘Opt: bring to front
+- ⌘: send backward
+- ⌘Opt: send to back
 
 PC:
 
-- Ctrl\]: bring forward
-- CtrlShift ⇧\]: bring to front
-- Ctrl\[: send backward
-- CtrlShift ⇧\[: send to back
+- Ctrl: bring forward
+- CtrlShift ⇧: bring to front
+- Ctrl: send backward
+- CtrlShift ⇧: send to back
 
 ### 9. Align the text and rectangle
 
@@ -151,24 +134,22 @@ As this is a button, we want the text and rectangle shapes to be centered relati
 
 The Align commands are accessible in the Properties (the interface area to the right of the window). Click “Align Horizontal Centers” and “Align Vertical Centers” to align the two objects.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_07.mp4"></video></figure>###   
-10. Add rounded corners to the rectangle and change the color
+### 10. Add rounded corners to the rectangle and change the color
 
 Select the rectangle shape you just created. The Properties panel has a setting called “Corner Radius”, which allows us to round the corners of any shape. Type in the number of pixels you want each corner rounded by.
 
 To maximize the corners and create semicircles at each end of the rectangle, enter a number larger than half the object’s height. (We set ours to 32, so we’re covered in case we want to make the button a bit bigger later on—but try out some different numbers and see what happens!)
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_08.mp4"></video></figure>The color settings can also be found in the Properties panel. We often want to attract people’s attention with buttons—so select the rectangle and pick a bright color! We’ve gone with a bright yellow by typing in a hex code (#EEEE33)—but you can also click to open the color palette and pick a color that way.
+The color settings can also be found in the Properties panel. We often want to attract people’s attention with buttons—so select the rectangle and pick a bright color! We’ve gone with a bright yellow by typing in a hex code (#EEEE33)—but you can also click to open the color palette and pick a color that way.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_10.mp4"></video></figure>###   
-11. Change the font
+### 11. Change the font
 
 With the text layer selected, you can access settings in the Properties panel to change the font, font size, weight, and color. We’ve stuck with Inter but switched to bold and uppercase text. We also aligned the text to center.
 
-<figure class="wp-block-video"><video controls="" loop="" muted="" playsinline="" preload="none" src="https://storage.designlab.com/email-courses/figma-101/2023/F101_D1_11.mp4"></video></figure>The final thing to do for today is to give our file a name. To do this, deselect all objects (Escape will do the trick) and click where it says “Untitled” at the top of the window. Then type something like “Figma 101 App.” That’s it! Figma stores all your files in the cloud.
+The final thing to do for today is to give our file a name. To do this, deselect all objects (Escape will do the trick) and click where it says “Untitled” at the top of the window. Then type something like “Figma 101 App.” That’s it! Figma stores all your files in the cloud.
 
 ## Assignment
 
 Right-click on your finished project to get a share link. Please post this link to the dropbox on d2l. You will complete all of the tutorials in this section within one file. You will not have to submit multiple links for this tutorial series.
 
-From: Figma 101: Design an App Screen. (n.d.). Retrieved from https://designlab.com/figma-101-course/design-an-app-screen
+From: Figma 101: Design an App Screen. (n.d.). Retrieved from [https://designlab.com/figma-101-course/design-an-app-screen](https://designlab.com/figma-101-course/design-an-app-screen)
