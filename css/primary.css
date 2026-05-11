@@ -261,3 +261,128 @@ hr {
   z-index: 99999;
   pointer-events: none;
 }
+
+/* ===== Editorial Image System ===== */
+
+/* Standard post images */
+.post img,
+article img {
+  display: block;
+  margin: 35px auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* ===== Figure / Caption ===== */
+
+.image-frame {
+  margin: 40px auto;
+  text-align: center;
+}
+
+.image-frame img {
+  margin-bottom: 10px;
+}
+
+.image-frame figcaption {
+  font-size: 0.85rem;
+  color: #777;
+  letter-spacing: 0.3px;
+}
+
+/* ===== Feature Image ===== */
+
+.feature-image {
+  width: 100%;
+  max-width: 1200px;
+  border-radius: 12px;
+  margin: 40px auto;
+  display: block;
+}
+
+/* ===== Floating Images ===== */
+
+.image-left {
+  float: left;
+  width: 45%;
+  margin: 10px 25px 20px 0;
+  border-radius: 8px;
+}
+
+.image-right {
+  float: right;
+  width: 45%;
+  margin: 10px 0 20px 25px;
+  border-radius: 8px;
+}
+
+/* ===== Two Column Image Grid ===== */
+
+.image-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  margin: 35px 0;
+}
+
+.image-grid img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+/* ===== Three Column Grid ===== */
+
+.image-grid-three {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  margin: 35px 0;
+}
+
+.image-grid-three img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+/* ===== Lightbox Polish ===== */
+
+.lightbox img {
+  border-radius: 10px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.4);
+}
+
+/* ===== Better Reading Width ===== */
+
+.post,
+article {
+  font-size: 1rem;
+}
+
+/* ===== Better Embedded Video ===== */
+
+iframe {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+/* ===== Responsive Editorial Layout ===== */
+
+@media (max-width: 700px) {
+
+  .image-left,
+  .image-right {
+    float: none;
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .image-grid,
+  .image-grid-three {
+    grid-template-columns: 1fr;
+  }
+
+  .feature-image {
+    border-radius: 8px;
+  }
+}
