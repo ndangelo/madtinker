@@ -5,8 +5,8 @@ backend:
 
 local_backend: true
 
-site_url: https://mattinker.net
-display_url: https://mattinker.net
+site_url: https://madtinker.net
+display_url: https://madtinker.net
 logo_url: /images/mad_tinker_logo_2.png
 
 publish_mode: editorial_workflow
