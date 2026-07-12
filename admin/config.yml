@@ -1,0 +1,183 @@
+backend:
+  name: github
+  repo: ndangelo/madtinker
+  branch: main
+
+local_backend: true
+
+site_url: https://mattinker.net
+display_url: https://mattinker.net
+logo_url: /images/mad_tinker_logo_2.png
+
+publish_mode: editorial_workflow
+
+media_folder: media/uploads
+public_folder: /media/uploads
+
+slug:
+  encoding: ascii
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  - name: posts
+    label: Posts
+    label_singular: Post
+    folder: _posts
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sortable_fields:
+      - date
+      - title
+      - categories
+      - published
+    view_filters:
+      - label: Published
+        field: published
+        pattern: true
+      - label: Drafts
+        field: published
+        pattern: false
+    fields:
+      - label: Published
+        name: published
+        widget: boolean
+        default: true
+        required: false
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: post
+      - label: Title
+        name: title
+        widget: string
+      - label: Date
+        name: date
+        widget: datetime
+        date_format: YYYY-MM-DD
+        time_format: false
+        format: YYYY-MM-DD
+      - label: Categories
+        name: categories
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - Art
+          - Design
+          - Code
+          - Audio
+          - Project
+          - Video
+          - UI
+          - Social
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+        field:
+          label: Tag
+          name: tag
+          widget: string
+      - label: Legacy Single Tag
+        name: tag
+        widget: string
+        required: false
+        hint: "Only use this for older posts that already use a single tag value."
+      - label: Featured Post
+        name: featured
+        widget: boolean
+        default: false
+        required: false
+      - label: Featured Image
+        name: image
+        widget: image
+        required: false
+      - label: Excerpt
+        name: excerpt
+        widget: text
+        required: false
+      - label: Body
+        name: body
+        widget: markdown
+
+  - name: pages
+    label: Pages
+    label_singular: Page
+    files:
+      - name: about
+        label: About Page
+        file: about/index.markdown
+        fields:
+          - label: Layout
+            name: layout
+            widget: hidden
+            default: default
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+      - name: categories
+        label: Categories Page
+        file: categories.html
+        fields:
+          - label: Layout
+            name: layout
+            widget: hidden
+            default: default
+          - label: Body
+            name: body
+            widget: markdown
+      - name: archives
+        label: Archives Page
+        file: archives.html
+        fields:
+          - label: Layout
+            name: layout
+            widget: hidden
+            default: default
+          - label: Body
+            name: body
+            widget: markdown
+
+  - name: settings
+    label: Settings
+    files:
+      - name: site
+        label: Site Settings
+        file: _config.yml
+        fields:
+          - label: Site Title
+            name: title
+            widget: string
+          - label: Description
+            name: description
+            widget: text
+            required: false
+          - label: Site URL
+            name: url
+            widget: string
+          - label: Base URL
+            name: baseurl
+            widget: string
+            required: false
+          - label: Markdown Engine
+            name: markdown
+            widget: string
+            default: kramdown
+          - label: Theme
+            name: theme
+            widget: string
+            required: false
+          - label: Plugins
+            name: plugins
+            widget: list
+            required: false
+          - label: Excluded Files
+            name: exclude
+            widget: list
+            required: false
