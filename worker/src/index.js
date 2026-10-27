@@ -145,8 +145,9 @@ async function githubRequest(env, method, path, body) {
       "Authorization": "Bearer " + token,
       "Accept": "application/vnd.github+json",
       "X-GitHub-Api-Version": "2022-11-28",
-      "User-Agent": "Studio-CMS"
-    }.withBody(body),
+      "User-Agent": "Studio-CMS",
+      ...(body ? { "Content-Type": "application/json" } : {})
+    },
     body: body ? JSON.stringify(body) : undefined
   });
   if (!response.ok) {
@@ -157,11 +158,6 @@ async function githubRequest(env, method, path, body) {
   return response.status === 204 ? {} : response.json();
 }
 
-Object.prototype.withBody = function(body) {
-  const headers = { ...this };
-  if (body) headers["Content-Type"] = "application/json";
-  return headers;
-};
 
 async function installationToken(env) {
   const appId = env.GITHUB_APP_ID;
@@ -198,7 +194,7 @@ async function requireAccess(request, env) {
   let header, payload;
   try { header = decode(parts[0]); payload = decode(parts[1]); } catch { const error = new Error("Invalid access assertion."); error.status = 401; throw error; }
   const issuer = "https://" + env.CF_ACCESS_TEAM_DOMAIN + ".cloudflareaccess.com";
-  if (payload.iss !== issuer || !Array.isArray(payload.aud) || !payload.aud.includes(env.CF_ACCESS_AUD) || !payload.exp || payload.exp < Math.floor(Date.now()/1000)) {
+  if (header.alg !== "RS256" || payload.iss !== issuer || !Array.isArray(payload.aud) || !payload.aud.includes(env.CF_ACCESS_AUD) || !payload.exp || payload.exp < Math.floor(Date.now()/1000) || (payload.nbf && payload.nbf > Math.floor(Date.now()/1000))) {
     const error = new Error("Access assertion failed validation."); error.status = 401; throw error;
   }
   const keys = await getAccessKeys(env);
@@ -214,7 +210,7 @@ async function getAccessKeys(env) {
   const response = await fetch("https://" + env.CF_ACCESS_TEAM_DOMAIN + ".cloudflareaccess.com/cdn-cgi/access/certs");
   if (!response.ok) throw new Error("Could not load Cloudflare Access signing keys.");
   const data = await response.json();
-  cachedCerts = data.public_certs || [];
+  cachedCerts = data.jwks?.keys || data.keys || [];
   certsExpiresAt = Date.now() + 300000;
   return cachedCerts;
 }
