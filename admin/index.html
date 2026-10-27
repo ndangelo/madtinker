@@ -15,6 +15,7 @@
       <button class="nav-item active" data-view="posts"><span class="nav-icon">▤</span> Posts <span class="nav-count" id="post-count">3</span></button>
       <button class="nav-item" data-view="media"><span class="nav-icon">▧</span> Media library</button>
       <button class="nav-item" data-view="sites"><span class="nav-icon">◫</span> Sites</button>
+      <button class="nav-item" data-view="settings"><span class="nav-icon">⚙</span> Settings</button>
       <div class="sidebar-bottom">
         <div class="site-card"><span class="site-dot"></span><div><strong>Studio Journal</strong><small>ndangelo/madtinker</small></div><span class="chevron">⌄</span></div>
         <div class="user-card"><div class="avatar">N</div><div><strong>Nick</strong><small>Workspace owner</small></div><span class="dots">•••</span></div>
@@ -70,6 +71,17 @@ You can use Markdown:
       </section>
 
       <section id="media-view" class="view placeholder-view" hidden><p class="eyebrow">ASSET MANAGEMENT</p><h1>Media library</h1><p class="subhead">A place for your images, graphics, and downloadable assets.</p><div class="coming-card"><span class="coming-icon">▧</span><h2>Media library is next</h2><p>We'll add upload, folder navigation, previews, and copy-ready asset URLs in a later milestone.</p><button class="secondary-btn" data-go-posts>Back to posts</button></div></section>
+      <section id="settings-view" class="view placeholder-view" hidden>
+        <p class="eyebrow">CONFIGURATION</p><h1>Settings</h1><p class="subhead">Connect the dashboard to a protected publishing service.</p>
+        <div class="settings-layout">
+          <div class="settings-card api-settings-card"><h2>Publishing API</h2><p class="settings-intro">Enter the base URL of your deployed, Cloudflare Access-protected Studio CMS Worker. Do not enter GitHub tokens or private keys here.</p>
+            <label class="field-label" for="api-url">API base URL</label><input id="api-url" type="url" placeholder="https://cms-api.example.com">
+            <div class="api-actions"><button class="primary-btn" id="test-api">Test connection</button><button class="secondary-btn" id="sync-api" disabled>Sync posts</button></div>
+            <p class="api-status" id="api-status" role="status" aria-live="polite">Not connected. API setup is a separate deployment step.</p>
+          </div>
+          <div class="settings-card api-settings-card"><h2>Security and storage</h2><ul class="settings-list"><li>GitHub credentials belong only in Worker secrets.</li><li>Cloudflare Access must require your login before the API accepts requests.</li><li>The API should be restricted to this repository and the dashboard origin.</li><li>Content committed to this public repository is public.</li></ul></div>
+        </div>
+      </section>
       <section id="sites-view" class="view placeholder-view" hidden><p class="eyebrow">MULTI-SITE WORKSPACE</p><h1>Sites</h1><p class="subhead">One publishing dashboard for your different projects.</p><div class="site-list-card"><span class="site-dot"></span><div><strong>Studio Journal</strong><p>ndangelo/madtinker · Jekyll · GitHub Pages</p></div><span class="status-badge draft">Connected later</span></div><div class="coming-card"><span class="coming-icon">◫</span><h2>Multi-site publishing is planned</h2><p>The dashboard will eventually support multiple sites and publishing destinations.</p><button class="secondary-btn" data-go-posts>Back to posts</button></div></section>
     </main>
   </div>
