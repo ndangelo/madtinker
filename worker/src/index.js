@@ -9,6 +9,7 @@ export default {
       "Access-Control-Allow-Origin": origin === env.ALLOWED_ORIGIN ? origin : "null",
       "Access-Control-Allow-Methods": "GET, POST, DELETE, OPTIONS",
       "Access-Control-Allow-Headers": "Content-Type",
+      "Access-Control-Allow-Credentials": "true",
       "Access-Control-Max-Age": "86400",
       "Vary": "Origin"
     };
