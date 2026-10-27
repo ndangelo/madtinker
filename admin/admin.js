@@ -145,7 +145,7 @@
       textarea.dispatchEvent(new Event("input",{bubbles:true}));
       if(!cm.state.completionActive&&window.CodeMirror.showHint){
         const cursor=cm.getCursor(),line=cm.getLine(cursor.line).slice(0,cursor.ch);
-        if(/(?:<\\/?[a-z][\\w-]*|\\s[a-z-]+|[a-z-]+:)$/i.test(line))
+        if(line.endsWith("<") || /[a-z-]+:$/.test(line))
           cm.showHint({completeSingle:false});
       }
     });
