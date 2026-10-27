@@ -177,13 +177,16 @@ async function installationToken(env) {
   const header = base64url(encoder.encode(JSON.stringify({ alg: "RS256", typ: "JWT" })));
   const payload = base64url(encoder.encode(JSON.stringify({ iat: now - 30, exp: now + 540, iss: appId })));
   const unsigned = header + "." + payload;
-  const keyText = env.GITHUB_APP_PRIVATE_KEY.replace(/\\n/g, "\n").replace(/-----BEGIN PRIVATE KEY-----|-----END PRIVATE KEY-----|\s/g, "");
-  const key = await crypto.subtle.importKey("pkcs8", base64ToBytes(keyText), { name: "RSASSA-PKCS1-v1_5", hash: "SHA-256" }, false, ["sign"]);
+  const isPkcs1 = env.GITHUB_APP_PRIVATE_KEY.includes("BEGIN RSA PRIVATE KEY");
+  const keyText = env.GITHUB_APP_PRIVATE_KEY.replace(/\\n/g, "\n").replace(/-----BEGIN (?:RSA )?PRIVATE KEY-----|-----END (?:RSA )?PRIVATE KEY-----|\s/g, "");
+  let keyDer = base64ToBytes(keyText);
+  if (isPkcs1) keyDer = wrapPkcs1InPkcs8(keyDer);
+  const key = await crypto.subtle.importKey("pkcs8", keyDer, { name: "RSASSA-PKCS1-v1_5", hash: "SHA-256" }, false, ["sign"]);
   const signature = new Uint8Array(await crypto.subtle.sign("RSASSA-PKCS1-v1_5", key, encoder.encode(unsigned)));
   const appJwt = unsigned + "." + base64url(signature);
   const response = await fetch("https://api.github.com/app/installations/" + encodeURIComponent(installationId) + "/access_tokens", {
     method: "POST",
-    headers: { "Authorization": "Bearer " + appJwt, "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28", "User-Agent": "Studio-CMS" },
+    headers: { "Authorization": "Bearer " + appJwt, "Accept": "application/vnd.github+json", "Content-Type": "application/json", "X-GitHub-Api-Version": "2022-11-28", "User-Agent": "Studio-CMS" },
     body: JSON.stringify({ repositories: [(env.GITHUB_REPOSITORY || "").split("/")[1]], permissions: { contents: "write", metadata: "read" } })
   });
   if (!response.ok) { const error = new Error("Could not obtain a GitHub installation token."); error.status = 502; throw error; }
@@ -223,6 +226,27 @@ async function getAccessKeys(env) {
   return cachedCerts;
 }
 
+
+function derLength(length) {
+  if (length < 128) return Uint8Array.of(length);
+  const bytes = [];
+  let value = length;
+  while (value > 0) { bytes.unshift(value & 255); value >>>= 8; }
+  return Uint8Array.of(128 | bytes.length, ...bytes);
+}
+function wrapPkcs1InPkcs8(pkcs1) {
+  const algorithm = Uint8Array.from([0x30,0x0d,0x06,0x09,0x2a,0x86,0x48,0x86,0xf7,0x0d,0x01,0x01,0x01,0x05,0x00]);
+  const version = Uint8Array.from([0x02,0x01,0x00]);
+  const octetHeader = Uint8Array.from([0x04, ...derLength(pkcs1.length)]);
+  const octet = new Uint8Array(octetHeader.length + pkcs1.length);
+  octet.set(octetHeader, 0); octet.set(pkcs1, octetHeader.length);
+  const body = new Uint8Array(version.length + algorithm.length + octet.length);
+  body.set(version, 0); body.set(algorithm, version.length); body.set(octet, version.length + algorithm.length);
+  const sequenceHeader = Uint8Array.from([0x30, ...derLength(body.length)]);
+  const result = new Uint8Array(sequenceHeader.length + body.length);
+  result.set(sequenceHeader, 0); result.set(body, sequenceHeader.length);
+  return result;
+}
 function base64url(bytes) {
   let binary = "";
   for (const byte of bytes) binary += String.fromCharCode(byte);
