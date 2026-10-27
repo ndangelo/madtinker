@@ -136,7 +136,7 @@ function validateMediaFolder(folder) {
 }
 
 function validateMediaPath(path) {
-  if (typeof path !== "string" || !/^assets\/images\/[a-zA-Z0-9_./-]+\.(?:png|jpe?g|gif|webp|svg|avif)$/i.test(path) || path.includes("..")) {
+  if (typeof path !== "string" || !/^assets\/images\/[a-zA-Z0-9_./-]+\.(?:png|jpe?g|gif|webp|avif)$/i.test(path) || path.includes("..")) {
     const error = new Error("Only image files inside assets/images are allowed."); error.status = 400; throw error;
   }
   return path;
