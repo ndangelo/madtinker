@@ -11,6 +11,8 @@
   let currentFilter = "all";
   let toastTimer;
   let autosaveTimer;
+  let apiConnected = false;
+  const apiStorageKey = "studio-cms-api-base-v1";
   function loadPosts(){try{const saved=localStorage.getItem(storageKey);return saved?JSON.parse(saved):initialPosts.slice()}catch(e){return initialPosts.slice()}}
   function persist(){try{localStorage.setItem(storageKey,JSON.stringify(posts));return true}catch(e){return false}}
   function slugify(s){return (s||"your-post-title").toLowerCase().trim().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"")||"your-post-title"}
@@ -27,12 +29,20 @@
     $("post-count").textContent=posts.length;
   }
   function showView(name){
-    ["posts","editor","media","sites"].forEach(v=>$(v+"-view").hidden=v!==name);
-    $("crumb").textContent=({posts:"Posts",editor:"Editor",media:"Media library",sites:"Sites"})[name]||"Posts";
+    ["posts","editor","media","sites","settings"].forEach(v=>$(v+"-view").hidden=v!==name);
+    $("crumb").textContent=({posts:"Posts",editor:"Editor",media:"Media library",sites:"Sites",settings:"Settings"})[name]||"Posts";
     document.querySelectorAll(".nav-item").forEach(b=>b.classList.toggle("active",b.dataset.view===name));
   }
-  function openEditor(id){
-    const p=posts.find(x=>x.id===id);
+  async function openEditor(id){
+    let p=posts.find(x=>x.id===id);
+    if(p && p.remote && !p.bodyLoaded){
+      try{
+        const data=await apiFetch("/api/posts?path="+encodeURIComponent(p.remotePath));
+        const parsed=parsePostMarkdown(data.content);
+        p={...p,...parsed,remote:true,remotePath:data.path,remoteSha:data.sha,bodyLoaded:true,id:p.id,status:parsed.status==="published"?"published":"draft"};
+        posts=posts.map(item=>item.id===p.id?p:item);persist();renderRows();
+      }catch(error){showToast("Could not load this GitHub post: "+error.message);return}
+    }
     editingId=p?p.id:null;
     $("post-title").value=p?p.title:"";
     $("post-description").value=p?p.description:"";
@@ -50,7 +60,7 @@
     const title=$("post-title").value.trim();
     if(!title){$("post-title").focus();showToast("Add a title before saving your draft.");return}
     const existing=posts.find(p=>p.id===editingId);
-    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim()};
+    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim(),remotePath:existing?.remotePath||"",remoteSha:existing?.remoteSha||"",remote:!!existing?.remote,bodyLoaded:true};
     if(existing){posts=posts.map(p=>p.id===editingId?draft:p)}else{posts.unshift(draft);editingId=draft.id}
     const saved=persist();renderRows();$("save-status").textContent=saved?"Saved in this browser":"Could not save — browser storage unavailable";
     showToast(saved?"Draft saved in this browser.":"Browser storage is unavailable. Copy your text somewhere safe.");
@@ -140,13 +150,108 @@
   $("backup-posts").addEventListener("click",exportBackup);
   $("restore-posts").addEventListener("click",()=>$("backup-file").click());
   $("backup-file").addEventListener("change",importBackup);
-  $("publish-btn").addEventListener("click",()=>showToast("Publishing is not connected yet."));
+  $("publish-btn").addEventListener("click",publishPost);
+  $("api-url").value=localStorage.getItem(apiStorageKey)||"";
+  $("test-api").addEventListener("click",testApiConnection);
+  $("sync-api").addEventListener("click",syncRemotePosts);
   document.addEventListener("keydown",e=>{const mod=/Mac|iPhone|iPad/.test(navigator.platform)?e.metaKey:e.ctrlKey;if(mod&&e.key.toLowerCase()==="s"&&!$("editor-view").hidden){e.preventDefault();saveDraft()}if(mod&&e.key.toLowerCase()==="enter"&&!$("editor-view").hidden){e.preventDefault();preview()}});
+  function apiBase(){
+    const value=$("api-url").value.trim()||localStorage.getItem(apiStorageKey)||"";
+    return value.replace(/\\/+$/,"");
+  }
+  async function apiFetch(path,options={}){
+    const base=apiBase();if(!base)throw new Error("Enter the API base URL in Settings first.");
+    const response=await fetch(base+path,{...options,credentials:"include",headers:{"Content-Type":"application/json",...(options.headers||{})}});
+    let data={};try{data=await response.json()}catch(e){}
+    if(!response.ok)throw new Error(data.error||("Request failed ("+response.status+")."));
+    return data;
+  }
+  function setApiStatus(message,kind=""){
+    const status=$("api-status");status.textContent=message;status.className="api-status"+(kind?" "+kind:"");
+  }
+  async function testApiConnection(){
+    const base=apiBase();
+    if(!/^https:\\/\\//i.test(base)){setApiStatus("Enter a complete HTTPS API URL.", "error");return}
+    localStorage.setItem(apiStorageKey,base);$("test-api").disabled=true;setApiStatus("Checking the protected API…");
+    try{
+      const result=await apiFetch("/api/health");
+      apiConnected=!!result.ok;$("sync-api").disabled=!apiConnected;
+      $("publish-btn").disabled=!apiConnected;
+      $("publish-btn").classList.toggle("is-enabled",apiConnected);
+      setApiStatus("Connected. Authentication passed and the API is responding.", "ok");
+      showToast("Publishing API connection verified.");
+    }catch(error){
+      apiConnected=false;$("sync-api").disabled=true;$("publish-btn").disabled=true;
+      setApiStatus("Connection failed: "+error.message+" Check the URL, Cloudflare Access login, and allowed dashboard origin.", "error");
+    }finally{$("test-api").disabled=false}
+  }
+  async function syncRemotePosts(){
+    $("sync-api").disabled=true;setApiStatus("Loading repository post list…");
+    try{
+      const data=await apiFetch("/api/posts");
+      const remoteFiles=Array.isArray(data.posts)?data.posts:[];
+      let added=0;
+      for(const file of remoteFiles){
+        const existing=posts.find(p=>p.remotePath===file.path);
+        if(existing){existing.remoteSha=file.sha;existing.remote=true;continue}
+        const filename=file.name.replace(/^\\d{4}-\\d{2}-\\d{2}-/,"").replace(/\\.md$/i,"").replace(/-/g," ");
+        posts.push({id:"remote-"+file.sha, title:filename,description:"",body:"",category:"",tags:"",status:"published",date:"In GitHub",tone:"green",slug:"",image:"",remotePath:file.path,remoteSha:file.sha,remote:true,bodyLoaded:false});
+        added++;
+      }
+      persist();renderRows();setApiStatus("Synced "+remoteFiles.length+" repository posts; "+added+" added to this dashboard.", "ok");showToast("Repository post list synced.");
+    }catch(error){setApiStatus("Sync failed: "+error.message,"error")}
+    finally{$("sync-api").disabled=!apiConnected}
+  }
+  function yamlScalar(front,key){
+    const match=front.match(new RegExp("^"+key+":\\s*(.*)$","m"));if(!match)return "";
+    const raw=match[1].trim();
+    if((raw.startsWith('"')&&raw.endsWith('"'))||(raw.startsWith("'")&&raw.endsWith("'"))){try{return JSON.parse(raw.startsWith("'")?'"'+raw.slice(1,-1).replace(/"/g,'\\"')+'"':raw)}catch(e){return raw.slice(1,-1)}}
+    return raw;
+  }
+  function yamlList(front,key){
+    const match=front.match(new RegExp("^"+key+":\\s*\\n((?:[ \\t]+-.*(?:\\n|$))+)","m"));
+    if(!match)return [];
+    return match[1].split("\\n").map(line=>line.replace(/^\\s*-\\s*/,"").trim()).filter(Boolean).map(v=>v.replace(/^["']|["']$/g,""));
+  }
+  function parsePostMarkdown(content){
+    const match=String(content||"").match(/^---\\s*\\n([\\s\\S]*?)\\n---\\s*\\n?([\\s\\S]*)$/);
+    if(!match)throw new Error("This file does not have valid Jekyll front matter.");
+    const front=match[1];const body=match[2];
+    const published=yamlScalar(front,"published").toLowerCase()!=="false";
+    return {title:yamlScalar(front,"title")||"Untitled post",description:yamlScalar(front,"description"),category:yamlList(front,"categories")[0]||yamlScalar(front,"category"),tags:yamlList(front,"tags").join(", "),slug:yamlScalar(front,"slug"),image:yamlScalar(front,"image"),body,status:published?"published":"draft",bodyLoaded:true};
+  }
+  async function publishPost(){
+    if(!apiConnected){showToast("Connect the publishing API in Settings first.");return}
+    const title=$("post-title").value.trim();if(!title){$("post-title").focus();showToast("Add a title before publishing.");return}
+    const existing=posts.find(p=>p.id===editingId);
+    const date=existing?.remotePath?.match(/_posts\\/(\\d{4}-\\d{2}-\\d{2})-/)?.[1]||new Date().toLocaleDateString("en-CA");
+    const slug=slugify($("post-slug").value||title);
+    const path=existing?.remotePath||("_posts/"+date+"-"+slug+".md");
+    const quote=value=>JSON.stringify(value);
+    const tags=$("post-tags").value.split(",").map(v=>v.trim()).filter(Boolean);
+    const lines=["---","title: "+quote(title),"date: "+date+" 09:00:00 -0400","description: "+quote($("post-description").value.trim())];
+    if($("post-category").value.trim())lines.push("categories:","  - "+quote($("post-category").value.trim()));
+    if(tags.length)lines.push("tags:",...tags.map(tag=>"  - "+quote(tag)));
+    if($("post-slug").value.trim())lines.push("slug: "+quote($("post-slug").value.trim()));
+    if($("post-image").value.trim())lines.push("image: "+quote($("post-image").value.trim()));
+    lines.push("published: true","---","");
+    const content=lines.join("\\n")+$("post-body").value+"\\n";
+    const button=$("publish-btn");button.disabled=true;button.textContent="Publishing…";
+    try{
+      const result=await apiFetch("/api/posts",{method:"POST",body:JSON.stringify({path,content,sha:existing?.remoteSha||undefined})});
+      const record={id:existing?.id||("remote-"+result.sha),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"published",date:"Published just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim(),remotePath:path,remoteSha:result.sha,remote:true,bodyLoaded:true};
+      if(existing)posts=posts.map(p=>p.id===existing.id?record:p);else{posts.unshift(record);editingId=record.id}
+      persist();renderRows();$("save-status").textContent="Published to GitHub";
+      showToast("Post committed to GitHub. The site rebuild may take a few minutes.");
+      if(result.commit)window.open(result.commit,"_blank","noopener");
+    }catch(error){showToast("Publish failed: "+error.message)}
+    finally{button.textContent="Publish post";button.disabled=!apiConnected}
+  }
   function markUnsaved(){ $("save-status").textContent="Unsaved changes";clearTimeout(autosaveTimer);autosaveTimer=setTimeout(quietAutosave,900); }
   function quietAutosave(){
     const title=$("post-title").value.trim();if(!title)return;
     const existing=posts.find(p=>p.id===editingId);
-    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim()};
+    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim(),remotePath:existing?.remotePath||"",remoteSha:existing?.remoteSha||"",remote:!!existing?.remote,bodyLoaded:true};
     if(existing)posts=posts.map(p=>p.id===editingId?draft:p);else{posts.unshift(draft);editingId=draft.id}
     const saved=persist();renderRows();$("save-status").textContent=saved?"Auto-saved locally":"Local save failed";
   }
