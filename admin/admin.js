@@ -214,29 +214,24 @@
     try{
       const data=await apiFetch("/api/sites");
       const sites=Array.isArray(data.sites)?data.sites:[];
-      window.__studioCmsSites=sites;
       if(!sites.length)throw new Error("No sites are allowlisted on the server.");
+      window.__studioCmsSites=sites;
       if(!sites.some(site=>site.id===activeSiteId))activeSiteId=sites[0].id;
       try{localStorage.setItem(siteStorageKey,activeSiteId)}catch(e){}
       $("active-site-select").innerHTML=sites.map(site=>'<option value="'+escapeHtml(site.id)+'">'+escapeHtml(site.title)+'</option>').join("");
       $("active-site-select").value=activeSiteId;
-      $("configured-sites").innerHTML=sites.map(site=>'<article class="configured-site-card"><span class="site-dot"></span><div class="site-details"><strong>'+escapeHtml(site.title)+'</strong><p>'+escapeHtml(site.repository)+(site.baseUrl?" · "+escapeHtml(site.baseUrl):"")+'</p></div>'+(site.id===activeSiteId?'<span class="active-label">Active</span>':'<button class="row-action" data-activate-site="'+escapeHtml(site.id)+'">Use this site</button>')+'</article>').join("");
-      $("configured-sites").querySelectorAll("[data-activate-site]").forEach(button=>button.addEventListener("click",async()=>{$("active-site-select").value=button.dataset.activateSite;$("active-site-select").dispatchEvent(new Event("change"))}));
       updateActiveSiteLabels();renderRows();
       return sites;
     }finally{$("load-sites").disabled=false}
   }
   function updateActiveSiteLabels(){
-    const option=$("active-site-select").selectedOptions[0];
-    const siteTitle=option?option.textContent:"Studio Journal";
-    $("active-site-title").textContent=siteTitle;
-    const card=document.querySelector('.configured-site-card .active-label');
-    if(card)card.textContent="Active";
+    const sites=window.__studioCmsSites||[];
     const selected=$("active-site-select").value||activeSiteId;
-    const allCards=$("configured-sites").querySelectorAll(".configured-site-card");
-    allCards.forEach(card=>{const button=card.querySelector("[data-activate-site]");const label=card.querySelector(".active-label");const id=button?button.dataset.activateSite:(selected);if(label&&id!==selected){const replacement=document.createElement("button");replacement.className="row-action";replacement.dataset.activateSite=id;replacement.textContent="Use this site";label.replaceWith(replacement);replacement.addEventListener("click",()=>{$("active-site-select").value=id;$("active-site-select").dispatchEvent(new Event("change"))})}else if(button&&id===selected){const badge=document.createElement("span");badge.className="active-label";badge.textContent="Active";button.replaceWith(badge)}});
-    const site=window.__studioCmsSites?.find(item=>item.id===selected);
-    $("active-site-repo").textContent=site?site.repository:"Configured site";
+    const site=sites.find(item=>item.id===selected);
+    $("active-site-title").textContent=site?site.title:($("active-site-select").selectedOptions[0]?.textContent||"Studio Journal");
+    $("active-site-repo").textContent=site?site.repository:"Configure publishing API";
+    $("configured-sites").innerHTML=sites.map(item=>'<article class="configured-site-card"><span class="site-dot"></span><div class="site-details"><strong>'+escapeHtml(item.title)+'</strong><p>'+escapeHtml(item.repository)+(item.baseUrl?" · "+escapeHtml(item.baseUrl):"")+'</p></div>'+(item.id===selected?'<span class="active-label">Active</span>':'<button class="row-action" data-activate-site="'+escapeHtml(item.id)+'">Use this site</button>')+'</article>').join("");
+    $("configured-sites").querySelectorAll("[data-activate-site]").forEach(button=>button.addEventListener("click",()=>{$("active-site-select").value=button.dataset.activateSite;$("active-site-select").dispatchEvent(new Event("change"))}));
   }
   async function syncRemotePosts(){
     $("sync-api").disabled=true;setApiStatus("Loading repository posts and metadata…");
