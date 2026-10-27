@@ -38,7 +38,7 @@ export default {
         const requestedPath = url.searchParams.get("path");
         if (requestedPath) {
           const path = validatePostPath(requestedPath);
-          const file = await githubRequest(env, "GET", repoContentsPath(env, path, siteId));
+          const file = await githubRequest(env, "GET", repoContentsPath(env, path, siteId), undefined, siteId);
           const content = new TextDecoder().decode(base64ToBytes(String(file.content || "").replace(/\n/g, "")));
           return json({ name: file.name, path: file.path, sha: file.sha, content, url: file.html_url }, 200, cors);
         }
@@ -77,7 +77,7 @@ export default {
 
       if (url.pathname === "/api/media" && request.method === "GET") {
         const folder = validateMediaFolder(url.searchParams.get("folder") || "assets/images");
-        const files = await githubRequest(env, "GET", repoContentsPath(env, folder, siteId));
+        const files = await githubRequest(env, "GET", repoContentsPath(env, folder, siteId), undefined, siteId);
         const items = (Array.isArray(files) ? files : []).map(item => ({
           name: item.name, path: item.path, sha: item.sha, size: item.size, type: item.type, url: item.download_url
         }));
