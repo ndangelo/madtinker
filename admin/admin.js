@@ -174,7 +174,8 @@
   }
   async function apiFetch(path,options={}){
     const base=apiBase();if(!base)throw new Error("Enter the API base URL in Settings first.");
-    const response=await fetch(base+path,{...options,credentials:"include",headers:{"Content-Type":"application/json",...(options.headers||{})}});
+    const headers={...(options.headers||{})};if(options.body&&!headers["Content-Type"])headers["Content-Type"]="application/json";
+    const response=await fetch(base+path,{...options,credentials:"include",headers});
     let data={};try{data=await response.json()}catch(e){}
     if(!response.ok)throw new Error(data.error||("Request failed ("+response.status+")."));
     return data;
@@ -199,19 +200,24 @@
     }finally{$("test-api").disabled=false}
   }
   async function syncRemotePosts(){
-    $("sync-api").disabled=true;setApiStatus("Loading repository post list…");
+    $("sync-api").disabled=true;setApiStatus("Loading repository posts and metadata…");
     try{
       const data=await apiFetch("/api/posts");
       const remoteFiles=Array.isArray(data.posts)?data.posts:[];
+      const remotePaths=new Set(remoteFiles.map(file=>file.path));
       let added=0;
       for(const file of remoteFiles){
         const existing=posts.find(p=>p.remotePath===file.path);
-        if(existing){existing.remoteSha=file.sha;existing.remote=true;continue}
-        const filename=file.name.replace(/^\d{4}-\d{2}-\d{2}-/,"").replace(/\.md$/i,"").replace(/-/g," ");
-        posts.push({id:"remote-"+file.sha,title:filename,description:"",body:"",category:"",tags:"",status:"published",date:"In GitHub",tone:"green",slug:"",image:"",remotePath:file.path,remoteSha:file.sha,remote:true,bodyLoaded:false});
-        added++;
+        if(existing && existing.status==="draft" && existing.bodyLoaded){
+          existing.remoteSha=file.sha;existing.remote=true;continue;
+        }
+        const detail=await apiFetch("/api/posts?path="+encodeURIComponent(file.path));
+        const parsed=parsePostMarkdown(detail.content);
+        const record={...parsed,id:existing?.id||("remote-"+file.sha),date:file.name.slice(0,10),tone:existing?.tone||"green",remotePath:file.path,remoteSha:file.sha,remote:true,bodyLoaded:true};
+        if(existing){posts=posts.map(p=>p.id===existing.id?record:p)}else{posts.push(record);added++}
       }
-      persist();renderRows();setApiStatus("Synced "+remoteFiles.length+" repository posts; "+added+" added to this dashboard.", "ok");showToast("Repository post list synced.");
+      posts=posts.filter(p=>!p.remotePath||remotePaths.has(p.remotePath)||p.status==="draft");
+      persist();renderRows();setApiStatus("Synced "+remoteFiles.length+" repository posts; "+added+" added. Post content and status are loaded.", "ok");showToast("Repository posts synced.");
     }catch(error){setApiStatus("Sync failed: "+error.message,"error")}
     finally{$("sync-api").disabled=!apiConnected}
   }
