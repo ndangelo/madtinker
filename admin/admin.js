@@ -324,8 +324,18 @@
     if(existing)posts=posts.map(p=>p.id===editingId?draft:p);else{posts.unshift(draft);editingId=draft.id}
     const saved=persist();renderRows();$("save-status").textContent=saved?"Auto-saved locally":"Local save failed";
   }
-  function duplicatePost(id){const p=posts.find(item=>item.id===id);if(!p)return;posts.unshift({...p,id:"copy-"+Date.now(),title:(p.title||"Untitled")+" (copy)",status:"draft",date:"Duplicated just now"});persist();renderRows();showToast("A draft copy was created.");}
-  function deletePost(id){const p=posts.find(item=>item.id===id);if(!p)return;if(!window.confirm("Delete \""+(p.title||"Untitled post")+"\" from this browser? Export a backup first if you may need it."))return;posts=posts.filter(item=>item.id!==id);persist();renderRows();showToast("Post deleted from this browser.");if(editingId===id)showView("posts");}
+  function duplicatePost(id){const p=posts.find(item=>item.id===id);if(!p)return;posts.unshift({...p,id:"copy-"+Date.now(),title:(p.title||"Untitled")+" (copy)",status:"draft",date:"Duplicated just now",remotePath:"",remoteSha:"",remote:false,bodyLoaded:true,slug:""});persist();renderRows();showToast("A draft copy was created.");}
+  async function deletePost(id){
+    const p=posts.find(item=>item.id===id);if(!p)return;
+    const target=p.remote&&p.remotePath?"from the GitHub repository and this browser":"from this browser";
+    if(!window.confirm("Delete \""+(p.title||"Untitled post")+"\" "+target+"? Export a backup first if you may need it."))return;
+    if(p.remote&&p.remotePath){
+      if(!apiConnected){showToast("Connect the publishing API before deleting this repository post.");return}
+      try{await apiFetch("/api/posts?path="+encodeURIComponent(p.remotePath)+"&sha="+encodeURIComponent(p.remoteSha||""),{method:"DELETE"})}
+      catch(error){showToast("Repository delete failed: "+error.message);return}
+    }
+    posts=posts.filter(item=>item.id!==id);persist();renderRows();showToast("Post deleted.");if(editingId===id)showView("posts");
+  }
   function downloadBlob(filename,content,type){const blob=new Blob([content],{type});const url=URL.createObjectURL(blob);const a=document.createElement("a");a.href=url;a.download=filename;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);}
   function exportBackup(){const data={format:"studio-cms-backup",version:1,exportedAt:new Date().toISOString(),posts};downloadBlob("studio-cms-backup-"+new Date().toISOString().slice(0,10)+".json",JSON.stringify(data,null,2),"application/json");showToast("Backup downloaded. Store it somewhere safe.");}
   function importBackup(event){const file=event.target.files&&event.target.files[0];if(!file)return;const reader=new FileReader();reader.onload=()=>{try{const parsed=JSON.parse(reader.result);const incoming=Array.isArray(parsed)?parsed:parsed.posts;if(!Array.isArray(incoming)||!incoming.every(p=>p&&typeof p==="object"&&typeof p.title==="string"&&typeof p.body==="string"))throw new Error("Invalid backup");if(!window.confirm("Import "+incoming.length+" posts? This replaces posts saved in this browser."))return;posts=incoming.map((p,i)=>({id:String(p.id||("import-"+Date.now()+"-"+i),),title:p.title,description:String(p.description||""),body:p.body,category:String(p.category||""),tags:String(p.tags||""),status:p.status==="published"?"published":"draft",date:String(p.date||"Imported"),tone:["green","rust","blue"].includes(p.tone)?p.tone:"green",slug:String(p.slug||""),image:String(p.image||"")}));persist();renderRows();showToast("Backup imported into this browser.");}catch(e){showToast("That file doesn't look like a Studio CMS backup.");}finally{$("backup-file").value="";}};reader.readAsText(file);}
