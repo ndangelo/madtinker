@@ -76,5 +76,5 @@ Write the article below the front matter using Markdown. Store images in `assets
 2. Dashboard editor and local draft management — prototype implemented.
 3. Secure API integration — scaffold implemented; deployment and authentication configuration pending.
 4. Repository-backed posts and media — UI and API routes implemented; needs end-to-end verification.
-5. Multi-site management — planned.
+5. Multi-site management — allowlisted site discovery and switching implemented; additional repositories must be configured on the server.
 6. Production hardening — full Markdown rendering, revisions, scheduled publishing, conflict resolution, and automated tests.
