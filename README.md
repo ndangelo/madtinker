@@ -1,34 +1,32 @@
-# Studio CMS — Phase 1 static blog
+# Studio CMS
 
-This is the first milestone: a reusable Jekyll-powered static publishing site. It does not yet include the private dashboard or secure publishing backend.
+Studio CMS is being developed in this repository, `ndangelo/madtinker`, as the permanent project and test environment.
 
-## What's included
+## Current milestone: Phase 1 — static publishing foundation
 
+The site is built with Jekyll and is designed to publish to GitHub Pages.
+
+Included:
 - Responsive editorial homepage
-- Post layout with featured image, date, categories, tags, and next/previous links
+- Article layout with featured image, date, categories, tags, and next/previous links
 - Archive grouped by year
-- About page
-- Sample post
-- Jekyll SEO and RSS feed support
+- About page and sample post
+- SEO metadata and RSS feed
 - GitHub Actions workflow for GitHub Pages deployment
 - Accessible skip link, semantic structure, and reduced-motion support
 
-## First setup
+## Deployment
 
-1. Create a **new repository** on GitHub for this test site. Do not use an existing live-site repository.
-2. Upload the contents of this folder to the repository root, preserving folders and filenames.
-3. In the repository settings, open **Pages** and choose **GitHub Actions** as the build/deploy source.
-4. Ensure the default branch is named `main`. If it is not, adjust `.github/workflows/pages.yml`.
-5. Open the Actions tab and watch the workflow run. When it succeeds, the deployment URL appears in the workflow or Pages settings.
-6. Edit `_config.yml` with the site title, description, and author. Replace the sample post and placeholder cover before public launch.
+1. The default branch is `main`.
+2. In the repository's **Settings → Pages**, select **GitHub Actions** as the build and deployment source.
+3. Open **Actions** to check the workflow named **Build and deploy Jekyll site**.
+4. The current project-site configuration uses `https://ndangelo.github.io` with `/madtinker` as the base path. If a custom domain is configured later, update `url`, `baseurl`, and the Pages domain settings together.
 
-## Writing posts
+## Publishing a post manually
 
-Create a file in `_posts` using this filename format:
+Create a file in `_posts` named `YYYY-MM-DD-short-title.md`.
 
-`YYYY-MM-DD-short-title.md`
-
-Example front matter:
+Example:
 
 ```yaml
 ---
@@ -46,12 +44,19 @@ published: true
 ---
 ```
 
-Then write the article below the second `---` using Markdown.
+Write the article below the front matter using Markdown. Store images in `assets/images/` and use site-relative paths in front matter.
 
-## Important notes
+## Roadmap
 
-- GitHub Pages sites are public. Do not store confidential drafts, access tokens, student information, or private content in this repository.
-- The dashboard is a later phase. Do not place a GitHub personal access token in client-side JavaScript.
-- The sample image is a placeholder and should be replaced.
-- Google Fonts are loaded remotely in the CSS; remove the `@import` if you prefer system fonts or want no external font request.
-- This first phase is intentionally a static-site foundation, not yet a WordPress-like CMS.
+1. **Static site foundation** — in place; deployment verification pending.
+2. **Editorial dashboard prototype** — create/edit post UI and preview.
+3. **Secure publishing** — authenticated backend that commits content to GitHub. Never expose a GitHub token in browser JavaScript.
+4. **Media library** — upload and browse assets.
+5. **Multi-site support** — manage publishing destinations from one dashboard.
+6. **Polish and safeguards** — validation, drafts, accessibility, and error handling.
+
+## Security
+
+GitHub Pages content is public. Do not commit private drafts, credentials, access tokens, student records, or other confidential information. The future dashboard must use a secure backend for authentication and GitHub API operations; a static admin page alone cannot securely publish changes.
+
+The sample post and cover image are placeholders to replace before using the site as a real publication.
