@@ -29,15 +29,20 @@ export default {
       }
 
       await requireAccess(request, env);
+      if (url.pathname === "/api/sites" && request.method === "GET") {
+        return json({ sites: getSites(env).map(site => ({ id: site.id, title: site.title, repository: site.repository, baseUrl: site.baseUrl || "" })) }, 200, cors);
+      }
+      const siteId = url.searchParams.get("site") || "studio-journal";
+      siteConfig(env, siteId);
       if (url.pathname === "/api/posts" && request.method === "GET") {
         const requestedPath = url.searchParams.get("path");
         if (requestedPath) {
           const path = validatePostPath(requestedPath);
-          const file = await githubRequest(env, "GET", repoContentsPath(env, path));
+          const file = await githubRequest(env, "GET", repoContentsPath(env, path, siteId));
           const content = new TextDecoder().decode(base64ToBytes(String(file.content || "").replace(/\n/g, "")));
           return json({ name: file.name, path: file.path, sha: file.sha, content, url: file.html_url }, 200, cors);
         }
-        const files = await githubRequest(env, "GET", repoContentsPath(env, "_posts"));
+        const files = await githubRequest(env, "GET", repoContentsPath(env, "_posts", siteId), undefined, siteId);
         const posts = (Array.isArray(files) ? files : [])
           .filter(file => file.type === "file" && /^\d{4}-\d{2}-\d{2}-.+\.md$/i.test(file.name))
           .map(file => ({ name: file.name, path: file.path, sha: file.sha, size: file.size, url: file.html_url }));
@@ -55,7 +60,7 @@ export default {
         }
         const payload = { message: "CMS: save post " + path.split("/").pop(), content: bytesToBase64(encoder.encode(body.content)) };
         if (body.sha) payload.sha = body.sha;
-        const result = await githubRequest(env, "PUT", repoContentsPath(env, path), payload);
+        const result = await githubRequest(env, "PUT", repoContentsPath(env, path, siteId), payload, siteId);
         return json({ ok: true, path, sha: result.content?.sha, commit: result.commit?.html_url }, 200, cors);
       }
 
@@ -63,16 +68,16 @@ export default {
         const path = validatePostPath(url.searchParams.get("path") || "");
         const sha = url.searchParams.get("sha") || "";
         if (!/^[a-f0-9]{40}$/i.test(sha)) return json({ error: "A valid current file SHA is required." }, 400, cors);
-        const result = await githubRequest(env, "DELETE", repoContentsPath(env, path), {
+        const result = await githubRequest(env, "DELETE", repoContentsPath(env, path, siteId), {
           message: "CMS: delete post " + path.split("/").pop(),
           sha
-        });
+        }, siteId);
         return json({ ok: true, commit: result.commit?.html_url }, 200, cors);
       }
 
       if (url.pathname === "/api/media" && request.method === "GET") {
         const folder = validateMediaFolder(url.searchParams.get("folder") || "assets/images");
-        const files = await githubRequest(env, "GET", repoContentsPath(env, folder));
+        const files = await githubRequest(env, "GET", repoContentsPath(env, folder, siteId));
         const items = (Array.isArray(files) ? files : []).map(item => ({
           name: item.name, path: item.path, sha: item.sha, size: item.size, type: item.type, url: item.download_url
         }));
@@ -88,7 +93,7 @@ export default {
         if (body.sha && !/^[a-f0-9]{40}$/i.test(body.sha)) return json({ error: "Invalid file SHA." }, 400, cors);
         const payload = { message: "CMS: upload media " + path.split("/").pop(), content: body.contentBase64 };
         if (body.sha) payload.sha = body.sha;
-        const result = await githubRequest(env, "PUT", repoContentsPath(env, path), payload);
+        const result = await githubRequest(env, "PUT", repoContentsPath(env, path, siteId), payload, siteId);
         return json({ ok: true, path, sha: result.content?.sha, url: result.content?.download_url, commit: result.commit?.html_url }, 200, cors);
       }
 
@@ -137,7 +142,27 @@ function validateMediaPath(path) {
   return path;
 }
 
-function repoContentsPath(env, path) {
+function getSites(env) {
+  let sites;
+  try { sites = env.GITHUB_SITES ? JSON.parse(env.GITHUB_SITES) : null; } catch { sites = null; }
+  if (!Array.isArray(sites) || !sites.length) {
+    const repository = env.GITHUB_REPOSITORY || "";
+    if (!repository.includes("/")) { const error = new Error("No publishing sites are configured."); error.status = 503; throw error; }
+    return [{ id: "studio-journal", title: "Studio Journal", repository, baseUrl: "https://ndangelo.github.io/madtinker" }];
+  }
+  const valid = sites.filter(site => site && /^[a-z0-9][a-z0-9-]{1,60}$/i.test(site.id || "") &&
+    typeof site.title === "string" && typeof site.repository === "string" &&
+    /^[A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+$/.test(site.repository));
+  if (!valid.length) { const error = new Error("Publishing site configuration is invalid."); error.status = 503; throw error; }
+  return valid;
+}
+function siteConfig(env, siteId) {
+  const site = getSites(env).find(item => item.id === siteId);
+  if (!site) { const error = new Error("That site is not in the server allowlist."); error.status = 403; throw error; }
+  return site;
+}
+
+function repoContentsPath(env, path, siteId) {
   const [owner, repo] = (env.GITHUB_REPOSITORY || "").split("/");
   if (!owner || !repo || !/^[A-Za-z0-9_.-]+$/.test(owner) || !/^[A-Za-z0-9_.-]+$/.test(repo)) {
     const error = new Error("GitHub repository configuration is invalid."); error.status = 500; throw error;
@@ -145,8 +170,8 @@ function repoContentsPath(env, path) {
   return "https://api.github.com/repos/" + owner + "/" + repo + "/contents/" + path.split("/").map(encodeURIComponent).join("/") ;
 }
 
-async function githubRequest(env, method, path, body) {
-  const token = await installationToken(env);
+async function githubRequest(env, method, path, body, siteId = "studio-journal") {
+  const token = await installationToken(env, siteId);
   const response = await fetch(path, {
     method,
     headers: {
@@ -167,8 +192,9 @@ async function githubRequest(env, method, path, body) {
 }
 
 
-async function installationToken(env) {
+async function installationToken(env, siteId = "studio-journal") {
   const appId = env.GITHUB_APP_ID;
+  const repository = siteConfig(env, siteId).repository;
   const installationId = env.GITHUB_INSTALLATION_ID;
   if (!appId || !installationId || !env.GITHUB_APP_PRIVATE_KEY) {
     const error = new Error("GitHub App secrets are not configured."); error.status = 503; throw error;
@@ -187,7 +213,7 @@ async function installationToken(env) {
   const response = await fetch("https://api.github.com/app/installations/" + encodeURIComponent(installationId) + "/access_tokens", {
     method: "POST",
     headers: { "Authorization": "Bearer " + appJwt, "Accept": "application/vnd.github+json", "Content-Type": "application/json", "X-GitHub-Api-Version": "2022-11-28", "User-Agent": "Studio-CMS" },
-    body: JSON.stringify({ repositories: [(env.GITHUB_REPOSITORY || "").split("/")[1]], permissions: { contents: "write", metadata: "read" } })
+    body: JSON.stringify({ repositories: [repository.split("/")[1]], permissions: { contents: "write", metadata: "read" } })
   });
   if (!response.ok) { const error = new Error("Could not obtain a GitHub installation token."); error.status = 502; throw error; }
   const data = await response.json();
