@@ -21,3 +21,12 @@ html{font-size:13px}body{background:#0b1424;color:#dbe5f2;font:.9rem var(--sans)
 .brand{color:#fff;font:600 .9rem var(--mono)}.brand-light{color:#92a5bd}.brand-mark{background:var(--lime);color:var(--navy);border-radius:2px}
 .side-label{color:#6f859f;font:500 .65rem var(--mono);letter-spacing:.1em;text-transform:uppercase}.nav-item{color:#aebed2;font-size:.82rem}.nav-item.active{background:#1c2c41;color:var(--lime);border-left:2px solid var(--lime)}.nav-count{background:#203148;color:#c5d4e7;font:.68rem var(--mono)}
 .site-card{border-color:#2a3d55;background:#101d30}.site-card strong,.user-card strong{color:#f4f7fc}.site-card small,.user-card small{color:#91a5bd}.site-dot{background:var(--lime)}.avatar{background:var(--pink);color:#101729}
+
+
+.prototype-pill{background:#28243a;border:1px solid #554260;color:var(--pink);font:500 .66rem var(--mono);border-radius:2px}
+.main,.main-content,.workspace{background:#0b1424;color:#dbe5f2}.view-site,.back-link,.text-btn{color:var(--sky)}.primary-btn{background:#172941;border:1px solid #3a536e;color:#f5f8fc;border-radius:2px;font:.76rem var(--mono)}
+.filter-tab{font-size:.75rem;color:#93a6bf}.filter-tab.active{color:var(--lime);border-bottom-color:var(--lime)}.status-badge.live{background:#202d21;color:var(--lime);font:.65rem var(--mono);border-radius:2px}.row-action{color:var(--sky)}
+button:focus-visible,input:focus-visible,textarea:focus-visible,a:focus-visible,select:focus-visible{outline:2px solid var(--pink);outline-offset:2px}
+input,textarea,select,.field-input{background:#08111f!important;color:#e6eef8!important;border-color:#2b3d54!important;border-radius:2px!important;font-size:.85rem!important}input::placeholder,textarea::placeholder{color:#71849b!important}
+.format-toolbar{background:#101d30;border-color:#2a3d55}.format-toolbar button{color:var(--sky);font:.72rem var(--mono)}
+.preview-panel{border-color:#2a3d55;background:#0e1a2b}.preview-top{background:#101d30;color:var(--lime);font:.68rem var(--mono)}.preview-content{color:#dbe5f2}.preview-content h1,.preview-content h2,.preview-content h3{font-family:var(--mono)}.preview-content a{color:var(--sky)}.preview-content blockquote{border-left-color:var(--pink);background:#142238}.preview-content code{color:var(--pink)}.preview-content pre{background:#070d18;border-left:3px solid var(--sky);color:#b8e9ff}
