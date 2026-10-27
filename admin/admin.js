@@ -52,7 +52,7 @@
       }catch(error){showToast("Could not load this GitHub post: "+error.message);return}
     }
     editingId=p?p.id:null;
-    setEditingMode(p?.editorMode||(/<(!doctype html|html|style|div|section|article)\\b/i.test(p?.body||"")?"html":"markdown"));
+    setEditingMode(p?.editorMode||(/<(!doctype html|html|style|div|section|article)\b/i.test(p?.body||"")?"html":"markdown"));
     $("post-title").value=p?p.title:"";
     $("post-description").value=p?p.description:"";
     $("post-body").value=p?p.body:"";
@@ -62,7 +62,7 @@
     $("post-image").value=p?p.image||"":"";
     $("save-status").textContent="Unsaved changes";
     $("preview-panel").hidden=true;
-    updateSlug();showView("editor");window.scrollTo({top:0,behavior:"smooth"});
+    updateSlug();showView("editor");if($("post-mode").value==="html")preview(false);window.scrollTo({top:0,behavior:"smooth"});
   }
   function updateSlug(){$("slug-preview").textContent="/"+slugify($("post-slug").value||$("post-title").value)+"/"}
   function saveDraft(){
@@ -128,17 +128,18 @@
     showToast("Markdown file exported. It has not been published.");
   }
   function setEditingMode(mode){
-    const html=mode==="html";$("post-mode").value=html?"html":"markdown";$("markdown-toolbar").hidden=html;$("markdown-toolbar").style.display=html?"none":"";$("html-tools").hidden=!html;$("html-tools").style.display=html?"flex":"none";$("post-body").spellcheck=!html;$("post-body").style.fontFamily=html?"ui-monospace,SFMono-Regular,Menlo,Consolas,monospace":"";$("post-body").style.tabSize="2";updateWordCount();
+    const html=mode==="html";document.querySelector(".editor-grid")?.classList.toggle("html-authoring",html);$("post-mode").value=html?"html":"markdown";$("markdown-toolbar").hidden=html;$("markdown-toolbar").style.display=html?"none":"";$("html-tools").hidden=!html;$("html-tools").style.display=html?"flex":"none";$("post-body").spellcheck=!html;$("post-body").style.fontFamily=html?"ui-monospace,SFMono-Regular,Menlo,Consolas,monospace":"";$("post-body").style.tabSize="2";updateWordCount();if(html&&$("post-body").value)preview(false);
   }
   function preview(scroll=true){
     $("preview-title").textContent=$("post-title").value||"Untitled post";
     $("preview-description").textContent=$("post-description").value;
-    const frame=document.createElement("iframe");frame.setAttribute("sandbox","");frame.setAttribute("title","Isolated rendered post preview");frame.style.cssText="width:100%;min-height:560px;border:1px solid #d6d9d5;border-radius:8px;background:white";frame.srcdoc=window.studioRenderPreview?window.studioRenderPreview($("post-body").value):"<p>Preview renderer unavailable.</p>";$("preview-body").replaceChildren(frame);
+    const frame=document.createElement("iframe");frame.setAttribute("sandbox","");frame.setAttribute("title","Isolated rendered post preview");frame.style.cssText="width:100%;min-height:560px;border:1px solid #d6d9d5;border-radius:8px;background:white";frame.srcdoc=window.studioRenderPreview?window.studioRenderPreview($("post-body").value,{articleOnly:$("extract-article").checked}):"<p>Preview renderer unavailable.</p>";$("preview-body").replaceChildren(frame);
     $("preview-body").classList.add("preview-content");
     $("preview-panel").hidden=false;
     if(scroll)$("preview-panel").scrollIntoView({behavior:"smooth",block:"nearest"});
   }
-  $("post-mode").addEventListener("change",()=>{setEditingMode($("post-mode").value);markUnsaved();if(!$("preview-panel").hidden)preview()});
+  $("post-mode").addEventListener("change",()=>{setEditingMode($("post-mode").value);markUnsaved();preview(false)});
+  $("extract-article").addEventListener("change",()=>preview(false));
   function insertAtCursor(value){const area=$("post-body"),start=area.selectionStart,end=area.selectionEnd;area.setRangeText(value,start,end,"end");area.focus();markUnsaved();updateWordCount();scheduleLivePreview()}
   $("insert-html").addEventListener("click",()=>insertAtCursor('<section class="custom-post">\\n  <h2>Your heading</h2>\\n  <p>Your content goes here.</p>\\n</section>'));
   $("insert-css").addEventListener("click",()=>insertAtCursor('<style>\\n  .custom-post { padding: 2rem; border-radius: 12px; background: #f3f6f5; }\\n  .custom-post h2 { color: #245c4d; }\\n</style>\\n'));
