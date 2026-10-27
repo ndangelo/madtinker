@@ -162,12 +162,12 @@ function siteConfig(env, siteId) {
   return site;
 }
 
-function repoContentsPath(env, path, siteId) {
-  const [owner, repo] = (env.GITHUB_REPOSITORY || "").split("/");
+function repoContentsPath(env, path, siteId = "studio-journal") {
+  const [owner, repo] = siteConfig(env, siteId).repository.split("/");
   if (!owner || !repo || !/^[A-Za-z0-9_.-]+$/.test(owner) || !/^[A-Za-z0-9_.-]+$/.test(repo)) {
     const error = new Error("GitHub repository configuration is invalid."); error.status = 500; throw error;
   }
-  return "https://api.github.com/repos/" + owner + "/" + repo + "/contents/" + path.split("/").map(encodeURIComponent).join("/") ;
+  return "https://api.github.com/repos/" + owner + "/" + repo + "/contents/" + path.split("/").map(encodeURIComponent).join("/");
 }
 
 async function githubRequest(env, method, path, body, siteId = "studio-journal") {
