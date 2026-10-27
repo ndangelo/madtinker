@@ -52,10 +52,62 @@
     const saved=persist();renderRows();$("save-status").textContent=saved?"Saved in this browser":"Could not save — browser storage unavailable";
     showToast(saved?"Draft saved in this browser.":"Browser storage is unavailable. Copy your text somewhere safe.");
   }
+  function markdownToHtml(source){
+    const blocks=String(source||"").split(/\n\s*\n/);
+    return blocks.map(block=>{
+      const trimmed=block.trim();
+      if(!trimmed)return "";
+      if(/^\x60\x60\x60/.test(trimmed))return "<pre><code>"+escapeHtml(trimmed.replace(/^\x60\x60\x60[^\n]*\n?/,"").replace(/\n?\x60\x60\x60$/,""))+"</code></pre>";
+      if(/^#{1,3}\s/.test(trimmed)){const m=trimmed.match(/^(#{1,3})\s+([\s\S]*)$/);const level=m[1].length;return "<h"+level+">"+inlineMarkdown(m[2])+"</h"+level+">"}
+      if(/^[-*]\s/m.test(trimmed)){return "<ul>"+trimmed.split("\n").filter(line=>/^[-*]\s/.test(line.trim())).map(line=>"<li>"+inlineMarkdown(line.trim().replace(/^[-*]\s+/,""))+"</li>").join("")+"</ul>"}
+      if(/^>\s?/.test(trimmed))return "<blockquote>"+inlineMarkdown(trimmed.replace(/^>\s?/gm,""))+"</blockquote>";
+      return "<p>"+inlineMarkdown(trimmed).replace(/\n/g,"<br>")+"</p>";
+    }).join("");
+  }
+  function inlineMarkdown(source){
+    let out=escapeHtml(source);
+    out=out.replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>").replace(/\*(.+?)\*/g,"<em>$1</em>").replace(/\x60([^\x60]+)\x60/g,"<code>$1</code>");
+    out=out.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,'<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
+    return out;
+  }
+  function updateWordCount(){
+    const text=$("post-body").value.trim();
+    const words=text?text.split(/\s+/).length:0;
+    $("word-count").textContent=words+" "+(words===1?"word":"words")+" · Markdown";
+  }
+  function insertFormatting(kind){
+    const area=$("post-body");const start=area.selectionStart;const end=area.selectionEnd;const selected=area.value.slice(start,end);
+    let before="",after="",replacement="";
+    if(kind==="link"){before="[";after="](https://example.com)";replacement=selected||"link text"}
+    else if(typeof kind==="object"){before=kind.value||"";replacement=selected||"your text"}
+    else{before=kind;after=kind;replacement=selected||"text"}
+    const value=area.value;area.value=value.slice(0,start)+before+replacement+after+value.slice(end);
+    area.focus();const cursor=start+before.length+replacement.length;area.setSelectionRange(cursor,cursor);
+    updateWordCount();$("save-status").textContent="Unsaved changes";
+  }
+  function exportMarkdown(){
+    const title=$("post-title").value.trim()||"Untitled post";
+    const description=$("post-description").value.trim();
+    const category=$("post-category").value.trim();
+    const tags=$("post-tags").value.split(",").map(t=>t.trim()).filter(Boolean);
+    const quote=s=>JSON.stringify(s);
+    const date=new Date().toISOString().slice(0,10);
+    const frontMatter=["---","title: "+quote(title),"date: "+date+" 09:00:00 -0400"];
+    if(description)frontMatter.push("description: "+quote(description));
+    if(category)frontMatter.push("categories:", "  - "+quote(category));
+    if(tags.length)frontMatter.push("tags:",...tags.map(t=>"  - "+quote(t)));
+    frontMatter.push("published: false","---","");
+    const content=frontMatter.join("\n")+ $("post-body").value+"\n";
+    const blob=new Blob([content],{type:"text/markdown;charset=utf-8"});
+    const url=URL.createObjectURL(blob);const link=document.createElement("a");
+    link.href=url;link.download=date+"-"+slugify(title)+".md";document.body.appendChild(link);link.click();link.remove();URL.revokeObjectURL(url);
+    showToast("Markdown file exported. It has not been published.");
+  }
   function preview(){
     $("preview-title").textContent=$("post-title").value||"Untitled post";
     $("preview-description").textContent=$("post-description").value;
-    $("preview-body").textContent=$("post-body").value;
+    $("preview-body").innerHTML=markdownToHtml($("post-body").value);
+    $("preview-body").classList.add("preview-content");
     $("preview-panel").hidden=false;
     $("preview-panel").scrollIntoView({behavior:"smooth",block:"nearest"});
   }
@@ -63,14 +115,20 @@
   $("back-to-posts").addEventListener("click",()=>{showView("posts");renderRows()});
   $("save-draft").addEventListener("click",saveDraft);
   $("preview-btn").addEventListener("click",preview);
+  $("export-post").addEventListener("click",exportMarkdown);
+  document.querySelectorAll("[data-wrap]").forEach(button=>button.addEventListener("click",()=>insertFormatting(button.dataset.wrap)));
+  document.querySelectorAll("[data-prefix]").forEach(button=>button.addEventListener("click",()=>insertFormatting({value:button.dataset.prefix,kind:"prefix"})));
+  document.querySelectorAll("[data-link]").forEach(button=>button.addEventListener("click",()=>insertFormatting("link")));
   $("close-preview").addEventListener("click",()=>$("preview-panel").hidden=true);
   $("post-title").addEventListener("input",()=>{updateSlug();$("save-status").textContent="Unsaved changes"});
   ["post-description","post-body","post-category","post-tags"].forEach(id=>$(id).addEventListener("input",()=>$("save-status").textContent="Unsaved changes"));
+  $("post-body").addEventListener("input",updateWordCount);
   $("search").addEventListener("input",renderRows);
   document.querySelectorAll(".filter-tab").forEach(b=>b.addEventListener("click",()=>{currentFilter=b.dataset.filter;document.querySelectorAll(".filter-tab").forEach(x=>x.classList.toggle("active",x===b));renderRows()}));
   document.querySelectorAll(".nav-item").forEach(b=>b.addEventListener("click",()=>showView(b.dataset.view)));
   document.querySelectorAll("[data-go-posts]").forEach(b=>b.addEventListener("click",()=>showView("posts")));
   $("post-rows").addEventListener("click",e=>{const b=e.target.closest("[data-edit]");if(b)openEditor(b.dataset.edit)});
   $("publish-btn").addEventListener("click",()=>showToast("Publishing is not connected yet."));
+  updateWordCount();
   renderRows();
 })();
