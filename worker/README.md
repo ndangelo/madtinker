@@ -36,6 +36,28 @@ The dashboard reads its site list from the server. Configure `GITHUB_SITES` as a
 
 The second entry is an example only; replace it with a real repository you own before enabling it. The GitHub App must be installed on every configured repository. The API rejects site IDs that are not on the server allowlist, so a browser cannot use it to target arbitrary repositories. Each site should have its own valid Jekyll setup and deployment workflow.
 
+## Local development and deployment
+
+From the `worker/` directory:
+
+```bash
+npm install
+npm run dev
+```
+
+The local server still requires valid Cloudflare Access assertions and GitHub App secrets, so configure a safe local test environment before expecting authenticated API requests to work.
+
+Before deploying, add a route for a custom hostname in `wrangler.toml` (for example, a hostname under a domain you manage in Cloudflare). Keep `workers_dev = false` for the protected production endpoint. Then configure secrets with Wrangler's interactive prompts:
+
+```bash
+npx wrangler secret put GITHUB_APP_ID
+npx wrangler secret put GITHUB_INSTALLATION_ID
+npx wrangler secret put GITHUB_APP_PRIVATE_KEY
+npm run deploy
+```
+
+Do not put private values in `wrangler.toml`, GitHub source files, or the browser dashboard.
+
 ## Before deployment
 
 1. Create a GitHub App for your own account. Give it **Contents: Read and write** and **Metadata: Read-only** permissions. Install it only on the repositories you intend to manage. Generate a private key.
