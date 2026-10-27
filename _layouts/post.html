@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="article">
+  <header class="article-header">
+    <p class="meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.categories.size > 0 %} · {{ page.categories | join: ", " }}{% endif %}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
+    {% if page.image %}<figure class="article-cover"><img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title | escape }}">{% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}</figure>{% endif %}
+  </header>
+  <div class="article-content">
+    {{ content }}
+  </div>
+  {% if page.tags.size > 0 %}
+  <footer class="article-tags"><span>Filed under:</span>{% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% endfor %}</footer>
+  {% endif %}
+  <nav class="article-pagination" aria-label="Post navigation">
+    {% if page.previous.url %}<a href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>{% endif %}
+    {% if page.next.url %}<a href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>{% endif %}
+  </nav>
+</article>

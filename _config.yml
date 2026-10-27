@@ -1,0 +1,26 @@
+title: Studio Journal
+description: A reusable static publishing starter.
+url: ""
+baseurl: ""
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+timezone: America/New_York
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      image: /assets/images/default-cover.svg
+      author: Nick
+collections:
+  pages:
+    output: true
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules

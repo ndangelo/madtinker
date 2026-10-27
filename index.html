@@ -1,0 +1,30 @@
+---
+layout: default
+title: Home
+---
+<section class="hero">
+  <p class="eyebrow">A publication by {{ site.author | default: "the editor" }}</p>
+  <h1>{{ site.title }}</h1>
+  <p class="lede">{{ site.description }}</p>
+</section>
+
+<section class="section-heading">
+  <h2>Latest writing</h2>
+  <a href="{{ '/archive/' | relative_url }}">Browse all posts →</a>
+</section>
+
+<div class="post-grid">
+  {% for post in site.posts limit:6 %}
+  <article class="post-card">
+    <a class="post-card__image" href="{{ post.url | relative_url }}">
+      <img src="{{ post.image | default: '/assets/images/default-cover.svg' | relative_url }}" alt="{{ post.image_alt | default: post.title | escape }}">
+    </a>
+    <div class="post-card__body">
+      <p class="meta">{{ post.date | date: "%B %-d, %Y" }}{% if post.categories.size > 0 %} · {{ post.categories | first }}{% endif %}</p>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+      <a class="text-link" href="{{ post.url | relative_url }}">Read article →</a>
+    </div>
+  </article>
+  {% endfor %}
+</div>
