@@ -2,29 +2,30 @@
 layout: default
 title: Home
 ---
-<section class="hero">
-  <p class="eyebrow">A publication by {{ site.author | default: "the editor" }}</p>
-  <h1>{{ site.title }}</h1>
-  <p class="lede">{{ site.description }}</p>
+<section class="hero journal-hero">
+  <p class="eyebrow"><span class="status-led" aria-hidden="true"></span> PERSONAL WORKSPACE / PUBLIC NOTES</p>
+  <h1>Studio Journal<span class="cursor-mark" aria-hidden="true">_</span></h1>
+  <p class="lede">A place to document experiments, ideas, unfinished thoughts, and things worth keeping.</p>
+  <div class="hero-meta"><span>~/studio/journal</span><span>STATUS: ONLINE</span><span>BUILD: ALWAYS IN PROGRESS</span></div>
 </section>
-
 <section class="section-heading">
-  <h2>Latest writing</h2>
-  <a href="{{ '/archive/' | relative_url }}">Browse all posts →</a>
+  <h2>Recent entries <span class="entry-count">{{ site.posts | size }} total</span></h2>
+  <a href="{{ '/archive/' | relative_url }}">View archive ↗</a>
 </section>
-
-<div class="post-grid">
-  {% for post in site.posts limit:6 %}
+<div class="post-grid journal-list">
+  {% for post in site.posts limit:8 %}
   <article class="post-card">
-    <a class="post-card__image" href="{{ post.url | relative_url }}">
-      <img src="{{ post.image | default: '/assets/images/default-cover.svg' | relative_url }}" alt="{{ post.image_alt | default: post.title | escape }}">
-    </a>
+    {% if post.image %}
+    <a class="post-card__image" href="{{ post.url | relative_url }}"><img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title | escape }}" loading="lazy"></a>
+    {% endif %}
     <div class="post-card__body">
-      <p class="meta">{{ post.date | date: "%B %-d, %Y" }}{% if post.categories.size > 0 %} · {{ post.categories | first }}{% endif %}</p>
+      <p class="meta"><span class="entry-index">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span> / {{ post.date | date: "%Y.%m.%d" }}{% if post.categories.size > 0 %} / {{ post.categories | first }}{% endif %}</p>
       <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-      <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
-      <a class="text-link" href="{{ post.url | relative_url }}">Read article →</a>
+      <p>{{ post.description | default: post.excerpt | strip_html | truncate: 170 }}</p>
+      <a class="text-link" href="{{ post.url | relative_url }}">Open entry ↗</a>
     </div>
   </article>
+  {% else %}
+  <div class="empty-journal"><span>~/studio/journal $</span><p>No entries published yet. The workspace is ready.</p></div>
   {% endfor %}
 </div>
