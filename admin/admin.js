@@ -1,0 +1,76 @@
+(() => {
+  const $ = (id) => document.getElementById(id);
+  const storageKey = "studio-cms-prototype-posts-v1";
+  const initialPosts = [
+    {id:"p1",title:"Welcome to Studio Journal",description:"A first look at the ideas, projects, and processes collected here.",body:"Welcome to Studio Journal.\n\nThis is a starter post for the publication. Replace it with your own writing when you are ready.",category:"Notes",tags:"welcome, publishing",status:"published",date:"Oct 27, 2026",tone:"green"},
+    {id:"p2",title:"Notes from the studio",description:"A few observations on process, experimentation, and making.",body:"## Process\n\nA work in progress is a place to test an idea before it becomes certain.\n\n- Observe closely\n- Make a small experiment\n- Reflect and revise",category:"Studio",tags:"process, notes",status:"draft",date:"Oct 26, 2026",tone:"rust"},
+    {id:"p3",title:"Collecting visual fragments",description:"Gathering images and references as a way of thinking.",body:"Images can work like notes: incomplete, suggestive, and open to reinterpretation.",category:"Research",tags:"images, research",status:"draft",date:"Oct 24, 2026",tone:"blue"}
+  ];
+  let posts = loadPosts();
+  let editingId = null;
+  let currentFilter = "all";
+  let toastTimer;
+  function loadPosts(){try{const saved=localStorage.getItem(storageKey);return saved?JSON.parse(saved):initialPosts.slice()}catch(e){return initialPosts.slice()}}
+  function persist(){try{localStorage.setItem(storageKey,JSON.stringify(posts));return true}catch(e){return false}}
+  function slugify(s){return (s||"your-post-title").toLowerCase().trim().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"")||"your-post-title"}
+  function escapeHtml(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+  function showToast(message){const el=$("toast");el.textContent=message;el.classList.add("show");clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.classList.remove("show"),2800)}
+  function renderRows(){
+    const query=$("search").value.toLowerCase().trim();
+    const visible=posts.filter(p=>(currentFilter==="all"||p.status===currentFilter)&&((p.title+" "+p.description+" "+p.category).toLowerCase().includes(query)));
+    $("post-rows").innerHTML=visible.map(p=>'<tr><td><div class="post-cell"><div class="post-thumb '+escapeHtml(p.tone||"green")+'">✳</div><div><div class="post-title">'+escapeHtml(p.title||"Untitled post")+'</div><div class="post-meta">'+escapeHtml(p.category||"Uncategorized")+'</div></div></div></td><td><span class="status-badge '+(p.status==="published"?"live":"draft")+'">'+(p.status==="published"?"Published":"Draft")+'</span></td><td>'+escapeHtml(p.date||"Just now")+'</td><td class="actions-heading"><button class="row-action" data-edit="'+escapeHtml(p.id)+'">Edit →</button></td></tr>').join("");
+    $("empty-state").hidden=visible.length>0;
+    $("stat-all").textContent=posts.length;
+    $("stat-published").textContent=posts.filter(p=>p.status==="published").length;
+    $("stat-drafts").textContent=posts.filter(p=>p.status==="draft").length;
+    $("post-count").textContent=posts.length;
+  }
+  function showView(name){
+    ["posts","editor","media","sites"].forEach(v=>$(v+"-view").hidden=v!==name);
+    $("crumb").textContent=({posts:"Posts",editor:"Editor",media:"Media library",sites:"Sites"})[name]||"Posts";
+    document.querySelectorAll(".nav-item").forEach(b=>b.classList.toggle("active",b.dataset.view===name));
+  }
+  function openEditor(id){
+    const p=posts.find(x=>x.id===id);
+    editingId=p?p.id:null;
+    $("post-title").value=p?p.title:"";
+    $("post-description").value=p?p.description:"";
+    $("post-body").value=p?p.body:"";
+    $("post-category").value=p?p.category:"";
+    $("post-tags").value=p?p.tags:"";
+    $("save-status").textContent="Unsaved changes";
+    $("preview-panel").hidden=true;
+    updateSlug();showView("editor");window.scrollTo({top:0,behavior:"smooth"});
+  }
+  function updateSlug(){$("slug-preview").textContent="/"+slugify($("post-title").value)+"/"}
+  function saveDraft(){
+    const title=$("post-title").value.trim();
+    if(!title){$("post-title").focus();showToast("Add a title before saving your draft.");return}
+    const existing=posts.find(p=>p.id===editingId);
+    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green"};
+    if(existing){posts=posts.map(p=>p.id===editingId?draft:p)}else{posts.unshift(draft);editingId=draft.id}
+    const saved=persist();renderRows();$("save-status").textContent=saved?"Saved in this browser":"Could not save — browser storage unavailable";
+    showToast(saved?"Draft saved in this browser.":"Browser storage is unavailable. Copy your text somewhere safe.");
+  }
+  function preview(){
+    $("preview-title").textContent=$("post-title").value||"Untitled post";
+    $("preview-description").textContent=$("post-description").value;
+    $("preview-body").textContent=$("post-body").value;
+    $("preview-panel").hidden=false;
+    $("preview-panel").scrollIntoView({behavior:"smooth",block:"nearest"});
+  }
+  $("new-post").addEventListener("click",()=>openEditor(null));
+  $("back-to-posts").addEventListener("click",()=>{showView("posts");renderRows()});
+  $("save-draft").addEventListener("click",saveDraft);
+  $("preview-btn").addEventListener("click",preview);
+  $("close-preview").addEventListener("click",()=>$("preview-panel").hidden=true);
+  $("post-title").addEventListener("input",()=>{updateSlug();$("save-status").textContent="Unsaved changes"});
+  ["post-description","post-body","post-category","post-tags"].forEach(id=>$(id).addEventListener("input",()=>$("save-status").textContent="Unsaved changes"));
+  $("search").addEventListener("input",renderRows);
+  document.querySelectorAll(".filter-tab").forEach(b=>b.addEventListener("click",()=>{currentFilter=b.dataset.filter;document.querySelectorAll(".filter-tab").forEach(x=>x.classList.toggle("active",x===b));renderRows()}));
+  document.querySelectorAll(".nav-item").forEach(b=>b.addEventListener("click",()=>showView(b.dataset.view)));
+  document.querySelectorAll("[data-go-posts]").forEach(b=>b.addEventListener("click",()=>showView("posts")));
+  $("post-rows").addEventListener("click",e=>{const b=e.target.closest("[data-edit]");if(b)openEditor(b.dataset.edit)});
+  $("publish-btn").addEventListener("click",()=>showToast("Publishing is not connected yet."));
+  renderRows();
+})();
