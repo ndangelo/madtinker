@@ -35,3 +35,10 @@
 .html-preview-option{display:inline-flex;align-items:center;gap:6px;font-size:12px}
 @media(max-width:1150px){.html-authoring .coding-workspace{grid-template-columns:1fr}.html-authoring .body-input{height:380px;min-height:380px}.html-authoring .preview-panel iframe{height:550px;min-height:550px!important}}
 @media(max-width:680px){.html-authoring .editor-main{padding:14px}.html-authoring .preview-panel{padding:8px}}
+
+/* CodeMirror HTML authoring */
+.html-authoring .studio-code-editor{height:65vh;min-height:620px;max-height:950px;border:1px solid #34445b;border-radius:7px;font-size:12px;line-height:1.65}
+.html-authoring .studio-code-editor .CodeMirror-scroll{min-height:600px}
+.html-authoring .studio-code-editor .CodeMirror-gutters{border-right:1px solid #334155}
+.CodeMirror-hints{z-index:99999!important;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+@media(max-width:1150px){.html-authoring .studio-code-editor{height:380px;min-height:380px}.html-authoring .studio-code-editor .CodeMirror-scroll{min-height:360px}}
