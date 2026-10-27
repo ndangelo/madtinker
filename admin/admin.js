@@ -147,7 +147,7 @@
   $("post-body").addEventListener("input",updateWordCount);
   $("search").addEventListener("input",renderRows);
   document.querySelectorAll(".filter-tab").forEach(b=>b.addEventListener("click",()=>{currentFilter=b.dataset.filter;document.querySelectorAll(".filter-tab").forEach(x=>x.classList.toggle("active",x===b));renderRows()}));
-  document.querySelectorAll(".nav-item").forEach(b=>b.addEventListener("click",()=>showView(b.dataset.view)));
+  document.querySelectorAll(".nav-item").forEach(b=>b.addEventListener("click",()=>{showView(b.dataset.view);if(b.dataset.view==="sites"&&apiConnected)loadSites();if(b.dataset.view==="media")loadMedia()}));
   document.querySelectorAll("[data-go-posts]").forEach(b=>b.addEventListener("click",()=>showView("posts")));
   $("post-rows").addEventListener("click",e=>{
     const edit=e.target.closest("[data-edit]");if(edit){openEditor(edit.dataset.edit);return}
@@ -160,6 +160,8 @@
   $("publish-btn").addEventListener("click",publishPost);
   $("api-url").value=localStorage.getItem(apiStorageKey)||"";
   $("test-api").addEventListener("click",testApiConnection);
+  $("load-sites").addEventListener("click",loadSites);
+  $("active-site-select").addEventListener("change",async()=>{activeSiteId=$("active-site-select").value;try{localStorage.setItem(siteStorageKey,activeSiteId)}catch(e){}updateActiveSiteLabels();renderRows();if(apiConnected)await syncRemotePosts();if(!$("media-view").hidden)await loadMedia()});
   $("sync-api").addEventListener("click",syncRemotePosts);
   $("upload-media").addEventListener("click",()=>{if(!apiConnected){showToast("Connect the publishing API in Settings first.");return}$("media-file-input").click()});
   $("media-file-input").addEventListener("change",uploadMediaFiles);
@@ -199,11 +201,42 @@
       $("publish-btn").disabled=!apiConnected;
       $("publish-btn").classList.toggle("is-enabled",apiConnected);
       setApiStatus("Connected. Authentication passed and the API is responding.", "ok");
+      try{await loadSites()}catch(siteError){showToast("API connected, but site configuration could not load: "+siteError.message)}
       showToast("Publishing API connection verified.");
     }catch(error){
       apiConnected=false;$("sync-api").disabled=true;$("publish-btn").disabled=true;
       setApiStatus("Connection failed: "+error.message+" Check the URL, Cloudflare Access login, and allowed dashboard origin.", "error");
     }finally{$("test-api").disabled=false}
+  }
+  async function loadSites(){
+    if(!apiBase()){showToast("Enter the API URL in Settings first.");return}
+    $("load-sites").disabled=true;
+    try{
+      const data=await apiFetch("/api/sites");
+      const sites=Array.isArray(data.sites)?data.sites:[];
+      window.__studioCmsSites=sites;
+      if(!sites.length)throw new Error("No sites are allowlisted on the server.");
+      if(!sites.some(site=>site.id===activeSiteId))activeSiteId=sites[0].id;
+      try{localStorage.setItem(siteStorageKey,activeSiteId)}catch(e){}
+      $("active-site-select").innerHTML=sites.map(site=>'<option value="'+escapeHtml(site.id)+'">'+escapeHtml(site.title)+'</option>').join("");
+      $("active-site-select").value=activeSiteId;
+      $("configured-sites").innerHTML=sites.map(site=>'<article class="configured-site-card"><span class="site-dot"></span><div class="site-details"><strong>'+escapeHtml(site.title)+'</strong><p>'+escapeHtml(site.repository)+(site.baseUrl?" · "+escapeHtml(site.baseUrl):"")+'</p></div>'+(site.id===activeSiteId?'<span class="active-label">Active</span>':'<button class="row-action" data-activate-site="'+escapeHtml(site.id)+'">Use this site</button>')+'</article>').join("");
+      $("configured-sites").querySelectorAll("[data-activate-site]").forEach(button=>button.addEventListener("click",async()=>{$("active-site-select").value=button.dataset.activateSite;$("active-site-select").dispatchEvent(new Event("change"))}));
+      updateActiveSiteLabels();renderRows();
+      return sites;
+    }finally{$("load-sites").disabled=false}
+  }
+  function updateActiveSiteLabels(){
+    const option=$("active-site-select").selectedOptions[0];
+    const siteTitle=option?option.textContent:"Studio Journal";
+    $("active-site-title").textContent=siteTitle;
+    const card=document.querySelector('.configured-site-card .active-label');
+    if(card)card.textContent="Active";
+    const selected=$("active-site-select").value||activeSiteId;
+    const allCards=$("configured-sites").querySelectorAll(".configured-site-card");
+    allCards.forEach(card=>{const button=card.querySelector("[data-activate-site]");const label=card.querySelector(".active-label");const id=button?button.dataset.activateSite:(selected);if(label&&id!==selected){const replacement=document.createElement("button");replacement.className="row-action";replacement.dataset.activateSite=id;replacement.textContent="Use this site";label.replaceWith(replacement);replacement.addEventListener("click",()=>{$("active-site-select").value=id;$("active-site-select").dispatchEvent(new Event("change"))})}else if(button&&id===selected){const badge=document.createElement("span");badge.className="active-label";badge.textContent="Active";button.replaceWith(badge)}});
+    const site=window.__studioCmsSites?.find(item=>item.id===selected);
+    $("active-site-repo").textContent=site?site.repository:"Configured site";
   }
   async function syncRemotePosts(){
     $("sync-api").disabled=true;setApiStatus("Loading repository posts and metadata…");
