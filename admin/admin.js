@@ -12,6 +12,7 @@
   let posts = loadPosts().map(p=>({...p,siteId:p.siteId||"studio-journal"}));
   let editingId = null;
   let previewDebounce;
+  let codeEditor=null;
   let currentFilter = "all";
   let toastTimer;
   let autosaveTimer;
@@ -56,6 +57,7 @@
     $("post-title").value=p?p.title:"";
     $("post-description").value=p?p.description:"";
     $("post-body").value=p?p.body:"";
+    if(codeEditor)codeEditor.setValue($("post-body").value);
     $("post-category").value=p?p.category:"";
     $("post-tags").value=p?p.tags:"";
     $("post-slug").value=p?p.slug||"":"";
@@ -127,8 +129,30 @@
     link.href=url;link.download=date+"-"+slugify(title)+".md";document.body.appendChild(link);link.click();link.remove();URL.revokeObjectURL(url);
     showToast("Markdown file exported. It has not been published.");
   }
+  function ensureCodeEditor(){
+    if(codeEditor||!window.CodeMirror)return;
+    const textarea=$("post-body");
+    codeEditor=CodeMirror(function(node){textarea.insertAdjacentElement("afterend",node)},{
+      value:textarea.value,mode:"htmlmixed",theme:"material-darker",lineNumbers:true,
+      lineWrapping:false,indentUnit:2,tabSize:2,indentWithTabs:false,
+      autoCloseTags:true,autoCloseBrackets:true,extraKeys:{
+        "Ctrl-Space":"autocomplete","Cmd-Space":"autocomplete",
+        "Tab":cm=>cm.somethingSelected()?cm.indentSelection("add"):cm.execCommand("insertSoftTab")
+      }
+    });
+    codeEditor.on("change",cm=>{
+      textarea.value=cm.getValue();
+      textarea.dispatchEvent(new Event("input",{bubbles:true}));
+      if(!cm.state.completionActive&&window.CodeMirror.showHint){
+        const cursor=cm.getCursor(),line=cm.getLine(cursor.line).slice(0,cursor.ch);
+        if(/(?:<\\/?[a-z][\\w-]*|\\s[a-z-]+|[a-z-]+:)$/i.test(line))
+          cm.showHint({completeSingle:false});
+      }
+    });
+    codeEditor.getWrapperElement().classList.add("studio-code-editor");
+  }
   function setEditingMode(mode){
-    const html=mode==="html";document.querySelector(".editor-grid")?.classList.toggle("html-authoring",html);$("post-mode").value=html?"html":"markdown";$("markdown-toolbar").hidden=html;$("markdown-toolbar").style.display=html?"none":"";$("html-tools").hidden=!html;$("html-tools").style.display=html?"flex":"none";$("post-body").spellcheck=!html;$("post-body").style.fontFamily=html?"ui-monospace,SFMono-Regular,Menlo,Consolas,monospace":"";$("post-body").style.tabSize="2";updateWordCount();if(html&&$("post-body").value)preview(false);
+    const html=mode==="html";if(html)ensureCodeEditor();if(codeEditor){codeEditor.getWrapperElement().style.display=html?"block":"none";$("post-body").style.display=html?"none":"";if(html){codeEditor.setValue($("post-body").value);requestAnimationFrame(()=>codeEditor.refresh());}}document.querySelector(".editor-grid")?.classList.toggle("html-authoring",html);$("post-mode").value=html?"html":"markdown";$("markdown-toolbar").hidden=html;$("markdown-toolbar").style.display=html?"none":"";$("html-tools").hidden=!html;$("html-tools").style.display=html?"flex":"none";$("post-body").spellcheck=!html;$("post-body").style.fontFamily=html?"ui-monospace,SFMono-Regular,Menlo,Consolas,monospace":"";$("post-body").style.tabSize="2";updateWordCount();if(html&&$("post-body").value)preview(false);
   }
   function preview(scroll=true){
     $("preview-title").textContent=$("post-title").value||"Untitled post";
@@ -140,7 +164,7 @@
   }
   $("post-mode").addEventListener("change",()=>{setEditingMode($("post-mode").value);markUnsaved();preview(false)});
   $("extract-article").addEventListener("change",()=>preview(false));
-  function insertAtCursor(value){const area=$("post-body"),start=area.selectionStart,end=area.selectionEnd;area.setRangeText(value,start,end,"end");area.focus();markUnsaved();updateWordCount();scheduleLivePreview()}
+  function insertAtCursor(value){if($("post-mode").value==="html"&&codeEditor){codeEditor.replaceSelection(value,"end");codeEditor.focus();return}const area=$("post-body"),start=area.selectionStart,end=area.selectionEnd;area.setRangeText(value,start,end,"end");area.focus();markUnsaved();updateWordCount();scheduleLivePreview()}
   $("insert-html").addEventListener("click",()=>insertAtCursor('<section class="custom-post">\\n  <h2>Your heading</h2>\\n  <p>Your content goes here.</p>\\n</section>'));
   $("insert-css").addEventListener("click",()=>insertAtCursor('<style>\\n  .custom-post { padding: 2rem; border-radius: 12px; background: #f3f6f5; }\\n  .custom-post h2 { color: #245c4d; }\\n</style>\\n'));
   function scheduleLivePreview(){if($("post-mode").value!=="html"||!$("live-preview").checked)return;clearTimeout(previewDebounce);previewDebounce=setTimeout(()=>{if(!$("preview-panel").hidden)preview(false)},400)}
