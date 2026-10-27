@@ -30,3 +30,8 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,a:focus-visible,
 input,textarea,select,.field-input{background:#08111f!important;color:#e6eef8!important;border-color:#2b3d54!important;border-radius:2px!important;font-size:.85rem!important}input::placeholder,textarea::placeholder{color:#71849b!important}
 .format-toolbar{background:#101d30;border-color:#2a3d55}.format-toolbar button{color:var(--sky);font:.72rem var(--mono)}
 .preview-panel{border-color:#2a3d55;background:#0e1a2b}.preview-top{background:#101d30;color:var(--lime);font:.68rem var(--mono)}.preview-content{color:#dbe5f2}.preview-content h1,.preview-content h2,.preview-content h3{font-family:var(--mono)}.preview-content a{color:var(--sky)}.preview-content blockquote{border-left-color:var(--pink);background:#142238}.preview-content code{color:var(--pink)}.preview-content pre{background:#070d18;border-left:3px solid var(--sky);color:#b8e9ff}
+
+
+.coming-icon{background:#1a2b40;color:var(--orange)}.api-status.ok{background:#1b2b20;color:var(--lime)}.media-card-actions button{color:var(--sky)}.configured-site-card .active-label{color:var(--lime);background:#1c2c25}.publish-btn.is-enabled{background:#183149;border:1px solid #3e5a75;color:#fff}
+h1,h2,h3,h4{letter-spacing:-.035em}small,.help-text,.muted{color:#8fa3bb}
+@media(max-width:700px){html{font-size:12px}}
