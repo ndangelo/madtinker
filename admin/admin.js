@@ -12,6 +12,9 @@
   let toastTimer;
   let autosaveTimer;
   let apiConnected = false;
+  let currentMediaFolder = "assets/images";
+  let currentMediaItems = [];
+  let currentReplaceMedia = null;
   const apiStorageKey = "studio-cms-api-base-v1";
   function loadPosts(){try{const saved=localStorage.getItem(storageKey);return saved?JSON.parse(saved):initialPosts.slice()}catch(e){return initialPosts.slice()}}
   function persist(){try{localStorage.setItem(storageKey,JSON.stringify(posts));return true}catch(e){return false}}
@@ -154,6 +157,16 @@
   $("api-url").value=localStorage.getItem(apiStorageKey)||"";
   $("test-api").addEventListener("click",testApiConnection);
   $("sync-api").addEventListener("click",syncRemotePosts);
+  $("upload-media").addEventListener("click",()=>{if(!apiConnected){showToast("Connect the publishing API in Settings first.");return}$("media-file-input").click()});
+  $("media-file-input").addEventListener("change",uploadMediaFiles);
+  $("media-refresh").addEventListener("click",loadMedia);
+  document.querySelectorAll(".nav-item").forEach(button=>{if(button.dataset.view==="media")button.addEventListener("click",()=>loadMedia())});
+  $("media-up").addEventListener("click",()=>{if(currentMediaFolder!=="assets/images"){currentMediaFolder=currentMediaFolder.split("/").slice(0,-1).join("/");loadMedia()}});
+  $("media-grid").addEventListener("click",async e=>{
+    const folder=e.target.closest("[data-open-folder]");if(folder){currentMediaFolder=folder.dataset.openFolder;loadMedia();return}
+    const copy=e.target.closest("[data-copy-media]");if(copy){const item=currentMediaItems.find(x=>x.path===copy.dataset.copyMedia);if(item)copyText("/"+item.path);return}
+    const replace=e.target.closest("[data-replace-media]");if(replace){const item=currentMediaItems.find(x=>x.path===replace.dataset.replaceMedia);if(item){currentReplaceMedia=item;$("media-file-input").click()}return}
+  });
   document.addEventListener("keydown",e=>{const mod=/Mac|iPhone|iPad/.test(navigator.platform)?e.metaKey:e.ctrlKey;if(mod&&e.key.toLowerCase()==="s"&&!$("editor-view").hidden){e.preventDefault();saveDraft()}if(mod&&e.key.toLowerCase()==="enter"&&!$("editor-view").hidden){e.preventDefault();preview()}});
   function apiBase(){
     const value=$("api-url").value.trim()||localStorage.getItem(apiStorageKey)||"";
@@ -246,6 +259,61 @@
       if(result.commit)window.open(result.commit,"_blank","noopener");
     }catch(error){showToast("Publish failed: "+error.message)}
     finally{button.textContent="Publish post";button.disabled=!apiConnected}
+  }
+  function setMediaStatus(message,kind=""){const el=$("media-status");el.textContent=message;el.className="api-status media-status"+(kind?" "+kind:"");}
+  async function loadMedia(){
+    if(!apiConnected){setMediaStatus("Connect the publishing API in Settings before browsing repository media.","error");return}
+    $("media-folder-label").textContent=currentMediaFolder;$("media-up").disabled=currentMediaFolder==="assets/images";$("media-grid").innerHTML='<div class="media-empty">Loading assets…</div>';
+    try{
+      const data=await apiFetch("/api/media?folder="+encodeURIComponent(currentMediaFolder));
+      currentMediaItems=Array.isArray(data.items)?data.items:[];
+      renderMedia();setMediaStatus(currentMediaItems.length+" items in "+currentMediaFolder+".","ok");
+    }catch(error){$("media-grid").innerHTML='<div class="media-empty">Could not load this folder.</div>';setMediaStatus("Media load failed: "+error.message,"error")}
+  }
+  function renderMedia(){
+    const items=currentMediaItems;
+    if(!items.length){$("media-grid").innerHTML='<div class="media-empty">This folder is empty. Upload an image to get started.</div>';return}
+    $("media-grid").innerHTML=items.map(item=>{
+      const isFolder=item.type==="dir";
+      const safeUrl=typeof item.url==="string"&&/^https:\/\//i.test(item.url)?item.url:"";
+      const preview=isFolder?'<div class="media-folder-icon">▰</div>':(safeUrl?'<img loading="lazy" src="'+escapeHtml(safeUrl)+'" alt="">':'<div class="media-folder-icon">▧</div>');
+      const meta=isFolder?"Folder":formatBytes(item.size||0);
+      const actions=isFolder?'<button data-open-folder="'+escapeHtml(item.path)+'">Open folder →</button>':'<button data-copy-media="'+escapeHtml(item.path)+'">Copy path</button><button class="media-open" data-replace-media="'+escapeHtml(item.path)+'">Replace</button>';
+      return '<article class="media-card"><div class="media-preview">'+preview+'</div><div class="media-card-body"><div class="media-name">'+escapeHtml(item.name)+'</div><div class="media-meta">'+meta+'</div><div class="media-card-actions">'+actions+'</div></div></article>';
+    }).join("");
+  }
+  function formatBytes(size){if(!size)return "Image asset";if(size<1024)return size+" B";if(size<1024*1024)return (size/1024).toFixed(1)+" KB";return (size/(1024*1024)).toFixed(1)+" MB"}
+  async function copyText(value){
+    try{await navigator.clipboard.writeText(value);showToast("Copied "+value)}catch(e){showToast("Copy failed. Select and copy this path: "+value)}
+  }
+  function readFileAsDataUrl(file){return new Promise((resolve,reject)=>{const reader=new FileReader();reader.onload=()=>resolve(String(reader.result));reader.onerror=()=>reject(new Error("Could not read "+file.name));reader.readAsDataURL(file)})}
+  async function uploadMediaFiles(event){
+    const files=Array.from(event.target.files||[]);event.target.value="";
+    if(!files.length)return;
+    if(!apiConnected){showToast("Connect the publishing API in Settings first.");return}
+    let success=0;let failed=[];
+    for(const file of files){
+      if(file.size>8*1024*1024){failed.push(file.name+" (over 8 MB)");continue}
+      if(!/^image\/(png|jpeg|gif|webp|avif|svg\+xml)$/i.test(file.type)){failed.push(file.name+" (unsupported image type)");continue}
+      try{
+        const dataUrl=await readFileAsDataUrl(file);const encoded=dataUrl.split(",")[1];
+        let path;
+        if(currentReplaceMedia&&files.length===1){
+          path=currentReplaceMedia.path;
+          await apiFetch("/api/media",{method:"POST",body:JSON.stringify({path,contentBase64:encoded,sha:currentReplaceMedia.sha})});
+          currentReplaceMedia=null;
+        }else{
+          const dot=file.name.lastIndexOf(".");const ext=dot>=0?file.name.slice(dot).toLowerCase():"";
+          const base=dot>=0?file.name.slice(0,dot):file.name;
+          path=currentMediaFolder+"/"+slugify(base)+ext;
+          const existing=currentMediaItems.find(item=>item.path===path);
+          await apiFetch("/api/media",{method:"POST",body:JSON.stringify({path,contentBase64:encoded,sha:existing?.sha||undefined})});
+        }
+        success++;
+      }catch(error){failed.push(file.name+" ("+error.message+")")}
+    }
+    if(success)await loadMedia();
+    setMediaStatus(success+" image(s) uploaded."+ (failed.length?" Could not upload: "+failed.join("; "):""),failed.length?"error":"ok");
   }
   function markUnsaved(){ $("save-status").textContent="Unsaved changes";clearTimeout(autosaveTimer);autosaveTimer=setTimeout(quietAutosave,900); }
   function quietAutosave(){
