@@ -336,7 +336,7 @@
     let success=0;let failed=[];
     for(const file of files){
       if(file.size>8*1024*1024){failed.push(file.name+" (over 8 MB)");continue}
-      if(!/^image\/(png|jpeg|gif|webp|avif|svg\+xml)$/i.test(file.type)){failed.push(file.name+" (unsupported image type)");continue}
+      if(!/^image\/(png|jpeg|gif|webp|avif)$/i.test(file.type)){failed.push(file.name+" (unsupported image type)");continue}
       try{
         const dataUrl=await readFileAsDataUrl(file);const encoded=dataUrl.split(",")[1];
         let path;
