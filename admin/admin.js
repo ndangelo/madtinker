@@ -157,7 +157,7 @@
   document.addEventListener("keydown",e=>{const mod=/Mac|iPhone|iPad/.test(navigator.platform)?e.metaKey:e.ctrlKey;if(mod&&e.key.toLowerCase()==="s"&&!$("editor-view").hidden){e.preventDefault();saveDraft()}if(mod&&e.key.toLowerCase()==="enter"&&!$("editor-view").hidden){e.preventDefault();preview()}});
   function apiBase(){
     const value=$("api-url").value.trim()||localStorage.getItem(apiStorageKey)||"";
-    return value.replace(/\\/+$/,"");
+    return value.replace(/\/+$/,"");
   }
   async function apiFetch(path,options={}){
     const base=apiBase();if(!base)throw new Error("Enter the API base URL in Settings first.");
@@ -171,7 +171,7 @@
   }
   async function testApiConnection(){
     const base=apiBase();
-    if(!/^https:\\/\\//i.test(base)){setApiStatus("Enter a complete HTTPS API URL.", "error");return}
+    if(!/^https:\/\//i.test(base)){setApiStatus("Enter a complete HTTPS API URL.", "error");return}
     localStorage.setItem(apiStorageKey,base);$("test-api").disabled=true;setApiStatus("Checking the protected API…");
     try{
       const result=await apiFetch("/api/health");
@@ -194,8 +194,8 @@
       for(const file of remoteFiles){
         const existing=posts.find(p=>p.remotePath===file.path);
         if(existing){existing.remoteSha=file.sha;existing.remote=true;continue}
-        const filename=file.name.replace(/^\\d{4}-\\d{2}-\\d{2}-/,"").replace(/\\.md$/i,"").replace(/-/g," ");
-        posts.push({id:"remote-"+file.sha, title:filename,description:"",body:"",category:"",tags:"",status:"published",date:"In GitHub",tone:"green",slug:"",image:"",remotePath:file.path,remoteSha:file.sha,remote:true,bodyLoaded:false});
+        const filename=file.name.replace(/^\d{4}-\d{2}-\d{2}-/,"").replace(/\.md$/i,"").replace(/-/g," ");
+        posts.push({id:"remote-"+file.sha,title:filename,description:"",body:"",category:"",tags:"",status:"published",date:"In GitHub",tone:"green",slug:"",image:"",remotePath:file.path,remoteSha:file.sha,remote:true,bodyLoaded:false});
         added++;
       }
       persist();renderRows();setApiStatus("Synced "+remoteFiles.length+" repository posts; "+added+" added to this dashboard.", "ok");showToast("Repository post list synced.");
@@ -211,10 +211,10 @@
   function yamlList(front,key){
     const match=front.match(new RegExp("^"+key+":\\s*\\n((?:[ \\t]+-.*(?:\\n|$))+)","m"));
     if(!match)return [];
-    return match[1].split("\\n").map(line=>line.replace(/^\\s*-\\s*/,"").trim()).filter(Boolean).map(v=>v.replace(/^["']|["']$/g,""));
+    return match[1].split("\n").map(line=>line.replace(/^\s*-\s*/,"").trim()).filter(Boolean).map(v=>v.replace(/^["']|["']$/g,""));
   }
   function parsePostMarkdown(content){
-    const match=String(content||"").match(/^---\\s*\\n([\\s\\S]*?)\\n---\\s*\\n?([\\s\\S]*)$/);
+    const match=String(content||"").match(/^---\s*\n([\s\S]*?)\n---\s*\n?([\s\S]*)$/);
     if(!match)throw new Error("This file does not have valid Jekyll front matter.");
     const front=match[1];const body=match[2];
     const published=yamlScalar(front,"published").toLowerCase()!=="false";
@@ -224,7 +224,7 @@
     if(!apiConnected){showToast("Connect the publishing API in Settings first.");return}
     const title=$("post-title").value.trim();if(!title){$("post-title").focus();showToast("Add a title before publishing.");return}
     const existing=posts.find(p=>p.id===editingId);
-    const date=existing?.remotePath?.match(/_posts\\/(\\d{4}-\\d{2}-\\d{2})-/)?.[1]||new Date().toLocaleDateString("en-CA");
+    const date=existing?.remotePath?.match(/_posts\/(\d{4}-\d{2}-\d{2})-/)?.[1]||new Date().toLocaleDateString("en-CA");
     const slug=slugify($("post-slug").value||title);
     const path=existing?.remotePath||("_posts/"+date+"-"+slug+".md");
     const quote=value=>JSON.stringify(value);
@@ -235,7 +235,7 @@
     if($("post-slug").value.trim())lines.push("slug: "+quote($("post-slug").value.trim()));
     if($("post-image").value.trim())lines.push("image: "+quote($("post-image").value.trim()));
     lines.push("published: true","---","");
-    const content=lines.join("\\n")+$("post-body").value+"\\n";
+    const content=lines.join("\n")+$("post-body").value+"\n";
     const button=$("publish-btn");button.disabled=true;button.textContent="Publishing…";
     try{
       const result=await apiFetch("/api/posts",{method:"POST",body:JSON.stringify({path,content,sha:existing?.remoteSha||undefined})});
