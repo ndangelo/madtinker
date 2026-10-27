@@ -2,31 +2,47 @@
 
 Studio CMS is being developed in this repository, `ndangelo/madtinker`, as the permanent project and test environment.
 
-## Current milestone: Phase 1 — static publishing foundation
+## Current milestone
 
-The site is built with Jekyll and is designed to publish to GitHub Pages.
+The repository now contains a Jekyll static site, a richer browser dashboard prototype, and a secure-publishing API scaffold.
 
-Included:
-- Responsive editorial homepage
-- Article layout with featured image, date, categories, tags, and next/previous links
-- Archive grouped by year
-- About page and sample post
+### Static site
+
+- Responsive editorial homepage and post layout
+- Archive and About page
 - SEO metadata and RSS feed
-- GitHub Actions workflow for GitHub Pages deployment
-- Accessible skip link, semantic structure, and reduced-motion support
+- GitHub Actions deployment workflow
+- GitHub Pages project-site configuration for `https://ndangelo.github.io/madtinker/`
+
+### Dashboard prototype
+
+Open `admin/` after the Pages deployment is live. The dashboard currently supports:
+- Post search and Published / Draft filters
+- Markdown editor, formatting toolbar, preview, and word count
+- Browser-local autosave
+- Duplicate and delete controls
+- Export a post as Jekyll Markdown
+- Export/restore a JSON backup
+- Custom URL slug and featured-image path
+- API settings, repository post sync, and publish controls
+- Repository-backed image browsing and uploads when the protected API is configured
+
+The dashboard is still public front-end code. Its browser-local drafts are not private storage. The API features remain inactive until the Worker and Cloudflare Access are configured and deployed.
+
+### Secure publishing API scaffold
+
+See [worker/README.md](worker/README.md). It includes Cloudflare Access JWT validation, GitHub App installation-token generation, post read/write/delete routes, and image listing/upload routes. Configure the GitHub App and Cloudflare Access before deployment; no secrets are stored in this repository.
 
 ## Deployment
 
-1. The default branch is `main`.
-2. In the repository's **Settings → Pages**, select **GitHub Actions** as the build and deployment source.
-3. Open **Actions** to check the workflow named **Build and deploy Jekyll site**.
-4. The current project-site configuration uses `https://ndangelo.github.io` with `/madtinker` as the base path. If a custom domain is configured later, update `url`, `baseurl`, and the Pages domain settings together.
+1. In repository **Settings → Pages**, choose **GitHub Actions** as the build/deployment source.
+2. Open **Actions** to check the workflow named **Build and deploy Jekyll site**.
+3. The current project-site configuration uses `https://ndangelo.github.io` with `/madtinker` as the base path.
+4. If a custom domain is configured later, update `url`, `baseurl`, and Pages domain settings together.
 
-## Publishing a post manually
+## Manual post format
 
-Create a file in `_posts` named `YYYY-MM-DD-short-title.md`.
-
-Example:
+Create a file in `_posts` named `YYYY-MM-DD-short-title.md`:
 
 ```yaml
 ---
@@ -44,19 +60,21 @@ published: true
 ---
 ```
 
-Write the article below the front matter using Markdown. Store images in `assets/images/` and use site-relative paths in front matter.
+Write the article below the front matter using Markdown. Store images in `assets/images/`.
+
+## Security and data handling
+
+- GitHub Pages content is public. Never commit confidential drafts, credentials, access tokens, student records, or other private information.
+- Do not place a GitHub personal access token in browser JavaScript.
+- Use a GitHub App restricted to this repository and Cloudflare Access to protect the publishing API.
+- The admin page's `noindex` directive is not authentication. The dashboard should be served behind access control before real use.
+- Export local dashboard backups regularly until a server-backed draft store exists.
 
 ## Roadmap
 
-1. **Static site foundation** — in place; deployment verification pending.
-2. **Editorial dashboard prototype** — create/edit post UI and preview.
-3. **Secure publishing** — authenticated backend that commits content to GitHub. Never expose a GitHub token in browser JavaScript.
-4. **Media library** — upload and browse assets.
-5. **Multi-site support** — manage publishing destinations from one dashboard.
-6. **Polish and safeguards** — validation, drafts, accessibility, and error handling.
-
-## Security
-
-GitHub Pages content is public. Do not commit private drafts, credentials, access tokens, student records, or other confidential information. The future dashboard must use a secure backend for authentication and GitHub API operations; a static admin page alone cannot securely publish changes.
-
-The sample post and cover image are placeholders to replace before using the site as a real publication.
+1. Static Jekyll foundation — in place; verify the Pages build and live deployment.
+2. Dashboard editor and local draft management — prototype implemented.
+3. Secure API integration — scaffold implemented; deployment and authentication configuration pending.
+4. Repository-backed posts and media — UI and API routes implemented; needs end-to-end verification.
+5. Multi-site management — planned.
+6. Production hardening — full Markdown rendering, revisions, scheduled publishing, conflict resolution, and automated tests.
