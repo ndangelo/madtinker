@@ -13,8 +13,20 @@ function toHtml(source){
  return "<p>"+inline(b).replace(/\n/g,"<br>")+"</p>";
  }).join("\n");
 }
-window.studioRenderPreview=function(source){
- const html=toHtml(source);
+window.studioRenderPreview=function(source,options={}){
+ let html=toHtml(source);
+ if(options.articleOnly && /^\\s*<!doctype\\s+html|^\\s*<html[\\s>]/i.test(html)){
+   try{
+     const documentCopy=new DOMParser().parseFromString(html,"text/html");
+     const article=documentCopy.querySelector(".noj-entry-content, .entry-content, .post-content, article, main");
+     if(article){
+       const styles=Array.from(documentCopy.querySelectorAll("style")).map(node=>node.outerHTML).join("\\n");
+       const title=documentCopy.querySelector("article h1, main h1, h1");
+       html=styles+"<main>"+(title?title.outerHTML:"")+article.innerHTML+"</main>";
+     }
+   }catch(error){/* Full-page preview remains available. */}
+ }
+
  const policy='<meta http-equiv="Content-Security-Policy" content="default-src \'none\'; img-src https: data:; style-src \'unsafe-inline\' https:; font-src https: data:; base-uri \'none\'; form-action \'none\'; frame-src \'none\'; connect-src \'none\'">';
  const style="<style>body{font-family:system-ui,sans-serif;color:#222;margin:24px;line-height:1.6;overflow-wrap:anywhere}img,video{max-width:100%;height:auto}pre{white-space:pre-wrap}</style>";
  // Inert preview: script execution is disabled by the iframe sandbox and CSP.
