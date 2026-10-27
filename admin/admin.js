@@ -296,7 +296,8 @@
   async function uploadMediaFiles(event){
     const files=Array.from(event.target.files||[]);event.target.value="";
     if(!files.length)return;
-    if(files.length!==1)currentReplaceMedia=null;
+    let replaceTarget=currentReplaceMedia;currentReplaceMedia=null;
+    if(files.length!==1)replaceTarget=null;
     if(!apiConnected){showToast("Connect the publishing API in Settings first.");return}
     let success=0;let failed=[];
     for(const file of files){
@@ -305,10 +306,10 @@
       try{
         const dataUrl=await readFileAsDataUrl(file);const encoded=dataUrl.split(",")[1];
         let path;
-        if(currentReplaceMedia&&files.length===1){
-          path=currentReplaceMedia.path;
-          await apiFetch("/api/media",{method:"POST",body:JSON.stringify({path,contentBase64:encoded,sha:currentReplaceMedia.sha})});
-          currentReplaceMedia=null;
+        if(replaceTarget&&files.length===1){
+          path=replaceTarget.path;
+          await apiFetch("/api/media",{method:"POST",body:JSON.stringify({path,contentBase64:encoded,sha:replaceTarget.sha})});
+          replaceTarget=null;
         }else{
           const dot=file.name.lastIndexOf(".");const ext=dot>=0?file.name.slice(dot).toLowerCase():"";
           const base=dot>=0?file.name.slice(0,dot):file.name;
