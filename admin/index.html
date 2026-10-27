@@ -70,7 +70,14 @@ You can use Markdown:
         </div>
       </section>
 
-      <section id="media-view" class="view placeholder-view" hidden><p class="eyebrow">ASSET MANAGEMENT</p><h1>Media library</h1><p class="subhead">A place for your images, graphics, and downloadable assets.</p><div class="coming-card"><span class="coming-icon">▧</span><h2>Media library is next</h2><p>We'll add upload, folder navigation, previews, and copy-ready asset URLs in a later milestone.</p><button class="secondary-btn" data-go-posts>Back to posts</button></div></section>
+      <section id="media-view" class="view placeholder-view" hidden>
+        <div class="page-heading"><div><p class="eyebrow">ASSET MANAGEMENT</p><h1>Media library</h1><p class="subhead">Browse folders and upload image assets to your connected GitHub repository.</p></div><button class="primary-btn" id="upload-media">＋ Upload images</button></div>
+        <input id="media-file-input" type="file" accept="image/png,image/jpeg,image/gif,image/webp,image/avif,image/svg+xml" multiple hidden>
+        <div class="media-toolbar"><div class="media-breadcrumb"><span>Repository</span><span>/</span><strong id="media-folder-label">assets/images</strong></div><div class="media-toolbar-actions"><button class="secondary-btn" id="media-up">↑ Parent folder</button><button class="secondary-btn" id="media-refresh">Refresh</button></div></div>
+        <p class="api-status" id="media-status" role="status" aria-live="polite">Connect the publishing API in Settings to browse or upload repository assets.</p>
+        <div class="media-grid" id="media-grid"></div>
+        <p class="footnote">Uploads are committed to the configured repository. Only upload images you have permission to publish. Images committed to a public repository are public.</p>
+      </section>
       <section id="settings-view" class="view placeholder-view" hidden>
         <p class="eyebrow">CONFIGURATION</p><h1>Settings</h1><p class="subhead">Connect the dashboard to a protected publishing service.</p>
         <div class="settings-layout">
