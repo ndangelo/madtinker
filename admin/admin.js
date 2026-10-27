@@ -10,6 +10,7 @@
   let editingId = null;
   let currentFilter = "all";
   let toastTimer;
+  let autosaveTimer;
   function loadPosts(){try{const saved=localStorage.getItem(storageKey);return saved?JSON.parse(saved):initialPosts.slice()}catch(e){return initialPosts.slice()}}
   function persist(){try{localStorage.setItem(storageKey,JSON.stringify(posts));return true}catch(e){return false}}
   function slugify(s){return (s||"your-post-title").toLowerCase().trim().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"")||"your-post-title"}
@@ -17,7 +18,7 @@
   function showToast(message){const el=$("toast");el.textContent=message;el.classList.add("show");clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.classList.remove("show"),2800)}
   function renderRows(){
     const query=$("search").value.toLowerCase().trim();
-    const visible=posts.filter(p=>(currentFilter==="all"||p.status===currentFilter)&&((p.title+" "+p.description+" "+p.category).toLowerCase().includes(query)));
+    const visible=posts.filter(p=>(currentFilter==="all"||p.status===currentFilter)&&((p.title+" "+p.description+" "+p.category+" "+(p.tags||"")).toLowerCase().includes(query)));
     $("post-rows").innerHTML=visible.map(p=>'<tr><td><div class="post-cell"><div class="post-thumb '+escapeHtml(p.tone||"green")+'">✳</div><div><div class="post-title">'+escapeHtml(p.title||"Untitled post")+'</div><div class="post-meta">'+escapeHtml(p.category||"Uncategorized")+'</div></div></div></td><td><span class="status-badge '+(p.status==="published"?"live":"draft")+'">'+(p.status==="published"?"Published":"Draft")+'</span></td><td>'+escapeHtml(p.date||"Just now")+'</td><td class="actions-heading"><button class="row-action" data-edit="'+escapeHtml(p.id)+'">Edit →</button></td></tr>').join("");
     $("empty-state").hidden=visible.length>0;
     $("stat-all").textContent=posts.length;
@@ -38,16 +39,18 @@
     $("post-body").value=p?p.body:"";
     $("post-category").value=p?p.category:"";
     $("post-tags").value=p?p.tags:"";
+    $("post-slug").value=p?p.slug||"":"";
+    $("post-image").value=p?p.image||"":"";
     $("save-status").textContent="Unsaved changes";
     $("preview-panel").hidden=true;
     updateSlug();showView("editor");window.scrollTo({top:0,behavior:"smooth"});
   }
-  function updateSlug(){$("slug-preview").textContent="/"+slugify($("post-title").value)+"/"}
+  function updateSlug(){$("slug-preview").textContent="/"+slugify($("post-slug").value||$("post-title").value)+"/"}
   function saveDraft(){
     const title=$("post-title").value.trim();
     if(!title){$("post-title").focus();showToast("Add a title before saving your draft.");return}
     const existing=posts.find(p=>p.id===editingId);
-    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green"};
+    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim()};
     if(existing){posts=posts.map(p=>p.id===editingId?draft:p)}else{posts.unshift(draft);editingId=draft.id}
     const saved=persist();renderRows();$("save-status").textContent=saved?"Saved in this browser":"Could not save — browser storage unavailable";
     showToast(saved?"Draft saved in this browser.":"Browser storage is unavailable. Copy your text somewhere safe.");
@@ -96,6 +99,8 @@
     if(description)frontMatter.push("description: "+quote(description));
     if(category)frontMatter.push("categories:", "  - "+quote(category));
     if(tags.length)frontMatter.push("tags:",...tags.map(t=>"  - "+quote(t)));
+    if($("post-slug").value.trim())frontMatter.push("slug: "+quote($("post-slug").value.trim()));
+    if($("post-image").value.trim())frontMatter.push("image: "+quote($("post-image").value.trim()));
     frontMatter.push("published: false","---","");
     const content=frontMatter.join("\n")+ $("post-body").value+"\n";
     const blob=new Blob([content],{type:"text/markdown;charset=utf-8"});
@@ -120,15 +125,36 @@
   document.querySelectorAll("[data-prefix]").forEach(button=>button.addEventListener("click",()=>insertFormatting({value:button.dataset.prefix,kind:"prefix"})));
   document.querySelectorAll("[data-link]").forEach(button=>button.addEventListener("click",()=>insertFormatting("link")));
   $("close-preview").addEventListener("click",()=>$("preview-panel").hidden=true);
-  $("post-title").addEventListener("input",()=>{updateSlug();$("save-status").textContent="Unsaved changes"});
-  ["post-description","post-body","post-category","post-tags"].forEach(id=>$(id).addEventListener("input",()=>$("save-status").textContent="Unsaved changes"));
+  $("post-title").addEventListener("input",()=>{updateSlug();markUnsaved()});
+  ["post-description","post-body","post-category","post-tags","post-slug","post-image"].forEach(id=>$(id).addEventListener("input",()=>{if(id==="post-slug")updateSlug();markUnsaved()}));
   $("post-body").addEventListener("input",updateWordCount);
   $("search").addEventListener("input",renderRows);
   document.querySelectorAll(".filter-tab").forEach(b=>b.addEventListener("click",()=>{currentFilter=b.dataset.filter;document.querySelectorAll(".filter-tab").forEach(x=>x.classList.toggle("active",x===b));renderRows()}));
   document.querySelectorAll(".nav-item").forEach(b=>b.addEventListener("click",()=>showView(b.dataset.view)));
   document.querySelectorAll("[data-go-posts]").forEach(b=>b.addEventListener("click",()=>showView("posts")));
-  $("post-rows").addEventListener("click",e=>{const b=e.target.closest("[data-edit]");if(b)openEditor(b.dataset.edit)});
+  $("post-rows").addEventListener("click",e=>{
+    const edit=e.target.closest("[data-edit]");if(edit){openEditor(edit.dataset.edit);return}
+    const duplicate=e.target.closest("[data-duplicate]");if(duplicate){duplicatePost(duplicate.dataset.duplicate);return}
+    const del=e.target.closest("[data-delete]");if(del)deletePost(del.dataset.delete);
+  });
+  $("backup-posts").addEventListener("click",exportBackup);
+  $("restore-posts").addEventListener("click",()=>$("backup-file").click());
+  $("backup-file").addEventListener("change",importBackup);
   $("publish-btn").addEventListener("click",()=>showToast("Publishing is not connected yet."));
+  document.addEventListener("keydown",e=>{const mod=/Mac|iPhone|iPad/.test(navigator.platform)?e.metaKey:e.ctrlKey;if(mod&&e.key.toLowerCase()==="s"&&!$("editor-view").hidden){e.preventDefault();saveDraft()}if(mod&&e.key.toLowerCase()==="enter"&&!$("editor-view").hidden){e.preventDefault();preview()}});
+  function markUnsaved(){ $("save-status").textContent="Unsaved changes";clearTimeout(autosaveTimer);autosaveTimer=setTimeout(quietAutosave,900); }
+  function quietAutosave(){
+    const title=$("post-title").value.trim();if(!title)return;
+    const existing=posts.find(p=>p.id===editingId);
+    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim()};
+    if(existing)posts=posts.map(p=>p.id===editingId?draft:p);else{posts.unshift(draft);editingId=draft.id}
+    const saved=persist();renderRows();$("save-status").textContent=saved?"Auto-saved locally":"Local save failed";
+  }
+  function duplicatePost(id){const p=posts.find(item=>item.id===id);if(!p)return;posts.unshift({...p,id:"copy-"+Date.now(),title:(p.title||"Untitled")+" (copy)",status:"draft",date:"Duplicated just now"});persist();renderRows();showToast("A draft copy was created.");}
+  function deletePost(id){const p=posts.find(item=>item.id===id);if(!p)return;if(!window.confirm("Delete \""+(p.title||"Untitled post")+"\" from this browser? Export a backup first if you may need it."))return;posts=posts.filter(item=>item.id!==id);persist();renderRows();showToast("Post deleted from this browser.");if(editingId===id)showView("posts");}
+  function downloadBlob(filename,content,type){const blob=new Blob([content],{type});const url=URL.createObjectURL(blob);const a=document.createElement("a");a.href=url;a.download=filename;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);}
+  function exportBackup(){const data={format:"studio-cms-backup",version:1,exportedAt:new Date().toISOString(),posts};downloadBlob("studio-cms-backup-"+new Date().toISOString().slice(0,10)+".json",JSON.stringify(data,null,2),"application/json");showToast("Backup downloaded. Store it somewhere safe.");}
+  function importBackup(event){const file=event.target.files&&event.target.files[0];if(!file)return;const reader=new FileReader();reader.onload=()=>{try{const parsed=JSON.parse(reader.result);const incoming=Array.isArray(parsed)?parsed:parsed.posts;if(!Array.isArray(incoming)||!incoming.every(p=>p&&typeof p==="object"&&typeof p.title==="string"&&typeof p.body==="string"))throw new Error("Invalid backup");if(!window.confirm("Import "+incoming.length+" posts? This replaces posts saved in this browser."))return;posts=incoming.map((p,i)=>({id:String(p.id||("import-"+Date.now()+"-"+i),),title:p.title,description:String(p.description||""),body:p.body,category:String(p.category||""),tags:String(p.tags||""),status:p.status==="published"?"published":"draft",date:String(p.date||"Imported"),tone:["green","rust","blue"].includes(p.tone)?p.tone:"green",slug:String(p.slug||""),image:String(p.image||"")}));persist();renderRows();showToast("Backup imported into this browser.");}catch(e){showToast("That file doesn't look like a Studio CMS backup.");}finally{$("backup-file").value="";}};reader.readAsText(file);}
   updateWordCount();
   renderRows();
 })();
