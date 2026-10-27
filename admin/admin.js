@@ -133,7 +133,7 @@
   function preview(scroll=true){
     $("preview-title").textContent=$("post-title").value||"Untitled post";
     $("preview-description").textContent=$("post-description").value;
-    const frame=document.createElement("iframe");frame.setAttribute("sandbox","");frame.setAttribute("title","Isolated rendered post preview");frame.style.cssText="width:100%;min-height:560px;border:1px solid #d6d9d5;border-radius:8px;background:white";frame.srcdoc=window.studioRenderPreview?window.studioRenderPreview($("post-body").value,{articleOnly:$("extract-article").checked}):"<p>Preview renderer unavailable.</p>";$("preview-body").replaceChildren(frame);
+    const frame=document.createElement("iframe");frame.setAttribute("sandbox","");frame.setAttribute("title","Isolated rendered post preview");frame.style.cssText="width:100%;min-height:560px;border:1px solid #d6d9d5;border-radius:8px;background:white";frame.srcdoc=window.studioRenderPreview?window.studioRenderPreview($("post-body").value,{mode:$("post-mode").value,articleOnly:$("extract-article").checked}):"<p>Preview renderer unavailable.</p>";$("preview-body").replaceChildren(frame);
     $("preview-body").classList.add("preview-content");
     $("preview-panel").hidden=false;
     if(scroll)$("preview-panel").scrollIntoView({behavior:"smooth",block:"nearest"});
