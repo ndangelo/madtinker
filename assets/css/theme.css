@@ -41,3 +41,7 @@ nav a{color:#b9c8dc;font:500 .72rem var(--mono);text-transform:uppercase;letter-
 .article-content blockquote{border-left:3px solid var(--pink);background:#111f32;color:#b8c8dc;padding:.8rem 1rem}.article-content pre{background:#070d18;border:1px solid #26364d;border-left:3px solid var(--sky)}.article-content code,.article-content pre{font-family:var(--mono);font-size:.84em}.article-content code{color:var(--pink)}.article-content pre code{color:#b8e9ff}
 .site-footer{background:var(--navy-deep);color:#8498b2;border-top:1px solid var(--line);font:.7rem var(--mono)}
 @media(max-width:560px){html{font-size:13px}.hero{padding:2.2rem 1rem;margin-top:.75rem}}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
+.hero h1{font-family:"Space Grotesk",var(--sans);font-size:clamp(1.65rem,3.6vw,2.7rem);font-weight:600;letter-spacing:-.055em;line-height:1.12;max-width:18ch}
