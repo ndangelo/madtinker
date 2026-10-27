@@ -1,12 +1,15 @@
 (() => {
   const $ = (id) => document.getElementById(id);
   const storageKey = "studio-cms-prototype-posts-v1";
+  const siteStorageKey = "studio-cms-active-site-v1";
+  let activeSiteId = "studio-journal";
+  try { activeSiteId = localStorage.getItem(siteStorageKey) || "studio-journal"; } catch (e) {}
   const initialPosts = [
     {id:"p1",title:"Welcome to Studio Journal",description:"A first look at the ideas, projects, and processes collected here.",body:"Welcome to Studio Journal.\n\nThis is a starter post for the publication. Replace it with your own writing when you are ready.",category:"Notes",tags:"welcome, publishing",status:"published",date:"Oct 27, 2026",tone:"green"},
     {id:"p2",title:"Notes from the studio",description:"A few observations on process, experimentation, and making.",body:"## Process\n\nA work in progress is a place to test an idea before it becomes certain.\n\n- Observe closely\n- Make a small experiment\n- Reflect and revise",category:"Studio",tags:"process, notes",status:"draft",date:"Oct 26, 2026",tone:"rust"},
     {id:"p3",title:"Collecting visual fragments",description:"Gathering images and references as a way of thinking.",body:"Images can work like notes: incomplete, suggestive, and open to reinterpretation.",category:"Research",tags:"images, research",status:"draft",date:"Oct 24, 2026",tone:"blue"}
   ];
-  let posts = loadPosts();
+  let posts = loadPosts().map(p=>({...p,siteId:p.siteId||"studio-journal"}));
   let editingId = null;
   let currentFilter = "all";
   let toastTimer;
@@ -23,13 +26,14 @@
   function showToast(message){const el=$("toast");el.textContent=message;el.classList.add("show");clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.classList.remove("show"),2800)}
   function renderRows(){
     const query=$("search").value.toLowerCase().trim();
-    const visible=posts.filter(p=>(currentFilter==="all"||p.status===currentFilter)&&((p.title+" "+p.description+" "+p.category+" "+(p.tags||"")).toLowerCase().includes(query)));
+    const sitePosts=posts.filter(p=>(p.siteId||"studio-journal")===activeSiteId);
+    const visible=sitePosts.filter(p=>(currentFilter==="all"||p.status===currentFilter)&&((p.title+" "+p.description+" "+p.category+" "+(p.tags||"")).toLowerCase().includes(query)));
     $("post-rows").innerHTML=visible.map(p=>'<tr><td><div class="post-cell"><div class="post-thumb '+escapeHtml(p.tone||"green")+'">✳</div><div><div class="post-title">'+escapeHtml(p.title||"Untitled post")+'</div><div class="post-meta">'+escapeHtml(p.category||"Uncategorized")+(p.tags?' · '+escapeHtml(p.tags):'')+'</div></div></div></td><td><span class="status-badge '+(p.status==="published"?"live":"draft")+'">'+(p.status==="published"?"Published":"Draft")+'</span></td><td>'+escapeHtml(p.date||"Just now")+'</td><td class="actions-heading row-actions"><button class="row-action" data-edit="'+escapeHtml(p.id)+'">Edit</button> <button class="row-action" data-duplicate="'+escapeHtml(p.id)+'">Copy</button> <button class="row-action danger-action" data-delete="'+escapeHtml(p.id)+'">Delete</button></td></tr>').join("");
     $("empty-state").hidden=visible.length>0;
-    $("stat-all").textContent=posts.length;
-    $("stat-published").textContent=posts.filter(p=>p.status==="published").length;
-    $("stat-drafts").textContent=posts.filter(p=>p.status==="draft").length;
-    $("post-count").textContent=posts.length;
+    $("stat-all").textContent=sitePosts.length;
+    $("stat-published").textContent=sitePosts.filter(p=>p.status==="published").length;
+    $("stat-drafts").textContent=sitePosts.filter(p=>p.status==="draft").length;
+    $("post-count").textContent=sitePosts.length;
   }
   function showView(name){
     ["posts","editor","media","sites","settings"].forEach(v=>$(v+"-view").hidden=v!==name);
@@ -63,7 +67,7 @@
     const title=$("post-title").value.trim();
     if(!title){$("post-title").focus();showToast("Add a title before saving your draft.");return}
     const existing=posts.find(p=>p.id===editingId);
-    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim(),remotePath:existing?.remotePath||"",remoteSha:existing?.remoteSha||"",remote:!!existing?.remote,bodyLoaded:true};
+    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim(),remotePath:existing?.remotePath||"",remoteSha:existing?.remoteSha||"",remote:!!existing?.remote,bodyLoaded:true,siteId:existing?.siteId||activeSiteId};
     if(existing){posts=posts.map(p=>p.id===editingId?draft:p)}else{posts.unshift(draft);editingId=draft.id}
     const saved=persist();renderRows();$("save-status").textContent=saved?"Saved in this browser":"Could not save — browser storage unavailable";
     showToast(saved?"Draft saved in this browser.":"Browser storage is unavailable. Copy your text somewhere safe.");
@@ -175,7 +179,9 @@
   async function apiFetch(path,options={}){
     const base=apiBase();if(!base)throw new Error("Enter the API base URL in Settings first.");
     const headers={...(options.headers||{})};if(options.body&&!headers["Content-Type"])headers["Content-Type"]="application/json";
-    const response=await fetch(base+path,{...options,credentials:"include",headers});
+    let requestUrl=base+path;
+    if(path.startsWith("/api/posts")||path.startsWith("/api/media")){const target=new URL(requestUrl);if(!target.searchParams.has("site"))target.searchParams.set("site",activeSiteId);requestUrl=target.toString()}
+    const response=await fetch(requestUrl,{...options,credentials:"include",headers});
     let data={};try{data=await response.json()}catch(e){}
     if(!response.ok)throw new Error(data.error||("Request failed ("+response.status+")."));
     return data;
@@ -207,16 +213,16 @@
       const remotePaths=new Set(remoteFiles.map(file=>file.path));
       let added=0;
       for(const file of remoteFiles){
-        const existing=posts.find(p=>p.remotePath===file.path);
+        const existing=posts.find(p=>p.siteId===activeSiteId&&p.remotePath===file.path);
         if(existing && existing.status==="draft" && existing.bodyLoaded){
           existing.remoteSha=file.sha;existing.remote=true;continue;
         }
         const detail=await apiFetch("/api/posts?path="+encodeURIComponent(file.path));
         const parsed=parsePostMarkdown(detail.content);
-        const record={...parsed,id:existing?.id||("remote-"+file.sha),date:file.name.slice(0,10),tone:existing?.tone||"green",remotePath:file.path,remoteSha:file.sha,remote:true,bodyLoaded:true};
+        const record={...parsed,id:existing?.id||("remote-"+file.sha),date:file.name.slice(0,10),tone:existing?.tone||"green",remotePath:file.path,remoteSha:file.sha,remote:true,bodyLoaded:true,siteId:activeSiteId};
         if(existing){posts=posts.map(p=>p.id===existing.id?record:p)}else{posts.push(record);added++}
       }
-      posts=posts.filter(p=>!p.remotePath||remotePaths.has(p.remotePath)||p.status==="draft");
+      posts=posts.filter(p=>p.siteId!==activeSiteId||!p.remotePath||remotePaths.has(p.remotePath)||p.status==="draft");
       persist();renderRows();setApiStatus("Synced "+remoteFiles.length+" repository posts; "+added+" added. Post content and status are loaded.", "ok");showToast("Repository posts synced.");
     }catch(error){setApiStatus("Sync failed: "+error.message,"error")}
     finally{$("sync-api").disabled=!apiConnected}
@@ -258,7 +264,7 @@
     const button=$("publish-btn");button.disabled=true;button.textContent="Publishing…";
     try{
       const result=await apiFetch("/api/posts",{method:"POST",body:JSON.stringify({path,content,sha:existing?.remoteSha||undefined})});
-      const record={id:existing?.id||("remote-"+result.sha),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"published",date:"Published just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim(),remotePath:path,remoteSha:result.sha,remote:true,bodyLoaded:true};
+      const record={id:existing?.id||("remote-"+result.sha),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"published",date:"Published just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim(),remotePath:path,remoteSha:result.sha,remote:true,bodyLoaded:true,siteId:activeSiteId};
       if(existing)posts=posts.map(p=>p.id===existing.id?record:p);else{posts.unshift(record);editingId=record.id}
       persist();renderRows();$("save-status").textContent="Published to GitHub";
       showToast("Post committed to GitHub. The site rebuild may take a few minutes.");
@@ -327,11 +333,11 @@
   function quietAutosave(){
     const title=$("post-title").value.trim();if(!title)return;
     const existing=posts.find(p=>p.id===editingId);
-    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim(),remotePath:existing?.remotePath||"",remoteSha:existing?.remoteSha||"",remote:!!existing?.remote,bodyLoaded:true};
+    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim(),remotePath:existing?.remotePath||"",remoteSha:existing?.remoteSha||"",remote:!!existing?.remote,bodyLoaded:true,siteId:existing?.siteId||activeSiteId};
     if(existing)posts=posts.map(p=>p.id===editingId?draft:p);else{posts.unshift(draft);editingId=draft.id}
     const saved=persist();renderRows();$("save-status").textContent=saved?"Auto-saved locally":"Local save failed";
   }
-  function duplicatePost(id){const p=posts.find(item=>item.id===id);if(!p)return;posts.unshift({...p,id:"copy-"+Date.now(),title:(p.title||"Untitled")+" (copy)",status:"draft",date:"Duplicated just now",remotePath:"",remoteSha:"",remote:false,bodyLoaded:true,slug:""});persist();renderRows();showToast("A draft copy was created.");}
+  function duplicatePost(id){const p=posts.find(item=>item.id===id);if(!p)return;posts.unshift({...p,id:"copy-"+Date.now(),title:(p.title||"Untitled")+" (copy)",status:"draft",date:"Duplicated just now",remotePath:"",remoteSha:"",remote:false,bodyLoaded:true,slug:"",siteId:activeSiteId});persist();renderRows();showToast("A draft copy was created.");}
   async function deletePost(id){
     const p=posts.find(item=>item.id===id);if(!p)return;
     const target=p.remote&&p.remotePath?"from the GitHub repository and this browser":"from this browser";
@@ -345,7 +351,7 @@
   }
   function downloadBlob(filename,content,type){const blob=new Blob([content],{type});const url=URL.createObjectURL(blob);const a=document.createElement("a");a.href=url;a.download=filename;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);}
   function exportBackup(){const data={format:"studio-cms-backup",version:1,exportedAt:new Date().toISOString(),posts};downloadBlob("studio-cms-backup-"+new Date().toISOString().slice(0,10)+".json",JSON.stringify(data,null,2),"application/json");showToast("Backup downloaded. Store it somewhere safe.");}
-  function importBackup(event){const file=event.target.files&&event.target.files[0];if(!file)return;const reader=new FileReader();reader.onload=()=>{try{const parsed=JSON.parse(reader.result);const incoming=Array.isArray(parsed)?parsed:parsed.posts;if(!Array.isArray(incoming)||!incoming.every(p=>p&&typeof p==="object"&&typeof p.title==="string"&&typeof p.body==="string"))throw new Error("Invalid backup");if(!window.confirm("Import "+incoming.length+" posts? This replaces posts saved in this browser."))return;posts=incoming.map((p,i)=>({id:String(p.id||("import-"+Date.now()+"-"+i),),title:p.title,description:String(p.description||""),body:p.body,category:String(p.category||""),tags:String(p.tags||""),status:p.status==="published"?"published":"draft",date:String(p.date||"Imported"),tone:["green","rust","blue"].includes(p.tone)?p.tone:"green",slug:String(p.slug||""),image:String(p.image||"")}));persist();renderRows();showToast("Backup imported into this browser.");}catch(e){showToast("That file doesn't look like a Studio CMS backup.");}finally{$("backup-file").value="";}};reader.readAsText(file);}
+  function importBackup(event){const file=event.target.files&&event.target.files[0];if(!file)return;const reader=new FileReader();reader.onload=()=>{try{const parsed=JSON.parse(reader.result);const incoming=Array.isArray(parsed)?parsed:parsed.posts;if(!Array.isArray(incoming)||!incoming.every(p=>p&&typeof p==="object"&&typeof p.title==="string"&&typeof p.body==="string"))throw new Error("Invalid backup");if(!window.confirm("Import "+incoming.length+" posts? This replaces posts saved in this browser."))return;posts=incoming.map((p,i)=>({id:String(p.id||("import-"+Date.now()+"-"+i),),title:p.title,description:String(p.description||""),body:p.body,category:String(p.category||""),tags:String(p.tags||""),status:p.status==="published"?"published":"draft",date:String(p.date||"Imported"),tone:["green","rust","blue"].includes(p.tone)?p.tone:"green",slug:String(p.slug||""),image:String(p.image||""),siteId:String(p.siteId||activeSiteId),remotePath:String(p.remotePath||""),remoteSha:String(p.remoteSha||""),remote:!!p.remote,bodyLoaded:p.bodyLoaded!==false}));persist();renderRows();showToast("Backup imported into this browser.");}catch(e){showToast("That file doesn't look like a Studio CMS backup.");}finally{$("backup-file").value="";}};reader.readAsText(file);}
   updateWordCount();
   renderRows();
 })();
