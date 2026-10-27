@@ -1,0 +1,10 @@
+name = "studio-cms-api"
+main = "src/index.js"
+compatibility_date = "2026-10-27"
+workers_dev = false
+
+[vars]
+GITHUB_REPOSITORY = "ndangelo/madtinker"
+ALLOWED_ORIGIN = "https://ndangelo.github.io"
+CF_ACCESS_TEAM_DOMAIN = "REPLACE_WITH_YOUR_CLOUDFLARE_TEAM_NAME"
+CF_ACCESS_AUD = "REPLACE_WITH_CLOUDFLARE_ACCESS_APPLICATION_AUD"
