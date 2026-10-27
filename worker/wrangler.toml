@@ -8,3 +8,4 @@ GITHUB_REPOSITORY = "ndangelo/madtinker"
 ALLOWED_ORIGIN = "https://ndangelo.github.io"
 CF_ACCESS_TEAM_DOMAIN = "REPLACE_WITH_YOUR_CLOUDFLARE_TEAM_NAME"
 CF_ACCESS_AUD = "REPLACE_WITH_CLOUDFLARE_ACCESS_APPLICATION_AUD"
+GITHUB_SITES = '[{"id":"studio-journal","title":"Studio Journal","repository":"ndangelo/madtinker","baseUrl":"https://ndangelo.github.io/madtinker"}]'
