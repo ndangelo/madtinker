@@ -17,7 +17,7 @@
       <button class="nav-item" data-view="sites"><span class="nav-icon">◫</span> Sites</button>
       <button class="nav-item" data-view="settings"><span class="nav-icon">⚙</span> Settings</button>
       <div class="sidebar-bottom">
-        <div class="site-card"><span class="site-dot"></span><div><strong>Studio Journal</strong><small>ndangelo/madtinker</small></div><span class="chevron">⌄</span></div>
+        <div class="site-card"><span class="site-dot"></span><div><strong id="active-site-title">Studio Journal</strong><small id="active-site-repo">ndangelo/madtinker</small></div><span class="chevron">⌄</span></div>
         <div class="user-card"><div class="avatar">N</div><div><strong>Nick</strong><small>Workspace owner</small></div><span class="dots">•••</span></div>
       </div>
     </aside>
@@ -89,7 +89,12 @@ You can use Markdown:
           <div class="settings-card api-settings-card"><h2>Security and storage</h2><ul class="settings-list"><li>GitHub credentials belong only in Worker secrets.</li><li>Cloudflare Access must require your login before the API accepts requests.</li><li>The API should be restricted to this repository and the dashboard origin.</li><li>Content committed to this public repository is public.</li></ul></div>
         </div>
       </section>
-      <section id="sites-view" class="view placeholder-view" hidden><p class="eyebrow">MULTI-SITE WORKSPACE</p><h1>Sites</h1><p class="subhead">One publishing dashboard for your different projects.</p><div class="site-list-card"><span class="site-dot"></span><div><strong>Studio Journal</strong><p>ndangelo/madtinker · Jekyll · GitHub Pages</p></div><span class="status-badge draft">Connected later</span></div><div class="coming-card"><span class="coming-icon">◫</span><h2>Multi-site publishing is planned</h2><p>The dashboard will eventually support multiple sites and publishing destinations.</p><button class="secondary-btn" data-go-posts>Back to posts</button></div></section>
+      <section id="sites-view" class="view placeholder-view" hidden>
+        <p class="eyebrow">MULTI-SITE WORKSPACE</p><h1>Sites</h1><p class="subhead">Switch between the sites that your secure publishing service has explicitly allowlisted.</p>
+        <div class="site-switcher-card"><div><label class="field-label" for="active-site-select">Active site</label><select id="active-site-select"><option value="studio-journal">Studio Journal</option></select></div><button class="primary-btn" id="load-sites">Load available sites</button></div>
+        <div id="configured-sites" class="configured-sites"><div class="coming-card"><span class="coming-icon">◫</span><h2>Load configured sites</h2><p>Available repositories are controlled by the server allowlist, not by browser input.</p></div></div>
+        <p class="footnote">To add another site, configure it in the Worker allowlist and ensure the GitHub App installation has access to that repository. The dashboard cannot grant itself repository permissions.</p>
+      </section>
     </main>
   </div>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
