@@ -165,7 +165,7 @@
   $("media-grid").addEventListener("click",async e=>{
     const folder=e.target.closest("[data-open-folder]");if(folder){currentMediaFolder=folder.dataset.openFolder;loadMedia();return}
     const copy=e.target.closest("[data-copy-media]");if(copy){const item=currentMediaItems.find(x=>x.path===copy.dataset.copyMedia);if(item)copyText("/"+item.path);return}
-    const replace=e.target.closest("[data-replace-media]");if(replace){const item=currentMediaItems.find(x=>x.path===replace.dataset.replaceMedia);if(item){currentReplaceMedia=item;$("media-file-input").click()}return}
+    const replace=e.target.closest("[data-replace-media]");if(replace){const item=currentMediaItems.find(x=>x.path===replace.dataset.replaceMedia);if(item){currentReplaceMedia=item;$("media-file-input").value="";$("media-file-input").click()}return}
   });
   document.addEventListener("keydown",e=>{const mod=/Mac|iPhone|iPad/.test(navigator.platform)?e.metaKey:e.ctrlKey;if(mod&&e.key.toLowerCase()==="s"&&!$("editor-view").hidden){e.preventDefault();saveDraft()}if(mod&&e.key.toLowerCase()==="enter"&&!$("editor-view").hidden){e.preventDefault();preview()}});
   function apiBase(){
@@ -290,6 +290,7 @@
   async function uploadMediaFiles(event){
     const files=Array.from(event.target.files||[]);event.target.value="";
     if(!files.length)return;
+    if(files.length!==1)currentReplaceMedia=null;
     if(!apiConnected){showToast("Connect the publishing API in Settings first.");return}
     let success=0;let failed=[];
     for(const file of files){
