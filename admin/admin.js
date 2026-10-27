@@ -11,6 +11,7 @@
   ];
   let posts = loadPosts().map(p=>({...p,siteId:p.siteId||"studio-journal"}));
   let editingId = null;
+  let previewDebounce;
   let currentFilter = "all";
   let toastTimer;
   let autosaveTimer;
@@ -51,6 +52,7 @@
       }catch(error){showToast("Could not load this GitHub post: "+error.message);return}
     }
     editingId=p?p.id:null;
+    setEditingMode(p?.editorMode||(/<(!doctype html|html|style|div|section|article)\\b/i.test(p?.body||"")?"html":"markdown"));
     $("post-title").value=p?p.title:"";
     $("post-description").value=p?p.description:"";
     $("post-body").value=p?p.body:"";
@@ -67,7 +69,7 @@
     const title=$("post-title").value.trim();
     if(!title){$("post-title").focus();showToast("Add a title before saving your draft.");return}
     const existing=posts.find(p=>p.id===editingId);
-    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim(),remotePath:existing?.remotePath||"",remoteSha:existing?.remoteSha||"",remote:!!existing?.remote,bodyLoaded:true,siteId:existing?.siteId||activeSiteId};
+    const draft={id:editingId||("draft-"+Date.now()),title,description:$("post-description").value.trim(),body:$("post-body").value,editorMode:$("post-mode").value,category:$("post-category").value.trim(),tags:$("post-tags").value.trim(),status:"draft",date:"Edited just now",tone:existing?.tone||"green",slug:$("post-slug").value.trim(),image:$("post-image").value.trim(),remotePath:existing?.remotePath||"",remoteSha:existing?.remoteSha||"",remote:!!existing?.remote,bodyLoaded:true,siteId:existing?.siteId||activeSiteId};
     if(existing){posts=posts.map(p=>p.id===editingId?draft:p)}else{posts.unshift(draft);editingId=draft.id}
     const saved=persist();renderRows();$("save-status").textContent=saved?"Saved in this browser":"Could not save — browser storage unavailable";
     showToast(saved?"Draft saved in this browser.":"Browser storage is unavailable. Copy your text somewhere safe.");
@@ -125,14 +127,22 @@
     link.href=url;link.download=date+"-"+slugify(title)+".md";document.body.appendChild(link);link.click();link.remove();URL.revokeObjectURL(url);
     showToast("Markdown file exported. It has not been published.");
   }
-  function preview(){
+  function setEditingMode(mode){
+    const html=mode==="html";$("post-mode").value=html?"html":"markdown";$("markdown-toolbar").hidden=html;$("markdown-toolbar").style.display=html?"none":"";$("html-tools").hidden=!html;$("html-tools").style.display=html?"flex":"none";$("post-body").spellcheck=!html;$("post-body").style.fontFamily=html?"ui-monospace,SFMono-Regular,Menlo,Consolas,monospace":"";$("post-body").style.tabSize="2";updateWordCount();
+  }
+  function preview(scroll=true){
     $("preview-title").textContent=$("post-title").value||"Untitled post";
     $("preview-description").textContent=$("post-description").value;
     const frame=document.createElement("iframe");frame.setAttribute("sandbox","");frame.setAttribute("title","Isolated rendered post preview");frame.style.cssText="width:100%;min-height:560px;border:1px solid #d6d9d5;border-radius:8px;background:white";frame.srcdoc=window.studioRenderPreview?window.studioRenderPreview($("post-body").value):"<p>Preview renderer unavailable.</p>";$("preview-body").replaceChildren(frame);
     $("preview-body").classList.add("preview-content");
     $("preview-panel").hidden=false;
-    $("preview-panel").scrollIntoView({behavior:"smooth",block:"nearest"});
+    if(scroll)$("preview-panel").scrollIntoView({behavior:"smooth",block:"nearest"});
   }
+  $("post-mode").addEventListener("change",()=>{setEditingMode($("post-mode").value);markUnsaved();if(!$("preview-panel").hidden)preview()});
+  function insertAtCursor(value){const area=$("post-body"),start=area.selectionStart,end=area.selectionEnd;area.setRangeText(value,start,end,"end");area.focus();markUnsaved();updateWordCount();scheduleLivePreview()}
+  $("insert-html").addEventListener("click",()=>insertAtCursor('<section class="custom-post">\\n  <h2>Your heading</h2>\\n  <p>Your content goes here.</p>\\n</section>'));
+  $("insert-css").addEventListener("click",()=>insertAtCursor('<style>\\n  .custom-post { padding: 2rem; border-radius: 12px; background: #f3f6f5; }\\n  .custom-post h2 { color: #245c4d; }\\n</style>\\n'));
+  function scheduleLivePreview(){if($("post-mode").value!=="html"||!$("live-preview").checked)return;clearTimeout(previewDebounce);previewDebounce=setTimeout(()=>{if(!$("preview-panel").hidden)preview(false)},400)}
   $("new-post").addEventListener("click",()=>openEditor(null));
   $("back-to-posts").addEventListener("click",()=>{showView("posts");renderRows()});
   $("save-draft").addEventListener("click",saveDraft);
@@ -144,7 +154,7 @@
   $("close-preview").addEventListener("click",()=>$("preview-panel").hidden=true);
   $("post-title").addEventListener("input",()=>{updateSlug();markUnsaved()});
   ["post-description","post-body","post-category","post-tags","post-slug","post-image"].forEach(id=>$(id).addEventListener("input",()=>{if(id==="post-slug")updateSlug();markUnsaved()}));
-  $("post-body").addEventListener("input",updateWordCount);
+  $("post-body").addEventListener("input",()=>{updateWordCount();scheduleLivePreview()});
   $("search").addEventListener("input",renderRows);
   document.querySelectorAll(".filter-tab").forEach(b=>b.addEventListener("click",()=>{currentFilter=b.dataset.filter;document.querySelectorAll(".filter-tab").forEach(x=>x.classList.toggle("active",x===b));renderRows()}));
   document.querySelectorAll(".nav-item").forEach(b=>b.addEventListener("click",()=>{showView(b.dataset.view);if(b.dataset.view==="sites"&&apiConnected)loadSites();if(b.dataset.view==="media")loadMedia()}));
@@ -380,6 +390,6 @@
   function downloadBlob(filename,content,type){const blob=new Blob([content],{type});const url=URL.createObjectURL(blob);const a=document.createElement("a");a.href=url;a.download=filename;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);}
   function exportBackup(){const data={format:"studio-cms-backup",version:1,exportedAt:new Date().toISOString(),posts};downloadBlob("studio-cms-backup-"+new Date().toISOString().slice(0,10)+".json",JSON.stringify(data,null,2),"application/json");showToast("Backup downloaded. Store it somewhere safe.");}
   function importBackup(event){const file=event.target.files&&event.target.files[0];if(!file)return;const reader=new FileReader();reader.onload=()=>{try{const parsed=JSON.parse(reader.result);const incoming=Array.isArray(parsed)?parsed:parsed.posts;if(!Array.isArray(incoming)||!incoming.every(p=>p&&typeof p==="object"&&typeof p.title==="string"&&typeof p.body==="string"))throw new Error("Invalid backup");if(!window.confirm("Import "+incoming.length+" posts? This replaces posts saved in this browser."))return;posts=incoming.map((p,i)=>({id:String(p.id||("import-"+Date.now()+"-"+i),),title:p.title,description:String(p.description||""),body:p.body,category:String(p.category||""),tags:String(p.tags||""),status:p.status==="published"?"published":"draft",date:String(p.date||"Imported"),tone:["green","rust","blue"].includes(p.tone)?p.tone:"green",slug:String(p.slug||""),image:String(p.image||""),siteId:String(p.siteId||activeSiteId),remotePath:String(p.remotePath||""),remoteSha:String(p.remoteSha||""),remote:!!p.remote,bodyLoaded:p.bodyLoaded!==false}));persist();renderRows();showToast("Backup imported into this browser.");}catch(e){showToast("That file doesn't look like a Studio CMS backup.");}finally{$("backup-file").value="";}};reader.readAsText(file);}
-  updateWordCount();
+  setEditingMode("markdown");
   renderRows();
 })();
