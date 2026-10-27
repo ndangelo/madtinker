@@ -45,3 +45,49 @@ nav a{color:#b9c8dc;font:500 .72rem var(--mono);text-transform:uppercase;letter-
 
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap');
 .hero h1{font-family:"Space Grotesk",var(--sans);font-size:clamp(1.65rem,3.6vw,2.7rem);font-weight:600;letter-spacing:-.055em;line-height:1.12;max-width:18ch}
+
+
+/* Studio Journal / personal notebook refinement */
+:root{--navy:#0b111b;--navy-deep:#080d15;--paper:#0b111b;--line:#293548;--ink:#e3eaf3;--muted:#8fa1b7;--lime:#b9ed68;--sky:#8bc8f5;--pink:#e3a2d6}
+body{background:var(--paper);color:var(--ink)}
+.site-main{width:min(1080px,calc(100% - 2.5rem))}
+.site-header{padding:1rem clamp(1.25rem,5vw,5rem);background:#090f18;border-bottom:1px solid var(--line)}
+.wordmark{font-size:.85rem;letter-spacing:-.02em}.wordmark:before{content:"▸";background:none;width:auto;height:auto;color:var(--lime)}
+.site-header nav{gap:1.5rem}.site-header nav a{font-size:.73rem;color:#a9b9cd}.site-header nav a:hover{color:var(--lime)}
+.journal-hero{padding:clamp(3rem,7vw,5.8rem) clamp(1.5rem,5vw,4rem) 1.5rem;margin:2rem 0 3.5rem;background:linear-gradient(90deg,rgba(185,237,104,.035) 1px,transparent 1px),linear-gradient(rgba(185,237,104,.035) 1px,transparent 1px),#101a29;background-size:28px 28px;border:1px solid #314052;border-top:3px solid var(--lime);border-left:1px solid #314052;box-shadow:0 22px 55px #0002}
+.journal-hero:before,.journal-hero:after{display:none}
+.journal-hero .eyebrow{display:flex;align-items:center;gap:.6rem;color:var(--lime);font-size:.69rem;letter-spacing:.09em}
+.status-led{width:7px;height:7px;border-radius:50%;background:var(--lime);box-shadow:0 0 10px #b9ed6866}
+.journal-hero h1{font:600 clamp(2.5rem,6vw,5.2rem)/1.05 "Space Grotesk",sans-serif;letter-spacing:-.06em;max-width:none;margin:1.25rem 0}
+.cursor-mark{color:var(--lime)}
+.journal-hero .lede{font-size:clamp(.98rem,1.8vw,1.16rem);max-width:550px;color:#b9c8d9;line-height:1.75}
+.hero-meta{display:flex;gap:1rem 2rem;flex-wrap:wrap;margin-top:3.7rem;padding-top:1rem;border-top:1px solid #304155;color:#8da3b8;font:500 .65rem/1.6 var(--mono);letter-spacing:.025em}
+.hero-meta span:nth-child(2){color:var(--lime)}
+.section-heading{padding:0 0 1rem;border-top:0;border-bottom:1px solid var(--line);margin-bottom:0;align-items:center}
+.section-heading h2{font-size:1rem;color:#e7edf7}.section-heading h2:before{content:"./ ";color:var(--lime)}
+.entry-count{font:400 .68rem var(--mono);color:var(--muted);margin-left:.8rem}
+.section-heading a{font:500 .72rem var(--mono);color:var(--sky)}
+.journal-list{display:block;padding-bottom:5rem}
+.journal-list .post-card{display:grid;grid-template-columns:1fr;background:transparent;border:0;border-bottom:1px solid var(--line);border-radius:0;overflow:visible;box-shadow:none;transition:background .15s}
+.journal-list .post-card:has(.post-card__image){grid-template-columns:minmax(0,1fr) 180px}
+.journal-list .post-card:hover{transform:none;box-shadow:none;background:#111c2b}
+.journal-list .post-card__body{grid-row:1;grid-column:1;padding:1.6rem 1rem}
+.journal-list .post-card__image{grid-row:1;grid-column:2;align-self:center;margin:1rem;aspect-ratio:4/3;border:1px solid var(--line);background:#101a29}
+.journal-list .post-card h3{font:600 clamp(1.12rem,2.3vw,1.45rem)/1.3 "Space Grotesk",sans-serif;margin:.55rem 0;color:#f2f6fd}
+.journal-list .post-card h3 a:hover{color:var(--lime)}
+.journal-list .post-card p:not(.meta){max-width:660px;color:#9fb0c4;font-size:.87rem;margin:.5rem 0 .8rem}
+.journal-list .post-card .meta{color:#91a4b9;letter-spacing:.025em;font-size:.68rem}
+.entry-index{color:var(--lime)}
+.journal-list .text-link{font:500 .72rem var(--mono);color:var(--sky);text-decoration:none}
+.empty-journal{padding:3rem 1rem;color:var(--muted);font-family:var(--mono)}.empty-journal span{color:var(--lime)}
+.site-footer{padding:1.6rem clamp(1.25rem,5vw,5rem);background:#080d15}
+.article-content,.archive-list{color:#d7e2ef}
+.article-content a{color:var(--sky)}
+@media(max-width:600px){.journal-hero{padding:2.5rem 1.2rem 1.2rem;margin:1rem 0 2rem}.hero-meta{margin-top:2.4rem;gap:.5rem 1.3rem}.journal-list .post-card:has(.post-card__image){grid-template-columns:1fr}.journal-list .post-card__image{grid-row:1;grid-column:1;margin:1rem 1rem 0}.journal-list .post-card:has(.post-card__image) .post-card__body{grid-row:2}.journal-list .post-card__body{padding:1.35rem .5rem}.site-header{gap:.8rem}}
+
+/* Compact homepage banner */
+.journal-hero{padding:clamp(1.6rem,3.6vw,2.8rem) clamp(1.3rem,4vw,3rem) 1rem;margin:1.15rem 0 2.3rem}
+.journal-hero h1{font-size:clamp(2rem,4.3vw,3.6rem);margin:.75rem 0}
+.journal-hero .lede{font-size:.95rem;line-height:1.6}
+.journal-hero .hero-meta{margin-top:1.7rem;padding-top:.75rem}
+@media(max-width:600px){.journal-hero{padding:1.5rem 1rem 1rem;margin:.8rem 0 1.5rem}.journal-hero h1{font-size:clamp(1.9rem,8vw,2.6rem)}.journal-hero .hero-meta{margin-top:1.2rem}}
