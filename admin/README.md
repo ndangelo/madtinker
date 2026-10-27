@@ -1,33 +1,47 @@
 # Studio CMS dashboard prototype
 
-This is a front-end prototype for the Studio CMS project. It is intentionally static at this stage.
+This dashboard is the front-end prototype for the Studio CMS project.
 
-## Features currently implemented
+## Implemented in the browser
 
-- Posts list with search and status filters
-- Create and edit draft content
-- Browser-local draft storage using localStorage
-- Markdown formatting shortcuts, word count, and a basic preview
-- Export a post as a Jekyll-compatible Markdown file with YAML front matter
-- Responsive layout for desktop and mobile
+- Posts list with search across title, description, category, and tags
+- All / Published / Draft filters
+- Create and edit posts
+- Automatic local draft saving after a short pause while typing
+- Manual save with `Ctrl/Cmd + S`
+- Markdown formatting toolbar, word count, and a basic safe-text preview
+- Custom URL slug and featured-image path/URL fields
+- Export a post as a Jekyll-compatible Markdown file
+- Export and restore a JSON backup of the local post collection
+- Duplicate and delete posts
+- Responsive desktop and mobile layout
 
 ## Open the dashboard
 
-After GitHub Pages deployment is enabled, visit:
+Once GitHub Pages is enabled for the repository, visit:
 
 `https://ndangelo.github.io/madtinker/admin/`
 
-If the repository later moves to a custom domain or a different base path, update the link accordingly.
+## Data and privacy limits
 
-## Important limitations
-
-- This is not an authenticated admin system. The `noindex` meta tag is not access control.
+- This is **not a secured admin system**. The `noindex` tag only asks search engines not to index the page; it does not prevent anyone from opening it.
 - Do not enter confidential, sensitive, or student information.
-- Drafts are stored only in the current browser profile. Clearing browser storage can remove them, and they do not sync to GitHub.
-- The Export .md action downloads a local file; it does not upload or publish it.
-- The Publish button is disabled intentionally. GitHub authorization and commits must be handled by a secure backend, never by exposing a GitHub token in browser JavaScript.
-- The preview supports a small Markdown subset and is not intended to be a complete CommonMark renderer.
+- Posts are saved in the current browser profile using local storage. They are not synced across devices or committed to GitHub.
+- Export backups regularly if you use the prototype for real writing. Browser storage can be cleared, and local storage has limited capacity.
+- Exporting a Markdown file downloads it to your computer; it does not publish the file.
+- The preview implements a small Markdown subset, not full CommonMark.
+- The featured-image field stores only a path or URL. It does not upload the file.
 
-## Next engineering milestone
+## Publishing architecture
 
-Choose and configure a server-side publishing service with authentication and narrowly scoped GitHub access. Then replace local-only draft storage with authenticated API calls, add a real media upload endpoint, and add repository/site configuration. Keep secrets in server-side environment variables or managed secrets.
+The future production dashboard needs a server-side API with authentication and narrowly scoped GitHub access. GitHub credentials must never be embedded in browser JavaScript. A GitHub App installation limited to the selected repositories is preferred over a personal access token.
+
+Before exposing a live publishing endpoint, configure access control, validate every request server-side, validate file paths and content, add rate limits, and keep credentials in server-side secrets. Public GitHub Pages content is public; private drafts must not be committed to a public repository.
+
+## Next milestones
+
+1. Server-side authentication and GitHub publishing.
+2. Repository-backed post listing, creation, editing, and deletion.
+3. Media upload and folder browsing with real repository paths.
+4. Multi-site configuration and site switching.
+5. Robust Markdown preview, validation, revisions, and scheduling.
