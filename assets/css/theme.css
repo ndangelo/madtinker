@@ -1,0 +1,1 @@
+:root{--navy:#102e52;--lime:#c2f23a}body{background:#fff;color:var(--navy)}.site-header{background:var(--navy);color:#fff;border-bottom:4px solid var(--lime)}.hero{background:var(--navy);color:#fff}.hero .eyebrow{color:var(--lime)}.post-card__image{border-bottom:3px solid var(--lime)}.site-footer{background:#091e38;color:#fff;border-top:4px solid var(--lime)}
