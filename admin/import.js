@@ -49,7 +49,7 @@ function parse(text,filename){
   return {title,body,description:String(meta.description||meta.excerpt||"").slice(0,400),category:String(categories[0]||meta.category||""),tags:tags.join(", "),image:String(meta.image||""),slug:slug(String(meta.slug||title)),date,warnings,errors,filename};
 }
 function render(){
-  $("import-results").innerHTML=queue.length?queue.map((item,i)=>'<article class="import-row"><label><input type="checkbox" data-pick="'+i+'" '+(item.errors.length?"disabled":"checked")+'> <strong>'+clean(item.title)+'</strong></label><p class="import-note">'+clean(item.filename)+' · '+(item.date||"Date not found")+' · '+item.body.length+' characters</p>'+(item.errors.map(w=>'<p class="import-error">✕ '+clean(w)+'</p>').join(""))+(item.warnings.map(w=>'<p class="import-warning">⚠ '+clean(w)+'</p>').join(""))+'<details><summary>Inspect imported content</summary><pre>'+clean(item.body.slice(0,6000))+(item.body.length>6000?"\n… (preview truncated)":"")+'</pre></details></article>').join(""):"<p>No files selected.</p>";
+  $("import-results").innerHTML=queue.length?queue.map((item,i)=>'<article class="import-row"><label><input type="checkbox" data-pick="'+i+'" '+(item.errors.length?"disabled":"checked")+'> <strong>'+clean(item.title)+'</strong></label><p class="import-note">'+clean(item.filename)+' · '+(item.date||"Date not found")+' · '+item.body.length+' characters</p>'+(item.errors.map(w=>'<p class="import-error">✕ '+clean(w)+'</p>').join(""))+(item.warnings.map(w=>'<p class="import-warning">⚠ '+clean(w)+'</p>').join(""))+'<details><summary>Inspect imported content</summary><pre>'+clean(item.body.slice(0,6000))+(item.body.length>6000?"\n… (preview truncated)":"")+'</pre></details><details class="rendered-preview" data-preview-index="'+i+'"><summary>Rendered HTML preview</summary><p class="import-preview-note">Isolated preview: scripts and interactive embeds are disabled. Some WordPress stylesheet URLs may not resolve.</p><div class="preview-mount"></div></details></article>').join(""):"<p>No files selected.</p>";
   $("import-selected").disabled=!queue.some(x=>!x.errors.length);
 }
 $("import-files").addEventListener("change",async e=>{
@@ -85,5 +85,15 @@ $("import-selected").addEventListener("click",()=>{
   $("import-status").textContent=additions.length+" draft(s) saved locally; "+(picks.length-additions.length)+" duplicate title(s) skipped. Open Posts to review.";
   $("import-selected").disabled=true;
 });
+document.getElementById("import-results").addEventListener("toggle",event=>{
+ const details=event.target;
+ if(!(details instanceof HTMLDetailsElement)||!details.open||!details.matches("[data-preview-index]"))return;
+ const item=queue[Number(details.dataset.previewIndex)];
+ const mount=details.querySelector(".preview-mount");
+ if(!item||!mount||mount.firstChild)return;
+ const frame=document.createElement("iframe");frame.className="import-preview";frame.setAttribute("sandbox","");frame.title="Isolated rendered preview of "+item.filename;
+ frame.srcdoc=window.studioRenderPreview?window.studioRenderPreview(item.body):"<p>Preview renderer unavailable.</p>";
+ mount.appendChild(frame);
+},true);
 render();
 })();
