@@ -14,13 +14,13 @@ function toHtml(source){
  }).join("\n");
 }
 window.studioRenderPreview=function(source,options={}){
- let html=toHtml(source);
- if(options.articleOnly && /^\\s*<!doctype\\s+html|^\\s*<html[\\s>]/i.test(html)){
+ let html=options.mode==="html"?String(source||""):toHtml(source);
+ if(options.articleOnly && /^\s*<!doctype\s+html|^\s*<html[\s>]/i.test(html)){
    try{
      const documentCopy=new DOMParser().parseFromString(html,"text/html");
      const article=documentCopy.querySelector(".noj-entry-content, .entry-content, .post-content, article, main");
      if(article){
-       const styles=Array.from(documentCopy.querySelectorAll("style")).map(node=>node.outerHTML).join("\\n");
+       const styles=Array.from(documentCopy.querySelectorAll("style")).map(node=>node.outerHTML).join("\n");
        const title=documentCopy.querySelector("article h1, main h1, h1");
        html=styles+"<main>"+(title?title.outerHTML:"")+article.innerHTML+"</main>";
      }
@@ -30,6 +30,6 @@ window.studioRenderPreview=function(source,options={}){
  const policy='<meta http-equiv="Content-Security-Policy" content="default-src \'none\'; img-src https: data:; style-src \'unsafe-inline\' https:; font-src https: data:; base-uri \'none\'; form-action \'none\'; frame-src \'none\'; connect-src \'none\'">';
  const style="<style>body{font-family:system-ui,sans-serif;color:#222;margin:24px;line-height:1.6;overflow-wrap:anywhere}img,video{max-width:100%;height:auto}pre{white-space:pre-wrap}</style>";
  // Inert preview: script execution is disabled by the iframe sandbox and CSP.
- return policy+style+html;
+ return "<!doctype html><html><head><meta charset=\"utf-8\">"+policy+style+"</head><body>"+html+"</body></html>";
 };
 })();
