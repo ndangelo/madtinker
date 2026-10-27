@@ -1,7 +1,8 @@
 title: Studio Journal
 description: A reusable static publishing starter.
-url: ""
-baseurl: ""
+author: Nick
+url: "https://ndangelo.github.io"
+baseurl: "/madtinker"
 markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title/
 timezone: America/New_York
