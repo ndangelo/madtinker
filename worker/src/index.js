@@ -42,7 +42,9 @@ export default {
           const content = new TextDecoder().decode(base64ToBytes(String(file.content || "").replace(/\n/g, "")));
           return json({ name: file.name, path: file.path, sha: file.sha, content, url: file.html_url }, 200, cors);
         }
-        const files = await githubRequest(env, "GET", repoContentsPath(env, "_posts", siteId), undefined, siteId);
+        let files = [];
+        try { files = await githubRequest(env, "GET", repoContentsPath(env, "_posts", siteId), undefined, siteId); }
+        catch (error) { if (error.status !== 404) throw error; }
         const posts = (Array.isArray(files) ? files : [])
           .filter(file => file.type === "file" && /^\d{4}-\d{2}-\d{2}-.+\.md$/i.test(file.name))
           .map(file => ({ name: file.name, path: file.path, sha: file.sha, size: file.size, url: file.html_url }));
@@ -77,7 +79,9 @@ export default {
 
       if (url.pathname === "/api/media" && request.method === "GET") {
         const folder = validateMediaFolder(url.searchParams.get("folder") || "assets/images");
-        const files = await githubRequest(env, "GET", repoContentsPath(env, folder, siteId), undefined, siteId);
+        let files = [];
+        try { files = await githubRequest(env, "GET", repoContentsPath(env, folder, siteId), undefined, siteId); }
+        catch (error) { if (error.status !== 404) throw error; }
         const items = (Array.isArray(files) ? files : []).map(item => ({
           name: item.name, path: item.path, sha: item.sha, size: item.size, type: item.type, url: item.download_url
         }));
