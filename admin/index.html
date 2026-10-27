@@ -46,13 +46,13 @@
       </section>
 
       <section id="editor-view" class="view" hidden>
-        <div class="editor-heading"><button class="back-link" id="back-to-posts">← All posts</button><div class="editor-heading-actions"><span class="save-status" id="save-status">Unsaved changes</span><button class="secondary-btn" id="preview-btn">Preview</button><button class="primary-btn" id="save-draft">Save draft</button></div></div>
+        <div class="editor-heading"><button class="back-link" id="back-to-posts">← All posts</button><div class="editor-heading-actions"><span class="save-status" id="save-status">Unsaved changes</span><button class="secondary-btn" id="export-post">Export .md</button><button class="secondary-btn" id="preview-btn">Preview</button><button class="primary-btn" id="save-draft">Save draft</button></div></div>
         <div class="editor-grid">
           <div class="editor-main">
             <p class="eyebrow">POST EDITOR</p><h1 class="editor-title">Write something worth sharing.</h1>
             <label class="field-label" for="post-title">Post title</label><input class="title-input" id="post-title" placeholder="Give your post a title…" maxlength="140">
             <label class="field-label" for="post-description">Short description</label><textarea class="description-input" id="post-description" rows="2" placeholder="A short summary for the homepage and search results…"></textarea>
-            <div class="body-toolbar"><span>ARTICLE BODY</span><span>Markdown supported</span></div>
+            <div class="body-toolbar"><span>ARTICLE BODY</span><span id="word-count">0 words · Markdown</span></div><div class="format-toolbar" role="toolbar" aria-label="Markdown formatting"><button type="button" data-wrap="**" aria-label="Bold" title="Bold">B</button><button type="button" data-wrap="*" aria-label="Italic" title="Italic"><em>I</em></button><button type="button" data-prefix="## " title="Heading">H2</button><button type="button" data-prefix="- " title="List item">• List</button><button type="button" data-link="true" title="Insert link">↗ Link</button><span class="toolbar-spacer"></span><span class="toolbar-hint">Formatting inserts Markdown</span></div>
             <textarea class="body-input" id="post-body" spellcheck="true" placeholder="Start writing here…
 
 You can use Markdown:
