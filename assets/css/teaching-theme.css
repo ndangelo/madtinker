@@ -101,3 +101,53 @@
 .teaching-article .teaching-content .gradient-part-two .gp-code {
   background:#070d18!important;color:#edf3ff!important;
 }
+
+/* AMDE 155/355 Week 1 and related grid lessons: legacy white sections
+   were not covered by the first shared palette pass. */
+.teaching-article .teaching-content .amde-grid-lesson {
+  --ag-ink:var(--mt-text);--ag-muted:var(--mt-muted);
+  --ag-paper:var(--mt-bg);--ag-line:var(--mt-line);
+  --ag-blue:var(--mt-sky);--ag-green:var(--mt-lime);
+  --ag-yellow:var(--mt-orange);
+}
+.teaching-article .teaching-content .amde-grid-lesson .ag-section {
+  background:var(--mt-surface)!important;
+  border-color:var(--mt-line)!important;
+  color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .ag-section > h2 {
+  color:var(--mt-sky)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .ag-section :is(p,li,dt,dd) {
+  color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .ag-callout,
+.teaching-article .teaching-content .amde-grid-lesson .ag-callout.ag-green,
+.teaching-article .teaching-content .amde-grid-lesson .ag-callout.ag-yellow {
+  background:var(--mt-card)!important;
+  color:var(--mt-text)!important;
+  border-left-color:var(--mt-lime)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .ag-card {
+  background:var(--mt-card)!important;
+  color:var(--mt-text)!important;
+  border-color:var(--mt-line)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .ag-card h3 {
+  color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson :is(.ag-number,.ag-code-label,.ag-html-label,.ag-css-label) {
+  background:var(--mt-surface)!important;
+  color:var(--mt-orange)!important;
+  border:1px solid var(--mt-line);
+}
+.teaching-article .teaching-content .amde-grid-lesson code.ag-inline {
+  background:var(--mt-card)!important;
+  color:var(--mt-sky)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .ag-chip {
+  background:var(--mt-card)!important;
+  color:var(--mt-text)!important;
+  border-color:var(--mt-line)!important;
+}
+/* Preserve colored HTML/CSS tokens inside preformatted examples. */
