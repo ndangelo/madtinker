@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 
 <section class="ag-hero">
@@ -251,3 +252,4 @@ tags: []
 </section>
 <p class="ag-footer">AMDE 355 · Advanced Web Design · Week 05 · Break the grid with intention, not by accident.</p>
 </div>
+{:/nomarkdown}
