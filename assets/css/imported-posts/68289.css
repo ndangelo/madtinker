@@ -19,3 +19,27 @@
 .amde-case .bottom h2{color:white;margin-top:0}.amde-case .bottom p{color:#f3f6f6}
 .amde-case .small{font-size:.91rem;color:#5e6870}
 @media(max-width:640px){.amde-case .grid{grid-template-columns:1fr}.amde-case .wrap{padding:0 12px}.amde-case .hero{border-radius:12px}}
+
+/* MadTinker integration: retain the original case-study palette and layout. */
+.teaching-content .amde-case {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: clip;
+  padding: clamp(16px, 3vw, 30px) 0;
+  background: #fffdf9;
+  color: #252525;
+  border-radius: 14px;
+}
+.teaching-content .amde-case .wrap,
+.teaching-content .amde-case .grid,
+.teaching-content .amde-case .card,
+.teaching-content .amde-case .callout,
+.teaching-content .amde-case .example { min-width: 0; max-width: 100%; }
+.teaching-content .amde-case .wrap > p,
+.teaching-content .amde-case .wrap > ul,
+.teaching-content .amde-case .wrap > ol { color: #252525; }
+.teaching-content .amde-case .hero h1 { color: #fffdf9; }
+.teaching-content .amde-case .hero p { color: #f1ece5; }
+.teaching-content .amde-case .wrap > h2 { color: #252525; }
+.teaching-content .amde-case .card h3 { color: #426b7a; }
