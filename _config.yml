@@ -4,6 +4,9 @@ author: Nick
 url: "https://madtinker.net"
 baseurl: ""
 markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
 permalink: /:categories/:year/:month/:day/:title/
 timezone: America/New_York
 plugins:
