@@ -56,3 +56,13 @@
 /* Teaching headings are content, not Markdown syntax decoration. */
 .teaching-article .teaching-content h2::before,
 .teaching-article .teaching-content h3::before { content: none !important; }
+
+/* Contrast correction: legacy paragraphs sometimes retain near-black ink on navy. */
+.teaching-article .teaching-content :is(.amde-case,.amde-grid-lesson,#amde477-campaign-guide) p,
+.teaching-article .teaching-content :is(.amde-case,.amde-grid-lesson,#amde477-campaign-guide) li,
+.teaching-article .teaching-content :is(.amde-case,.amde-grid-lesson,#amde477-campaign-guide) dd {
+  color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content :is(.amde-case,.amde-grid-lesson,#amde477-campaign-guide) :is(.muted,.subtitle,.lede,.small,.secondary) {
+  color:var(--mt-muted)!important;
+}
