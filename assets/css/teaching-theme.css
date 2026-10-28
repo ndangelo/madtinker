@@ -76,3 +76,28 @@
 .teaching-article .teaching-content :is(.card,.ag-card,.panel,.box,.example) h2 {
   color:var(--mt-text)!important;
 }
+
+/* Gradients Part II (68303): beat legacy !important light-canvas rules.
+   Do not override gradient demo swatches, syntax colors, or preview elements. */
+.teaching-article .teaching-content .gradient-part-two {
+  background:var(--mt-bg)!important;color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content .gradient-part-two :is(h2,h3) {
+  color:var(--mt-sky)!important;
+}
+.teaching-article .teaching-content .gradient-part-two :is(p,li,dd,dt) {
+  color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content .gradient-part-two :is(.gp-card,.gp-section,.gp-callout,.gp-footer) {
+  background-color:var(--mt-card)!important;color:var(--mt-text)!important;
+  border-color:var(--mt-line)!important;
+}
+.teaching-article .teaching-content .gradient-part-two .gp-card :is(p,li,h3) {
+  color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content .gradient-part-two .gp-kicker {
+  color:var(--mt-orange)!important;
+}
+.teaching-article .teaching-content .gradient-part-two .gp-code {
+  background:#070d18!important;color:#edf3ff!important;
+}
