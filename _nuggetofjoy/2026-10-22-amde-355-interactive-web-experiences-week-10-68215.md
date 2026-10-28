@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 
 <!-- BEGINNER-FRIENDLY JAVASCRIPT EXPLAINER -->
@@ -492,3 +493,4 @@ buttons.forEach((button) <span class="tok-punct">=&gt;</span> <span class="tok-p
 </section>
 <footer class="ag-footer"><p><strong>AMDE 355 · Advanced Web Design</strong> — Week 10</p><p>Interactive Web Experiences · Plan the behavior, communicate the state, and test the response.</p></footer>
 </div>
+{:/nomarkdown}
