@@ -183,3 +183,23 @@
 .article-content.teaching-content.gradient-part-two .gp-kicker{color:#c8ff3d!important}
 .article-content.teaching-content.gradient-part-two .gp-footer p{color:#e0eafa!important}
 @media(max-width:760px){.article-content.teaching-content.gradient-part-two .gp-grid{grid-template-columns:minmax(0,1fr)}}
+
+/* Final isolated lesson surface: override host article typography only within the lesson. */
+.teaching-content .gradient-part-two{display:flow-root;width:100%;max-width:100%;min-width:0;overflow:hidden;background:#f5f7fb!important;color:#263248!important;padding:clamp(16px,3vw,34px);font:400 16px/1.65 system-ui,-apple-system,"Segoe UI",sans-serif}
+.teaching-content .gradient-part-two>h2,.teaching-content .gradient-part-two h2{display:block!important;visibility:visible!important;color:#101b35!important;background:transparent!important;opacity:1!important;font:700 clamp(24px,3vw,32px)/1.3 system-ui,-apple-system,"Segoe UI",sans-serif!important;letter-spacing:-.02em!important;text-transform:none!important;margin:30px 0 14px!important;max-width:100%;white-space:normal!important}
+.teaching-content .gradient-part-two h2::before,.teaching-content .gradient-part-two h2::after{content:none!important}
+.teaching-content .gradient-part-two>p,.teaching-content .gradient-part-two p{color:#263248!important;opacity:1!important;visibility:visible!important;font:400 16px/1.7 system-ui,-apple-system,"Segoe UI",sans-serif!important;max-width:100%;white-space:normal!important;overflow-wrap:break-word!important}
+.teaching-content .gradient-part-two .gp-card p,.teaching-content .gradient-part-two .gp-card li{color:#263248!important}
+.teaching-content .gradient-part-two .gp-code{overflow-x:auto!important;white-space:pre!important;max-width:100%;color:#edf3ff!important}
+.teaching-content .gradient-part-two .gp-code *{font-family:ui-monospace,SFMono-Regular,Consolas,monospace!important}
+.teaching-content .gradient-part-two .gp-code .gp-prop{color:#75cfff!important}
+.teaching-content .gradient-part-two .gp-code .gp-fn{color:#c8ff3d!important}
+.teaching-content .gradient-part-two .gp-code .gp-color{color:#ff9c55!important}
+.teaching-content .gradient-part-two .gp-code .gp-value{color:#ff82c8!important}
+.teaching-content .gradient-part-two .gp-kicker{color:#c8ff3d!important;background:#101b35}
+.teaching-content .gradient-part-two .gp-chips{background:#101b35}
+.teaching-content .gradient-part-two .gp-chip{color:#fff!important}
+.teaching-content .gradient-part-two .gp-footer p{color:#e0eafa!important}
+.teaching-content .gradient-part-two .gp-grid{grid-template-columns:repeat(2,minmax(0,1fr));max-width:100%}
+.teaching-content .gradient-part-two .gp-card{min-width:0;max-width:100%}
+@media(max-width:700px){.teaching-content .gradient-part-two .gp-grid{grid-template-columns:minmax(0,1fr)}}
