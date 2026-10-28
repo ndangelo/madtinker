@@ -31,3 +31,43 @@
 .teaching-content pre code,.teaching-content .highlight code{display:block;background:transparent!important;color:inherit!important;white-space:pre!important;overflow-wrap:normal!important;font: .88rem/1.65 ui-monospace,SFMono-Regular,Consolas,monospace!important}
 .teaching-content :not(pre)>code{padding:.12rem .32rem;border-radius:3px;background:#1b3049;color:#b6f6d1;overflow-wrap:anywhere}
 .teaching-content .highlight,.teaching-content .highlight pre{background:#0b1729!important;color:#e7f0fa!important}
+
+/* Shared containment for original WordPress lesson components. */
+.teaching-content { min-width: 0; }
+.teaching-content > div,
+.teaching-content > section,
+.teaching-content > article { max-width: 100%; min-width: 0; }
+.teaching-content .amde-grid-lesson {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: clip;
+  background: #fff;
+  color: #182033;
+  padding: clamp(16px, 3vw, 32px);
+  border-radius: 14px;
+}
+.teaching-content .amde-grid-lesson .ag-section,
+.teaching-content .amde-grid-lesson .ag-card,
+.teaching-content .amde-grid-lesson .ag-callout,
+.teaching-content .amde-grid-lesson .ag-grid { min-width: 0; max-width: 100%; }
+.teaching-content .amde-grid-lesson .ag-section { color: #182033; }
+.teaching-content .amde-grid-lesson .ag-section h2,
+.teaching-content .amde-grid-lesson .ag-section h3,
+.teaching-content .amde-grid-lesson .ag-card h3 { color: #182033; }
+.teaching-content .amde-grid-lesson pre.ag-code {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: auto !important;
+  white-space: pre !important;
+  overflow-wrap: normal !important;
+}
+.teaching-content .amde-grid-lesson pre.ag-code code {
+  display: block;
+  width: max-content;
+  min-width: 100%;
+  max-width: none;
+  white-space: pre !important;
+  overflow-wrap: normal !important;
+}
