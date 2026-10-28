@@ -155,3 +155,14 @@
 .gradient-part-two .gp-reference th{background:#101b35;color:#fff}
 .gradient-part-two .gp-reference code{white-space:normal;overflow-wrap:anywhere}
 .gradient-part-two .gp-footer h3{color:white}
+
+/* Keep the imported lesson within the article column, not the viewport. */
+.teaching-content.gradient-part-two{min-width:0;max-width:100%;overflow:hidden}
+.teaching-content.gradient-part-two .gradient-part-two{min-width:0;max-width:100%;overflow:hidden}
+.teaching-content.gradient-part-two h2,.teaching-content.gradient-part-two p,.teaching-content.gradient-part-two li{overflow-wrap:break-word;text-transform:none;letter-spacing:normal}
+.teaching-content.gradient-part-two p{color:#263248;font-weight:400}
+.teaching-content.gradient-part-two .gp-kicker{color:#c8ff3d;font-weight:800}
+.teaching-content.gradient-part-two .gp-code{max-width:100%;overflow-x:auto;white-space:pre;font-size:12px;letter-spacing:normal;text-transform:none}
+.teaching-content.gradient-part-two .gp-grid{min-width:0;max-width:100%}
+.teaching-content.gradient-part-two .gp-footer p,.teaching-content.gradient-part-two .gp-hero p{color:#e0eafa}
+.teaching-content.gradient-part-two .gp-list-item{margin:3px 0 3px 15px}
