@@ -52,3 +52,7 @@
   .teaching-article .teaching-content :is(.amde-grid-lesson,.amde-case) {padding:16px}
 }
 /* Keep intentional demonstrations, images, and embedded media untouched. */
+
+/* Teaching headings are content, not Markdown syntax decoration. */
+.teaching-article .teaching-content h2::before,
+.teaching-article .teaching-content h3::before { content: none !important; }
