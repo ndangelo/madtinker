@@ -9,16 +9,6 @@ timezone: America/New_York
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      author: Nick
-collections:
-  pages:
-    output: true
 exclude:
   - README.md
   - Gemfile
@@ -26,3 +16,24 @@ exclude:
   - node_modules
   - worker
   - admin/README.md
+
+# Review-only imported teaching archive; not part of site.posts.
+collections:
+  pages:
+    output: true
+  nuggetofjoy:
+    output: true
+    permalink: /teaching/:name/
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: Nick
+  - scope:
+      path: ""
+      type: nuggetofjoy
+    values:
+      layout: teaching-post
+      author: Nick
