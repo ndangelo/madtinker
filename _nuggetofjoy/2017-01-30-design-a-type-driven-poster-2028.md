@@ -25,8 +25,8 @@ tags: []
 <h5><strong>Step 1</strong></h5>
 Choose from among: flu prevention, wellness (webmd.com or prevention.com or any brand or organization), or a cable television or web channel featuring old films and TV programs (for example, TCM or hulu.com).
 
-<img alt="2015-09-09 10_52_03-FluPoster.pdf" class="size-full wp-image-1299 aligncenter" height="818" src="http://nuggetofjoy.com/wp-content/uploads/2015/08/2015-09-09-10_52_03-FluPoster.pdf.png" width="585"/>
-<img alt="2015-09-09 10_57_02-Hulu Poster.pdf" class="size-full wp-image-1302 aligncenter" height="861" src="http://nuggetofjoy.com/wp-content/uploads/2015/08/2015-09-09-10_57_02-Hulu-Poster.pdf.png" width="571"/>
+<img alt="2015-09-09 10_52_03-FluPoster.pdf" class="size-full wp-image-1299 aligncenter" height="818" src="https://nuggetofjoy.com/wp-content/uploads/2015/08/2015-09-09-10_52_03-FluPoster.pdf.png" width="585"/>
+<img alt="2015-09-09 10_57_02-Hulu Poster.pdf" class="size-full wp-image-1302 aligncenter" height="861" src="https://nuggetofjoy.com/wp-content/uploads/2015/08/2015-09-09-10_57_02-Hulu-Poster.pdf.png" width="571"/>
 <h5></h5>
 <strong>Research your subject.</strong>
 <ul>
@@ -41,7 +41,7 @@ Choose from among: flu prevention, wellness (webmd.com or prevention.com or any 
 <li>Design a poster that is type driven—that is, the type is the star of the poster. If you use any image, it should play a secondary role to the type-driven headline.</li>
 <li>Produce at least twenty sketches.</li>
 </ol>
-<img alt="2015-09-09 10_43_30-Sean Puzzo 1.pdf" class="wp-image-1300 aligncenter" height="485" src="http://nuggetofjoy.com/wp-content/uploads/2015/08/2015-09-09-10_43_30-Sean-Puzzo-1.pdf.png" width="688"/>
+<img alt="2015-09-09 10_43_30-Sean Puzzo 1.pdf" class="wp-image-1300 aligncenter" height="485" src="https://nuggetofjoy.com/wp-content/uploads/2015/08/2015-09-09-10_43_30-Sean-Puzzo-1.pdf.png" width="688"/>
 <h5><strong>Step 3</strong></h5>
 <ol>
 <li>Choose two of your best sketches and refine them.</li>

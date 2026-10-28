@@ -58,7 +58,7 @@ tags: []
 This flexible template takes out the technical trickery of creating your own cover design, with a spine that can be resized easily, easy-to-edit layers, and a simple yet stylish design. Already set up for full CMYK printing and including a bleed, you can focus your energies on simply creating a cool design for your cover.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-280.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-280.png)
 
 
 Castillo's novel sheds light on the violent political history of the Philippines during the 1980s and 1990s, as well as the insular immigrant communities that emerge in suburban United States. With a keen understanding of the unspoken intimacies and pain often buried beneath the demands of everyday life and family rituals, Castillo delivers a powerful and increasingly relevant narrative. The story explores the promise of the American dream and the enduring influence of the past.
@@ -67,7 +67,7 @@ Castillo's novel sheds light on the violent political history of the Philippines
 Castillo, E. (2018). *America is not the heart: A novel.*
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-18.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-18.png)
 
 
 Newlyweds Celestial and Roy represent both the American Dream and the evolving identity of the New South. Roy is a young executive, while Celestial is an artist poised for a promising career. However, as they begin to settle into their new life, unforeseen circumstances tear them apart. Roy is arrested and given a 12-year sentence for a crime Celestial believes he didn’t commit.
@@ -79,7 +79,7 @@ Despite her strong sense of independence, Celestial feels lost and adrift, seeki
 Jones, T. (2018). *An American Marriage (Oprah's Book Club): A Novel*. Algonquin Books.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-14.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-14.png)
 
 
 "The Boat People" is narrated through the perspectives of Mahindan, his reluctant lawyer Priya, and Grace, a third-generation Japanese-Canadian adjudicator responsible for determining Mahindan's fate. This gripping novel provides a compassionate viewpoint on the ongoing refugee crisis. Drawing inspiration from real-life events, the story features vivid imagery that contrasts the haunting beauty of northern Sri Lanka with the tense refugee hearings in Vancouver, where critical life-and-death decisions are made. Sharon Bala's remarkable debut is both memorable and timely, addressing important contemporary issues.
@@ -88,7 +88,7 @@ Jones, T. (2018). *An American Marriage (Oprah's Book Club): A Novel*. Algonqui
 Bala, S. (2018). *The boat people*. McClelland & Stewart.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-16.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-16.png)
 
 
 Christopher John Francis Boone is knowledgeable about all the countries and their capitals, and he can list every prime number up to 7,057. He has a strong connection to animals but struggles to grasp human emotions. He dislikes being touched and has a particular aversion to the color yellow.

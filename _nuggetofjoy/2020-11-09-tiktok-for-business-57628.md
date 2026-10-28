@@ -96,7 +96,7 @@ Start off with creating content around trends on TikTok. It could be either a so
 Find these trends from the **Discover** option at the bottom of your screen:
 
 
-![tiktok discover](http://nuggetofjoy.com/wp-content/uploads/tiktok-discover-2.jpg)
+![tiktok discover](https://nuggetofjoy.com/wp-content/uploads/tiktok-discover-2.jpg)
 
 
 ### Join or create a hashtag challenge
@@ -111,7 +111,7 @@ As you jump start your TikTok marketing efforts, it’s a good idea to get invol
 One thing’s for sure, getting involved in hashtag challenges brings engagement. Mercedes-Benz introduced the #MBStarChallenge, asking its audience to re-envision their logo. The challenge got 1.64 million page views in the UK alone, resulting in lots of new user generated content and[30,000 new followers](https://ads.tiktok.com/homepage/inspiration/14) for Mercedes-Benz.
 
 
-![tiktok mercedes benz](http://nuggetofjoy.com/wp-content/uploads/tik-tok-mercedes-benz-2.jpg)
+![tiktok mercedes benz](https://nuggetofjoy.com/wp-content/uploads/tik-tok-mercedes-benz-2.jpg)
 
 
 ### Collaborate with influencers
@@ -135,7 +135,7 @@ These ads run between 9-15 seconds and support multiple CTAs. As the name sugges
 For inspiration, look to French dessert company [Danette, who used in-feed ads](https://www.tiktok.com/business/en/inspiration/10)with other ad types to drive traffic to their hashtag challenge page:
 
 
-![tiktok In feed ads example](http://nuggetofjoy.com/wp-content/uploads/tik-tok-In-feed-ads-example-2.jpg)
+![tiktok In feed ads example](https://nuggetofjoy.com/wp-content/uploads/tik-tok-In-feed-ads-example-2.jpg)
 
 
 #### Brand takeovers
@@ -147,7 +147,7 @@ These ads can be in the form of still images, GIFs as well as videos. They appea
 A good example of brand takeover ads is their use by makeup brand [Too Faced for driving awareness](https://www.tiktok.com/business/en/inspiration/9) and direct sales:
 
 
-![tiktok branded takeover ads](http://nuggetofjoy.com/wp-content/uploads/tik-tok-branded-takeover-ads-2.jpg)
+![tiktok branded takeover ads](https://nuggetofjoy.com/wp-content/uploads/tik-tok-branded-takeover-ads-2.jpg)
 
 
 #### TopView ads
@@ -159,7 +159,7 @@ Unlike native videos, TopView ads fill the entire screen space. However, like br
 A case in point here is Balenciaga, who [used TopView ads](https://www.tiktok.com/business/en/inspiration/19) in combination with brand takeovers to raise awareness of their brand:
 
 
-![tiktok topview ads example](http://nuggetofjoy.com/wp-content/uploads/tik-tok-topview-ads-example-2.jpg)
+![tiktok topview ads example](https://nuggetofjoy.com/wp-content/uploads/tik-tok-topview-ads-example-2.jpg)
 
 
 #### Branded lenses
@@ -168,7 +168,7 @@ A case in point here is Balenciaga, who [used TopView ads](https://www.tiktok.c
 Lastly, you have the option to create your own filter to promote your brand.[Colgate](https://ads.tiktok.com/homepage/inspiration/16) ran this ad type by creating an effect with exploding hearts:
 
 
-![tiktok marketing colgate ad](http://nuggetofjoy.com/wp-content/uploads/tiktok-marketing-colgate-ad-2.jpg)
+![tiktok marketing colgate ad](https://nuggetofjoy.com/wp-content/uploads/tiktok-marketing-colgate-ad-2.jpg)
 
 
 Interested in trying any of these ads on TikTok? Here’s a quick look at the pricing for each ad type - keep in mind that advertising on TikTok is expensive, and might not be suitable for smaller businesses:
@@ -192,13 +192,13 @@ Work out how you’d showcase your product or service. If you’d like to create
 Simply download TikTok and sign up either with your phone number or email. Alternatively, you can continue with your Facebook, Google or Apple ID:
 
 
-![tiktok signup screen](http://nuggetofjoy.com/wp-content/uploads/Tik-tok-signup-screen-2.jpg)
+![tiktok signup screen](https://nuggetofjoy.com/wp-content/uploads/Tik-tok-signup-screen-2.jpg)
 
 
 Once done, click on the ‘**Me’** icon on the bottom right of your screen and press ‘**Edit profile’**to add your details including your bio:
 
 
-![tiktok edit your profile](http://nuggetofjoy.com/wp-content/uploads/Tik-tok-edit-your-profile-2.jpg)
+![tiktok edit your profile](https://nuggetofjoy.com/wp-content/uploads/Tik-tok-edit-your-profile-2.jpg)
 
 
 ## How to create your first TikTok video
@@ -207,13 +207,13 @@ Once done, click on the ‘**Me’** icon on the bottom right of your screen an
 Get started with creating your first video by clicking the **+** option in the centre of your screen:
 
 
-![tiktok recording](http://nuggetofjoy.com/wp-content/uploads/tik-tok-recording-2.jpg)
+![tiktok recording](https://nuggetofjoy.com/wp-content/uploads/tik-tok-recording-2.jpg)
 
 
 Choose your video duration and press the red button to start recording. From there, you can add sound, effects, text and stickers from the options laid out for you at the bottom of the recorded video clip:
 
 
-![tiktok editing options](http://nuggetofjoy.com/wp-content/uploads/Tiktok-editing-options-2.jpg)
+![tiktok editing options](https://nuggetofjoy.com/wp-content/uploads/Tiktok-editing-options-2.jpg)
 
 
 You can also change the filters and apply voice effects to your original audio and recordings where you aren’t using sounds.

@@ -13,13 +13,13 @@ categories:
 tags: []
 ---
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-87.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-87.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-88.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-88.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-89-1024x1024.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-89-1024x1024.png)
 
 
 - Before we embark on a full social media marketing campaign it is important that we experiment with creating posts using your brand.
@@ -54,10 +54,10 @@ Marketing and Social Media.
 ## Marketing Won the day
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-90.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-90.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-91.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-91.png)
 
 
 <div class="wp-block-embed__wrapper">

@@ -41,34 +41,34 @@ Style tiles are for when a moodboard is too vague and a comp is too literal. Sty
 **Some style tile examples can be seen below.**
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/0b8ea621f6fb78811727e307ae0289a6-style-tiles-website-design.jpg)](http://nuggetofjoy.com/wp-content/uploads/0b8ea621f6fb78811727e307ae0289a6-style-tiles-website-design.jpg)
+[![](https://nuggetofjoy.com/wp-content/uploads/0b8ea621f6fb78811727e307ae0289a6-style-tiles-website-design.jpg)](https://nuggetofjoy.com/wp-content/uploads/0b8ea621f6fb78811727e307ae0289a6-style-tiles-website-design.jpg)
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/Fawkes-FX-What-is-a-Style-Tile-Example-2-1024x576.jpg)](http://nuggetofjoy.com/wp-content/uploads/Fawkes-FX-What-is-a-Style-Tile-Example-2.jpg)
+[![](https://nuggetofjoy.com/wp-content/uploads/Fawkes-FX-What-is-a-Style-Tile-Example-2-1024x576.jpg)](https://nuggetofjoy.com/wp-content/uploads/Fawkes-FX-What-is-a-Style-Tile-Example-2.jpg)
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/style_tile_02-1024x576.png)](http://nuggetofjoy.com/wp-content/uploads/style_tile_02.png)
+[![](https://nuggetofjoy.com/wp-content/uploads/style_tile_02-1024x576.png)](https://nuggetofjoy.com/wp-content/uploads/style_tile_02.png)
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/dec7d04013c880113da804fdf1e1c12d-480x1024.jpg)](http://nuggetofjoy.com/wp-content/uploads/dec7d04013c880113da804fdf1e1c12d.jpg)
+[![](https://nuggetofjoy.com/wp-content/uploads/dec7d04013c880113da804fdf1e1c12d-480x1024.jpg)](https://nuggetofjoy.com/wp-content/uploads/dec7d04013c880113da804fdf1e1c12d.jpg)
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/2015/09/opencongress-element-collage-8001.png)](http://nuggetofjoy.com/wp-content/uploads/2015/09/opencongress-element-collage-8001.png)
+[![](https://nuggetofjoy.com/wp-content/uploads/2015/09/opencongress-element-collage-8001.png)](https://nuggetofjoy.com/wp-content/uploads/2015/09/opencongress-element-collage-8001.png)
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/2015/09/ew-style-tile.png)](http://nuggetofjoy.com/wp-content/uploads/2015/09/ew-style-tile.png)
+[![](https://nuggetofjoy.com/wp-content/uploads/2015/09/ew-style-tile.png)](https://nuggetofjoy.com/wp-content/uploads/2015/09/ew-style-tile.png)
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/2015/09/opencongress-element-collage-800.png)](http://nuggetofjoy.com/wp-content/uploads/2015/09/opencongress-element-collage-800.png)
+[![](https://nuggetofjoy.com/wp-content/uploads/2015/09/opencongress-element-collage-800.png)](https://nuggetofjoy.com/wp-content/uploads/2015/09/opencongress-element-collage-800.png)
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/2015/09/ply-element-collage2.jpg)](http://nuggetofjoy.com/wp-content/uploads/2015/09/ply-element-collage2.jpg)
+[![](https://nuggetofjoy.com/wp-content/uploads/2015/09/ply-element-collage2.jpg)](https://nuggetofjoy.com/wp-content/uploads/2015/09/ply-element-collage2.jpg)
 
 
 The following template might be a good place to start. It should not be used as an exact template. It should be used as inspiration. It should help you design an interesting layout,
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/2014/02/Mood-Board-1024x663.png)](http://nuggetofjoy.com/wp-content/uploads/2014/02/Mood-Board.png)
+[![](https://nuggetofjoy.com/wp-content/uploads/2014/02/Mood-Board-1024x663.png)](https://nuggetofjoy.com/wp-content/uploads/2014/02/Mood-Board.png)
 
 
 This is the actual process of composing the style tile. Determine themes from the aggregated adjectives and begin to match them up with styles. The Style Tiles give the client a point of reference to determine if you both are on the same page.

@@ -35,7 +35,7 @@ The document below is what was presented in class. It presents important questio
 **Do NOT start with creating your Design Brief.** The above pdf is an EXAMPLE and an example only. Your Design brief will follow different criteria. You should only concentrate on conceptualising. We will discuss this further in class.
 
 
-![What is a Graphic Design Brief?](http://nuggetofjoy.com/wp-content/uploads/51021.pic_-15.jpg)
+![What is a Graphic Design Brief?](https://nuggetofjoy.com/wp-content/uploads/51021.pic_-15.jpg)
 
 
 Clear communication is fundamental for success in design projects, as well as in all types of creative endeavors. It's common to assume that because something is clear in our minds, others will automatically understand it too. However, without clearly articulating our vision in a detailed and organized manner, it becomes challenging for others to meet our expectations. This is why understanding the importance of graphic design briefs can transform your approach to creative projects.

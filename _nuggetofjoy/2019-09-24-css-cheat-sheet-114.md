@@ -13,7 +13,7 @@ categories:
 tags: []
 ---
 
-<div class="wp-block-image"><figure class="aligncenter"><a href="http://nuggetofjoy.com/wp-content/uploads/2013/10/css_cheat_2.png" rel="noopener noreferrer" target="_blank"><img alt="css_cheat_2" class="wp-image-117" src="http://nuggetofjoy.com/wp-content/uploads/2013/10/css_cheat_2.png"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://nuggetofjoy.com/wp-content/uploads/2013/10/css_cheat_2.png" rel="noopener noreferrer" target="_blank"><img alt="css_cheat_2" class="wp-image-117" src="https://nuggetofjoy.com/wp-content/uploads/2013/10/css_cheat_2.png"/></a></figure></div>
 
 
-[Click the image above to download a CSS cheat sheet.](http://nuggetofjoy.com/wp-content/uploads/2013/10/css_cheat_2.png)
+[Click the image above to download a CSS cheat sheet.](https://nuggetofjoy.com/wp-content/uploads/2013/10/css_cheat_2.png)

@@ -13,7 +13,7 @@ categories:
 tags: []
 ---
 
-[![](http://nuggetofjoy.com/wp-content/uploads/master_balance.jpg)](http://nuggetofjoy.com/wp-content/uploads/master_balance.jpg)
+[![](https://nuggetofjoy.com/wp-content/uploads/master_balance.jpg)](https://nuggetofjoy.com/wp-content/uploads/master_balance.jpg)
 The composition of everything two-dimensional like illustrations, photographies and magazine spreads has been a skill I wanted to groove for at least the past eight years. It is still one of my biggest interests in visual communications.
 What is the challenge? Well, if you have an axis with the two poles »tension« and »harmony«, you want your composition right in the middle (if you paint, maybe a little bit more to »tension«, in magazine design maybe a little bit more to »harmony«.) To achieve this, I personally use some principles from which I will list a collection here:
 
@@ -28,7 +28,7 @@ What is the challenge? Well, if you have an axis with the two poles »tension« 
 - *Fig 7:* **Sort objects** to create harmony, don’t sort them to create tension.
 
 As one can see, I especially often use a triangular composition – it’s one of the easiest forms of arranging something so that it looks well composed. »The Sistine Madonna« by Raffaello Sanzio da Urbino is based on the same principle; back then (1513) surely to remind of the holy trinity (like many other art works around this time):
-![image](http://nuggetofjoy.com/wp-content/uploads/master_balance2.jpg)
+![image](https://nuggetofjoy.com/wp-content/uploads/master_balance2.jpg)
 Nowadays one can bring more tension in the own work with making the sides of the triangles as different as possible. One long side and two short (imaginative) sides of a triangle are considered more interesting than a equilateral triangle like the one from Raffaello.
 
 # Balance & Harmony

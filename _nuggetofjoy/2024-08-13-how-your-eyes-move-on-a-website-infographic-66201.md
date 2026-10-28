@@ -32,7 +32,7 @@ Designers need to know how people use some websites and create a better user exp
 The following infographic provides some key information on and learn how consumers think and behave online.
 
 
-![On Eye Tracking](http://nuggetofjoy.com/wp-content/uploads/image-163.png)
+![On Eye Tracking](https://nuggetofjoy.com/wp-content/uploads/image-163.png)
 
 
 How Your Eyes Move on a Website [INFOGRAPHIC]. (n.d.). Retrieved from https://factory.dev/blog/how-your-eyes-move

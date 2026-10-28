@@ -14,7 +14,7 @@ categories:
 tags: []
 ---
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo2-800x400-2-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo2-800x400-2-2.png)
 
 
 A traditional logo consists of two key elements: text and shape. This type of logo is also called a combination logo and the two elements can be used together or separately. Many companies use a font-based logo because it’s more recognizable.
@@ -32,7 +32,7 @@ A combination logo is a logo that consists of both **wordmark (text)** and a **l
 Some combination logo examples are **Microsoft, Adidas, Adobe, Airbnb, etc.**
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo12-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo12-2.png)
 
 
 ## What is a Text Logo?
@@ -47,7 +47,7 @@ A text logo can be called a wordmark or a letter mark. Basically, it’s a logo 
 Logos like Google, eBay, Coca-Cola, Calvin Klein, etc that show the name of the company are wordmark logos. Letter mark logos are usually a company’s initials or other short letters, such as P&G, CNN, NASA, etc.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo3-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo3-2.png)
 
 
 ## How to Make a Text Logo in Adobe Illustrator
@@ -65,13 +65,13 @@ Let’s say you want to create a text logo for a holiday fashion brand called Th
 **Step 1:** Use the **Type Tool** (keyboard shortcut **T**) to [add text](https://illustratorhow.com/how-to-add-text/) to a new document in Adobe Illustrator. The text should be the name of the logo. I’ll put the brand name “This Holiday” here.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo9-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo9-2.png)
 
 
 **Step 2:** Select the text, go to the **Properties** > **Character** panel, and choose a font.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo8-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo8-2.png)
 
 
 Make sure you double-check the font licensing before using a font for commercial purposes. I’d say [Adobe Fonts](https://fonts.adobe.com/) is a safe go-to because, with your Creative Cloud subscription, you can use the fonts for free.
@@ -80,13 +80,13 @@ Make sure you double-check the font licensing before using a font for commercial
 For example, I chose this font called [Dejanire Headline](https://fonts.adobe.com/fonts/dejanire-headline#fonts-section).
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo10-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo10-2.png)
 
 
 **Step 3:** Use the keyboard shortcut **Command** + **Shift** + **O** to [create a text outline](https://illustratorhow.com/how-to-outline-fonts/). This step converts text into a path so that you can edit the shapes.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo7-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo7-2.png)
 
 
 ***Note:****Once you outline your text, you can’t change the font anymore, so if you’re not 100% sure about the font, duplicate the text a couple of times just in case you change your mind.*
@@ -95,13 +95,13 @@ For example, I chose this font called [Dejanire Headline](https://fonts.adobe.c
 **Step 4:** Ungroup the outlined text so that you can edit each letter individually, and start modifying the text.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo6-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo6-2.png)
 
 
 There is no rule for how to modify the text. You can use any tools you like. For example, I’m going to use the Eraser and Direction Selection Tool to touch up the edges of the font and slice part of the text.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo4-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo4-2.png)
 
 
 **Step 5:** Add color to your logo, or keep it black and white.
@@ -116,13 +116,13 @@ For example, if you’re making a logo for a kids’ brand, black and white only
 Since I’m making a text logo for a holiday fashion brand, I’d use some colors that represent a vacation – the color of the sea.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo16-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo16-2.png)
 
 
 You can also distort the text. For example, I’m using the Envelop Distort to [warp the text](https://illustratorhow.com/warp-text/)and make it wavier
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo14-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo14-2.png)
 
 
 ## How to Make a Combination Logo in Adobe Illustrator
@@ -143,13 +143,13 @@ A combination logo has text and brand marks. You can use the method above to cre
 Used the Rectangle tool, and the Ellipse tool to make an outline of a martini glass.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo1-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo1-2.png)
 
 
 I’ll use Pathfinder’s Unite tool to combine the shapes.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo5-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo5-2.png)
 
 
 Now we got a basic shape. You can add as many details as you like.
@@ -167,19 +167,19 @@ It all depends on the style of logo you’re making. Or you can even [turn a ph
 **Step 4:** Make the text logo part following the method above. For example, I’m going to name the bar “sip n chill”. Remember, the choice of font should be consistent with the shape. If you’re making a line logo, try to avoid using really thick fonts.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo13-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo13-2.png)
 
 
 **Step 5: Choose colors for the logo.**If you want to keep it as a line logo, simply change the fill color to stroke.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo15-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo15-2.png)
 
 
 **Step 6: Decide the positions of the text and shape.** Generally, a combination logo has two versions, the shape above the text, and the shape next to the text. But as I said, there’s no strict rule.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-logo11-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-logo11-2.png)
 
 
 **Step 7:** **Save the logo!**

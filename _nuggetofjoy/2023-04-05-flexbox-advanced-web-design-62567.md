@@ -25,7 +25,7 @@ Since flexbox is a whole module and not a single property, it involves a lot of 
 If “regular” layout is based on both block and inline flow directions, the flex layout is based on “flex-flow directions”. Please have a look at this figure from the specification, explaining the main idea behind the flex layout.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-45-1024x463.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-45-1024x463.png)
 
 
 Items will be laid out following either the `main axis` (from `main-start` to `main-end`) or the cross axis (from `cross-start` to `cross-end`).
@@ -42,7 +42,7 @@ Items will be laid out following either the `main axis` (from `main-start` t
 ## Flexbox properties
 
 
-![Flexbox properties](http://nuggetofjoy.com/wp-content/uploads/image-44-1024x439.png)
+![Flexbox properties](https://nuggetofjoy.com/wp-content/uploads/image-44-1024x439.png)
 
 
 ## Properties for the Parent (flex container)
@@ -67,7 +67,7 @@ Note that CSS columns have no effect on a flex container.
 #### flex-direction
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-43-1024x484.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-43-1024x484.png)
 
 
 This establishes the main-axis, thus defining the direction flex items are placed in the flex container. Flexbox is (aside from optional wrapping) a single-direction layout concept. Think of flex items as primarily laying out either in horizontal rows or vertical columns.
@@ -89,7 +89,7 @@ This establishes the main-axis, thus defining the direction flex items are place
 #### flex-wrap
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-42-1024x473.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-42-1024x473.png)
 
 
 By default, flex items will all try to fit onto one line. You can change that and allow the items to wrap as needed with this property.
@@ -126,7 +126,7 @@ This is a shorthand for the `flex-direction` and `flex-wrap` properties, whi
 ### justify-content
 
 
-![Flex-flow](http://nuggetofjoy.com/wp-content/uploads/image-41-677x1024.png)
+![Flex-flow](https://nuggetofjoy.com/wp-content/uploads/image-41-677x1024.png)
 
 
 This defines the alignment along the main axis. It helps distribute extra free space leftover when either all the flex items on a line are inflexible, or are flexible but have reached their maximum size. It also exerts some control over the alignment of items when they overflow the line.
@@ -160,7 +160,7 @@ There are also two additional keywords you can pair with these values: `safe` 
 #### align-items
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-46-852x1024.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-46-852x1024.png)
 
 
 This defines the default behavior for how flex items are laid out along the **cross axis** on the current line. Think of it as the `justify-content` version for the cross-axis (perpendicular to the main-axis).
@@ -186,7 +186,7 @@ The `safe` and `unsafe` modifier keywords can be used in conjunction with al
 #### align-content
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-47-830x1024.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-47-830x1024.png)
 
 
 This aligns a flex container’s lines within when there is extra space in the cross-axis, similar to how `justify-content` aligns individual items within the main-axis.
@@ -218,7 +218,7 @@ The `safe` and `unsafe` modifier keywords can be used in conjunction with al
 #### gap, row-gap, column-gap
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-48-922x1024.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-48-922x1024.png)
 
 
 [The `gap` property](https://css-tricks.com/almanac/properties/g/gap/) explicitly controls the space between flex items. It applies that spacing *only between items* not on the outer edges.

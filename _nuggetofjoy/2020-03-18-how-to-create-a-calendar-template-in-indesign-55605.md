@@ -16,7 +16,7 @@ tags: []
 **[View Tutorial](https://design.tutsplus.com/tutorials/how-to-create-a-calendar-template-in-indesign--cms-33886)**
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/calendar_38_new.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/calendar_38_new.jpg)
 
 
 **[View Tutorial](https://design.tutsplus.com/tutorials/how-to-create-a-calendar-template-in-indesign--cms-33886)**
@@ -25,7 +25,7 @@ tags: []
 # How to Create a Calendar Template in InDesign
 
 
-![Final product image](http://nuggetofjoy.com/wp-content/uploads/calendar_38_new-2.jpg)
+![Final product image](https://nuggetofjoy.com/wp-content/uploads/calendar_38_new-2.jpg)
 
 What You'll Be Creating
 
@@ -73,7 +73,7 @@ I'm going to make my calendar **20 inches tall** by **10 inches wide**. This 
 Make sure to **Toggle Off Facing Pages**—we don't need a two-page spread here.
 
 
-![Creating a New Document](http://nuggetofjoy.com/wp-content/uploads/calendar_1.jpg)
+![Creating a New Document](https://nuggetofjoy.com/wp-content/uploads/calendar_1.jpg)
 
 
 ### Step 2
@@ -91,7 +91,7 @@ Make sure to ask your printer about bleed, if you're unsure. They should be able
 Once you're happy with your document's setting, click**Create**.
 
 
-![Margins and Bleed](http://nuggetofjoy.com/wp-content/uploads/calendar_2.jpg)
+![Margins and Bleed](https://nuggetofjoy.com/wp-content/uploads/calendar_2.jpg)
 
 
 ### Step 3
@@ -109,7 +109,7 @@ To view your **Master Pages**, open up the **Pages**panel. You can do so by go
 Our Master Pages are located at the top of our Pages panel. The default one is called **A-Master**—that's where we're going to begin.
 
 
-![Pages Panel](http://nuggetofjoy.com/wp-content/uploads/calendar_3.jpg)
+![Pages Panel](https://nuggetofjoy.com/wp-content/uploads/calendar_3.jpg)
 
 
 ### Step 4
@@ -118,7 +118,7 @@ Our Master Pages are located at the top of our Pages panel. The default one is c
 **Double Click**on**A-Master** to go "inside" of this Master Page. If you're ever unsure of where you "are", within InDesign, you can look at the bottom of the software. Notice that I'm working on A-Master, right now.
 
 
-![A-Master](http://nuggetofjoy.com/wp-content/uploads/calendar_4.jpg)
+![A-Master](https://nuggetofjoy.com/wp-content/uploads/calendar_4.jpg)
 
 
 ## 2. How to Create an InDesign Calendar With Tables
@@ -139,7 +139,7 @@ First, make sure your Rulers are visible. To turn them on, go to **View > Ruler
 Rulers are generally visible at the top and left-hand side of your workspace. Here's an example of what they look like, below.
 
 
-![Rulers](http://nuggetofjoy.com/wp-content/uploads/calendar_5.jpg)
+![Rulers](https://nuggetofjoy.com/wp-content/uploads/calendar_5.jpg)
 
 
 ### Step 2
@@ -151,7 +151,7 @@ Now, **Click and Drag** from the top ruler to create a **Guide**. Place it at
 We're going to use this as a visual guide for where our calendar folds in half.
 
 
-![Creating a Guide](http://nuggetofjoy.com/wp-content/uploads/calendar_6.jpg)
+![Creating a Guide](https://nuggetofjoy.com/wp-content/uploads/calendar_6.jpg)
 
 
 ### Step 3
@@ -172,7 +172,7 @@ This will give us five rows for the weeks of each month (because they don't alwa
 Once you've input the values you'd like (either mine or your own, if you'd like something different), click**OK**.
 
 
-![Creating a Table](http://nuggetofjoy.com/wp-content/uploads/calendar_7.jpg)
+![Creating a Table](https://nuggetofjoy.com/wp-content/uploads/calendar_7.jpg)
 
 
 ### Step 4
@@ -181,7 +181,7 @@ Once you've input the values you'd like (either mine or your own, if you'd like 
 You'll see your cursor change—**Click and Drag**to place the table. It should look similar to this.
 
 
-![Placing the Table](http://nuggetofjoy.com/wp-content/uploads/calendar_8.jpg)
+![Placing the Table](https://nuggetofjoy.com/wp-content/uploads/calendar_8.jpg)
 
 
 ### Step 5
@@ -193,7 +193,7 @@ Now that we've placed our Table, we can resize it. **Mouse Over**any of the div
 I resized the top rows, where I plan to put the days of the week—I didn't feel this needed to be as big as the dates themselves.
 
 
-![Resizing the top cells](http://nuggetofjoy.com/wp-content/uploads/calendar_9.jpg)
+![Resizing the top cells](https://nuggetofjoy.com/wp-content/uploads/calendar_9.jpg)
 
 
 ### Step 6
@@ -211,7 +211,7 @@ I'd like the days of the week to be in the top row of my calendar. Using the **
 I used the font [Dillova](https://elements.envato.com/dillova-playful-script-54FDHK) for the days of the week!
 
 
-![Setting the days of the week](http://nuggetofjoy.com/wp-content/uploads/calendar_10.jpg)
+![Setting the days of the week](https://nuggetofjoy.com/wp-content/uploads/calendar_10.jpg)
 
 
 ### Step 7
@@ -223,7 +223,7 @@ Next, let's create a new Cell Style in the **Cell Styles**panel.
 Click on the **Create New Style**button, as shown below.
 
 
-![Create a New Style](http://nuggetofjoy.com/wp-content/uploads/calendar_11.jpg)
+![Create a New Style](https://nuggetofjoy.com/wp-content/uploads/calendar_11.jpg)
 
 
 ### Step 8
@@ -238,7 +238,7 @@ I'm going to add a couple of things here:
 Under **Text**, I changed the **Vertical Justification to Align: Center**.
 
 
-![Cell Style](http://nuggetofjoy.com/wp-content/uploads/calendar_12.jpg)
+![Cell Style](https://nuggetofjoy.com/wp-content/uploads/calendar_12.jpg)
 
 
 ### Step 9
@@ -253,7 +253,7 @@ There are a whole bunch of options here you could experiment with—don't be afr
 When you're happy with your selections, click**OK**.
 
 
-![Cell Style](http://nuggetofjoy.com/wp-content/uploads/calendar_13.jpg)
+![Cell Style](https://nuggetofjoy.com/wp-content/uploads/calendar_13.jpg)
 
 
 ### Step 10
@@ -265,7 +265,7 @@ To apply our cell style, **double-click** on your table, and then **click and
 Now, in my example, the text is vertically aligned to the center (note, my work is highlighted/selected—that's why my colors look inverted).
 
 
-![Applying a Cell Style](http://nuggetofjoy.com/wp-content/uploads/calendar_14.jpg)
+![Applying a Cell Style](https://nuggetofjoy.com/wp-content/uploads/calendar_14.jpg)
 
 
 ### Step 11
@@ -280,7 +280,7 @@ As a simple example, let's add to the **Table Border**—change the**Weight** 
 There are a whole host of options to experiment with here! Feel free to give them a try!
 
 
-![Adding a table border](http://nuggetofjoy.com/wp-content/uploads/calendar_15.jpg)
+![Adding a table border](https://nuggetofjoy.com/wp-content/uploads/calendar_15.jpg)
 
 
 ## 3. How to Add Dates to an InDesign Calendar
@@ -298,7 +298,7 @@ When it comes to the dates, we could manually go in and add them all by hand—b
 Then, go to **Type > Bulleted & Numbered Lists > Apply Numbers**to insert a numbered list.
 
 
-![Apply Numbers](http://nuggetofjoy.com/wp-content/uploads/calendar_16.jpg)
+![Apply Numbers](https://nuggetofjoy.com/wp-content/uploads/calendar_16.jpg)
 
 
 ### Step 2
@@ -307,7 +307,7 @@ Then, go to **Type > Bulleted & Numbered Lists > Apply Numbers**to insert a num
 You won't see anything here until you type something, so go ahead and **Type a Space**. Now you should see a "1" with a period after it.
 
 
-![Numbered List](http://nuggetofjoy.com/wp-content/uploads/calendar_17.jpg)
+![Numbered List](https://nuggetofjoy.com/wp-content/uploads/calendar_17.jpg)
 
 
 ### Step 3
@@ -322,7 +322,7 @@ Go to **Window > Properties**to open up the **Properties**panel.
 From there, we can find the **Bullets and Numbering Options**—it's a little hidden, isn't it?
 
 
-![Bullets and numbering options](http://nuggetofjoy.com/wp-content/uploads/calendar_18.jpg)
+![Bullets and numbering options](https://nuggetofjoy.com/wp-content/uploads/calendar_18.jpg)
 
 
 ### Step 4
@@ -337,7 +337,7 @@ We want to change this from **^#.^t**to **^#** so we no longer have a period 
 Can you see what that "jibberish" is communicating? We've deleted everything after the place where InDesign inserts a new number, in the ordered list.
 
 
-![Removing the period](http://nuggetofjoy.com/wp-content/uploads/calendar_19.jpg)
+![Removing the period](https://nuggetofjoy.com/wp-content/uploads/calendar_19.jpg)
 
 
 ### Step 5
@@ -346,7 +346,7 @@ Can you see what that "jibberish" is communicating? We've deleted everything aft
 Now, let's style the number. I increased its size to **24 points**, and I added some margin space here in a new **Cell Style**. Remember, we defined and altered Cell Styles in the **Cell Style**panel.
 
 
-![Styling the date](http://nuggetofjoy.com/wp-content/uploads/calendar_20.jpg)
+![Styling the date](https://nuggetofjoy.com/wp-content/uploads/calendar_20.jpg)
 
 
 ### Step 6
@@ -358,7 +358,7 @@ Finally, let's **Copy** this cell and **Paste**it into the other cells in our
 You should see your calendar filled in with numbers—in order too! Yes, it will be more than the normal 28 to 31 days we see in a calendar month, but that's okay! You can easily delete excess days. We'll get to that in a moment!
 
 
-![Dates added in](http://nuggetofjoy.com/wp-content/uploads/calendar_21.jpg)
+![Dates added in](https://nuggetofjoy.com/wp-content/uploads/calendar_21.jpg)
 
 
 ## 4. How to Finish Your InDesign Calendar Template
@@ -373,7 +373,7 @@ So, the "heart" of our calendar is coming together—but we're still missing som
 Use the **Text Tool** to add a sample month to your calendar, for template purposes.
 
 
-![Adding the month](http://nuggetofjoy.com/wp-content/uploads/calendar_22.jpg)
+![Adding the month](https://nuggetofjoy.com/wp-content/uploads/calendar_22.jpg)
 
 
 ### Step 2
@@ -385,7 +385,7 @@ The entire top portion of our composition is going to be dedicated to lovely, ey
 Use the **Rectangle Tool**to define the area where you'd like your image. I chose the entire top portion, but you could section this off any way you like—you could even have a collage of multiple images!
 
 
-![Using the Rectangle Tool](http://nuggetofjoy.com/wp-content/uploads/calendar_24.jpg)
+![Using the Rectangle Tool](https://nuggetofjoy.com/wp-content/uploads/calendar_24.jpg)
 
 
 ### Step 3
@@ -400,7 +400,7 @@ If you're not sure how, first, select your rectangular frame. Then go to **File
 Notice that the image is inside the frame—the red box here illustrates how big the actual image is inside the frame, but only the frame area is visible.
 
 
-![Inserting an image](http://nuggetofjoy.com/wp-content/uploads/calendar_25_new.jpg)
+![Inserting an image](https://nuggetofjoy.com/wp-content/uploads/calendar_25_new.jpg)
 
 
 ### Step 4
@@ -418,7 +418,7 @@ If you see a **red outline**, you've selected the contents of the **Rectangula
 Note that these colors might vary, if you are not using InDesign's default settings—but the premise should remain the same.
 
 
-![Resizing the imagery](http://nuggetofjoy.com/wp-content/uploads/calendar_26_new.jpg)
+![Resizing the imagery](https://nuggetofjoy.com/wp-content/uploads/calendar_26_new.jpg)
 
 
 ### Step 5
@@ -436,7 +436,7 @@ I also tweaked the colors in my calendar. Remember, you can do this via Cell Sty
 Have fun with it, and feel free to add your own flair to your calendar.
 
 
-![Calendar Template](http://nuggetofjoy.com/wp-content/uploads/calendar_23_new.jpg)
+![Calendar Template](https://nuggetofjoy.com/wp-content/uploads/calendar_23_new.jpg)
 
 
 ## 5. How to Use an InDesign Calendar Template
@@ -454,7 +454,7 @@ Go to your **Pages**panel—where we first looked at our Master Pages. Notice h
 This is an easy case, because it's already been applied for us—but be aware of where your Master Pages and Active Pages are.
 
 
-![Active pages](http://nuggetofjoy.com/wp-content/uploads/calendar_27_new2.jpg)
+![Active pages](https://nuggetofjoy.com/wp-content/uploads/calendar_27_new2.jpg)
 
 
 ### Step 2
@@ -472,7 +472,7 @@ All we need to do is select the days prior to the start of the month—and hit 
 We can use the same technique for the end of the month, as well. Simply select and delete any excess numbers, and the rest will adjust.
 
 
-![Adjusting the calendar dates](http://nuggetofjoy.com/wp-content/uploads/calendar_31_new.jpg)
+![Adjusting the calendar dates](https://nuggetofjoy.com/wp-content/uploads/calendar_31_new.jpg)
 
 
 ### Step 3
@@ -484,7 +484,7 @@ We can edit other parts of our calendar in a similar way. Let's start by creatin
 Click**Create New Page** in the **Pages**panel. You'll notice that your new page looks exactly like our A-Master—our template layout for January.
 
 
-![New page](http://nuggetofjoy.com/wp-content/uploads/calendar_32_new.jpg)
+![New page](https://nuggetofjoy.com/wp-content/uploads/calendar_32_new.jpg)
 
 
 ### Step 4
@@ -499,7 +499,7 @@ Do this with the name of your month and the imagery at the top of the calendar p
 For February's spread, [I used this image of a cute puppy!](https://elements.envato.com/uninterested-poodle-puppy-with-plate-of-kibbles-P4P9PPE)
 
 
-![Adjusted spread](http://nuggetofjoy.com/wp-content/uploads/calendar_33_new.jpg)
+![Adjusted spread](https://nuggetofjoy.com/wp-content/uploads/calendar_33_new.jpg)
 
 
 ### Step 5
@@ -514,7 +514,7 @@ So click and drag to select the days prior to Friday and then hit **Backspace o
 Repeat this process for any excess days at the end of the month.
 
 
-![Editing the calendar](http://nuggetofjoy.com/wp-content/uploads/calendar_34_new.jpg)
+![Editing the calendar](https://nuggetofjoy.com/wp-content/uploads/calendar_34_new.jpg)
 
 
 ### Step 6
@@ -523,7 +523,7 @@ Repeat this process for any excess days at the end of the month.
 Then, you can continue this process for your other months in your calendar! **Create a New Page** andthen edit the parts of your composition that should be unique each month.
 
 
-![Edited Calendar](http://nuggetofjoy.com/wp-content/uploads/calendar_35_new.jpg)
+![Edited Calendar](https://nuggetofjoy.com/wp-content/uploads/calendar_35_new.jpg)
 
 
 ### Step 7
@@ -532,7 +532,7 @@ Then, you can continue this process for your other months in your calendar! **C
 March, here, had a special circumstance—an extra day that went onto a "sixth week". So, in this case, I added a line using the **Line Tool** to split the last Sunday of the month. The text was added with the **Text Tool**.
 
 
-![Dual date](http://nuggetofjoy.com/wp-content/uploads/calendar_36_new.jpg)
+![Dual date](https://nuggetofjoy.com/wp-content/uploads/calendar_36_new.jpg)
 
 
 ### Step 8
@@ -553,7 +553,7 @@ When you open up your InDesign Template file, you can create a new, untitled doc
 To choose which file type to save as, when saving your work, click on the **Format** options in the **Save** window.
 
 
-![saving as a template](http://nuggetofjoy.com/wp-content/uploads/calendar_37.jpg)
+![saving as a template](https://nuggetofjoy.com/wp-content/uploads/calendar_37.jpg)
 
 
 ## And There You Have It!
@@ -565,4 +565,4 @@ Thanks so much for joining me on this walkthrough of creating an InDesign calend
 Good luck with your creative projects!
 
 
-![Example of Final Product](http://nuggetofjoy.com/wp-content/uploads/calendar_38_new-3.jpg)
+![Example of Final Product](https://nuggetofjoy.com/wp-content/uploads/calendar_38_new-3.jpg)

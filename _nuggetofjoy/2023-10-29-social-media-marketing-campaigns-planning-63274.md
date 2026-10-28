@@ -399,7 +399,7 @@ The social media strategy template makes it easy to:
 ## 2. Social media proposal template
 
 
-[![preview of social media proposal template](http://nuggetofjoy.com/wp-content/uploads/social-media-proposal-template-620x524-20.png)](https://docs.google.com/document/d/18vxeTkBp2EM3isvwan42cvQv4KDqDOQzhbzlJsVwkbc/edit?usp=sharing)
+[![preview of social media proposal template](https://nuggetofjoy.com/wp-content/uploads/social-media-proposal-template-620x524-20.png)](https://docs.google.com/document/d/18vxeTkBp2EM3isvwan42cvQv4KDqDOQzhbzlJsVwkbc/edit?usp=sharing)
 
 
 A social media marketing proposal is a document in which you propose a set of social media marketing services for a potential client. You’ll outline the specifics of the work you propose to do for the client, including a timeline and budget and how you plan to work together.
@@ -417,7 +417,7 @@ The post advises against copying and pasting the same content across different s
 ## Tips for running your campaign on 4 key networks
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/CrossPlatform-Blog2018-1-620x282-20.png)
+![](https://nuggetofjoy.com/wp-content/uploads/CrossPlatform-Blog2018-1-620x282-20.png)
 
 
 For Facebook, the emphasis is on storytelling and visual content, with videos performing well. Facebook is seen as valuable for building brand awareness and lasting relationships with the audience.

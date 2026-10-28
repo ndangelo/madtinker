@@ -67,7 +67,7 @@ OK, let's dive in and learn about some basic image adjustments:
 These are some quick and easy techniques to help you make your images look better. We'll also look at how to add layers in Photoshop and how to edit them.
 
 
-![photoshop layers](http://nuggetofjoy.com/wp-content/uploads/ps_layers-3.jpg)
+![photoshop layers](https://nuggetofjoy.com/wp-content/uploads/ps_layers-3.jpg)
 
 
 ### 2.2 Combining Multiple Images
@@ -79,7 +79,7 @@ These are some quick and easy techniques to help you make your images look bette
 Now that you've gained some insight into photo adjustments, your next journey in Photoshop for beginners involves mastering the art of navigating the software. In this tutorial, you'll delve into the intricacies of working with multiple images simultaneously. Learn the techniques of seamlessly moving images around and combining them to craft a unified and stunning result.
 
 
-![combining multiple images](http://nuggetofjoy.com/wp-content/uploads/multipe.jpg)
+![combining multiple images](https://nuggetofjoy.com/wp-content/uploads/multipe.jpg)
 
 
 ## 3. Color and Adjustment Layers
@@ -105,7 +105,7 @@ The fundamental step in perfecting any photograph is ensuring the highlights, mi
 By mastering Levels, you'll gain a deeper understanding of image correction, setting the stage for more refined and professional-looking photographs.
 
 
-![levels](http://nuggetofjoy.com/wp-content/uploads/levels.jpg)
+![levels](https://nuggetofjoy.com/wp-content/uploads/levels.jpg)
 
 
 ### 3.2 Color Adjustment
@@ -128,7 +128,7 @@ Explore the tools available in Photoshop, specifically Vibrance and Saturation, 
 By leveraging these features, you'll be able to correct and enhance the overall color balance of your images. Let's dive into the process and elevate the vibrancy of your visuals!
 
 
-![color levels](http://nuggetofjoy.com/wp-content/uploads/color.jpg)
+![color levels](https://nuggetofjoy.com/wp-content/uploads/color.jpg)
 
 
 ### 3.3 Hue Adjustments
@@ -140,13 +140,13 @@ By leveraging these features, you'll be able to correct and enhance the overall 
 Sometimes, you need to adjust the colors in more detail. So now, let's explore how to fix the color cast of an image. You will also learn how to change a specific color in an image completely.
 
 
-![change hue](http://nuggetofjoy.com/wp-content/uploads/hue.jpg)
+![change hue](https://nuggetofjoy.com/wp-content/uploads/hue.jpg)
 
 
 We'll do all of that with the help of the **Hue** and **Saturation** sliders, which you can find here:
 
 
-![hue and saturation](http://nuggetofjoy.com/wp-content/uploads/hue_sat.jpg)
+![hue and saturation](https://nuggetofjoy.com/wp-content/uploads/hue_sat.jpg)
 
 
 ## 4. Text
@@ -161,7 +161,7 @@ We'll do all of that with the help of the **Hue** and **Saturation** sliders
 This Photoshop learning chapter is all about working with text. Watch the video to see how to create a simple, elegant postcard flyer that looks like this:
 
 
-![make a flyer in photoshop](http://nuggetofjoy.com/wp-content/uploads/flyer.jpg)
+![make a flyer in photoshop](https://nuggetofjoy.com/wp-content/uploads/flyer.jpg)
 
 
 In this Adobe Photoshop course section, we'll cover how to create the correct page size and dimensions for a printable postcard, and you will also master using expanding and fixed-width type boxes for typing text.
@@ -170,7 +170,7 @@ In this Adobe Photoshop course section, we'll cover how to create the correct pa
 Then, as you create the flyer, you'll learn how to use the **Type Tool** and customize the text by changing some settings in the **Properties** panel.
 
 
-![type tool in photoshop](http://nuggetofjoy.com/wp-content/uploads/type_tool.jpg)
+![type tool in photoshop](https://nuggetofjoy.com/wp-content/uploads/type_tool.jpg)
 
 
 ## 1. Submit the Above Demonstrations to Dropbox in PSD and PDF format.
@@ -198,19 +198,19 @@ Hover your cursor over a shape or path until it transforms into the Type on a Pa
 Start typing, and watch your text gracefully follow the curve.
 
 
-![warp text flyer](http://nuggetofjoy.com/wp-content/uploads/warp_text_flyer.jpg)
+![warp text flyer](https://nuggetofjoy.com/wp-content/uploads/warp_text_flyer.jpg)
 
 
 To do this, we'll look at how to type on a path in Photoshop. Creating curved text is easier than you may think—watch this video to learn how to get text to follow a curved line using the **Type on a Path** feature.
 
 
-![type on a path](http://nuggetofjoy.com/wp-content/uploads/type_path.jpg)
+![type on a path](https://nuggetofjoy.com/wp-content/uploads/type_path.jpg)
 
 
 And to distort your text in all sorts of interesting ways, you can use the **Warp Text** options.
 
 
-![warp text in Photoshop](http://nuggetofjoy.com/wp-content/uploads/warp.jpg)
+![warp text in Photoshop](https://nuggetofjoy.com/wp-content/uploads/warp.jpg)
 
 
 ## 5. Layer Styles
@@ -228,13 +228,13 @@ Let's go to the next Photoshop for beginners tutorial: Layer styles allow you to
 So in this part of the course, you'll learn how to add a drop shadow in Photoshop. You'll create a text shadow and then use Photoshop layer styles to add a bevel, emboss, and strokes to text and images.
 
 
-![layer styles](http://nuggetofjoy.com/wp-content/uploads/ps_layer_styles.jpg)
+![layer styles](https://nuggetofjoy.com/wp-content/uploads/ps_layer_styles.jpg)
 
 
 You'll also learn how to create other Photoshop effects, such as a gradient overlay.
 
 
-![gradient overlay](http://nuggetofjoy.com/wp-content/uploads/gradient_overlay.jpg)
+![gradient overlay](https://nuggetofjoy.com/wp-content/uploads/gradient_overlay.jpg)
 
 
 ## 6. Cropping and Resizing
@@ -249,7 +249,7 @@ You'll also learn how to create other Photoshop effects, such as a gradient over
 Now, you'll learn how to crop an image in Photoshop. First, we'll perform simple crops on images, including cropping and rotating simultaneously.
 
 
-![cropping in photoshop](http://nuggetofjoy.com/wp-content/uploads/crop.jpg)
+![cropping in photoshop](https://nuggetofjoy.com/wp-content/uploads/crop.jpg)
 
 
 And after that, you'll learn more details, such as:
@@ -274,13 +274,13 @@ This second technique is particularly useful when you're converting an image fro
 Of course, creating a beautiful image is no good if you don't have the right resolution and image quality. In the worst-case scenario, you might end up with something like this:
 
 
-![low resolution](http://nuggetofjoy.com/wp-content/uploads/low_res.jpg)
+![low resolution](https://nuggetofjoy.com/wp-content/uploads/low_res.jpg)
 
 
 So in this part of the course, you'll learn how to resize an image in Photoshop without losing quality. You'll discover how resolution works and how it affects image quality and file size. This Adobe Photoshop course chapter covers all the best practices for resizing and exporting so that you end up with something more like this:
 
 
-![high resolution](http://nuggetofjoy.com/wp-content/uploads/hi_res.jpg)
+![high resolution](https://nuggetofjoy.com/wp-content/uploads/hi_res.jpg)
 
 
 ## 7. Selections and Masking
@@ -295,7 +295,7 @@ So in this part of the course, you'll learn how to resize an image in Photoshop 
 What if you want to put the universe inside a coffee cup? Yes, you can do that in Photoshop, just by using the Photoshop marquee tools.
 
 
-![marquee tool scene](http://nuggetofjoy.com/wp-content/uploads/marquee.jpg)
+![marquee tool scene](https://nuggetofjoy.com/wp-content/uploads/marquee.jpg)
 
 
 This is a great way to pick up specific parts of an image. You'll get some practice using both the **Rectangular Marquee Tool** and the **Elliptical Marquee Tool** in this part of the Photoshop for beginners course. You'll then learn how to copy and paste selections into another image so that we can start making a collage and blending images together.
@@ -313,13 +313,13 @@ This is a great way to pick up specific parts of an image. You'll get some pract
 #### Simple Image
 
 
-![roses](http://nuggetofjoy.com/wp-content/uploads/roses.jpg)
+![roses](https://nuggetofjoy.com/wp-content/uploads/roses.jpg)
 
 
 #### Image With Clipping Mask
 
 
-![roses inside a letter](http://nuggetofjoy.com/wp-content/uploads/clipping_mask.jpg)
+![roses inside a letter](https://nuggetofjoy.com/wp-content/uploads/clipping_mask.jpg)
 
 
 ### 7.3 Quick Selection Tool
@@ -334,10 +334,10 @@ To learn Adobe Photoshop, you often need to take an image off its background so 
 For example, what if you wanted to extract this flower from its black background so that you can add it to the design shown below? That's exactly what you'll learn how to do in this part of the course.
 
 
-![flower](http://nuggetofjoy.com/wp-content/uploads/flower.jpg)
+![flower](https://nuggetofjoy.com/wp-content/uploads/flower.jpg)
 
 
-![quick selection tool](http://nuggetofjoy.com/wp-content/uploads/quick_selection.jpg)
+![quick selection tool](https://nuggetofjoy.com/wp-content/uploads/quick_selection.jpg)
 
 
 ### 7.4 Layer Masks
@@ -355,7 +355,7 @@ Non-destructive editing means that you can **edit your image while preserving t
 A great way to accomplish that is by using **Layer Masks**.
 
 
-![layer mask](http://nuggetofjoy.com/wp-content/uploads/layer_mask.jpg)
+![layer mask](https://nuggetofjoy.com/wp-content/uploads/layer_mask.jpg)
 
 
 Watch the video to see how you can create the same "Dublin florists" image that we worked on before, but this time in a non-destructive way, by using a layer mask.
@@ -379,12 +379,12 @@ The flower we worked on before was quite easy to select because of its sharp edg
 Then you'll need Photoshop's **Select and Mask** feature. Let's see how to tidy up selections made with the Quick Selection Tool, starting with simple masks and then working through to harder ones. You'll see exactly how to select the model below and place her on a completely new background.
 
 
-![Original image](http://nuggetofjoy.com/wp-content/uploads/mask.jpg)
+![Original image](https://nuggetofjoy.com/wp-content/uploads/mask.jpg)
 
 Original image
 
 
-![Image placed on new background using Select and Mask](http://nuggetofjoy.com/wp-content/uploads/mask2.jpg)
+![Image placed on new background using Select and Mask](https://nuggetofjoy.com/wp-content/uploads/mask2.jpg)
 
 Image placed on a new background using Select and Mask
 
@@ -407,7 +407,7 @@ A Smart Object is a way of preserving all the original information and pixels in
 Watch the video to learn how to use Smart Objects and *why* it's important to use them.
 
 
-![smart object](http://nuggetofjoy.com/wp-content/uploads/smart_object.jpg)
+![smart object](https://nuggetofjoy.com/wp-content/uploads/smart_object.jpg)
 
 
 ## 9. Transform & Warp
@@ -422,10 +422,10 @@ Watch the video to learn how to use Smart Objects and *why* it's important to 
 What if you wanted to put this logo onto this coffee cup? You can't just paste it on because the cup is rounded, so the logo needs to be distorted to make the perspective look realistic.
 
 
-![scene with coffee cup and book](http://nuggetofjoy.com/wp-content/uploads/pre_mockup.jpg)
+![scene with coffee cup and book](https://nuggetofjoy.com/wp-content/uploads/pre_mockup.jpg)
 
 
-![monogram logo](http://nuggetofjoy.com/wp-content/uploads/logo-1.png)
+![monogram logo](https://nuggetofjoy.com/wp-content/uploads/logo-1.png)
 
 
 The solution is the **Warp Tool** in Photoshop. In this part of the Adobe Photoshop course, I'll show you how to warp a layer in Photoshop, how to resize a layer in Photoshop, and more.
@@ -434,7 +434,7 @@ The solution is the **Warp Tool** in Photoshop. In this part of the Adobe Phot
 While learning about these tools, you will also discover how to mock up a logo and make it look as if it's part of a real image:
 
 
-![mockup](http://nuggetofjoy.com/wp-content/uploads/mockup.jpg)
+![mockup](https://nuggetofjoy.com/wp-content/uploads/mockup.jpg)
 
 
 ## 10. Retouching
@@ -452,28 +452,28 @@ Now it's time to learn about an important retouching tool: the **Spot Healing B
 #### Remove Graffiti From a Wall
 
 
-![wall before healing](http://nuggetofjoy.com/wp-content/uploads/wall_before.jpg)
+![wall before healing](https://nuggetofjoy.com/wp-content/uploads/wall_before.jpg)
 
 
-![wall after healing](http://nuggetofjoy.com/wp-content/uploads/wall_after.jpg)
+![wall after healing](https://nuggetofjoy.com/wp-content/uploads/wall_after.jpg)
 
 
 #### Remove Blemishes From a Portrait
 
 
-![blemishes before healing](http://nuggetofjoy.com/wp-content/uploads/blemish_before.jpg)
+![blemishes before healing](https://nuggetofjoy.com/wp-content/uploads/blemish_before.jpg)
 
 
-![blemishes after healing](http://nuggetofjoy.com/wp-content/uploads/blemish_after.jpg)
+![blemishes after healing](https://nuggetofjoy.com/wp-content/uploads/blemish_after.jpg)
 
 
 #### Remove a Person From a Photo
 
 
-![person before removal](http://nuggetofjoy.com/wp-content/uploads/person_before.jpg)
+![person before removal](https://nuggetofjoy.com/wp-content/uploads/person_before.jpg)
 
 
-![person removed from photo](http://nuggetofjoy.com/wp-content/uploads/person_after.jpg)
+![person removed from photo](https://nuggetofjoy.com/wp-content/uploads/person_after.jpg)
 
 
 I'll teach you how to do all of those things, so watch the video and follow along on your own computer using the source files provided! And if you want to go into more detail, check out our free Photoshop retouching course:
@@ -507,13 +507,13 @@ What if you need to make an image wider? Of course, you don't want to just stret
 #### Before
 
 
-![image before content aware scale](http://nuggetofjoy.com/wp-content/uploads/content_aware_before.jpg)
+![image before content aware scale](https://nuggetofjoy.com/wp-content/uploads/content_aware_before.jpg)
 
 
 #### After
 
 
-![image after content aware scale](http://nuggetofjoy.com/wp-content/uploads/content_aware_after.jpg)
+![image after content aware scale](https://nuggetofjoy.com/wp-content/uploads/content_aware_after.jpg)
 
 
 Watch the video for full instructions on completing this example and a few more as well!
@@ -540,7 +540,7 @@ Now that we've created lots of great images, we need to export them from Photosh
 So now let's look at how to export in Photoshop. We'll talk about the pros and cons of JPEG, PNG, and PSD files, and we'll also see how to create a Photoshop file ready for use with other Adobe software products such as InDesign, Illustrator, and After Effects.
 
 
-![export image](http://nuggetofjoy.com/wp-content/uploads/export.jpg)
+![export image](https://nuggetofjoy.com/wp-content/uploads/export.jpg)
 
 
 Scott, D. W. (2023). Adobe Photoshop for Beginners: Envato Tuts+. Retrieved from https://design.tutsplus.com/articles/photoshop-for-beginners--cms-93368

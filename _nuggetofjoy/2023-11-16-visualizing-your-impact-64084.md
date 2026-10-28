@@ -31,7 +31,7 @@ tags: []
 - In addition to showing the connected geography of your meal, this visual diagram must also display its approximate carbon footprint through forms that vary in size or color.
 
 
-![Carbon Footprint](http://nuggetofjoy.com/wp-content/uploads/image-97-767x1024.png)
+![Carbon Footprint](https://nuggetofjoy.com/wp-content/uploads/image-97-767x1024.png)
 
 Clark Fan - "The Carbon Footprint of Claypot Rice"
 
@@ -50,7 +50,7 @@ It would be best to utilize each ingredient's packaging to help dictate the form
 > – Kimmerer, Robin Wall. *Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants.* 1. ed., Milkweed Editions, 2013, p. 376.
 
 
-![Carbon Emissions](http://nuggetofjoy.com/wp-content/uploads/image-98-687x1024.png)
+![Carbon Emissions](https://nuggetofjoy.com/wp-content/uploads/image-98-687x1024.png)
 
 David del Toro, Jr. - "Arroz co2n Gandules"
 

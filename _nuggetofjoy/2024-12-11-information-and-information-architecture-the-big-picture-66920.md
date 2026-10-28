@@ -67,7 +67,7 @@ Here are some other reasons why good information architecture is important:
 Below are a couple of examples helping to illustrate the points about the user.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-246.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-246.png)
 
 
 The example above demonstrates:
@@ -80,7 +80,7 @@ The example above demonstrates:
 - Navigation button at the bottom of the page giving specific instructions for the next step.
 
 
-![Design Element](http://nuggetofjoy.com/wp-content/uploads/image-244.png)
+![Design Element](https://nuggetofjoy.com/wp-content/uploads/image-244.png)
 
 
 The website example above, Punk Avenue shows another example of clear main navigation, with a brief summary of what you will find on each page. Below that is a series of tabs that keep you on the same page and visually indicate what information you are viewing.
@@ -106,7 +106,7 @@ The website example above, Punk Avenue shows another example of clear main navig
 The example below illustrates some of the points above about business.
 
 
-![FSA Store](http://nuggetofjoy.com/wp-content/uploads/image-248.png)
+![FSA Store](https://nuggetofjoy.com/wp-content/uploads/image-248.png)
 
 
 The example above demonstrates how poor navigation displays can impact customer conversion. This case study shows an increase in customer revenue by 53.8%. The additional information in-between the search bar and the products was removed which also served to move the product display closer to the top of the page. The vertical information that was removed created the effect of what may have been perceived as a superfluous navigation bar, or maybe just information that was not considered relevant for a user in their product search.
@@ -127,7 +127,7 @@ If your website is content-heavy, you may also consider using site search. Let�
 In 1997, Jakob Neilson conducted a [study](https://blog.optimalworkshop.com/search-versus-navigation-whats-more-important-in-2020/) that showed over 50% of website users would use the search function over site navigation. In 2012, [econsultancy.com](https://econsultancy.com/) reported that 30% of website visitors to e-commerce sites will [use the site search](https://econsultancy.com/24-best-practice-tips-for-ecommerce-site-search/), while a Kiss metrics study found that 40% of users [preferred using search](https://gerrymcgovern.com/navigation-is-more-important-than-search/). In 2010, Gerry Mcgovern’s study demonstrated 30% of users preferring search.
 
 
-![Site Search vs. Page Navigation](http://nuggetofjoy.com/wp-content/uploads/image-250.png)
+![Site Search vs. Page Navigation](https://nuggetofjoy.com/wp-content/uploads/image-250.png)
 
 
 Although the relationship between these findings may seem elusive, one thing is clear; and that is that users will use both site search and site navigation to find information, in varying proportions.
@@ -139,10 +139,10 @@ In order to provide the best user experience for your customers, you may need to
 Here is a practical example of where a site search would be useful for site visitors. Let’s say you visit a website that sells cleaning and health products, and you were looking to buy some **antibacterial hand wash.** There are two categories you can see, “**Body Washing Products**” and “**Skin Cleansers**”. Which one do you choose?
 
 
-![Design Feature](http://nuggetofjoy.com/wp-content/uploads/image-252.png)
+![Design Feature](https://nuggetofjoy.com/wp-content/uploads/image-252.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-254.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-254.png)
 
 
 And if you were to browse these categories that may have products listed alphabetically, there may be a large list to scan through. Below are some similar phrases that could be used, depending on what any individual’s idea of antibacterial hand wash could also be called:
@@ -163,7 +163,7 @@ If you are looking for “**hygienic soap”**, it may take you a while to scan 
 [The Politico website](https://www.politico.com/) below uses both navigation and a search function. It demonstrates an example of a content-heavy site that groups the information into categories making it easier to find topics. The site utilizes a “megamenu” which is accessed from the top left corner of the page. This is a common way to provide a menu of options with categories and subcategories that can be used for those visitors that want to browse content, and the search function can be used to locate a specific piece of information.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-256.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-256.png)
 
 
 According to research from [measuringu.com](https://measuringu.com/search-browse/), about 14% of users will start with a search and the rest will start by browsing through the navigation options.
@@ -181,7 +181,7 @@ Let’s review some website examples demonstrating good and bad uses of informat
 This [Sears website](https://www.sears.com/) makes good use of mega drop-down menus. These help to provide navigation options to sub-categories that are clearly grouped. It also uses images to provide much faster cognition for the user.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-258.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-258.png)
 
 
 ### Visual Navigation Driven By Search [#](https://www.smashingmagazine.com/2020/07/information-architecture-big-picture/#visual-navigation-driven-by-search)
@@ -190,7 +190,7 @@ This [Sears website](https://www.sears.com/) makes good use of mega drop-down 
 [Pinterest](https://www.pinterest.com/) is useful for presenting visual user-generated content based on search terms. The search is the navigation. This works well based on the sheer amount of content available on the site, which would make it difficult to provide a simple navigation system based on categories.
 
 
-![Pinterest](http://nuggetofjoy.com/wp-content/uploads/image-260.png)
+![Pinterest](https://nuggetofjoy.com/wp-content/uploads/image-260.png)
 
 
 ### Overwhelming Navigation [#](https://www.smashingmagazine.com/2020/07/information-architecture-big-picture/#overwhelming-navigation)
@@ -199,7 +199,7 @@ This [Sears website](https://www.sears.com/) makes good use of mega drop-down 
 This website example is a complete information overload, with bad use of white space and way too many choices. The website’s cramped design makes it hard to identify all the options available.
 
 
-![Design Element](http://nuggetofjoy.com/wp-content/uploads/image-262.png)
+![Design Element](https://nuggetofjoy.com/wp-content/uploads/image-262.png)
 
 
 ### How Do You Get It Right? [#](https://www.smashingmagazine.com/2020/07/information-architecture-big-picture/#how-do-you-get-it-right)
@@ -214,7 +214,7 @@ Here is a brief list of considerations and processes to follow when designing th
   If you can achieve this, then the user can access any information on your site with a maximum of two clicks.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-264.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-264.png)
 
 
 - **Don’t use jargon in the navigation language.**  
@@ -223,16 +223,16 @@ Here is a brief list of considerations and processes to follow when designing th
   Very few universally understood icons, such as Help, Error, and Print, may differ culturally.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-268.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-268.png)
 
 
-![Smartphone](http://nuggetofjoy.com/wp-content/uploads/image-266.png)
+![Smartphone](https://nuggetofjoy.com/wp-content/uploads/image-266.png)
 
 
 - **Always indicate to the user exactly where they are within the site** so they can easily navigate back to a previous page. Breadcrumb navigation is one example of how to do this effectively as shown in the [example below](https://www.westpac.com.au/personal-banking/online-banking/making-the-most/make-a-donation/). It can sit below the main navigation showing you each page you have clicked on with the current location displaying as the last on the right.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-270.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-270.png)
 
 
 - **Use design to create distinct visual differences between the hierarchy levels.**  
@@ -248,7 +248,7 @@ Here is a brief list of considerations and processes to follow when designing th
 Write out the name of each information section on paper, and have participants sort cards containing all your navigation sections into groups that make sense to them. Try doing this same sort with at least five participants so you can start to identify patterns and preferences for the categories and subcategories that are created. This is called an **open card sort**. A **closed card sort** can be used if you decide to have predetermined top-level categories that the participants place the cards under based on what makes sense to them.
 
 
-![Note Cards](http://nuggetofjoy.com/wp-content/uploads/image-272.png)
+![Note Cards](https://nuggetofjoy.com/wp-content/uploads/image-272.png)
 
 
 **Recommended reading**: *[Card Sorting Beginner’s Guide: Improving Your Information Architecture](https://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/)*
@@ -260,7 +260,7 @@ Write out the name of each information section on paper, and have participants s
 By using a wireframe or prototype, ask participants to complete a specific task by navigating through the site. You can use a clickable wireframe to test this by observing how clear it is for a user to carry out the activity. An example task (refer to the wireframe below) might be to register on the website and then make a booking for a single event and publish it.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-274.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-274.png)
 
 
 ### Tools [#](https://www.smashingmagazine.com/2020/07/information-architecture-big-picture/#tools)
@@ -269,7 +269,7 @@ By using a wireframe or prototype, ask participants to complete a specific task 
 [Treejack](https://www.optimalworkshop.com/) is a tool that allows you to validate your navigation structure. It asks the participants to indicate where they would look to find specific information and provides you with insightful actions.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-276.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-276.png)
 
 
 ### Free Keyword Tools [#](https://www.smashingmagazine.com/2020/07/information-architecture-big-picture/#free-keyword-tools)
@@ -278,7 +278,7 @@ By using a wireframe or prototype, ask participants to complete a specific task 
 You can use free tools to help to identify commonly used search terms that can help with language choice in your navigation. For example, [answerthepublic.com](https://answerthepublic.com/) is a free site that allows you to enter a search term to see what other related search terms are being used.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-278.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-278.png)
 
 
 We’ve covered the basics of information architecture, and now it’s time to move onto the bigger picture, the Information Age. Understanding context around the massive amounts of data and information we are surrounded by can help to shape your outlook as a UX designer, as it has helped inform the direction and approach to my own design practice.

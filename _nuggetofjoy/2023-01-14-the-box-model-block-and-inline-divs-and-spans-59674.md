@@ -97,13 +97,13 @@ Every single thing on a webpage is a rectangular box. These boxes can have other
 ```
 
 
-[![boxes](http://nuggetofjoy.com/wp-content/uploads/boxes-3-3.png)](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/the-box-model/imgs/boxes.png)
+[![boxes](https://nuggetofjoy.com/wp-content/uploads/boxes-3-3.png)](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/the-box-model/imgs/boxes.png)
 
 
 You can use the browser’s inspector to add the CSS above to this web page if you want. Boxes in boxes!
 
 
-[![lines](http://nuggetofjoy.com/wp-content/uploads/odin-lined-1-3.png)](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/the-box-model/imgs/odin-lined.png)
+[![lines](https://nuggetofjoy.com/wp-content/uploads/odin-lined-1-3.png)](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/the-box-model/imgs/odin-lined.png)
 
 
 OK, so there might be some circles in the above image… but when it comes to layout, they fit together like rectangular boxes and not circles. In the end, laying out a webpage and positioning all its elements is deciding how you are going to nest and stack these boxes.
@@ -120,7 +120,7 @@ The only real complication here is that there are many ways to manipulate the si
 Be sure to study the diagrams carefully.
 
 
-[![the box model](http://nuggetofjoy.com/wp-content/uploads/box-model-1-3.png)](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/the-box-model/imgs/box-model.png)
+[![the box model](https://nuggetofjoy.com/wp-content/uploads/box-model-1-3.png)](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/the-box-model/imgs/box-model.png)
 
 
 <div class="wp-block-embed__wrapper">
@@ -250,7 +250,7 @@ Making up a block box in CSS we have the:
 The below diagram shows these layers:
 
 
-![Diagram of the box model](http://nuggetofjoy.com/wp-content/uploads/box-model-1-4.png)
+![Diagram of the box model](https://nuggetofjoy.com/wp-content/uploads/box-model-1-4.png)
 
 
 ### [The standard CSS box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#the_standard_css_box_model)
@@ -276,7 +276,7 @@ If we assume that a box has the following CSS:
 The *actual* space taken up by the box will be 410px wide (350 + 25 + 25 + 5 + 5) and 210px high (150 + 25 + 25 + 5 + 5).
 
 
-![Showing the size of the box when the standard box model is being used.](http://nuggetofjoy.com/wp-content/uploads/standard-box-model.png)
+![Showing the size of the box when the standard box model is being used.](https://nuggetofjoy.com/wp-content/uploads/standard-box-model.png)
 
 
 **Note:** The margin is not counted towards the actual size of the box — sure, it affects the total space that the box will take up on the page, but only the space outside the box. The box's area stops at the border — it does not extend into the margin.
@@ -317,7 +317,7 @@ If we assume the box has the same CSS as above:
 Now, the *actual* space taken up by the box will be 350px in the inline direction and 150px in the block direction.
 
 
-![Showing the size of the box when the alternate box model is being used.](http://nuggetofjoy.com/wp-content/uploads/alternate-box-model.png)
+![Showing the size of the box when the alternate box model is being used.](https://nuggetofjoy.com/wp-content/uploads/alternate-box-model.png)
 
 
 To use the alternative box model for all of your elements (which is a common choice among developers), set the `box-sizing` property on the `<html>` element and set all other elements to inherit that value:
@@ -353,7 +353,7 @@ In the example below, you can see two boxes. Both have a class of `.box`, which
 Your [browser developer tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools) can make understanding the box model far easier. If you inspect an element in Firefox's DevTools, you can see the size of the element plus its margin, padding, and border. Inspecting an element in this way is a great way to find out if your box is really the size you think it is!
 
 
-![Inspecting the box model of an element using Firefox DevTools](http://nuggetofjoy.com/wp-content/uploads/box-model-devtools.png)
+![Inspecting the box model of an element using Firefox DevTools](https://nuggetofjoy.com/wp-content/uploads/box-model-devtools.png)
 
 
 ## [Margins, padding, and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#margins_padding_and_borders)

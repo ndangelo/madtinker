@@ -66,7 +66,7 @@ Your project will be evaluated using the following criteria:
 # Vehicle Inspection App
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-279.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-279.png)
 
 
 ### 

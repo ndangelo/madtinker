@@ -116,7 +116,7 @@ Benson, E. (n.d.). Systems Thinking for the Graphic Designer 101: A Toolkit for 
 ## The First Part of this assignment involves selecting your topic. Please submit it via dropbox with bullet points illustrating how you came to this topic.
 
 
-![Systems Thinking for the Graphic Designer 101: A Toolkit for Making Positive Impact](http://nuggetofjoy.com/wp-content/uploads/image-118-1024x768.png)
+![Systems Thinking for the Graphic Designer 101: A Toolkit for Making Positive Impact](https://nuggetofjoy.com/wp-content/uploads/image-118-1024x768.png)
 
 Systems Thinking for the Graphic Designer 101: A Toolkit for Making Positive Impact
 
@@ -125,7 +125,7 @@ Systems Thinking for the Graphic Designer 101: A Toolkit for Making Positive Imp
 
 
 ![Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.
-Project Goals](http://nuggetofjoy.com/wp-content/uploads/image-121-1024x660.png)
+Project Goals](https://nuggetofjoy.com/wp-content/uploads/image-121-1024x660.png)
 
 Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.  
 Project Goals
@@ -135,7 +135,7 @@ Project Goals
 
 
 ![Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.
-Problem Map](http://nuggetofjoy.com/wp-content/uploads/image-122-1024x619.png)
+Problem Map](https://nuggetofjoy.com/wp-content/uploads/image-122-1024x619.png)
 
 Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.  
 Problem Map
@@ -145,7 +145,7 @@ Problem Map
 
 
 ![Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.
-Project implemented on the streets](http://nuggetofjoy.com/wp-content/uploads/image-123.png)
+Project implemented on the streets](https://nuggetofjoy.com/wp-content/uploads/image-123.png)
 
 Students: Emma Hichens, Jessica Jutzi, Casey McGinnis, and Matt Musial.  
 Project implemented on the streets

@@ -17,7 +17,7 @@ tags: []
 by [Grace Fussell](https://tutsplus.com/authors/grace-fussell)
 
 
-![Final product image](http://nuggetofjoy.com/wp-content/uploads/Master-2-2.jpg)
+![Final product image](https://nuggetofjoy.com/wp-content/uploads/Master-2-2.jpg)
 
 What You'll Be Creating
 
@@ -74,7 +74,7 @@ Keep the **Intent** set to **Print** and **Number of Pages** to **1**. Un
 Set the **Width** of the page to**109 mm** and **Height** to **154 mm.**Add **Margins** of **7 mm** and a **Bleed** of **5 mm**. Then head up and click **OK**.
 
 
-![new document](http://nuggetofjoy.com/wp-content/uploads/1.16.jpg)
+![new document](https://nuggetofjoy.com/wp-content/uploads/1.16.jpg)
 
 
 ### Step 2
@@ -89,13 +89,13 @@ Choose **New Layer** from the panel’s drop-down menu (at top-right). Name th
 Create a further two new layers, firstly ***Typography*** and finally ***Leaves*** at the top of the sequence.
 
 
-![layer options](http://nuggetofjoy.com/wp-content/uploads/1.26.jpg)
+![layer options](https://nuggetofjoy.com/wp-content/uploads/1.26.jpg)
 
 
 Lock all the layers except ***Background***, and click on this layer to activate it.
 
 
-![background layer](http://nuggetofjoy.com/wp-content/uploads/1.2.1-4.jpg)
+![background layer](https://nuggetofjoy.com/wp-content/uploads/1.2.1-4.jpg)
 
 
 ## 2. How to Create an Autumnal Backdrop for Your Invite
@@ -117,7 +117,7 @@ Create a further two new CMYK swatches:
 - **Burgundy: C=31 M=100 Y=76 K=46**
 
 
-![burgundy swatch](http://nuggetofjoy.com/wp-content/uploads/2.18.jpg)
+![burgundy swatch](https://nuggetofjoy.com/wp-content/uploads/2.18.jpg)
 
 
 ### Step 2
@@ -129,13 +129,13 @@ With the ***Background*** layer still active, take the **Rectangle Tool (M)**
 From the **Swatches** panel, set the **Fill** of the rectangle to**Forest Green.**
 
 
-![forest green](http://nuggetofjoy.com/wp-content/uploads/2.27.jpg)
+![forest green](https://nuggetofjoy.com/wp-content/uploads/2.27.jpg)
 
 
 With the shape selected, head up to **Object > Effects > Gradient Feather.** Set the **Angle** to **-90**, and move the dark gradient stop about halfway along the slider.
 
 
-![gradient feather](http://nuggetofjoy.com/wp-content/uploads/2.2.15.jpg)
+![gradient feather](https://nuggetofjoy.com/wp-content/uploads/2.2.15.jpg)
 
 
 ### Step 3
@@ -144,13 +144,13 @@ With the shape selected, head up to **Object > Effects > Gradient Feather.** S
 Select the shape and **Edit > Copy, Edit > Paste**. Then **Right-click** on the copy and choose **Transform > Flip Vertical.**
 
 
-![flip vertical](http://nuggetofjoy.com/wp-content/uploads/2.33.jpg)
+![flip vertical](https://nuggetofjoy.com/wp-content/uploads/2.33.jpg)
 
 
 Position the flipped copy over the top of the original and switch its **Fill** to **Burgundy**.
 
 
-![burgundy swatch](http://nuggetofjoy.com/wp-content/uploads/2.3.1.jpg)
+![burgundy swatch](https://nuggetofjoy.com/wp-content/uploads/2.3.1.jpg)
 
 
 ### Step 4
@@ -162,7 +162,7 @@ Lock the ***Background*** layer and unlock the next layer up, ***Paper***.
 Use the **Rectangle Frame Tool (F)** to drag across the whole page, and go to **File > Place**. Choose the [paper background image](https://pixabay.com/en/vintage-texture-vintage-paper-retro-2714966/) you downloaded earlier, and click **Open**. Allow it to fill the whole frame.
 
 
-![paper image](http://nuggetofjoy.com/wp-content/uploads/2.43.jpg)
+![paper image](https://nuggetofjoy.com/wp-content/uploads/2.43.jpg)
 
 
 ### Step 5
@@ -171,10 +171,10 @@ Use the **Rectangle Frame Tool (F)** to drag across the whole page, and go to�
 With the image frame selected, go to **Object > Effects > Transparency.** Set the **Mode** to **Multiply**and reduce the **Opacity** to **90%.**
 
 
-![multiply](http://nuggetofjoy.com/wp-content/uploads/2.5-1.jpg)
+![multiply](https://nuggetofjoy.com/wp-content/uploads/2.5-1.jpg)
 
 
-![paper layer](http://nuggetofjoy.com/wp-content/uploads/2.5.11.jpg)
+![paper layer](https://nuggetofjoy.com/wp-content/uploads/2.5.11.jpg)
 
 
 ## 3. How to Format Elegant Typography for Your Invite
@@ -186,7 +186,7 @@ With the image frame selected, go to **Object > Effects > Transparency.** Set 
 With the rulers visible **(View > Show Rulers)**, drag a guideline down from the top ruler to **52 mm.**
 
 
-![guide line](http://nuggetofjoy.com/wp-content/uploads/3.16.jpg)
+![guide line](https://nuggetofjoy.com/wp-content/uploads/3.16.jpg)
 
 
 Take the **Type Tool (T)**and drag to create a text frame that extends from the left-hand margin to the right-hand margin. Type in *‘Please Join’*, and allow the baseline of the text to sit on the guideline.
@@ -195,7 +195,7 @@ Take the **Type Tool (T)**and drag to create a text frame that extends from the
 From either the top **Controls** panel or the **Character** panel **(Window > Type & Tables > Character)**, set the **Font** to **England Hand, Size 11 pt** and set the text to **Align Center.** Set the **Font Color**to **Cream** from the **Swatches** panel.
 
 
-![please join text](http://nuggetofjoy.com/wp-content/uploads/3.1.1.jpg)
+![please join text](https://nuggetofjoy.com/wp-content/uploads/3.1.1.jpg)
 
 
 ### Step 2
@@ -204,25 +204,25 @@ From either the top **Controls** panel or the **Character** panel **(Window
 Create a second text frame below the first, typing in *‘Name 1’*in uppercase letters, and setting the **Font** to **Jacques Francois, Size 13 pt** and increasing the **Tracking** (space between all characters) to **110**. Set the **Font Color** to **Cream**, as before.
 
 
-![name](http://nuggetofjoy.com/wp-content/uploads/3.26.jpg)
+![name](https://nuggetofjoy.com/wp-content/uploads/3.26.jpg)
 
 
 **Copy** and **Paste** this name text frame, moving it below with a gap in between and adjusting the text to read *‘Name 2’.*
 
 
-![name ](http://nuggetofjoy.com/wp-content/uploads/3.2.1-5.jpg)
+![name ](https://nuggetofjoy.com/wp-content/uploads/3.2.1-5.jpg)
 
 
 Set a text frame between the names reading *‘and’*, setting the **Font** to **England Hand.**
 
 
-![england hand](http://nuggetofjoy.com/wp-content/uploads/3.2.2.jpg)
+![england hand](https://nuggetofjoy.com/wp-content/uploads/3.2.2.jpg)
 
 
 Set another text frame below*‘Name 2’,* reading*‘to celebrate the occasion of their wedding’*and set in **England Hand**, as before.
 
 
-![england hand](http://nuggetofjoy.com/wp-content/uploads/3.2.3.jpg)
+![england hand](https://nuggetofjoy.com/wp-content/uploads/3.2.3.jpg)
 
 
 ### Step 3
@@ -234,7 +234,7 @@ Create a text frame below the previous. Place your type cursor in the frame and 
 Then go to **Window > Type & Tables > Glyphs,** and select a decorative glyph from the panel, like the leaf style pictured. Double-click to insert it. You can insert two opposite-facing glyphs to create a balanced divider.
 
 
-![glyphs](http://nuggetofjoy.com/wp-content/uploads/Revised1.jpg)
+![glyphs](https://nuggetofjoy.com/wp-content/uploads/Revised1.jpg)
 
 
 ### Step 4
@@ -246,7 +246,7 @@ Build up the second section of text, which will include the date (set in **Jacq
 Then **Copy** and **Paste** the decorative divider text frame below.
 
 
-![glyphs](http://nuggetofjoy.com/wp-content/uploads/Revised2.jpg)
+![glyphs](https://nuggetofjoy.com/wp-content/uploads/Revised2.jpg)
 
 
 ### Step 5
@@ -258,7 +258,7 @@ You can add a third section of text with details of the event location towards t
 Include a ‘PTO’ note at the bottom if you would want to include any more details on the reverse of the invite.
 
 
-![text frame](http://nuggetofjoy.com/wp-content/uploads/Revised-3.jpg)
+![text frame](https://nuggetofjoy.com/wp-content/uploads/Revised-3.jpg)
 
 
 ## 4. How to Add Autumnal Leaves to Your Invite
@@ -273,13 +273,13 @@ Lock the ***Typography*** layer and unlock the top layer, ***Leaves.*** **Fi
 Open up the [autumn leaves vector](https://graphicriver.net/item/autumn-leaves-vector/3047373) in **Illustrator**. Isolate one of the leaves in the illustration and set the **Fill** to a solid black swatch. Then **Edit > Copy** the leaf.
 
 
-![leaf vector](http://nuggetofjoy.com/wp-content/uploads/4.18.jpg)
+![leaf vector](https://nuggetofjoy.com/wp-content/uploads/4.18.jpg)
 
 
 Return to **InDesign** and **Edit > Paste** the leaf vector directly onto the page. Rotate and scale it into roughly the position shown at the top-left of the page.
 
 
-![leaf](http://nuggetofjoy.com/wp-content/uploads/Revised-4.jpg)
+![leaf](https://nuggetofjoy.com/wp-content/uploads/Revised-4.jpg)
 
 
 Adjust the **Fill** color of the leaf to **Cream***\**.
@@ -288,7 +288,7 @@ Adjust the **Fill** color of the leaf to **Cream***\**.
 *\*If you want to set up your cards for applying metallic foiling instead, skip forward to Step 3 below.*
 
 
-![cream swatch](http://nuggetofjoy.com/wp-content/uploads/4.1.2-4.jpg)
+![cream swatch](https://nuggetofjoy.com/wp-content/uploads/4.1.2-4.jpg)
 
 
 ### Step 2
@@ -297,22 +297,22 @@ Adjust the **Fill** color of the leaf to **Cream***\**.
 **Copy** and **Paste** the cream leaf, rotating it and making it smaller. Position it to the bottom-right of the first leaf.
 
 
-![rotate leaf](http://nuggetofjoy.com/wp-content/uploads/4.25.jpg)
+![rotate leaf](https://nuggetofjoy.com/wp-content/uploads/4.25.jpg)
 
 
 Build up other pasted leaf vectors in a sort of criss-cross pattern across the top of the invite...
 
 
-![pattern of leaves](http://nuggetofjoy.com/wp-content/uploads/4.2.1.jpg)
+![pattern of leaves](https://nuggetofjoy.com/wp-content/uploads/4.2.1.jpg)
 
 
 ...until the top of the card is filled with falling leaves.
 
 
-![falling leaves](http://nuggetofjoy.com/wp-content/uploads/4.2.2.jpg)
+![falling leaves](https://nuggetofjoy.com/wp-content/uploads/4.2.2.jpg)
 
 
-![invite design](http://nuggetofjoy.com/wp-content/uploads/Revised-5.jpg)
+![invite design](https://nuggetofjoy.com/wp-content/uploads/Revised-5.jpg)
 
 
 Your invitation design is finished—great job! You can skip ahead to Section 5 below to find out how to export your design. However, if you want to add an extra touch of luxury to your cards, you may want to consider setting the leaves, text or both in metallic foil once printed. Here’s how...
@@ -327,19 +327,19 @@ To do this, first identify which layer or layers you want to apply the foil desi
 Unlock the layer, and then create a new swatch from the **Swatches** panel. Name the swatch**FOIL SPOT,** and set the **Type** to **Spot**. Set the levels below to **100% Magenta.**
 
 
-![foil spot](http://nuggetofjoy.com/wp-content/uploads/4.35.jpg)
+![foil spot](https://nuggetofjoy.com/wp-content/uploads/4.35.jpg)
 
 
 Apply this **FOIL SPOT** swatch to the elements you want to be pulled out in foil.
 
 
-![leaves foil](http://nuggetofjoy.com/wp-content/uploads/4.3.1-4.jpg)
+![leaves foil](https://nuggetofjoy.com/wp-content/uploads/4.3.1-4.jpg)
 
 
 Then select all the foil elements and go to **Window > Output > Attributes.** Check the **Overprint Fill** box and/or **Overprint Stroke.**
 
 
-![overprint fill](http://nuggetofjoy.com/wp-content/uploads/4.3.2.jpg)
+![overprint fill](https://nuggetofjoy.com/wp-content/uploads/4.3.2.jpg)
 
 
 And you’re done!
@@ -354,13 +354,13 @@ Head up to **File > Export**, and choose **Adobe PDF (Print)** from the **Fo
 In the window that opens, choose **Press Quality** from the **Preset** menu at the top.
 
 
-![press quality](http://nuggetofjoy.com/wp-content/uploads/5.15.jpg)
+![press quality](https://nuggetofjoy.com/wp-content/uploads/5.15.jpg)
 
 
 Then click on**Marks and Bleeds** in the window’s left-hand menu. Check **All Printer’s Marks** and **Use Document Bleed Settings**, before clicking **Export**.
 
 
-![bleed and marks](http://nuggetofjoy.com/wp-content/uploads/5.1.1-4.jpg)
+![bleed and marks](https://nuggetofjoy.com/wp-content/uploads/5.1.1-4.jpg)
 
 
 You can send your exported PDF straight off to the printers—awesome work!
@@ -379,7 +379,7 @@ You’ve created an elegant, autumnal-themed invitation that will be perfect for
 - How to set up your design for optional foiling, and how to export your work for professional printing.
 
 
-![final invite](http://nuggetofjoy.com/wp-content/uploads/Master-2-3.jpg)
+![final invite](https://nuggetofjoy.com/wp-content/uploads/Master-2-3.jpg)
 
 
 <div class="wp-block-embed__wrapper">

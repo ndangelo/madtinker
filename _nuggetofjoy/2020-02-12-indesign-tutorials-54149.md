@@ -14,8 +14,8 @@ categories:
 tags: []
 ---
 
-[![](http://nuggetofjoy.com/wp-content/uploads/2020-01-19-14_53_28-DMET_255_Digital_Publishing_Graphics_Web_spring_2020-Google-Docs.png)](http://nuggetofjoy.com/wp-content/uploads/2020-01-19-14_53_28-DMET_255_Digital_Publishing_Graphics_Web_spring_2020-Google-Docs.png)
-[![](http://nuggetofjoy.com/wp-content/uploads/2020-01-19-14_57_26-Adobe-InDesign-CS6-—-Worldvectorlogo.png)](http://nuggetofjoy.com/wp-content/uploads/2020-01-19-14_57_26-Adobe-InDesign-CS6-—-Worldvectorlogo.png)
+[![](https://nuggetofjoy.com/wp-content/uploads/2020-01-19-14_53_28-DMET_255_Digital_Publishing_Graphics_Web_spring_2020-Google-Docs.png)](https://nuggetofjoy.com/wp-content/uploads/2020-01-19-14_53_28-DMET_255_Digital_Publishing_Graphics_Web_spring_2020-Google-Docs.png)
+[![](https://nuggetofjoy.com/wp-content/uploads/2020-01-19-14_57_26-Adobe-InDesign-CS6-—-Worldvectorlogo.png)](https://nuggetofjoy.com/wp-content/uploads/2020-01-19-14_57_26-Adobe-InDesign-CS6-—-Worldvectorlogo.png)
 
 ## 
 
@@ -41,7 +41,7 @@ tags: []
 
 ## Getting Started with InDesign (Adobe Tutorial)
 
-[![](http://nuggetofjoy.com/wp-content/uploads/fab3240d_960x540.jpg)](http://nuggetofjoy.com/wp-content/uploads/fab3240d_960x540.jpg)
+[![](https://nuggetofjoy.com/wp-content/uploads/fab3240d_960x540.jpg)](https://nuggetofjoy.com/wp-content/uploads/fab3240d_960x540.jpg)
 
 
 **[Watch Video](https://helpx.adobe.com/mena_en/indesign/how-to/get-started-indesign.html?playlist=/services/playlist.helpx/products:SG_INDESIGN_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_MENA.json&ref=helpx.adobe.com)**
@@ -63,7 +63,7 @@ The Start screen appears when there are no documents open in InDesign. It lists 
 
 Explore the different methods for saving your InDesign documents.
 
-<a href="http://nuggetofjoy.com/wp-content/uploads/96eec849_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54228" height="540" src="http://nuggetofjoy.com/wp-content/uploads/96eec849_960x540.jpg" width="960"/></a>
+<a href="https://nuggetofjoy.com/wp-content/uploads/96eec849_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54228" height="540" src="https://nuggetofjoy.com/wp-content/uploads/96eec849_960x540.jpg" width="960"/></a>
 <strong>What you learned: Save your projects</strong>
 <ul>
 <li>Choose File &gt; Save or File &gt; Save As.</li>
@@ -80,7 +80,7 @@ Explore the different methods for saving your InDesign documents.
 
 Take a hands-on tour of the workspace in Adobe InDesign.
 
-<a href="http://nuggetofjoy.com/wp-content/uploads/ad5d7c4b_960x540.jpg" rel="https://helpx.adobe.com/mena_en/indesign/how-to/text-formatting-overview.html?playlist=/services/playlist.helpx/products:SG_INDESIGN_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_MENA.json noopener noreferrer" target="_blank"><img alt="" class="aligncenter wp-image-54229 size-full" height="540" src="http://nuggetofjoy.com/wp-content/uploads/ad5d7c4b_960x540.jpg" width="960"/></a>
+<a href="https://nuggetofjoy.com/wp-content/uploads/ad5d7c4b_960x540.jpg" rel="https://helpx.adobe.com/mena_en/indesign/how-to/text-formatting-overview.html?playlist=/services/playlist.helpx/products:SG_INDESIGN_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_MENA.json noopener noreferrer" target="_blank"><img alt="" class="aligncenter wp-image-54229 size-full" height="540" src="https://nuggetofjoy.com/wp-content/uploads/ad5d7c4b_960x540.jpg" width="960"/></a>
 </div>
 </div>
 </div>
@@ -108,7 +108,7 @@ Take a hands-on tour of the workspace in Adobe InDesign.
 
 Explore how to zoom and pan in an InDesign document.
 
-<a href="http://nuggetofjoy.com/wp-content/uploads/ccb12cba_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54231" height="540" src="http://nuggetofjoy.com/wp-content/uploads/ccb12cba_960x540.jpg" width="960"/></a>
+<a href="https://nuggetofjoy.com/wp-content/uploads/ccb12cba_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54231" height="540" src="https://nuggetofjoy.com/wp-content/uploads/ccb12cba_960x540.jpg" width="960"/></a>
 <strong>What you learned: Zoom and pan</strong>
 <ul>
 <li>The Zoom tool, located in the toolbox, can be used to show you more detail of a document. To change from Zoom In to Zoom Out, press Alt (Windows) or Option (macOS).</li>
@@ -118,12 +118,12 @@ Explore how to zoom and pan in an InDesign document.
 <hr/>
 </div>
 <h2>Importing Graphics Using InDesign CS5</h2>
-<figure class="wp-block-image size-large"><img alt="" class="wp-image-54184" src="http://nuggetofjoy.com/wp-content/uploads/Images1.jpg"/></figure>
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-54184" src="https://nuggetofjoy.com/wp-content/uploads/Images1.jpg"/></figure>
 <strong><a aria-label=" (opens in a new tab)" href="https://design.tutsplus.com/tutorials/quick-tip-importing-graphics-using-indesign-cs5--vector-4251" rel="noreferrer noopener" target="_blank">View Tutorial</a></strong>
 <hr/>
 <h3></h3>
 <h2>An Introduction to Threading Text in InDesign CS5</h2>
-<figure class="wp-block-image size-large"><img alt="" class="wp-image-54182" src="http://nuggetofjoy.com/wp-content/uploads/Threading-text.jpg"/></figure>
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-54182" src="https://nuggetofjoy.com/wp-content/uploads/Threading-text.jpg"/></figure>
 <strong><a aria-label=" (opens in a new tab)" href="https://design.tutsplus.com/tutorials/quick-tip-an-introduction-to-threading-text-in-indesign-cs5--vector-4876" rel="noreferrer noopener" target="_blank">View Tutorial</a></strong>
 </div>
 
@@ -133,7 +133,7 @@ Explore how to zoom and pan in an InDesign document.
 ## 
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/0001.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/0001.jpg)
 [**View Video**](https://helpx.adobe.com/mena_en/indesign/how-to/add-work-with-graphics.html?playlist=/services/playlist.helpx/products:SG_INDESIGN_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_MENA.json)
 **[Sample Files](https://learndownload.adobe.com/pub/learn/indesign/add-work-with-graphics.zip)**
 **What you learned: Add graphics to projects**
@@ -163,7 +163,7 @@ Explore graphic linking using the Links panel.
 
 
 <div class="learn-video parbase section">
-<div class="responsive-video-container"><a href="http://nuggetofjoy.com/wp-content/uploads/bf8afb32_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54256" height="540" src="http://nuggetofjoy.com/wp-content/uploads/bf8afb32_960x540.jpg" width="960"/></a></div>
+<div class="responsive-video-container"><a href="https://nuggetofjoy.com/wp-content/uploads/bf8afb32_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54256" height="540" src="https://nuggetofjoy.com/wp-content/uploads/bf8afb32_960x540.jpg" width="960"/></a></div>
 </div>
 
 
@@ -204,7 +204,7 @@ Discover how to wrap text around content using the Text Wrap panel.
 
 
 <div class="learn-video parbase section">
-<div class="responsive-video-container"><a href="http://nuggetofjoy.com/wp-content/uploads/c60fb46a_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54257" height="540" src="http://nuggetofjoy.com/wp-content/uploads/c60fb46a_960x540.jpg" width="960"/></a></div>
+<div class="responsive-video-container"><a href="https://nuggetofjoy.com/wp-content/uploads/c60fb46a_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54257" height="540" src="https://nuggetofjoy.com/wp-content/uploads/c60fb46a_960x540.jpg" width="960"/></a></div>
 </div>
 
 
@@ -238,7 +238,7 @@ Explore how to apply color to content using existing colors and colors you creat
 </div>
 <div class="text parbase section">
 <div class="text">
-<a href="http://nuggetofjoy.com/wp-content/uploads/b06a365c_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54258" height="540" src="http://nuggetofjoy.com/wp-content/uploads/b06a365c_960x540.jpg" width="960"/></a>
+<a href="https://nuggetofjoy.com/wp-content/uploads/b06a365c_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54258" height="540" src="https://nuggetofjoy.com/wp-content/uploads/b06a365c_960x540.jpg" width="960"/></a>
 <strong><a href="https://learndownload.adobe.com/pub/learn/indesign/apply-color-effects.zip" rel="noopener noreferrer" target="_blank">Sample Files</a></strong>
 <strong>What you learned: Change the color of content</strong>
 
@@ -268,7 +268,7 @@ Learn how to save a color you create as a swatch for later use.
 </div>
 </div>
 <div class="learn-video parbase section">
-<div class="responsive-video-container"><a href="http://nuggetofjoy.com/wp-content/uploads/973f3071_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54259" height="540" src="http://nuggetofjoy.com/wp-content/uploads/973f3071_960x540.jpg" width="960"/></a></div>
+<div class="responsive-video-container"><a href="https://nuggetofjoy.com/wp-content/uploads/973f3071_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54259" height="540" src="https://nuggetofjoy.com/wp-content/uploads/973f3071_960x540.jpg" width="960"/></a></div>
 </div>
 <div class="text parbase section">
 <div class="text">
@@ -296,7 +296,7 @@ Apply creative effects to your content.
 </div>
 <div class="text parbase section">
 <div class="text">
-<strong><a href="http://nuggetofjoy.com/wp-content/uploads/30181197_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54260" height="540" src="http://nuggetofjoy.com/wp-content/uploads/30181197_960x540.jpg" width="960"/></a>
+<strong><a href="https://nuggetofjoy.com/wp-content/uploads/30181197_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54260" height="540" src="https://nuggetofjoy.com/wp-content/uploads/30181197_960x540.jpg" width="960"/></a>
 What you learned: Explore effects like drop shadows in InDesign</strong>
 
 Transparency effects include drop shadows, bevel and emboss, and more, and are found in the Properties panel and Effects panel.
@@ -359,7 +359,7 @@ Explore the different types of frames you can use in InDesign.
 
 Learn how to add text to your InDesign projects.
 
-<a href="http://nuggetofjoy.com/wp-content/uploads/ddd7633f_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54232" height="540" src="http://nuggetofjoy.com/wp-content/uploads/ddd7633f_960x540.jpg" width="960"/></a>
+<a href="https://nuggetofjoy.com/wp-content/uploads/ddd7633f_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54232" height="540" src="https://nuggetofjoy.com/wp-content/uploads/ddd7633f_960x540.jpg" width="960"/></a>
 </div>
 </div>
 
@@ -387,7 +387,7 @@ Learn how to add text to your InDesign projects.
 Explore dividing text frames into multiple columns.
 
 </div>
-<a href="http://nuggetofjoy.com/wp-content/uploads/a951c009_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54233" height="540" src="http://nuggetofjoy.com/wp-content/uploads/a951c009_960x540.jpg" width="960"/></a>
+<a href="https://nuggetofjoy.com/wp-content/uploads/a951c009_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54233" height="540" src="https://nuggetofjoy.com/wp-content/uploads/a951c009_960x540.jpg" width="960"/></a>
 </div>
 
 
@@ -415,7 +415,7 @@ Explore dividing text frames into multiple columns.
 
 Bring text files into Adobe InDesign from Microsoft Word, and more.
 
-<a href="http://nuggetofjoy.com/wp-content/uploads/31e7c651_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54234" height="540" src="http://nuggetofjoy.com/wp-content/uploads/31e7c651_960x540.jpg" width="960"/></a>
+<a href="https://nuggetofjoy.com/wp-content/uploads/31e7c651_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54234" height="540" src="https://nuggetofjoy.com/wp-content/uploads/31e7c651_960x540.jpg" width="960"/></a>
 <a href="https://helpx.adobe.com/mena_en/indesign/how-to/apply-color-effects.html?playlist=/services/playlist.helpx/products:SG_INDESIGN_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_MENA.json&amp;ref=helpx.adobe.com" rel="noopener noreferrer" target="_blank"><strong>Watch Video</strong></a>
 <strong>What you learned: Import text</strong>
 
@@ -442,7 +442,7 @@ Text can be pasted, dragged, or placed into an InDesign document from an outside
 
 Discover how to flow text from one frame to another.
 
-<a href="http://nuggetofjoy.com/wp-content/uploads/5a133e86_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54235" height="540" src="http://nuggetofjoy.com/wp-content/uploads/5a133e86_960x540.jpg" width="960"/></a>
+<a href="https://nuggetofjoy.com/wp-content/uploads/5a133e86_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54235" height="540" src="https://nuggetofjoy.com/wp-content/uploads/5a133e86_960x540.jpg" width="960"/></a>
 <a href="https://helpx.adobe.com/mena_en/indesign/how-to/apply-color-effects.html?playlist=/services/playlist.helpx/products:SG_INDESIGN_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-1/en_MENA.json&amp;ref=helpx.adobe.com" rel="noopener noreferrer" target="_blank"><strong>Watch Video</strong></a>
 </div>
 </div>
@@ -463,7 +463,7 @@ To thread text:
 
 ## Edit Content (Adobe Tutorial)
 
-[![](http://nuggetofjoy.com/wp-content/uploads/cd8c7938_960x540.jpg)](http://nuggetofjoy.com/wp-content/uploads/cd8c7938_960x540.jpg)
+[![](https://nuggetofjoy.com/wp-content/uploads/cd8c7938_960x540.jpg)](https://nuggetofjoy.com/wp-content/uploads/cd8c7938_960x540.jpg)
 
 
 **[Watch Video](https://helpx.adobe.com/mena_en/indesign/how-to/edit-modify-content.html?playlist=/services/playlist.helpx/products:SG_INDESIGN_1_1/learn-path:get-started/set-header:ccx-designer/playlist:ccl-get-started-2/en_MENA.json&ref=helpx.adobe.com)**
@@ -496,7 +496,7 @@ Learn how to transform content with the Selection tool, Properties panel, and tr
 
 
 <div class="learn-video parbase section">
-<div class="responsive-video-container"><a href="http://nuggetofjoy.com/wp-content/uploads/4bacfb46_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54262" height="540" src="http://nuggetofjoy.com/wp-content/uploads/4bacfb46_960x540.jpg" width="960"/></a></div>
+<div class="responsive-video-container"><a href="https://nuggetofjoy.com/wp-content/uploads/4bacfb46_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54262" height="540" src="https://nuggetofjoy.com/wp-content/uploads/4bacfb46_960x540.jpg" width="960"/></a></div>
 </div>
 
 
@@ -531,7 +531,7 @@ Explore aligning content with the Align panel and working with groups of content
 
 
 <div class="learn-video parbase section">
-<div class="responsive-video-container"><a href="http://nuggetofjoy.com/wp-content/uploads/7fa0c5a7_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54263" height="540" src="http://nuggetofjoy.com/wp-content/uploads/7fa0c5a7_960x540.jpg" width="960"/></a></div>
+<div class="responsive-video-container"><a href="https://nuggetofjoy.com/wp-content/uploads/7fa0c5a7_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54263" height="540" src="https://nuggetofjoy.com/wp-content/uploads/7fa0c5a7_960x540.jpg" width="960"/></a></div>
 </div>
 
 
@@ -573,7 +573,7 @@ Add page guides to your documents for alignment.
 
 
 <div class="learn-video parbase section">
-<div class="responsive-video-container"><a href="http://nuggetofjoy.com/wp-content/uploads/a1b8159a_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54264" height="540" src="http://nuggetofjoy.com/wp-content/uploads/a1b8159a_960x540.jpg" width="960"/></a></div>
+<div class="responsive-video-container"><a href="https://nuggetofjoy.com/wp-content/uploads/a1b8159a_960x540.jpg"><img alt="" class="aligncenter size-full wp-image-54264" height="540" src="https://nuggetofjoy.com/wp-content/uploads/a1b8159a_960x540.jpg" width="960"/></a></div>
 </div>
 
 
@@ -599,7 +599,7 @@ Ruler guides are nonprinting objects used for aligning content that can be posit
 
 ## How to Design a Classic Book Cover With a Modern Twist!
 
-![](http://nuggetofjoy.com/wp-content/uploads/Moby-Dick-mock-up.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Moby-Dick-mock-up.png)
 
 **[View Tutorial](https://design.tutsplus.com/tutorials/how-to-design-a-classic-book-cover-with-a-modern-twist--cms-25982)**
 
@@ -613,7 +613,7 @@ Ruler guides are nonprinting objects used for aligning content that can be posit
 ## How to Create a Fall-Themed Wedding Invite in Adobe InDesign
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Master-2.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Master-2.jpg)
 
 
 **[View Tutorial](https://design.tutsplus.com/tutorials/create-a-fall-themed-wedding-invite-in-adobe-indesign--cms-29606)**
@@ -629,7 +629,7 @@ Ruler guides are nonprinting objects used for aligning content that can be posit
 
 ## 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Final-product-revised.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Final-product-revised.jpg)
 
 
 **[View Tutorial](https://design.tutsplus.com/tutorials/how-to-create-a-great-business-card-in-10-steps--cms-29303)**
@@ -645,7 +645,7 @@ Ruler guides are nonprinting objects used for aligning content that can be posit
 
 ## 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Final-infographic-572x1024.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Final-infographic-572x1024.jpg)
 
 
 **[View Tutorial](https://design.tutsplus.com/tutorials/how-to-create-a-space-travel-infographic-in-adobe-indesign--cms-31428)**
@@ -661,7 +661,7 @@ Ruler guides are nonprinting objects used for aligning content that can be posit
 
 ## 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Climate-change-infograp22hic-scaled.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Climate-change-infograp22hic-scaled.jpg)
 
 
 **[View Tutorial](https://design.tutsplus.com/tutorials/how-to-create-a-climate-change-infographic-in-indesign--cms-30031)**
@@ -697,7 +697,7 @@ Ruler guides are nonprinting objects used for aligning content that can be posit
 
 ## 
 
-![](http://nuggetofjoy.com/wp-content/uploads/calendar_38_new.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/calendar_38_new.jpg)
 
 
 **[View Tutorial](https://design.tutsplus.com/tutorials/how-to-create-a-calendar-template-in-indesign--cms-33886)**
@@ -709,7 +709,7 @@ Ruler guides are nonprinting objects used for aligning content that can be posit
 ## How to Design a Stylish Real Estate Flyer Template in Adobe InDesign
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Final-image-13.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Final-image-13.jpg)
 
 
 **[View Tutorial](https://design.tutsplus.com/tutorials/how-to-design-a-stylish-real-estate-flyer-in-adobe-indesign--cms-28423)**
@@ -726,7 +726,7 @@ Ruler guides are nonprinting objects used for aligning content that can be posit
 
 ## 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Final-image-12.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Final-image-12.jpg)
 [**View Tutorial**](https://design.tutsplus.com/articles/the-building-blocks-of-a-perfect-resume-design--cms-27878)
 
 
@@ -738,7 +738,7 @@ Ruler guides are nonprinting objects used for aligning content that can be posit
 ## How to Create a Simple Magazine Template in Adobe InDesign
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Final-iamge.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Final-iamge.jpg)
 [**Watch Video**](https://design.tutsplus.com/tutorials/how-to-create-a-simple-magazine-template-in-adobe-indesign--cms-28227)
 
 
@@ -747,7 +747,7 @@ Ruler guides are nonprinting objects used for aligning content that can be posit
 ## Learn Restaurant Menu Design in Adobe InDesign
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Menu.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Menu.jpg)
 [**View Tutorial**](https://design.tutsplus.com/articles/learn-restaurant-menu-design-in-adobe-indesign--cms-33952)
 
 

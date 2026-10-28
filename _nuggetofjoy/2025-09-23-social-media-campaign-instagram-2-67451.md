@@ -136,7 +136,7 @@ Target audience. 18-34 year olds with an interest in digital design.
 **Color palette:** a limited color palette will be used for this campaign.
 
 
-![Color Palette](http://nuggetofjoy.com/wp-content/uploads/image-139-1024x332.png)
+![Color Palette](https://nuggetofjoy.com/wp-content/uploads/image-139-1024x332.png)
 
 
 **Font:** Acier BAT Text Solid
@@ -160,7 +160,7 @@ Target audience. 18-34 year olds with an interest in digital design.
 **Intended message:** Motion can be created with a "static" image.
 
 
-![Radial Balance](http://nuggetofjoy.com/wp-content/uploads/image-141-1024x1024.png)
+![Radial Balance](https://nuggetofjoy.com/wp-content/uploads/image-141-1024x1024.png)
 
 
 **Caption:** This seems like it's moving but it's not. Static images don't need to be over complicated or boring to have an impact. This image uses radial balance to organize the complexity of all the flowing lines. #radial-balance #UXdesign
@@ -181,7 +181,7 @@ Purpose of the design: This Instagram main feed post demonstrates the Gestalt pr
 Intended message: You can exploit common figure-ground perception conventions to “confuse” the viewer and add interest, even when using simple objects like flat squares.
 
 
-![Figure and Ground](http://nuggetofjoy.com/wp-content/uploads/image-143-1024x1024.png)
+![Figure and Ground](https://nuggetofjoy.com/wp-content/uploads/image-143-1024x1024.png)
 
 
 **Caption:** Look at this figure & ground illustration for a moment. What are the figures and what is the ground (surrounding area)? It may seem to change, with the smallest squares being the figures on the square fields, and then switch so that the larger squares with the squares inside become the figures. **#gestalt #UXdesign**
@@ -202,7 +202,7 @@ Purpose of the design: This is an Instagram main feed post demonstrating how Pro
 Intended message: Proximity can be used to simplify information by grouping objects together. We don't really think about this process unless we are specifically prompted to engage. In this
 
 
-![Proximity](http://nuggetofjoy.com/wp-content/uploads/image-144-1024x1024.png)
+![Proximity](https://nuggetofjoy.com/wp-content/uploads/image-144-1024x1024.png)
 
 
 **Caption:** How many objects are in this photo? Because of the Law of Proximity, we first perceive this image as two objects: a single silver ball getting ready to hit an object composed of four identical silver balls. Because of the question, TWO OR FIVE? you were prompted to also think about the five identical silver balls. Grouping things like this helps us simplify our world and remove unnecessary complexity. #**gestalt #RCSCdesign**

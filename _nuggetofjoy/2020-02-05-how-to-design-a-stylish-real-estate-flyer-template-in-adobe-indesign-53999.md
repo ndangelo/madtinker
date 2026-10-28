@@ -17,7 +17,7 @@ tags: []
 by [Grace Fussell](https://tutsplus.com/authors/grace-fussell) 22 Feb
 
 
-![Final product image](http://nuggetofjoy.com/wp-content/uploads/Final-image-10.jpg)
+![Final product image](https://nuggetofjoy.com/wp-content/uploads/Final-image-10.jpg)
 
 What You'll Be Creating
 
@@ -46,7 +46,7 @@ Set the **Width** of the page to **8.5 in (215.9 mm)**and **Height** to **
 Set the **Top Margin** to **15 mm, Bottom** to **18 mm**, and **Left** and **Right Margins** to **14 mm.**Add a **Bleed** of **5 mm** to all edges of the page, and click **OK** to create the document.
 
 
-![new document window](http://nuggetofjoy.com/wp-content/uploads/1.15.jpg)
+![new document window](https://nuggetofjoy.com/wp-content/uploads/1.15.jpg)
 
 
 ### Step 2
@@ -58,13 +58,13 @@ Expand the **Layers** panel **(Window > Layers)** and double-click on the de
 Click on the **Create New Layer**button at the bottom of the panel to create a second layer. Rename it ***Shapes***. Create a third and final layer and rename this ***Typography***.
 
 
-![layers panel](http://nuggetofjoy.com/wp-content/uploads/1.25.jpg)
+![layers panel](https://nuggetofjoy.com/wp-content/uploads/1.25.jpg)
 
 
 Lock both the top ***Typography*** layer and ***Photo*** layer at the bottom, leaving the ***Shapes*** layer unlocked and selected.
 
 
-![shapes layer](http://nuggetofjoy.com/wp-content/uploads/1.2.1-3.jpg)
+![shapes layer](https://nuggetofjoy.com/wp-content/uploads/1.2.1-3.jpg)
 
 
 ## 2. How to Create Your Color Palette
@@ -82,7 +82,7 @@ To create your palette, expand the **Swatches** panel **(Window > Color > Swa
 First, let’s create our dark base color. Name the swatch **Off-Black**, and set the **Type** to **Process** and **Mode** to **CMYK**. Set the levels to **C=90 M=84 Y=47 K=63**, and click **Add** and then **OK**.
 
 
-![off-black swatch](http://nuggetofjoy.com/wp-content/uploads/2.17.jpg)
+![off-black swatch](https://nuggetofjoy.com/wp-content/uploads/2.17.jpg)
 
 
 ### Step 2
@@ -94,10 +94,10 @@ Create a further three new CMYK swatches using the same process.
 Here, I’ve created a pale swatch named **Grey**, **C=10 M=7 Y=7 K=0**, and two yellow swatches: **C=3 M=34 Y=93 K=0 (‘Mustard’)** and **C=7 M=17 Y=93 K=0 (‘Light Yellow’)**.
 
 
-![mustard](http://nuggetofjoy.com/wp-content/uploads/2.26.jpg)
+![mustard](https://nuggetofjoy.com/wp-content/uploads/2.26.jpg)
 
 
-![swatch options](http://nuggetofjoy.com/wp-content/uploads/2.2.14.jpg)
+![swatch options](https://nuggetofjoy.com/wp-content/uploads/2.2.14.jpg)
 
 
 ## 3. How to Create a Geometric Design for Your Flyer
@@ -109,7 +109,7 @@ Here, I’ve created a pale swatch named **Grey**, **C=10 M=7 Y=7 K=0**, and t
 Take the **Rectangle Tool (M)** and drag across the page, extending it up to the bleed on the top, left and bottom edges, and across to roughly the halfway point of the page. Set the **Fill** to your **Off-Black** swatch.
 
 
-![rectangle tool](http://nuggetofjoy.com/wp-content/uploads/3.15.jpg)
+![rectangle tool](https://nuggetofjoy.com/wp-content/uploads/3.15.jpg)
 
 
 ### Step 2
@@ -118,7 +118,7 @@ Take the **Rectangle Tool (M)** and drag across the page, extending it up to t
 Select the**Pen Tool (P)** and use it to create a diagonal shape extending across the page, from the bottom-left corner to the top of the right side of the page. You want the ribbon to be reasonably thick, with perfectly parallel lines.
 
 
-![pen tool](http://nuggetofjoy.com/wp-content/uploads/3.25.jpg)
+![pen tool](https://nuggetofjoy.com/wp-content/uploads/3.25.jpg)
 
 
 Once you’ve created the rough shape and want to tweak the anchor points, you can use the**Direct Selection Tool (A)** to select individual points and move them around using the arrow keys.
@@ -127,7 +127,7 @@ Once you’ve created the rough shape and want to tweak the anchor points, you c
 Once you’re happy with the shape, adjust the **Fill** to**Light Yellow.**
 
 
-![light yellow](http://nuggetofjoy.com/wp-content/uploads/3.2.1-4.jpg)
+![light yellow](https://nuggetofjoy.com/wp-content/uploads/3.2.1-4.jpg)
 
 
 ### Step 3
@@ -136,13 +136,13 @@ Once you’re happy with the shape, adjust the **Fill** to**Light Yellow.**
 Take the **Scissors Tool (C)** and snip once where the top of the yellow shape meets the edge of the black rectangle, and once again where the shapes cross over at the bottom. This will split the yellow shape into two sections.
 
 
-![scissors tool](http://nuggetofjoy.com/wp-content/uploads/3.35.jpg)
+![scissors tool](https://nuggetofjoy.com/wp-content/uploads/3.35.jpg)
 
 
 Select the top-right half of the yellow shape and go to **Object > Effects > Transparency.** Choose **Hard Light**from the **Mode** menu, and pull down the **Opacity** to around **90%**. Click **OK**.
 
 
-![hard light](http://nuggetofjoy.com/wp-content/uploads/3.3.14.jpg)
+![hard light](https://nuggetofjoy.com/wp-content/uploads/3.3.14.jpg)
 
 
 ### Step 4
@@ -151,19 +151,19 @@ Select the top-right half of the yellow shape and go to **Object > Effects > Tr
 Take the **Pen Tool (P)**again and zoom into the top-right corner of the page. Trace the edges of the blank space that remains, creating a sort of triangle shape.
 
 
-![pen tool](http://nuggetofjoy.com/wp-content/uploads/3.45.jpg)
+![pen tool](https://nuggetofjoy.com/wp-content/uploads/3.45.jpg)
 
 
 Set the **Fill** of this new shape to **Off-Black.**
 
 
-![off-black ](http://nuggetofjoy.com/wp-content/uploads/3.4.1-4.jpg)
+![off-black ](https://nuggetofjoy.com/wp-content/uploads/3.4.1-4.jpg)
 
 
 **Edit > Copy** the triangle shape, and **Edit > Paste in Place.**
 
 
-![paste in place](http://nuggetofjoy.com/wp-content/uploads/3.4.2-3.jpg)
+![paste in place](https://nuggetofjoy.com/wp-content/uploads/3.4.2-3.jpg)
 
 
 Return to the **Layers** panel and click on the small arrow to the left of the ***Shapes*** layer’s name, to expand the layer. Select the top ‘polygon’ element...
@@ -172,13 +172,13 @@ Return to the **Layers** panel and click on the small arrow to the left of the
 ... and drag it down into the ***Photo*** layer below. You’ll have to unlock this layer first to do so.
 
 
-![photo layer](http://nuggetofjoy.com/wp-content/uploads/3.4.3-3.jpg)
+![photo layer](https://nuggetofjoy.com/wp-content/uploads/3.4.3-3.jpg)
 
 
 Then, with the moved triangle shape still selected, **Right-Click (Windows) or Control-Click (Mac) > Content > Graphic** to turn the shape into an image frame. We’ll come back to this a bit later.
 
 
-![content graphic](http://nuggetofjoy.com/wp-content/uploads/3.4.4-3.jpg)
+![content graphic](https://nuggetofjoy.com/wp-content/uploads/3.4.4-3.jpg)
 
 
 ### Step 5
@@ -187,7 +187,7 @@ Then, with the moved triangle shape still selected, **Right-Click (Windows) or 
 Lock the ***Photo*** layer and return to the ***Shapes*** layer above. Select the triangle shape that’s sitting on this layer, and go to **Object > Effects > Transparency**. Reduce the **Opacity** to **40%**, and click **OK**.
 
 
-![transparency](http://nuggetofjoy.com/wp-content/uploads/3.5-3.jpg)
+![transparency](https://nuggetofjoy.com/wp-content/uploads/3.5-3.jpg)
 
 
 ## 4. How to Add Photos to Your Flyer Design
@@ -199,19 +199,19 @@ Lock the ***Photo*** layer and return to the ***Shapes*** layer above. Selec
 Lock the ***Shapes*** layer and unlock the ***Photo*** layer below.
 
 
-![photo layer](http://nuggetofjoy.com/wp-content/uploads/4.17.jpg)
+![photo layer](https://nuggetofjoy.com/wp-content/uploads/4.17.jpg)
 
 
 Take the **Pen Tool (P)**and create another new shape. This time, focus on the bottom-right section of the page, creating a shape that fills the bottom-right gap as well as the top-right half of the yellow rectangle sitting on the layer above, This will create a rectangle shape with a triangular top.
 
 
-![pen tool](http://nuggetofjoy.com/wp-content/uploads/4.1.1-3.jpg)
+![pen tool](https://nuggetofjoy.com/wp-content/uploads/4.1.1-3.jpg)
 
 
 Set the **Fill** of the shape to**[None]** and then **Right-Click (Windows) or Control-Click (Mac) > Content > Graphic** to transform the shape into an image frame.
 
 
-![content graphic](http://nuggetofjoy.com/wp-content/uploads/4.1.2-3.jpg)
+![content graphic](https://nuggetofjoy.com/wp-content/uploads/4.1.2-3.jpg)
 
 
 ### Step 2
@@ -223,7 +223,7 @@ With your new image frame still selected, go to **File > Place**. Choose an ima
 *(Here, I've used this [image of a modern block of flats](https://pixabay.com/en/building-sky-architecture-urban-1841299/).)*
 
 
-![placed image](http://nuggetofjoy.com/wp-content/uploads/4.24.jpg)
+![placed image](https://nuggetofjoy.com/wp-content/uploads/4.24.jpg)
 
 
 ### Step 3
@@ -235,13 +235,13 @@ Select the triangular image frame at the top-right of the page and go to **File
 *(Here, I've used this [image of a contemporary kitchen](https://pixabay.com/en/architecture-interior-furniture-1171462/).)*
 
 
-![placed image](http://nuggetofjoy.com/wp-content/uploads/4.34.jpg)
+![placed image](https://nuggetofjoy.com/wp-content/uploads/4.34.jpg)
 
 
 With the black shape over the top of this frame, you’ll have a subtle dark tint across the whole image.
 
 
-![tint across image](http://nuggetofjoy.com/wp-content/uploads/4.3.1-3.jpg)
+![tint across image](https://nuggetofjoy.com/wp-content/uploads/4.3.1-3.jpg)
 
 
 ## 5. Add Branding and Typography to the Flyer
@@ -256,7 +256,7 @@ You might already have a logo for your real estate company, but if not, this [m
 Open your logo up in **Adobe Illustrator** or a different vector-editing program, and adjust the **Fill** of the design to **White**. Then **Edit > Copy** the vector.
 
 
-[![houses logo](http://nuggetofjoy.com/wp-content/uploads/5.14.jpg)](https://graphicriver.net/item/houses-logo/9459929)
+[![houses logo](https://nuggetofjoy.com/wp-content/uploads/5.14.jpg)](https://graphicriver.net/item/houses-logo/9459929)
 
 [Minimal Houses Logo](https://graphicriver.net/item/houses-logo/9459929)
 
@@ -267,13 +267,13 @@ Return to your **InDesign** document and lock the ***Photo*** layer. Unlock 
 Position the logo over the top-right half of the yellow shape.
 
 
-![logo](http://nuggetofjoy.com/wp-content/uploads/5.1.1-3.jpg)
+![logo](https://nuggetofjoy.com/wp-content/uploads/5.1.1-3.jpg)
 
 
 I’ve added text below the logo design to complete the brand, setting the **Font** to **[Charlevoix Pro](https://graphicriver.net/item/charlevoix-pro-regular/15144030)**, and adjusting the **Font Color** to **[Paper]** from the **Swatches** panel.
 
 
-![charlevoix pro](http://nuggetofjoy.com/wp-content/uploads/5.1.2-3.jpg)
+![charlevoix pro](https://nuggetofjoy.com/wp-content/uploads/5.1.2-3.jpg)
 
 
 ### Step 2
@@ -282,13 +282,13 @@ I’ve added text below the logo design to complete the brand, setting the **Fo
 Take the **Rectangle Tool (M)** and create a wide, squat rectangle across the top of the page, extending over to the halfway point of the page. Rest the top edge of the shape against the top margin, and set the **Fill** to **Mustard**.
 
 
-![mustard color](http://nuggetofjoy.com/wp-content/uploads/5.25.jpg)
+![mustard color](https://nuggetofjoy.com/wp-content/uploads/5.25.jpg)
 
 
 Select the rectangle shape and **Edit > Copy, Edit > Paste**, moving it over to the right side of the page, meeting the right edge of the original rectangle shape. Go to **Object > Effects > Transparency**. Set the **Mode** to **Hard Light**and reduce the **Opacity** to **70%**.
 
 
-![hard light effect](http://nuggetofjoy.com/wp-content/uploads/5.2.1-3.jpg)
+![hard light effect](https://nuggetofjoy.com/wp-content/uploads/5.2.1-3.jpg)
 
 
 ### Step 3
@@ -297,7 +297,7 @@ Select the rectangle shape and **Edit > Copy, Edit > Paste**, moving it over to
 Create a text frame using the**Type Tool (T)**, and type in*‘FOR SALE’* or whichever header you’d like to use. Set the **Font** to **Charlevoix Pro Medium, Font Size** to **37 pt, Tracking** to **110**and **Font Color** to **Grey**.
 
 
-![grey font color](http://nuggetofjoy.com/wp-content/uploads/5.3-3.jpg)
+![grey font color](https://nuggetofjoy.com/wp-content/uploads/5.3-3.jpg)
 
 
 ### Step 4
@@ -309,13 +309,13 @@ You can now start to add more text to your flyer design using the **Type Tool (
 Place text frames below the ribbon header, resting them against the left margin. Set the text in **Charlevoix Pro, Size 12 pt,** and increase the **Tracking** to **130** for a contemporary look. Set the **Font Color** to **Grey**.
 
 
-![tracking](http://nuggetofjoy.com/wp-content/uploads/5.4-3.jpg)
+![tracking](https://nuggetofjoy.com/wp-content/uploads/5.4-3.jpg)
 
 
 Add more details about facilities, setting the text in **Light Yellow**. You can create bullet points by highlighting text and then clicking on the **Bulleted List** button in the **Character Formatting Controls** panel at the top of the workspace.
 
 
-![yellow text](http://nuggetofjoy.com/wp-content/uploads/5.4.1-3.jpg)
+![yellow text](https://nuggetofjoy.com/wp-content/uploads/5.4.1-3.jpg)
 
 
 ### Step 5
@@ -327,7 +327,7 @@ You can also place text over the bottom-left corner of the page. This is a good 
 Here I’ve set text in **Charlevoix Pro**, as before, and in the **Grey** swatch for subtle contrast against the yellow background.
 
 
-![grey text](http://nuggetofjoy.com/wp-content/uploads/5.5-3.jpg)
+![grey text](https://nuggetofjoy.com/wp-content/uploads/5.5-3.jpg)
 
 
 ## 6. How to Customize and Export Your Finished Flyer
@@ -345,7 +345,7 @@ Then unlock the ***Shapes*** layer and select the top ribbon rectangles and la
 *(To recreate the look below, I've used an [image of a modern living room](https://pixabay.com/en/apartment-carpet-chair-contemporary-1835482/) and [this photo of a formal city street](https://pixabay.com/en/ancient-architecture-building-city-1867594/).)*
 
 
-![adjusting color](http://nuggetofjoy.com/wp-content/uploads/6.14.jpg)
+![adjusting color](https://nuggetofjoy.com/wp-content/uploads/6.14.jpg)
 
 
 You can also experiment with the typography. Try changing the font from a clean sans serif like **Charlevoix Pro** to a more traditional serif like **Garamond** to make your flyer feel more aspirational and classic. 
@@ -363,7 +363,7 @@ From the **Format** drop-down menu at the bottom of the window, choose **Adob
 In the **Export to Adobe PDF** window that opens, choose **[Press Quality]** from the **Preset** menu at the top of the window.
 
 
-![press quality](http://nuggetofjoy.com/wp-content/uploads/6.24.jpg)
+![press quality](https://nuggetofjoy.com/wp-content/uploads/6.24.jpg)
 
 
 ### Step 3
@@ -372,13 +372,13 @@ In the **Export to Adobe PDF** window that opens, choose **[Press Quality]**�
 Click on **Marks and Bleeds**in the left-hand menu. Check the box reading **All Printer’s Marks**and check **Use Document Bleed Settings.**
 
 
-![marks and bleeds](http://nuggetofjoy.com/wp-content/uploads/6.34.jpg)
+![marks and bleeds](https://nuggetofjoy.com/wp-content/uploads/6.34.jpg)
 
 
 Click **Export** to create a print-ready PDF that you can send straight off to the printers. Fantastic work!
 
 
-![exported pdf](http://nuggetofjoy.com/wp-content/uploads/6.3.1-3.jpg)
+![exported pdf](https://nuggetofjoy.com/wp-content/uploads/6.3.1-3.jpg)
 
 
 ## Conclusion: Your Finished Flyer
@@ -387,7 +387,7 @@ Click **Export** to create a print-ready PDF that you can send straight off to
 All that’s left for you to do is to print your flyer and distribute it. Awesome work!
 
 
-![final flyer](http://nuggetofjoy.com/wp-content/uploads/Final-image-11.jpg)
+![final flyer](https://nuggetofjoy.com/wp-content/uploads/Final-image-11.jpg)
 
 
 In this tutorial we’ve covered a range of handy skills for putting together print-ready flyers in Adobe InDesign. Let’s recap some of the skills and techniques you’ve picked up. You can now:
@@ -413,7 +413,7 @@ https://nuggetofjoy.com/?p=54747
 **Grace Fussell**
 
 
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img alt="" height="137" src="http://nuggetofjoy.com/wp-content/uploads/Web-friendly-400px-1.jpg" width="137"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img alt="" height="137" src="https://nuggetofjoy.com/wp-content/uploads/Web-friendly-400px-1.jpg" width="137"/></figure></div>
 
 
 Graphic Designer & Design Writer

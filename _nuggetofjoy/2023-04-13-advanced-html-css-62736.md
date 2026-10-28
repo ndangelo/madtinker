@@ -740,7 +740,7 @@ Yeah. Border radius. Fear not, though — you don’t have to have borders. The�
 And there you have it. Rounded corners, see? Well, you will if you’ve got a sensible browser (see note below).
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/border-radius-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/border-radius-1.png)
 
 Corners are cut around the corresponding quarters of a circle (or ellipse) with the specified radius.
 
@@ -780,7 +780,7 @@ Ever so slightly less horribly wordy, you can also define all corner radii (what
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/border-radius_multiple.png)
+![](https://nuggetofjoy.com/wp-content/uploads/border-radius_multiple.png)
 
 Multiple-value border-radius.
 
@@ -806,7 +806,7 @@ Are circles a bit too square for you? You can specify different horizontal and v
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/border-radius_nanoo.png)
+![](https://nuggetofjoy.com/wp-content/uploads/border-radius_nanoo.png)
 
 Nanoo.
 
@@ -846,7 +846,7 @@ box-shadow: inset 0 0 7px 5px #ddd;
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/boxshadow-1-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/boxshadow-1-2.png)
 
 A basic drop-shadow and an inner-shadow.
 
@@ -1342,7 +1342,7 @@ As well as plastering a [single or tiling background image](https://www.htmldog
 This is the boogie web designers have been crying out for since Bing Crosbie was topping the charts.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/multipleBackgrounds-1-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/multipleBackgrounds-1-1.png)
 
 A repeating background image, a single-instance background image, and combining them together in the same box.
 
@@ -1375,7 +1375,7 @@ Easy, right? It’s just the same as using [`background-image`](https://www.htm
 The [`background-size`](https://www.htmldog.com/references/css/properties/background-size/) property allows you to stretch or compress a background image.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/background-size-1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/background-size-1.jpg)
 
 `background-size: contain` and `background-size: cover`
 
@@ -1429,7 +1429,7 @@ This page will only mention the [`transform`](https://www.htmldog.com/reference
 Manipulating a box over two dimensions, transform can be used to **rotate**, **skew**, **scale** and **translate** a box and its contents.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/transform-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/transform-1.png)
 
 The four basic 2D transform functions — rotate, skew, scale, and translate.
 
@@ -1558,7 +1558,7 @@ transform-origin: 0 0;
 This example will tell the box to transform (rotate, in the previous example) from the top left, the first “0” being horizontal, the second being vertical. These values could be different, of course — like all other x-y, and you can use the usual `center`, `top`, `right`, `bottom`, `left`, length and percentage values, including negatives.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/transform-origin-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/transform-origin-1.png)
 
 The same clockwise-rotated box with different transform origins.
 
@@ -1586,7 +1586,7 @@ background: linear-gradient(yellow, red);
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/linearGradient-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/linearGradient-1.png)
 
 A simple yellow-to-red linear gradient background.
 
@@ -1626,7 +1626,7 @@ background: linear-gradient(hsl(0,100%,50%),hsl(60,100%,50%),hsl(120,100%,50%),h
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/linearGradient2-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/linearGradient2-1.png)
 
 A colorful gradient extravaganza.
 
@@ -1660,7 +1660,7 @@ background: radial-gradient(yellow, green);
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/radialGradient-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/radialGradient-1.png)
 
 A simple yellow-to-green radial gradient background.
 
@@ -1673,7 +1673,7 @@ background: radial-gradient(circle, yellow, green);
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/radialGradient2-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/radialGradient2-1.png)
 
 A circular radial gradient.
 
@@ -1694,7 +1694,7 @@ background: radial-gradient(at top left, yellow, green);
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/radialGradient3-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/radialGradient3-1.png)
 
 A radial gradient emanating from the top-left corner of a box.
 
@@ -1740,7 +1740,7 @@ background: linear-gradient(135deg, hsl(36,100%,50%) 10%, hsl(72,100%,50%) 60%, 
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/linearGradient3-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/linearGradient3-1.png)
 
 Color stops in a linear gradient.
 
@@ -1759,7 +1759,7 @@ background: repeating-linear-gradient(white, black 15px, white 30px);
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/repeatingGradient-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/repeatingGradient-1.png)
 
 A repeating linear gradient.
 
@@ -1772,7 +1772,7 @@ background: repeating-radial-gradient(black, black 15px, white 15px, white 30px)
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/repeatingGradient2-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/repeatingGradient2-1.png)
 
 A repeating radial gradient.
 

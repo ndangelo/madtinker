@@ -16,7 +16,7 @@ tags: []
 ## User Flow:
 
 
-![User Flow in Figma](http://nuggetofjoy.com/wp-content/uploads/image-157-1024x580.png)
+![User Flow in Figma](https://nuggetofjoy.com/wp-content/uploads/image-157-1024x580.png)
 
 
 **User flows, UX flows, or flowcharts**, sometimes called diagrams that display the complete path a user takes when using a product.
@@ -28,7 +28,7 @@ The user flow maps out the user’s movement through the product, mapping out ea
 Browne, C., (2024). What Are User Flows In UX Design? [Full Beginner’s Guide]. Retrieved from https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/#:~:text=User%20flows%2C%20UX%20flows%2C%20or,through%20to%20the%20final%20interaction.
 
 
-![User Flow](http://nuggetofjoy.com/wp-content/uploads/image-150.png)
+![User Flow](https://nuggetofjoy.com/wp-content/uploads/image-150.png)
 
 
 Source: Source:  
@@ -64,10 +64,10 @@ Here are the basic characteristics of low-fidelity prototyping:
 Source: Babich, N. (n.d.). Prototyping 101: The Difference between Low-Fidelity and High-Fidelity Prototypes and When to Use Each: Adobe Blog. Retrieved from https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use?gclid=CjwKCAjw2dG1BhB4EiwA998cqLIZDJZT2NE222rBF56mfy2qekvJrrEgYx-BpBEpIw5dIVExRrbxsBoChmQQAvD\_BwE&ef\_id=CjwKCAjw2dG1BhB4EiwA998cqLIZDJZT2NE222rBF56mfy2qekvJrrEgYx-BpBEpIw5dIVExRrbxsBoChmQQAvD\_BwE%3AG%3As&s\_kwcid=AL%213085%213%21708151097249%21%21%21g%21%21%2121541756247%21168366847569&mv=search&gad\_source=1
 
 
-![Low Fidelity Wireframes](http://nuggetofjoy.com/wp-content/uploads/image-153.png)
+![Low Fidelity Wireframes](https://nuggetofjoy.com/wp-content/uploads/image-153.png)
 
 
-![Paper Prototyping](http://nuggetofjoy.com/wp-content/uploads/image-154.png)
+![Paper Prototyping](https://nuggetofjoy.com/wp-content/uploads/image-154.png)
 
 
 ## Hi-Fidelity Wireframes and Prototyping
@@ -79,7 +79,7 @@ Although we can describe a design with this level of fidelity as a high-fidelity
 A high-fidelity wireframe, also known as a hi-fi wireframe, shows how a website or app will appear to the user. It includes all the content, stylistic elements, editorial copy, and branding to represent the finished product accurately. While it's called a high-fidelity wireframe, it's more like a digital product mockup at this stage. You're essentially dealing with a functional prototype once you integrate functional user journeys and clickable areas into your high-fidelity wireframes.
 
 
-![example](http://nuggetofjoy.com/wp-content/uploads/image-284.png)
+![example](https://nuggetofjoy.com/wp-content/uploads/image-284.png)
 
 
 [Figma.com](http://figma.com)
@@ -96,13 +96,13 @@ https://www.youtube.com/watch?v=wY29Wjlv8Yc&amp;t=20s
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="700" src="https://capture.dropbox.com/embed/troqCIc9r5M7RM84?source=copy-embed" width="1200"></iframe>
 
 
-![Hi-Fidelity Wireframes and Prototyping](http://nuggetofjoy.com/wp-content/uploads/s3://image-control-storage/2024/08/07130843/image-152-e1757522535145.png)
+![Hi-Fidelity Wireframes and Prototyping](https://nuggetofjoy.com/wp-content/uploads/s3://image-control-storage/2024/08/07130843/image-152-e1757522535145.png)
 
 
 ## Prototyping in Figma
 
 
-![Figma](http://nuggetofjoy.com/wp-content/uploads/image-155-1024x566.png)
+![Figma](https://nuggetofjoy.com/wp-content/uploads/image-155-1024x566.png)
 
 
 **With Figma prototyping, you can create multiple flows for your prototype on one page to preview a user's full journey and experience through your designs.**
@@ -114,7 +114,7 @@ A flow is the network of frames and connections on a single page. A prototype ca
 Figma creates a flow starting point when you add your first connection between two frames. There are a few other ways to add a flow starting point to your prototype:
 
 
-- With the starting frame selected, click ![](http://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture.png) in the **Flow starting point** section of the right sidebar.
+- With the starting frame selected, click ![](https://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture.png) in the **Flow starting point** section of the right sidebar.
 - Right-click on the frame, then click **Add starting point**.
 - Duplicate a frame with an existing starting point.
 
@@ -132,7 +132,7 @@ Note: A top-level frame can be part of multiple flows but can only have one sta
 
 
 1. Select the hotspot for the connection.
-2. Click  ![](http://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-1.png) to create the connection.
+2. Click  ![](https://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-1.png) to create the connection.
 3. Drag it to the destination.
 4. If there are no existing connections, Figma will make the first frame a starting point.
 

@@ -25,7 +25,7 @@ A logo is not just an image, but also an introduction to a brand. And since firs
 ## Original:
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/original1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/original1.jpg)
 
 
 Imitation is the best form of flattery, however this is not the case when it comes to logo design. A good logo aids in creating a unique visual identity for a brand and helps it to stand out in a sea of competitors. While there is nothing wrong in taking a little design inspiration while creating a logo, it is important to push to be creative and as original as possible.
@@ -34,7 +34,7 @@ Imitation is the best form of flattery, however this is not the case when it com
 ## Relevant:
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/relevant1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/relevant1.jpg)
 
 
 Sometimes, even the most beautiful and unique logos may not be successful. Why? Because they may not be appropriate for their intended audience. For example, using a playful, child-like font is great for a logo for a toys company, but for a bank? Not so much. Its important to research a brand’s mission, values and its target audience before designing a logo - this will ensure that the logo is appropriate and effective for the brand.
@@ -43,7 +43,7 @@ Sometimes, even the most beautiful and unique logos may not be successful. Why? 
 ## Versatile:
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/versatile1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/versatile1.jpg)
 
 
 From large banners and billboards to something small like business cards and websites, typically a logo will be put to several uses. So it is important to create a scalable logo that is legible and maintains detail at all sizes. Also, a great logo is versatile in terms of color - it should look great in black and white, as well as in color as the contrast will help emphasize the idea. A few things to consider while designing a versatile logo are:
@@ -58,7 +58,7 @@ From large banners and billboards to something small like business cards and web
 ## Memorable:
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/memorable1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/memorable1.jpg)
 
 
 Some logos are so iconic, that even toddlers can not only easily recall and recognize them but also figure out what the brand sells just by looking at the logo. This is exactly what a great logo is - memorable. Iconic logos invoke emotion and hence make a permanent impression in the minds of customers.
@@ -67,7 +67,7 @@ Some logos are so iconic, that even toddlers can not only easily recall and reco
 ## Timeless:
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/timeless1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/timeless1.jpg)
 
 
 Keep away from trends while designing a logo. An effective logo is traditional and timeless, not trendy. While creating a visual brand identity, its important to ensure that its effectiveness is long lasting.

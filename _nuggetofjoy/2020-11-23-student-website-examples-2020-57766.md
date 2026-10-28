@@ -16,13 +16,13 @@ tags: []
 **Roxine Kee**
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Roxine Kee's personal website" class="wp-image-20671" src="http://nuggetofjoy.com/wp-content/uploads/Roxine-Kee-website-image-2020-9.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Roxine Kee's personal website" class="wp-image-20671" src="https://nuggetofjoy.com/wp-content/uploads/Roxine-Kee-website-image-2020-9.jpg"/></figure></div>
 
 
 **Elizabeth Lundin**
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Elizabeth Lundin's personal website" class="wp-image-20072" src="http://nuggetofjoy.com/wp-content/uploads/Elizabeth_Lundin-2019-4.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Elizabeth Lundin's personal website" class="wp-image-20072" src="https://nuggetofjoy.com/wp-content/uploads/Elizabeth_Lundin-2019-4.jpg"/></figure></div>
 
 
 A former writer for College Info Geek, Elizabeth is a great freelance writer with a website to showcase her work and tell her story. Here’s what her site can teach you:
@@ -31,7 +31,7 @@ A former writer for College Info Geek, Elizabeth is a great freelance writer wit
 **Taha Khan**
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Taha Khan's personal website" class="wp-image-20673" src="http://nuggetofjoy.com/wp-content/uploads/Taha-Khan-website-image-2020-4.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Taha Khan's personal website" class="wp-image-20673" src="https://nuggetofjoy.com/wp-content/uploads/Taha-Khan-website-image-2020-4.jpg"/></figure></div>
 
 
 Taha Khan does a lot of different things, including speaking, directing, comedy, and film production. Here’s what you can learn from his site:
@@ -46,7 +46,7 @@ I’ve already touched on [personal branding](https://collegeinfogeek.com/perso
 **Andrew Huang**
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Andrew Huang's personal website" class="wp-image-20080" src="http://nuggetofjoy.com/wp-content/uploads/Andrew_Huang-2019-4.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Andrew Huang's personal website" class="wp-image-20080" src="https://nuggetofjoy.com/wp-content/uploads/Andrew_Huang-2019-4.jpg"/></figure></div>
 
 
 Andrew Huang is a musician, producer, and YouTuber. I’ve been following his YouTube channel longer (and more consistently) than any other (except for the CIG YouTube channel, of course). His videos are creative, funny, and always impressive. Here’s what his site can teach us:
@@ -55,7 +55,7 @@ Andrew Huang is a musician, producer, and YouTuber. I’ve been following his Yo
 - **Clarissa Rodriguez**
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Clarissa Rodriguez website home page" class="wp-image-20711" src="http://nuggetofjoy.com/wp-content/uploads/Clarissa-Rodriguez-website-image-2020-4.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Clarissa Rodriguez website home page" class="wp-image-20711" src="https://nuggetofjoy.com/wp-content/uploads/Clarissa-Rodriguez-website-image-2020-4.jpg"/></figure></div>
 
 
 We love to showcase the work of other people who are helping students succeed in college, and Clarissa Rodriguez is one of those people. She offers an online course on study skills, as well as personalized study consultations. You can learn more about her inspiring story of going from failing multiple classes to graduating college with honors in [Episode 68 of the College Info Geek Podcast](https://collegeinfogeek.com/clarissa-rodriguez/).
@@ -67,7 +67,7 @@ Looking at her site, you can also learn some important lessons about personal br
 **Nasos Papadopoulos**
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Nasos Papadopoulos website About page" class="wp-image-20710" src="http://nuggetofjoy.com/wp-content/uploads/Nasos-Papdopoulos-updated-2020-4.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Nasos Papadopoulos website About page" class="wp-image-20710" src="https://nuggetofjoy.com/wp-content/uploads/Nasos-Papdopoulos-updated-2020-4.jpg"/></figure></div>
 
 
 Nasos Papadopoulos is the founder of MetaLearn, of method and series of courses that teaches you how to learn things on your own. The site also has superb branding:
@@ -76,7 +76,7 @@ Nasos Papadopoulos is the founder of MetaLearn, of method and series of courses 
 **Matthew Barby**
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Matthew Barby's personal website" class="wp-image-20085" src="http://nuggetofjoy.com/wp-content/uploads/Matthew_Barby-2019-4.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Matthew Barby's personal website" class="wp-image-20085" src="https://nuggetofjoy.com/wp-content/uploads/Matthew_Barby-2019-4.jpg"/></figure></div>
 
 
 In addition to writing and editing blog posts for this site, I also work on SEO (Search Engine Optimization). Briefly, it’s the field of getting your website to show up as high as possible in Google search results (or technically other search engines, but in practice that tends to be Google as its the dominant player).
@@ -88,7 +88,7 @@ Matthew Barby’s site has been my main guide as I’ve been teaching myself SEO
 **Isa Adney**
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Isa Adney's personal website" class="wp-image-20086" src="http://nuggetofjoy.com/wp-content/uploads/Isa_Adney-2019-4.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Isa Adney's personal website" class="wp-image-20086" src="https://nuggetofjoy.com/wp-content/uploads/Isa_Adney-2019-4.jpg"/></figure></div>
 
 
 Isa Adney is a writer and webinar producer for ConvertKit, as well as author of the forthcoming *The Little Book of Big Dreams: True Stories of Dreams Come True.*She appeared in [Episode 46 of the College Info Geek Podcast](https://collegeinfogeek.com/isa-adney/), where she discussed how to make community college an ivy league experience. Here’s what her site can teach you about branding:
@@ -97,7 +97,7 @@ Isa Adney is a writer and webinar producer for ConvertKit, as well as author of 
 **Tasha Meys**
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Tasha Meys personal website" class="wp-image-20713" src="http://nuggetofjoy.com/wp-content/uploads/Tasha-Meys-personal-website-2020-4.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Tasha Meys personal website" class="wp-image-20713" src="https://nuggetofjoy.com/wp-content/uploads/Tasha-Meys-personal-website-2020-4.jpg"/></figure></div>
 
 
 Tasha Meys is an artist, photographer, social media consultant, and world traveler. Her site showcases all of this work with a brand that is colorful and exciting. Here’s what her site can teach you about branding:
@@ -106,7 +106,7 @@ Tasha Meys is an artist, photographer, social media consultant, and world travel
 **Andrew Rea**
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Andrew Rea website About page" class="wp-image-20708" src="http://nuggetofjoy.com/wp-content/uploads/Andrew-Rea-image-2020-cropped-4.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Andrew Rea website About page" class="wp-image-20708" src="https://nuggetofjoy.com/wp-content/uploads/Andrew-Rea-image-2020-cropped-4.jpg"/></figure></div>
 
 
 Andrew Rea is a chef, filmmaker, and creator of the popular YouTube cooking show Binging With Babish. While he rarely uses his real name in his YouTube videos, I love the About page on his website. Here’s what his website can teach you about personal branding:
@@ -124,7 +124,7 @@ Next, we move to the design portion of this guide. Many of these sites showcase 
 **Edna Cerrillos**
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Edna Cerrillos personal website" class="wp-image-20714" src="http://nuggetofjoy.com/wp-content/uploads/Edna-Cerrillos-personal-website-2020-4.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Edna Cerrillos personal website" class="wp-image-20714" src="https://nuggetofjoy.com/wp-content/uploads/Edna-Cerrillos-personal-website-2020-4.jpg"/></figure></div>
 
 
 As you can clearly see from the first glance, Edna Cerrillos is a designer (a product and UX/UI designer to be more precise). As you would expect from a designer’s personal website, Edna’s site can teach us some important design lessons.
@@ -133,7 +133,7 @@ As you can clearly see from the first glance, Edna Cerrillos is a designer (a pr
 **Roxane Gay**
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Roxane Gay's personal website" class="wp-image-20090" src="http://nuggetofjoy.com/wp-content/uploads/Roxane_Gay-2019-4.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Roxane Gay's personal website" class="wp-image-20090" src="https://nuggetofjoy.com/wp-content/uploads/Roxane_Gay-2019-4.jpg"/></figure></div>
 
 
 Roxane Gay is an author, essayist, and speaker. She’s one of my (other) favorite contemporary authors, so I was delighted to see that her site is also an excellent example of design:
@@ -145,7 +145,7 @@ Roxane Gay is an author, essayist, and speaker. She’s one of my (other) favori
 **Charli Marie**
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Charli Marie personal website image" class="wp-image-20715" src="http://nuggetofjoy.com/wp-content/uploads/Charli-Marie-site-image-2020-4.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Charli Marie personal website image" class="wp-image-20715" src="https://nuggetofjoy.com/wp-content/uploads/Charli-Marie-site-image-2020-4.jpg"/></figure></div>
 
 
 Charli Marie is a designer, speaker, and self-proclaimed “side project addict” who currently works for email marketing software company ConvertKit. The site is a design masterpiece:

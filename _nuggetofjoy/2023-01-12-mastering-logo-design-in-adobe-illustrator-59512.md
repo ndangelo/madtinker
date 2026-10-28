@@ -58,7 +58,7 @@ Advertisement
 Let's begin our exploration of Adobe Illustrator by creating a new document. Follow along with this lesson to get started in the software. Keep in mind that you could change these values to suit your project.
 
 
-![illustrator logo design](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_1c-1.jpg)
+![illustrator logo design](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_1c-1.jpg)
 
 
 Need a little help with some Adobe Illustrator basics? Consider bookmarking or checking out these beginner Illustrator tutorials for extra help:
@@ -73,7 +73,7 @@ Lines and shapes are some of the core aspects of creating artwork within Adobe I
 You can find the **Shape Tools** and the **Line Tool** within the **Tools**panel.
 
 
-![Illustrator Shape Tools](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_2b-1.jpg)
+![Illustrator Shape Tools](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_2b-1.jpg)
 
 
 Can't find a specific Shape Tool? **Click and hold**to expand the tools in the **Tools** panel. For example, your Ellipse Tool may be nested under your Rectangle Tool.
@@ -91,7 +91,7 @@ The Pen Tool is another Adobe Illustrator essential. In this lesson, you'll lear
 Don't worry if you've never used it before—this lesson will give you all the ins and outs you need to get started. We'll create points and customize them too.
 
 
-![Illustrator Pen Tool](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_3b-1.jpg)
+![Illustrator Pen Tool](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_3b-1.jpg)
 
 
 Want to see more of the Pen Tool in action? You can learn even more about working with the Pen Tool in this free tutorial:
@@ -139,7 +139,7 @@ Not sure which selection tool to use? Remember to keep an eye on the selection y
 We'll use the Stroke panel in this lesson to customize our strokes—from the size to the color. You can open the Stroke panel by going to **Window > Stroke**. Ready to give it a try?
 
 
-![Illustrator Stroke Panel](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_4b-1.jpg)
+![Illustrator Stroke Panel](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_4b-1.jpg)
 
 
 You can change your **Stroke**and**Fill**colors from the **Tools**panel. This is also a quick place where you can turn the Stroke and Fill colors "off" if you don't want them visible.
@@ -160,7 +160,7 @@ Layers are a powerful part of Adobe Illustrator. They're going to help us take o
 Open your **Layers**panel by going to **Window > Layers**. Keep in mind that you can create, delete, duplicate, and hide layers from this panel.
 
 
-![Illustrator Layers](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_5c-1.jpg)
+![Illustrator Layers](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_5c-1.jpg)
 
 
 Want to learn even more about the ins and outs of Adobe Illustrator layers? Check out these free tutorials:
@@ -179,12 +179,12 @@ Want to learn even more about the ins and outs of Adobe Illustrator layers? Chec
 Sometimes, you may want to experiment with transparency as you explore creative logo design. In this lesson, we'll take a look at some ways we can use transparency to create some interesting effects in Adobe Illustrator.
 
 
-![Illustrator Transparency](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_6b-1.jpg)
+![Illustrator Transparency](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_6b-1.jpg)
 
 Two shapes with no Transparency applied.
 
 
-![Illustrator Transparency](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_7b-1.jpg)
+![Illustrator Transparency](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_7b-1.jpg)
 
 Lowered Transparency applied to the front shape.
 
@@ -201,18 +201,18 @@ This lesson is all about using our tools to build and manipulate more complex sh
 The **Path Finder Tool** is used to manipulate shapes. For example, you can unite two selected shapes into one. This tool allows us to quickly and simply combine and subtract different parts of our work.
 
 
-![Illustrator Path Finder Tool](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_8b-1.jpg)
+![Illustrator Path Finder Tool](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_8b-1.jpg)
 
 
 Similarly, the **Shape Builder Tool** also allows us to manipulate shapes—but in some regards, makes it even easier! In this lesson, we'll also walk through how to use this tool to combine and remove parts of compounded shapes.
 
 
-![Illustrator Shapes](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_9b-1.jpg)
+![Illustrator Shapes](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_9b-1.jpg)
 
 Shapes used to create a cloud shape
 
 
-![Illustrator Shape Builder Tool](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_10-1.jpg)
+![Illustrator Shape Builder Tool](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_10-1.jpg)
 
 Shapes combined with the Shape Builder Tool
 
@@ -235,7 +235,7 @@ These concepts can be utilized in many different ways. You could, for example, d
 Swatches in Adobe Illustrator are one of the best ways to use, apply, and keep your colors at hand. We'll look at using the **Swatches**panel in this lesson. This is an important one that we'll use later in the course, as well. Go to **Window > Swatches** to open up the Swatches panel.
 
 
-![Illustrator Swatches](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_11b-1.jpg)
+![Illustrator Swatches](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_11b-1.jpg)
 
 
 We'll look at **Global Swatches** in this lesson too—which make changing the colors in your composition even easier!
@@ -256,7 +256,7 @@ You can learn even more about working with Swatches in this free Adobe Illustrat
 Gradients, when used properly, can help bring depth to our work. That's just what we'll do, once we're ready to explore how to design a logo in Illustrator. For now, we'll start off this lesson by exploring how gradients work. Then, we'll expand upon this with some great ways to use them later in this course.
 
 
-![Illustrator Gradients](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_12b-1.jpg)
+![Illustrator Gradients](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_12b-1.jpg)
 
 
 You can always go back and adjust your gradients from the Gradient panel. Go to **Window > Gradient** to open it up!
@@ -277,7 +277,7 @@ Want to learn even more about working with gradients in Adobe Illustrator? Check
 Sometimes, you might want to go back and adjust the curve of some of your lines. Thankfully, the **Smooth Tool** makes doing so a breeze. The **Shaper Tool** allows us to quickly draw shapes and interprets them for us. Join me in this lesson, where we walk through how to use these tools to make this process simple for us in our logo design process.
 
 
-![Illustrator Smooth Tool](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_13b-1.jpg)
+![Illustrator Smooth Tool](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_13b-1.jpg)
 
 
 These tools are located in the **Tools**panel—many of the core tools in Adobe Illustrator are. If you ever have trouble finding a tool, try clicking the "..." symbol at the bottom of this panel. It will help reveal hidden tools.
@@ -292,12 +292,12 @@ These tools are located in the **Tools**panel—many of the core tools in Adobe
 Wouldn't it be convenient if we could just slice off part of a shape in our work? Well, with the Knife Tool, we can do just that—and yes, it's as handy as it sounds. Join me in this lesson, where we give the **Knife Tool** a demonstration in Adobe Illustrator. You can find the Knife Tool in the **Tools**panel.
 
 
-![Illustrator Knife Tool](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_14-1.jpg)
+![Illustrator Knife Tool](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_14-1.jpg)
 
 Slices made with the Knife Tool
 
 
-![Knife Tool Illustrator](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_15-1.jpg)
+![Knife Tool Illustrator](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_15-1.jpg)
 
 Now these slices can be manipulated independently
 
@@ -311,12 +311,12 @@ Now these slices can be manipulated independently
 The **Scissor Tool** is a little similar to the Knife Tool—but instead, we can use it to make different slices in our work. It's a perfect go-to if you want to make a slice at specific points in our work. Check out this lesson's demonstration to get a feel for how this tool works.
 
 
-![Illustrator Scissor Tool](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_16-1.jpg)
+![Illustrator Scissor Tool](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_16-1.jpg)
 
 Making a cut in a Stroke with the Scissor Tool
 
 
-![Scissor Tool Illustrator](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_17-1.jpg)
+![Scissor Tool Illustrator](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_17-1.jpg)
 
 We can then manipulate (or delete) the section we've cut
 
@@ -345,7 +345,7 @@ If you'd like to skip over the Q&A Session from this live stream, jump to **Sec
 Tune in to this lesson to figure out how to separate the stroke from the fill in Adobe Illustrator. There isn't necessarily a completely automated way—but there are certainly simple ways to achieve this. Check out this walkthrough to figure out how.
 
 
-![Illustrator Stoke and Fill](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_18b-1.jpg)
+![Illustrator Stoke and Fill](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_18b-1.jpg)
 
 
 ### 3.3 How  to Zoom In and Out in Adobe Illustrator
@@ -378,7 +378,7 @@ Older versions of Illustrator don't necessarily have the same tools as the curre
 Stripes can be a fun addition to your shapes—and there are multiple ways to achieve this look! Let's explore a couple of ways we could achieve striped shapes in Adobe Illustrator, together, in this Q&A lesson.
 
 
-![Illustrator Stripes](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_19b-1.jpg)
+![Illustrator Stripes](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_19b-1.jpg)
 
 
 ### Want to Learn More About Adobe Illustrator?
@@ -405,13 +405,13 @@ Now that we've taken an in-depth tour of Adobe Illustrator, let's take what we'v
 Take a look at the tools we explored in action, below. There are many ways to achieve these results based on what we learned. Let's walk through some ways to achieve this together in this lesson.
 
 
-![Illustrator Stroke](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_20-1.jpg)
+![Illustrator Stroke](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_20-1.jpg)
 
 
-![Illustrator Increase Stroke](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_21-1.jpg)
+![Illustrator Increase Stroke](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_21-1.jpg)
 
 
-![Illustrator Direct Selection Tool](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_22-1.jpg)
+![Illustrator Direct Selection Tool](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_22-1.jpg)
 
 
 Want to learn more about the creative logo design process in Adobe Illustrator? Check out these tutorials for more insight and inspiration:
@@ -435,7 +435,7 @@ Let's add some shadows to our work, to bring some depth to our logo design. We'l
 Ready to make some magic happen? Let's begin.
 
 
-![Illustrator Shadows](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_23b-1.jpg)
+![Illustrator Shadows](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_23b-1.jpg)
 
 
 ### 4.3 Adding Highlights
@@ -447,7 +447,7 @@ Ready to make some magic happen? Let's begin.
 We can also use these concepts to add highlights. Let's take the same idea as the last lesson, and apply it to the top of our logo design.
 
 
-![Illustrator Highlights](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_24b-1.jpg)
+![Illustrator Highlights](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_24b-1.jpg)
 
 
 Remember, you can always return to your **Gradient** panel and **Swatches**panel to make adjustments to the colors in your work. We'll walk through that again in this lesson.
@@ -462,7 +462,7 @@ Remember, you can always return to your **Gradient** panel and **Swatches**pa
 But what if you want to experiment with your logo design's color? It's time to go back to our swatches again. This time, you'll really get a hands-on feel for just how convenient working with swatches can be. We can easily sample new colors and make adjustments. Ready to give it a try?
 
 
-![Illustrator Global Swatches](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_25b-1.jpg)
+![Illustrator Global Swatches](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_25b-1.jpg)
 
 
 This is such a great example of why those swatches from earlier in the course are important! Remember, you can open the Swatches panel by going to **Window > Swatches**.
@@ -504,7 +504,7 @@ You can also ungroup your work by going to **Object > Ungroup**.
 Let's create and adjust our artboards in this lesson. What are artboards? Consider them like a canvas in your work area. You can have more than one, and this might be advantageous in some cases. We'll use the **Artboard Tool** to adjust, resize, and create some new artboards in this lesson, as we finalize our work.
 
 
-![Illustrator Artboards](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_26b-1.jpg)
+![Illustrator Artboards](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_26b-1.jpg)
 
 Two artboards at different sizes.
 
@@ -518,7 +518,7 @@ Two artboards at different sizes.
 Once your logo design is complete, it's time to **Export**! Let's walk through the process together so you can save and prepare your work for use. We're almost at the finish line!
 
 
-![Illustrator Export](http://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_27b-1.jpg)
+![Illustrator Export](https://nuggetofjoy.com/wp-content/uploads/how_to_design_a_logo_in_illustrator_27b-1.jpg)
 
 
 Because we've made more than one artboard, we have the option of selecting which artboard we'd like to export—you can name them, too, for your convenience!

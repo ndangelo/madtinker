@@ -17,7 +17,7 @@ tags: []
 **Paper Airplane Assignment:**Fold a paper airplane, place it in front of you & draw from direct observation as accurately as you can. ADD FULL SHADING ***Possible Medium:***drawing pencil
 
 
-![Paper Airplane DIY](http://nuggetofjoy.com/wp-content/uploads/1454543173311-14.jpeg)
+![Paper Airplane DIY](https://nuggetofjoy.com/wp-content/uploads/1454543173311-14.jpeg)
 
 
 Sam Henderson
@@ -32,10 +32,10 @@ For best results use a flat, thin-edged ruler. Make good creases along each edge
 The most basic version. A simple standard that everyone should know how to make.
 
 
-![Paper Airplane DIY](http://nuggetofjoy.com/wp-content/uploads/14545431617524.jpeg)
+![Paper Airplane DIY](https://nuggetofjoy.com/wp-content/uploads/14545431617524.jpeg)
 
 
-![Paper Airplane DIY](http://nuggetofjoy.com/wp-content/uploads/14545431619054.jpeg)
+![Paper Airplane DIY](https://nuggetofjoy.com/wp-content/uploads/14545431619054.jpeg)
 
 
 1. Fold the paper in half vertically.
@@ -52,13 +52,13 @@ The most basic version. A simple standard that everyone should know how to make.
 This one is built for distance, plus it just looks cool.
 
 
-![Paper Airplane DIY](http://nuggetofjoy.com/wp-content/uploads/14545432045324.jpeg)
+![Paper Airplane DIY](https://nuggetofjoy.com/wp-content/uploads/14545432045324.jpeg)
 
 
-![Paper Airplane DIY](http://nuggetofjoy.com/wp-content/uploads/14545432155674.jpeg)
+![Paper Airplane DIY](https://nuggetofjoy.com/wp-content/uploads/14545432155674.jpeg)
 
 
-![Paper Airplane DIY](http://nuggetofjoy.com/wp-content/uploads/14545432158224.jpeg)
+![Paper Airplane DIY](https://nuggetofjoy.com/wp-content/uploads/14545432158224.jpeg)
 
 
 1. Fold the paper in half vertically.
@@ -79,10 +79,10 @@ This one is built for distance, plus it just looks cool.
 Built correctly, this bee-like beauty stays in the air for a long time.
 
 
-![Paper Airplane DIY](http://nuggetofjoy.com/wp-content/uploads/14545431620104.jpeg)
+![Paper Airplane DIY](https://nuggetofjoy.com/wp-content/uploads/14545431620104.jpeg)
 
 
-![Paper Airplane DIY](http://nuggetofjoy.com/wp-content/uploads/14545431781834.jpeg)
+![Paper Airplane DIY](https://nuggetofjoy.com/wp-content/uploads/14545431781834.jpeg)
 
 
 1. Fold the paper in half horizontally.
@@ -101,10 +101,10 @@ Built correctly, this bee-like beauty stays in the air for a long time.
 Count on speed and distance from this sleek plane.
 
 
-![Paper Airplane DIY](http://nuggetofjoy.com/wp-content/uploads/14545431589194.jpeg)
+![Paper Airplane DIY](https://nuggetofjoy.com/wp-content/uploads/14545431589194.jpeg)
 
 
-![Paper Airplane DIY](http://nuggetofjoy.com/wp-content/uploads/14545432032544.jpeg)
+![Paper Airplane DIY](https://nuggetofjoy.com/wp-content/uploads/14545432032544.jpeg)
 
 
 1. Fold the paper in half vertically.
@@ -123,10 +123,10 @@ Count on speed and distance from this sleek plane.
 This plane is deceptively fast and stays aloft for quite a distance.
 
 
-![Paper Airplane DIY](http://nuggetofjoy.com/wp-content/uploads/14545432226674.jpeg)
+![Paper Airplane DIY](https://nuggetofjoy.com/wp-content/uploads/14545432226674.jpeg)
 
 
-![Paper Airplane DIY](http://nuggetofjoy.com/wp-content/uploads/14545432308184.jpeg)
+![Paper Airplane DIY](https://nuggetofjoy.com/wp-content/uploads/14545432308184.jpeg)
 
 
 1. Fold the top right corner over to the left side, making a fold from the top of the paper to the bottom right corner.
@@ -142,6 +142,6 @@ This plane is deceptively fast and stays aloft for quite a distance.
 **Origami or folded paper**, inspired by this observational drawings by [Sean Dooley](http://www.smdooley.com/Class/draw101/p1.html), a graduate of Savannah College of Art and Design:
 
 
-![Paper crane drawing](http://nuggetofjoy.com/wp-content/uploads/paper-crane-drawing-5.jpg)
+![Paper crane drawing](https://nuggetofjoy.com/wp-content/uploads/paper-crane-drawing-5.jpg)
 
 Folding paper can create stunning shadows and a mesh of intriguing angular lines. This example is one that is included in our list of substitute art lessons, and can involve students first constructing origami, before producing observational drawings in a range of different media.

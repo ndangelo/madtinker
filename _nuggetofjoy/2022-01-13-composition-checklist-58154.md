@@ -13,4 +13,4 @@ categories:
 tags: []
 ---
 
-![](http://nuggetofjoy.com/wp-content/uploads/Composition_Checklist_Landa_GDS6e-scaled.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Composition_Checklist_Landa_GDS6e-scaled.jpg)

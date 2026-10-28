@@ -34,7 +34,7 @@ You’ll also need a photo or vector graphic with a strong silhouette, preferabl
 Here, I’ve already created a layout for a magazine, complete with columns of text. You can easily apply this effect to any similar layout you have created.
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/10-3.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/10-3.jpg)
 
 
 ---
@@ -61,13 +61,13 @@ You might have a part of the image you’d like to maintain in the final effect,
 To remove a white or plain color background, go to Select > Color Range. Click once on the background to pick up the color before adjusting the **Edge Detection** slider in the **Properties panel** that opens.
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/1-7.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/1-7.jpg)
 
 
 When you’re happy with the tightness of the selection around the edge of the shape, **click OK**. Then hit **Delete** on your keyboard to remove the background.
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/2-7.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/2-7.jpg)
 
 
 #### Step 2
@@ -76,19 +76,19 @@ When you’re happy with the tightness of the selection around the edge of the s
 Use the **Lasso Tool (L)** to loop off any part of the image that is not the handle (the part you’d like to keep as a photographic image in the final result).
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/3-6.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/3-6.jpg)
 
 
 Then hit **Delete** to remove the selection.
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/4-4.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/4-4.jpg)
 
 
 **File > Save As the image as a Photoshop file**, which will preserve the transparent background.
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/5-4.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/5-4.jpg)
 
 
 #### Step 3
@@ -106,7 +106,7 @@ In the **Image Trace window**, set the **Mode to Black and White**. Check the�
 Check the**Preview button**, and then experiment with the **Threshold, Paths and Corners sliders,** until you’re happy with the traced result.
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/6-3.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/6-3.jpg)
 
 
 When you’re done **click Trace** to exit the window.
@@ -115,13 +115,13 @@ When you’re done **click Trace** to exit the window.
 **Go to Object > Image Trace > Expand.**
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/7-3.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/7-3.jpg)
 
 
 **Select the Eraser Tool (Shift+E)** and use this to separate any parts of the image that you won’t want to use in the text wrap effect. In this case, this is the handle of the umbrella, which will be substituted with a photo version. Delete any parts of the graphic you won’t use.
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/8-3.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/8-3.jpg)
 
 
 #### Step 4
@@ -130,7 +130,7 @@ When you’re done **click Trace** to exit the window.
 Your vector shape is ready to use—you can either save this as a vector file (e.g. Illustrator, EPS), or **Edit > Copy** the vector directly in **Illustrator,** ready to **Paste** into your InDesign document.
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/9-3.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/9-3.jpg)
 
 
 ---
@@ -151,7 +151,7 @@ In InDesign, expand the **Layers panel,** and lock the layer which contains al
 Go to **New Layer** from the panel’s main menu, and create a new layer for the text wrap image to sit on.
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/11-3.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/11-3.jpg)
 
 
 #### Step 2
@@ -163,7 +163,7 @@ If you have a photo element to your image, use the **Rectangle Frame Tool (F)**
 **File > Place the edited image** you created earlier [in 1.1, above].
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/12-3.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/12-3.jpg)
 
 
 #### Step 3
@@ -172,13 +172,13 @@ If you have a photo element to your image, use the **Rectangle Frame Tool (F)**
 **File > Place or Edit > Paste** (if you’ve copied the vector in Illustrator) the vector shape, and position it on the page. Use **Shift** and your mouse to scale it proportionally.
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/13-3.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/13-3.jpg)
 
 
 Expand the **Swatches panel** **(Window > Color > Swatches)**, and set the **Fill Color** of the vector shape to [None].
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/14-2.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/14-2.jpg)
 
 
 #### Step 4
@@ -193,7 +193,7 @@ Select the shape and choose the third option along, **Wrap** around object sha
 For these ‘invisible’ wrap effects, it’s usually better to have a tighter text wrap, and therefore a low offset value, such as 0 mm.
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/15-3.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/15-3.jpg)
 
 
 #### Pro Tip
@@ -205,16 +205,16 @@ You may also want to create a subtle text wrap around some photographic elements
 To do this, you can create a quick vector shape directly in InDesign using the **Pen Tool (P).** Trace your way around the element you want to wrap text around, lopping it round to create a complete shape.
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/16-3.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/16-3.jpg)
 
 
 Then apply the Wrap around object shape option in the **Text Wrap panel**, and ensure the **Fill Color** of the shape is set to [None].
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/17-3.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/17-3.jpg)
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/18-3.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/18-3.jpg)
 
 
 ### Great Job!
@@ -223,4 +223,4 @@ Then apply the Wrap around object shape option in the **Text Wrap panel**, and 
 Your ‘invisible’ text wrap effect is finished.
 
 
-![invisible text wrap indesign wrap text around vector shape](http://nuggetofjoy.com/wp-content/uploads/19-3.jpg)
+![invisible text wrap indesign wrap text around vector shape](https://nuggetofjoy.com/wp-content/uploads/19-3.jpg)

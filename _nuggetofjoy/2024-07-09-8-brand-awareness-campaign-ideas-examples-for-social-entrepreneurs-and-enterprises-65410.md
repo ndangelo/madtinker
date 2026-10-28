@@ -70,7 +70,7 @@ Many brands create messaging around inspiration, hope, and social change. But, i
 Directly on their website, [IKEA says they want to create a better life for people](https://www.ikea.com/us/en/this-is-ikea/community-engagement/ikea-social-entrepreneurs-co-creating-change-pubd2296037). They share that “Teaming up with social entrepreneurs who use business as a way of reducing poverty, empowering women and tackling social and environmental challenges in their communities is one way of making this a reality.” The interesting fact about IKEA is that they have been a socially conscious brand for a long time—long before CSR (corporate social responsibility) became a trending topic.
 
 
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><a href="https://www.ikea.com/us/en/this-is-ikea/community-engagement/ikea-social-entrepreneurs-co-creating-change-pubd2296037" rel="noreferrer noopener" target="_blank"><img alt="" class="wp-image-65416 size-full" src="http://nuggetofjoy.com/wp-content/uploads/image-137-1024x577.png"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><a href="https://www.ikea.com/us/en/this-is-ikea/community-engagement/ikea-social-entrepreneurs-co-creating-change-pubd2296037" rel="noreferrer noopener" target="_blank"><img alt="" class="wp-image-65416 size-full" src="https://nuggetofjoy.com/wp-content/uploads/image-137-1024x577.png"/></a></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
 <p>Abeer Almnajed, Seamstress, Jordan River Foundation.</p>
 <!-- /wp:paragraph --></div></div>
 

@@ -14,7 +14,7 @@ categories:
 tags: []
 ---
 
-![Illustrator for Beginners](http://nuggetofjoy.com/wp-content/uploads/Illustrator_for_beginners_Cover-6.jpg)
+![Illustrator for Beginners](https://nuggetofjoy.com/wp-content/uploads/Illustrator_for_beginners_Cover-6.jpg)
 
 
 ## Lessons
@@ -89,7 +89,7 @@ You can download all the source files for the course by clicking this button:
 Our first exercise to practice in Illustrator will be to draw a penguin! You'll start with a pencil drawing and learn how to draw over it to create your own vector artwork. Watch this lesson to find out how to import the drawing from the source files and set up your document properly.
 
 
-![new document](http://nuggetofjoy.com/wp-content/uploads/newdoc.jpg)
+![new document](https://nuggetofjoy.com/wp-content/uploads/newdoc.jpg)
 
 
 Once we've set up your document, we'll look at how to import our drawing using **File > Place**and then lock the layer so that we can easily draw over the top of it.
@@ -104,19 +104,19 @@ Now let's learn how to draw shapes in Illustrator. This is a fundamental skill w
 For example, we can start by creating a simple rectangle using the **Rectangle Tool**.
 
 
-![rectangle shape](http://nuggetofjoy.com/wp-content/uploads/penguin_rectangle.jpg)
+![rectangle shape](https://nuggetofjoy.com/wp-content/uploads/penguin_rectangle.jpg)
 
 
 Then we can make adjustments to the shape so that it matches the outline of our penguin.
 
 
-![penguin drawing next step](http://nuggetofjoy.com/wp-content/uploads/penguin_start.jpg)
+![penguin drawing next step](https://nuggetofjoy.com/wp-content/uploads/penguin_start.jpg)
 
 
 And eventually we can create a whole drawing, just using simple shapes.
 
 
-![penguin drawing complete](http://nuggetofjoy.com/wp-content/uploads/penguin.jpg)
+![penguin drawing complete](https://nuggetofjoy.com/wp-content/uploads/penguin.jpg)
 
 
 This is the longest part of the course, but the skills you pick up here will help you create all sorts of cool artwork in Illustrator, so it's time well spent!
@@ -128,7 +128,7 @@ This is the longest part of the course, but the skills you pick up here will hel
 The drawing we just created looked pretty good, but we can improve it by filling in the shapes with color and making it look more professional and finished.
 
 
-![penguin in colour](http://nuggetofjoy.com/wp-content/uploads/penguin_colour.jpg)
+![penguin in colour](https://nuggetofjoy.com/wp-content/uploads/penguin_colour.jpg)
 
 
 To create this result, you'll need to learn:
@@ -148,7 +148,7 @@ I cover all of those things in the video, so follow along to see how it's done!
 Our penguin drawing keeps getting better! This time, we're adding shadows to give our drawing more of a 3D look, and we're working on details like the eye. Let's practice in Illustrator.
 
 
-![penguin drawn with shape builder tool](http://nuggetofjoy.com/wp-content/uploads/shape_builder.jpg)
+![penguin drawn with shape builder tool](https://nuggetofjoy.com/wp-content/uploads/shape_builder.jpg)
 
 
 Again, we're just using simple shapes as the building blocks, but we're making them overlap to create more complex results.
@@ -163,7 +163,7 @@ You'll learn all about the Shape Builder Tool in this video—it's a powerful to
 We've learned some useful techniques now, so let's put them into practice with a real-world example: logo design. Let's see how to turn a drawing into the logo shown below, using the tools and techniques we’ve covered so far.
 
 
-![logo exercise in illustrator](http://nuggetofjoy.com/wp-content/uploads/logo_exercise.jpg)
+![logo exercise in illustrator](https://nuggetofjoy.com/wp-content/uploads/logo_exercise.jpg)
 
 
 ### 8. How to Use the Curvature Tool in Illustrator
@@ -175,16 +175,16 @@ Although drawing with simple shapes can get you a long way, you'll also need to 
 You can create a fluid, curving line simply by choosing the **Curvature Tool**and then clicking to create anchor points along the curve.
 
 
-![curvature tool in illustrator](http://nuggetofjoy.com/wp-content/uploads/curvature_tool.jpg)
+![curvature tool in illustrator](https://nuggetofjoy.com/wp-content/uploads/curvature_tool.jpg)
 
 
 Then you can go in and refine your curve by adjusting the guides for each anchor point.
 
 
-![adjusting anchors](http://nuggetofjoy.com/wp-content/uploads/anchors.jpg)
+![adjusting anchors](https://nuggetofjoy.com/wp-content/uploads/anchors.jpg)
 
 
-![straight lines with curvature tool](http://nuggetofjoy.com/wp-content/uploads/curvature_straight.jpg)
+![straight lines with curvature tool](https://nuggetofjoy.com/wp-content/uploads/curvature_straight.jpg)
 
 
 Despite its name, you can also use the Curvature Tool in Illustrator to draw straight lines! Double-click as you create each anchor point to create a corner instead of a curve.
@@ -196,7 +196,7 @@ Despite its name, you can also use the Curvature Tool in Illustrator to draw str
 Another important drawing tool to master is the Pen Tool. So let's jump in and learn how to use the Pen Tool in Illustrator by creating these icons:
 
 
-![icons created with pen tool](http://nuggetofjoy.com/wp-content/uploads/pen_tool_icons.jpg)
+![icons created with pen tool](https://nuggetofjoy.com/wp-content/uploads/pen_tool_icons.jpg)
 
 
 We'll talk about when to use the Pen Tool vs. the Curvature Tool, and how to use them both together to draw more complex yet easily adjustable shapes. The Pen Tool is very powerful, so mastering it is an important step in learning how to draw in Illustrator.
@@ -211,7 +211,7 @@ Learn more in this free course:https://www.youtube.com/embed/YDSE05XWs2g?rel=0&s
 What if you want to draw freehand? Then you'll need yet another drawing tool—the Pencil Tool! Let's learn how to use the Pencil Tool in Illustrator to draw these freeform lines and arrows over a photo:
 
 
-![pencil tool illustrator](http://nuggetofjoy.com/wp-content/uploads/pencil.jpg)
+![pencil tool illustrator](https://nuggetofjoy.com/wp-content/uploads/pencil.jpg)
 
 
 ### 11. Using Brushes
@@ -220,7 +220,7 @@ What if you want to draw freehand? Then you'll need yet another drawing tool—t
 We'll finish off this section on drawing in Illustrator by looking at how to use brushes. Here's what you'll be creating:
 
 
-![brush tool in illustrator](http://nuggetofjoy.com/wp-content/uploads/Illustrator_brushes.jpg)
+![brush tool in illustrator](https://nuggetofjoy.com/wp-content/uploads/Illustrator_brushes.jpg)
 
 
 You’ll learn to transform the lines you’ve created with the pen, curvature, and pencil tools into stunning “[painterly](https://en.wikipedia.org/wiki/Painterliness)” strokes. Learn how to use Illustrator brushes, how to change the brush size in Illustrator, and more.
@@ -232,7 +232,7 @@ You’ll learn to transform the lines you’ve created with the pen, curvature, 
 This chapter is all about color, one of the top Illustrator basics. First, let's explore how Illustrator controls color through RGB and HSB settings.
 
 
-![color settings rgb vs hsb](http://nuggetofjoy.com/wp-content/uploads/color_rgb.jpg)
+![color settings rgb vs hsb](https://nuggetofjoy.com/wp-content/uploads/color_rgb.jpg)
 
 
 **RGB**stands for "Red, Green, Blue", and **HSB**stands for "Hue, Saturation, Brightness". They're two ways of defining colors, and you'll learn about them in more detail in the video.
@@ -241,7 +241,7 @@ This chapter is all about color, one of the top Illustrator basics. First, let's
 You’ll also learn how to use Adobe Color to find exciting color combinations. Just go to **Window > Color Themes > Explore**to find some inspiring color swatches to use in your projects.
 
 
-![adobe color themes](http://nuggetofjoy.com/wp-content/uploads/color_themes.jpg)
+![adobe color themes](https://nuggetofjoy.com/wp-content/uploads/color_themes.jpg)
 
 
 ### 13. How to Use the Gradient Tool in Illustrator
@@ -253,19 +253,19 @@ In this Adobe Illustrator course section, you’ll learn how to use Illustrator'
 #### Boring Background
 
 
-![boring background](http://nuggetofjoy.com/wp-content/uploads/boring.jpg)
+![boring background](https://nuggetofjoy.com/wp-content/uploads/boring.jpg)
 
 
 #### Gradient Background
 
 
-![gradient background](http://nuggetofjoy.com/wp-content/uploads/gradient.jpg)
+![gradient background](https://nuggetofjoy.com/wp-content/uploads/gradient.jpg)
 
 
 I’ll also show you how to get gradient color inspiration from a site called [Grabient](https://www.grabient.com/)and copy the color values into Illustrator.
 
 
-![grabient](http://nuggetofjoy.com/wp-content/uploads/grabient.jpg)
+![grabient](https://nuggetofjoy.com/wp-content/uploads/grabient.jpg)
 
 
 ### 14. How to Use Type and Fonts in Illustrator
@@ -274,7 +274,7 @@ I’ll also show you how to get gradient color inspiration from a site called [
 Now let's see how to work with text in Illustrator. I'll show you how to use Illustrator's **Type Tool**and how to choose the font color, style, size, weight, and spacing.
 
 
-![type tool](http://nuggetofjoy.com/wp-content/uploads/type.jpg)
+![type tool](https://nuggetofjoy.com/wp-content/uploads/type.jpg)
 
 
 You’ll learn the differences between point type and area type boxes. You’ll also learn how to use Adobe’s Typekit system to find exciting new typefaces for your projects. See how to add and change fonts in Illustrator, and much more.
@@ -286,28 +286,28 @@ You’ll learn the differences between point type and area type boxes. You’ll 
 How do you apply effects to shapes and typography? In this part of the Adobe Illustrator course, you'll learn how to use the **Liquify Tool**in Illustrator and how to distort text in Illustrator. You’ll also learn how to cut, twist, and explode your artwork in creative ways.
 
 
-![warping text in illustrator](http://nuggetofjoy.com/wp-content/uploads/warp-1.jpg)
+![warping text in illustrator](https://nuggetofjoy.com/wp-content/uploads/warp-1.jpg)
 
 
 You can find the **Warp Tool**and other liquifying and distorting tools by clicking and holding on the **Width Tool**in the toolbar to reveal the dropdown menu.
 
 
-![warp tool menu](http://nuggetofjoy.com/wp-content/uploads/warp_text.jpg)
+![warp tool menu](https://nuggetofjoy.com/wp-content/uploads/warp_text.jpg)
 
 
 ### 16. Bending and Warping Shapes and Text
 
 
-![distort shapes in illustrator](http://nuggetofjoy.com/wp-content/uploads/distort_shapes.jpg)
+![distort shapes in illustrator](https://nuggetofjoy.com/wp-content/uploads/distort_shapes.jpg)
 
 
-![warp effects](http://nuggetofjoy.com/wp-content/uploads/warp_effects.jpg)
+![warp effects](https://nuggetofjoy.com/wp-content/uploads/warp_effects.jpg)
 
 
 After you've applied an effect, the **Warp Options**window will open automatically. There you can adjust the values to customize your effect. Simple!
 
 
-![warp options](http://nuggetofjoy.com/wp-content/uploads/warp_options.jpg)
+![warp options](https://nuggetofjoy.com/wp-content/uploads/warp_options.jpg)
 
 
 ### 17. How to Make a Pattern in Illustrator
@@ -319,19 +319,19 @@ The Adobe Illustrator for beginners course isn't complete without this section. 
 We'll start with the logo we created earlier, and flip it upside-down...
 
 
-![logo](http://nuggetofjoy.com/wp-content/uploads/logo_repeat.jpg)
+![logo](https://nuggetofjoy.com/wp-content/uploads/logo_repeat.jpg)
 
 
 Then we'll go to **Window > Pattern Options**to turn this logo into a repeating pattern:
 
 
-![repeating pattern](http://nuggetofjoy.com/wp-content/uploads/pattern.jpg)
+![repeating pattern](https://nuggetofjoy.com/wp-content/uploads/pattern.jpg)
 
 
 And finally, we'll rotate and duplicate our logo to make a more complex pattern:
 
 
-![complex pattern](http://nuggetofjoy.com/wp-content/uploads/complex_pattern.jpg)
+![complex pattern](https://nuggetofjoy.com/wp-content/uploads/complex_pattern.jpg)
 
 
 Adobe Illustrator for Beginners: Envato Tuts+. (n.d.). Retrieved from https://design.tutsplus.com/adobe-illustrator-for-beginners--ytc-5c

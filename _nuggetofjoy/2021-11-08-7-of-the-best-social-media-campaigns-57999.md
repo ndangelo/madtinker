@@ -226,7 +226,7 @@ By offering users fun and insightful data visualizations to share, Spotify essen
 **What you can learn:**You can recycle a great campaign year over year, if you add some thoughtful updates to keep it interesting. Spotify added new data and insights for 2019, including Wrapped summaries for podcasters, and creating world maps to show users where their music is made:
 
 
-![Spotify Wrapped annual campaign](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2020-08-18-at-5.57.48-PM-39.png)
+![Spotify Wrapped annual campaign](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2020-08-18-at-5.57.48-PM-39.png)
 
 
 Tying your campaign to an annual event (like the end of the year) also builds anticipation among your fans, helping it to grow bigger every year.
@@ -319,7 +319,7 @@ The social media strategy template makes it easy to:
 ## 2. [Social media proposal template](https://www.hootsuite.com/resources/blog/social-media-proposal-template)
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="preview of social media proposal template" src="http://nuggetofjoy.com/wp-content/uploads/social-media-proposal-template-620x524-20.png"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="preview of social media proposal template" src="https://nuggetofjoy.com/wp-content/uploads/social-media-proposal-template-620x524-20.png"/></figure></div>
 
 
 This template is for freelance social media professionals and social media agencies.
@@ -361,7 +361,7 @@ You want the story to feel connected and cohesive, *but not repetitive*.
 Our social media team has found that each network is best suited for a specific type of content. They share their experiences and insights—along with issues particular to each network—below.
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-182694" src="http://nuggetofjoy.com/wp-content/uploads/CrossPlatform-Blog2018-1-620x282-20.png"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-182694" src="https://nuggetofjoy.com/wp-content/uploads/CrossPlatform-Blog2018-1-620x282-20.png"/></figure></div>
 
 
 ### Facebook

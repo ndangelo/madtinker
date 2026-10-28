@@ -36,7 +36,7 @@ No matter the texture or color, all hair types go through similar first steps wi
 You can try using**Select Subject,**the**Magnetic Lasso** tool, or **Quick Select.**
 
 
-![start by making a rough selection of the hair.](http://nuggetofjoy.com/wp-content/uploads/sdf-4.jpg)
+![start by making a rough selection of the hair.](https://nuggetofjoy.com/wp-content/uploads/sdf-4.jpg)
 
 [Woman with long and shiny curly hair](https://elements.envato.com/beauty-fashion-model-girl-with-colorful-dyed-hair-RTLMEP5)
 
@@ -50,7 +50,7 @@ Add a**Layer Mask** to the subject.
 If any large chunks of hair need to be roughly masked in, use a hard**Brush** set to white for some manual Photoshop hair masking.
 
 
-![Add a Layer Mask to the subject.](http://nuggetofjoy.com/wp-content/uploads/0003_2.jpg)
+![Add a Layer Mask to the subject.](https://nuggetofjoy.com/wp-content/uploads/0003_2.jpg)
 
 
 ### Step 3
@@ -77,7 +77,7 @@ Next, select the**Refine Edge**brush from the left side toolbar.
 Drag the Refine Edge cursor along the hair's edge. If it captures too much inner hair or background, hold **Alt/Option** to remove it from the selection.
 
 
-![select the Refine Edge brush and trace the edges of the image ](http://nuggetofjoy.com/wp-content/uploads/0002_3.jpg)
+![select the Refine Edge brush and trace the edges of the image ](https://nuggetofjoy.com/wp-content/uploads/0002_3.jpg)
 
 
 ### Step 5
@@ -86,10 +86,10 @@ Drag the Refine Edge cursor along the hair's edge. If it captures too much inner
 Finish by choosing **Decontaminate Color,** setting it to**70%.**
 
 
-![Finish by choosing Decontaminate Color](http://nuggetofjoy.com/wp-content/uploads/0001_4.jpg)
+![Finish by choosing Decontaminate Color](https://nuggetofjoy.com/wp-content/uploads/0001_4.jpg)
 
 
-![final result](http://nuggetofjoy.com/wp-content/uploads/0000_5.jpg)
+![final result](https://nuggetofjoy.com/wp-content/uploads/0000_5.jpg)
 
 
 ## That's It!

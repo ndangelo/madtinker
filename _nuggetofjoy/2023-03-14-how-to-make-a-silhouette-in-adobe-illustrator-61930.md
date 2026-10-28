@@ -14,7 +14,7 @@ categories:
 tags: []
 ---
 
-![](http://nuggetofjoy.com/wp-content/uploads/make-silhouettes-1-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/make-silhouettes-1-1.png)
 
 
 Tired of using stock silhouettes? I feel you. As designers, we like to be unique and special. Having our own stock vectors is always a good idea.
@@ -44,7 +44,7 @@ There are several ways to make silhouettes in Adobe Illustrator. **[Image Trace
 For example, it’ll take you forever to make a silhouette of this coconut tree if you use the pen tool to outline because there are so many complicated details. But using the Image Trace, you can do it in a minute.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette8-680x1024-1-1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette8-680x1024-1-1.jpg)
 
 
 ### Method 1: Image Trace
@@ -65,13 +65,13 @@ I’ll continue with the example of this coconut tree image.
 **Step 3**: Click **Silhouettes**.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette7-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette7-1.png)
 
 
 You see what I’m talking about? You can’t always get the best result at once.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette4-682x1024-1-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette4-682x1024-1-1.png)
 
 
 If this is your case, you can change the threshold or other settings from the Image Trace panel.
@@ -80,13 +80,13 @@ If this is your case, you can change the threshold or other settings from the Im
 **Step 4**: Click the icon next to the preset to open the Image Trace panel.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette1-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette1-1.png)
 
 
 **Step 5**: Move the slider to change the threshold until you’re happy with the silhouette.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette5-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette5-1.png)
 
 
 Check the **Preview** box on the bottom-left corner to see how your silhouette looks while changing.
@@ -101,7 +101,7 @@ If you are making a simple silhouette shape without many details, you can use th
 Let’s look at an example of how to make a silhouette of this cutie cat in Adobe Illustrator.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette10-1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette10-1.jpg)
 
 
 **Step 1**: Place the image in Illustrator.
@@ -110,25 +110,25 @@ Let’s look at an example of how to make a silhouette of this cutie cat in Adob
 **Step 2**: Select the **Pen Tool** from the toolbar or use the Pen Tool keyboard shortcut **`P`** key to activate the tool.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette9-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette9-1.png)
 
 
 **Step 3**: Use the Pen Tool to outline the cat. Zoom in to draw for better precision.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette2-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette2-1.png)
 
 
 **Step 4**: Remember to close the pen tool path.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette6-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette6-1.png)
 
 
 **Step 5**: Now you have the outline. Just change the color to black and you’re all set 🙂
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette3-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/how-to-make-silhouette3-1.png)
 
 
 ## FAQs

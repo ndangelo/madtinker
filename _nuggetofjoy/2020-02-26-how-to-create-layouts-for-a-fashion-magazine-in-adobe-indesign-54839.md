@@ -13,7 +13,7 @@ categories:
 tags: []
 ---
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Final product image" src="http://nuggetofjoy.com/wp-content/uploads/coverimage-5.jpg"/><figcaption>What You'll Be Creating</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Final product image" src="https://nuggetofjoy.com/wp-content/uploads/coverimage-5.jpg"/><figcaption>What You'll Be Creating</figcaption></figure></div>
 
 
 Open up the pages of any high-end magazine and you can find some really outstanding design work. The interior layouts of fashion titles can be particularly awe-inspiring. Designers are becoming more experimental with typography, irregular grids and unusual image choices to create magazine layouts that look as gorgeous as the covers.
@@ -40,7 +40,7 @@ In the **New Document** window, keep **Intent** as **Print**. Set the **No
 From the **Page Size**drop-down menu select **Custom...**to open the **Custom Page Size** window. We’re going to be using the same dimensions as we did for [this Magazine Cover tutorial](https://design.tutsplus.com/tutorials/design-a-fashion-magazine-cover-in-adobe-indesign--cms-22611), which uses a standard US magazine page size. This is 8 3/8 inches by 10 7/8 inches, though we’ll be working in millimeters throughout.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/magazine_1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/magazine_1.jpg)
 
 
 Type *‘US Magazine’* into the text box at the top of the window and set the **Width** to **213 mm** and the **Height** to **276.5 mm**(this equates to 8 3/8 in by 10 7/8 in). Click **Add** and then **OK**.
@@ -55,13 +55,13 @@ Back in the **New Document** window, set the **Top, Bottom** and**Inside Mar
 You should also include a **Bleed** of **3 mm** on all sides except the **Inside**, where it won’t be needed. Set the **Inside Bleed** to **0 mm.**
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/magazine_2.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/magazine_2.jpg)
 
 
 Click **OK**.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/magazine_3.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/magazine_3.jpg)
 
 
 ### Step 3
@@ -76,7 +76,7 @@ For now, though, we want to be able to shuffle Page 2 of the document upwards, s
 Open the **Pages** panel **(Window > Pages)**and then open the panel’s drop-down menu, accessible from the top-right corner of the panel. Click once on **Allow Document Pages to Shuffle** to uncheck the option.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/magazine_4.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/magazine_4.jpg)
 
 
 Back in the **Pages** panel, you can now grab individual pages and move them around more freely, connecting them to other pages without the restraints of the normal shuffle mode.
@@ -85,7 +85,7 @@ Back in the **Pages** panel, you can now grab individual pages and move them a
 Grab the **Page 2** page icon and connect it to the right-hand side of **Page 1**. Repeat with the process with the other pages until you have a set of three two-page spreads, as shown.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/magazine_5.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/magazine_5.jpg)
 
 
 ### Step 4
@@ -100,19 +100,19 @@ Let’s create a simple grid on the **Master** spread, as this will then be ap
 Return to the **Pages** panel and double-click on one of the ***A-Master*** page icons to bring up the Master on screen.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/magazine_6.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/magazine_6.jpg)
 
 
 If the rulers are not shown by default go to **View > Show Rulers**. Drag a **Guide** down from the top ruler to **37 mm**, allowing it to sit on the left-hand page. Drag a second guide down to **254 mm**.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/magazine_7.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/magazine_7.jpg)
 
 
 From the left-hand ruler, drag a vertical guide out to **13 mm** and then drag a second out to **195 mm**.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/magazine_8.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/magazine_8.jpg)
 
 
 These guides will form the top, bottom and outer edges of your columns of text.
@@ -130,13 +130,13 @@ Go to **Layout > Margins & Columns**and set the **Number of Columns** to **2
 Drag out another vertical guide from the left-hand ruler to**94 mm** and drag a second to **115 mm**.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/magazine_10.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/magazine_10.jpg)
 
 
 Finally, drag your mouse over the whole of the left page to select all the guides and go to **Edit > Copy, Edit > Paste**. Manoeuvre this pasted set of guides into a mirrored position on the right page of the Master spread.
 
 
-![Pasted Guides](http://nuggetofjoy.com/wp-content/uploads/magazine_11.jpg)
+![Pasted Guides](https://nuggetofjoy.com/wp-content/uploads/magazine_11.jpg)
 
 
 ## 2. Customize the Master(s)
@@ -157,16 +157,16 @@ Using the **Type Tool (T)** create a small text frame, positioning it just bel
 Highlight the *‘A’* character and adjust the **Font**, from the **Character Formatting Controls**panel running along the top of the screen, to **Adobe Garamond Pro, Semibold Italic**, and **Size** to **10 pt.**
 
 
-![Page Number 1](http://nuggetofjoy.com/wp-content/uploads/magazine_12.jpg)
+![Page Number 1](https://nuggetofjoy.com/wp-content/uploads/magazine_12.jpg)
 
 
 Select the text frame using the **Selection Tool (V, Escape)** and **Edit > Copy, Edit > Paste.**Manoeuvre the pasted frame to the bottom-right corner of the right page of the Master and adjust the alignment of the text to **Align Right.**
 
 
-![Page Number 2](http://nuggetofjoy.com/wp-content/uploads/magazine_13.jpg)
+![Page Number 2](https://nuggetofjoy.com/wp-content/uploads/magazine_13.jpg)
 
 
-![The Final Spread](http://nuggetofjoy.com/wp-content/uploads/magazine_14.jpg)
+![The Final Spread](https://nuggetofjoy.com/wp-content/uploads/magazine_14.jpg)
 
 
 ### Step 2
@@ -181,7 +181,7 @@ Use the **Type Tool (T)**to create two text frames, one at the top left-hand co
 Position the other text frame centrally at the top of the left page, typing in the *‘Issue No.’*, and setting the **Font** to **Adobe Garamond Pro, Semibold Italic,** and **Size 10 pt**. Set the text to **Align Center.**
 
 
-![Running Headers](http://nuggetofjoy.com/wp-content/uploads/magazine_15.jpg)
+![Running Headers](https://nuggetofjoy.com/wp-content/uploads/magazine_15.jpg)
 
 
 Create a third text frame, positioning it at the top-right corner of the right-hand page of the Master. This is the perfect place to put in the name of your article. Here, it’s *‘days of denim dreaming’*. Set the **Font** to **Adobe Garamond Pro, Semibold Italic,** and **Size 10 pt.** Set the text to **Align Right.**
@@ -190,13 +190,13 @@ Create a third text frame, positioning it at the top-right corner of the right-h
 We’re going to build up the magazine layout using just three colours: **[Black], [Paper]** and a new grey-blue swatch. Open the **Swatches** panel **(Window > Color > Swatches)**and click on the **New Swatch** icon. Add a new **CMYK Swatch, C=56 M=41 Y=37 K=20.**
 
 
-![Swatch Options](http://nuggetofjoy.com/wp-content/uploads/magazine_16.jpg)
+![Swatch Options](https://nuggetofjoy.com/wp-content/uploads/magazine_16.jpg)
 
 
 Set the article title in this new swatch.
 
 
-![Article Title](http://nuggetofjoy.com/wp-content/uploads/magazine_17.jpg)
+![Article Title](https://nuggetofjoy.com/wp-content/uploads/magazine_17.jpg)
 
 
 ### Step 3
@@ -208,13 +208,13 @@ Some of the pages in your magazine layout might include dark images or backgroun
 Return to the **Pages** panel and hold **Shift** and select both pages of the ***A-Master***. Drag them down to the **Create New Page** icon at the bottom of the panel. A second Master spread, a ***B-Master,*** will be created.
 
 
-![Pages Panel](http://nuggetofjoy.com/wp-content/uploads/magazine_18.jpg)
+![Pages Panel](https://nuggetofjoy.com/wp-content/uploads/magazine_18.jpg)
 
 
 Ensure the ***B-Master***is brought up on screen, then drag your mouse across the whole of the spread, selecting all the text frames. Adjust the **Font Color** of all the text on the spread to **[Paper]**. Delete the *‘Issue No.’* text frame.
 
 
-![Second Master](http://nuggetofjoy.com/wp-content/uploads/magazine_19.jpg)
+![Second Master](https://nuggetofjoy.com/wp-content/uploads/magazine_19.jpg)
 
 
 ### Step 4
@@ -226,7 +226,7 @@ To ensure that the text on your Master pages will be brought to the front of you
 Open the **Layers** panel **(Window > Layers)**and double-click the default ***Layer 1***name. Rename the layer as ***Typography*** and click **OK.**
 
 
-![Typography Master](http://nuggetofjoy.com/wp-content/uploads/magazine_20.jpg)
+![Typography Master](https://nuggetofjoy.com/wp-content/uploads/magazine_20.jpg)
 
 
 ## 3. Introduce Borders on Your Layouts
@@ -244,7 +244,7 @@ Remaining in the **Layers** panel, first **Lock** the ***Typography*** lay
 Grab the ***Border*** layer and move it to sit below the ***Typography*** layer.
 
 
-![Border Layer](http://nuggetofjoy.com/wp-content/uploads/magazine_21.jpg)
+![Border Layer](https://nuggetofjoy.com/wp-content/uploads/magazine_21.jpg)
 
 
 ### Step 2
@@ -259,13 +259,13 @@ Select the **Rectangle Tool (M)**and drag to create a frame that extends across
 Set the **Fill Color** to **[None]** and **Stroke** to **[Black]**, and increase the **Weight** of the **Stroke** to **4 mm.**
 
 
-![Black Border](http://nuggetofjoy.com/wp-content/uploads/magazine_22.jpg)
+![Black Border](https://nuggetofjoy.com/wp-content/uploads/magazine_22.jpg)
 
 
 Select the frame and **Edit > Copy** and **Edit > Paste**. Position the pasted frame in a mirrored position on **Page 2.**
 
 
-![Pasted Border](http://nuggetofjoy.com/wp-content/uploads/magazine_23.jpg)
+![Pasted Border](https://nuggetofjoy.com/wp-content/uploads/magazine_23.jpg)
 
 
 ### Step 3
@@ -277,7 +277,7 @@ Drag your mouse across the whole of the spread to select both of the black frame
 Navigate down to **Pages 3–4**, and **Edit > Paste in Plac**e. Alter the **Stroke Color** to **[Paper].**
 
 
-![White Boarder 1](http://nuggetofjoy.com/wp-content/uploads/magazine_24.jpg)
+![White Boarder 1](https://nuggetofjoy.com/wp-content/uploads/magazine_24.jpg)
 
 
 Repeat again for **Pages 5–6**, setting the **Stroke Color**to **[Paper].**
@@ -298,7 +298,7 @@ Return to the **Layers** panel and **Lock** the ***Border*** layer. Create
 Grab the new layer and move it to sit below the ***Border*** layer.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/magazine_26.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/magazine_26.jpg)
 
 
 ### Step 2
@@ -307,22 +307,22 @@ Grab the new layer and move it to sit below the ***Border*** layer.
 You want to select an image that will look strong and dramatic when placed across an entire page. For this fashion feature, I’ve chosen [an image of a stylish woman](https://photodune.net/item/vogue-full-length-portrait-of-stylish-woman-in-informal-pose/5734933) wearing jeans.
 
 
-![Original Color Photo](http://nuggetofjoy.com/wp-content/uploads/magazine_27-848x1024.jpg)
+![Original Color Photo](https://nuggetofjoy.com/wp-content/uploads/magazine_27-848x1024.jpg)
 
 
 The original image is in full color. But for added edge, I post-edited the photo in **Adobe Photoshop**. To imitate the look of the image here, where only the jeans are pulled out in color, use the **Lasso Tool (L)** to select the area of the jeans only. **Copy** and **Paste** the selection, so it stands apart on a separate layer.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/magazine_28-770x1024.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/magazine_28-770x1024.jpg)
 
 
 Apply a **Channel Mixer Adjustment Layer** in **Monochrome** to the original photo only, keeping the jeans pulled out in color.
 
 
-![Channel Mixer](http://nuggetofjoy.com/wp-content/uploads/magazine_29.jpg)
+![Channel Mixer](https://nuggetofjoy.com/wp-content/uploads/magazine_29.jpg)
 
 
-![Lasso Tool](http://nuggetofjoy.com/wp-content/uploads/magazine_30.jpg)
+![Lasso Tool](https://nuggetofjoy.com/wp-content/uploads/magazine_30.jpg)
 
 
 ### Step 3
@@ -337,7 +337,7 @@ Select the **Rectangle Frame Tool (F)** and drag to create a frame that extend
 Go to**File > Place** and select your chosen image. Click **Open**. Arrange the image in the frame until you are happy with the scale.
 
 
-![Placed Image](http://nuggetofjoy.com/wp-content/uploads/magazine_31.jpg)
+![Placed Image](https://nuggetofjoy.com/wp-content/uploads/magazine_31.jpg)
 
 
 ### Step 4
@@ -346,7 +346,7 @@ Go to**File > Place** and select your chosen image. Click **Open**. Arrange th
 Select the **Rectangle Tool (M)** and drag to create a frame **216 mm** in **Width** and **110 mm**in **Height**. Place this at the bottom of **Page 1** in the position shown.
 
 
-![Colored Shape](http://nuggetofjoy.com/wp-content/uploads/magazine_32.jpg)
+![Colored Shape](https://nuggetofjoy.com/wp-content/uploads/magazine_32.jpg)
 
 
 ### Step 5
@@ -358,7 +358,7 @@ Navigate down to **Page 3** of your document. As before, create an image frame
 Double-click inside the frame to select the image directly and**Control-Click (Mac OS) or Right-Click (Windows) > Transform > Flip Horizontal.** This time enlarge the scale of the image, and focus on the lower half of the photo, bringing the jeans and shoes into the frame. Leave a decent space to the right of the image to allow some space for text.
 
 
-![Image Placed](http://nuggetofjoy.com/wp-content/uploads/magazine_33.jpg)
+![Image Placed](https://nuggetofjoy.com/wp-content/uploads/magazine_33.jpg)
 
 
 ### Step 6
@@ -367,19 +367,19 @@ Double-click inside the frame to select the image directly and**Control-Click (M
 Select the **Rectangle Tool (M)**and drag to create a frame that extends from the top to the bottom of **Page 4**. Rest the right edge on the far right bleed, and extend the **Width** until it meets at the center point of Page 4.
 
 
-![Colored Shape](http://nuggetofjoy.com/wp-content/uploads/magazine_34.jpg)
+![Colored Shape](https://nuggetofjoy.com/wp-content/uploads/magazine_34.jpg)
 
 
 You’ll notice that the article title at the top right corner of Page 4 is now no longer visible and the page number doesn’t look very clear, now it’s set against a dark background. To solve this, simply go the **Pages** panel and drag the right-hand page icon of the ***B-Master***, dropping it onto the **Page 4** page icon in the panel.
 
 
-![Pages Panel](http://nuggetofjoy.com/wp-content/uploads/magazine_35.jpg)
+![Pages Panel](https://nuggetofjoy.com/wp-content/uploads/magazine_35.jpg)
 
 
 While you’re there, you can also apply the ***B-Master***to **Page 5** of the document.
 
 
-![Pages Panel 2](http://nuggetofjoy.com/wp-content/uploads/magazine_36.jpg)
+![Pages Panel 2](https://nuggetofjoy.com/wp-content/uploads/magazine_36.jpg)
 
 
 ### Step 7
@@ -388,7 +388,7 @@ While you’re there, you can also apply the ***B-Master***to **Page 5** of t
 Select the grey frame you’ve just created and **Edit > Copy.** Navigate further down to **Page 5**of the document and **Edit > Paste**. Move the pasted frame to the left side of the page, as shown.
 
 
-![Colored Shape](http://nuggetofjoy.com/wp-content/uploads/magazine_37.jpg)
+![Colored Shape](https://nuggetofjoy.com/wp-content/uploads/magazine_37.jpg)
 
 
 ### Step 8
@@ -400,13 +400,13 @@ Use the **Rectangle Frame Tool (F)**to create a new large image frame. Position
 Go to **File > Place**and select a second image. Here, I’ve gone for [an image of a stack of jeans.](https://photodune.net/item/jeans/466888)
 
 
-![Original Photo of Jeans](http://nuggetofjoy.com/wp-content/uploads/magazine_38.jpg)
+![Original Photo of Jeans](https://nuggetofjoy.com/wp-content/uploads/magazine_38.jpg)
 
 
 As I did with the first image earlier, I then used Photoshop to pull out one of the pairs of jeans in color, with the rest of the stack set in monochrome.
 
 
-![Image Placed on Spread](http://nuggetofjoy.com/wp-content/uploads/magazine_39.jpg)
+![Image Placed on Spread](https://nuggetofjoy.com/wp-content/uploads/magazine_39.jpg)
 
 
 ### Step 9
@@ -415,13 +415,13 @@ As I did with the first image earlier, I then used Photoshop to pull out one of 
 The white border’s cutting through the center of the image, which doesn’t look great. So, return to the **Layers** panel and **Unlock** the ***Border*** layer. Pull back the inside edges of each border to the center of the page, so you still have a white border around the colored background on the left-hand page.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/magazine_40.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/magazine_40.jpg)
 
 
 Great work! This is how your magazine feature looks at the moment:
 
 
-![Layout with Images](http://nuggetofjoy.com/wp-content/uploads/magazine_41-807x1024.jpg)
+![Layout with Images](https://nuggetofjoy.com/wp-content/uploads/magazine_41-807x1024.jpg)
 
 
 Now all we need to do is add some text!
@@ -436,7 +436,7 @@ Now all we need to do is add some text!
 Go to the **Layers** panel and **Lock** the ***Image*** layer. **Unlock** the ***Typography*** layer.
 
 
-![Typography Layer](http://nuggetofjoy.com/wp-content/uploads/magazine_42.jpg)
+![Typography Layer](https://nuggetofjoy.com/wp-content/uploads/magazine_42.jpg)
 
 
 ### Step 2
@@ -463,7 +463,7 @@ Highlight *‘Denim’* alone and increase the **Size** to **135 pt**, **L
 Position the text frame just above the center of the page, as shown.
 
 
-![Futura Std](http://nuggetofjoy.com/wp-content/uploads/magazine_43.jpg)
+![Futura Std](https://nuggetofjoy.com/wp-content/uploads/magazine_43.jpg)
 
 
 ### Step 3
@@ -475,7 +475,7 @@ Introduce a second smaller text frame (about **75 mm** in **Width**) on **Pa
 Set the *‘Name’*of the article’s author below the summary, in**Adobe Garamond Pro.**
 
 
-![Summary of Article](http://nuggetofjoy.com/wp-content/uploads/magazine_44.jpg)
+![Summary of Article](https://nuggetofjoy.com/wp-content/uploads/magazine_44.jpg)
 
 
 ### Step 4
@@ -487,7 +487,7 @@ Create a third text frame on **Page 1,** about **170 mm** in **Width**. Pos
 Type *‘Dreaming’* and set the **Font** to **Sail**, **Size 112 pt**, and **Font Colour**to **[Paper].**With the **Selection Tool (V, Escape)** active, hover your cursor over the bottom right corner of the frame and rotate it upwards a little to give the text a slight slant.
 
 
-![Experimental Typography](http://nuggetofjoy.com/wp-content/uploads/magazine_45.jpg)
+![Experimental Typography](https://nuggetofjoy.com/wp-content/uploads/magazine_45.jpg)
 
 
 ### Step 5
@@ -505,7 +505,7 @@ Type an introductory sub-title of four five-character words. Here, I’ve gone f
 Set the **Font** to **Futura Std Light Condensed, Size 50 pt, Leading 70 pt, All Caps** and **Justify All Lines**. Increase the **Tracking** to **600** and highlight individual parts of the text, setting them in a different color, **C=56 M=41 Y=37 K=20.**
 
 
-![Subtitle](http://nuggetofjoy.com/wp-content/uploads/magazine_46.jpg)
+![Subtitle](https://nuggetofjoy.com/wp-content/uploads/magazine_46.jpg)
 
 
 ### Step 6
@@ -514,7 +514,7 @@ Set the **Font** to **Futura Std Light Condensed, Size 50 pt, Leading 70 pt, 
 Pull out a guide from the left-hand ruler to the center of the text frame, and the center of the column section.
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="Center Guide" class="wp-image-54902" src="http://nuggetofjoy.com/wp-content/uploads/magazine_47.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="Center Guide" class="wp-image-54902" src="https://nuggetofjoy.com/wp-content/uploads/magazine_47.jpg"/></figure></div>
 
 
 Select the **Type Tool (T)** and create a new text frame, **37.5 mm** in **Width** and **115.5 mm** in **Height.** Align the left edge of this new text frame with the left edge of the sub-title text frame, and rest the bottom edge against the bottom horizontal guide.
@@ -523,13 +523,13 @@ Select the **Type Tool (T)** and create a new text frame, **37.5 mm** in **
 You can start to feed in the text of your article into this text frame. If you don’t have any text yet, you can go to**Type > Fill with Placeholder Text.**Set the **Font** to **Adobe Garamond Pro, Size 11 pt.**
 
 
-![Column of Text](http://nuggetofjoy.com/wp-content/uploads/magazine_48.jpg)
+![Column of Text](https://nuggetofjoy.com/wp-content/uploads/magazine_48.jpg)
 
 
 You can also pull out the first letter of the article in a **Drop Cap**, using the options available in the **Character Formatting Controls**panel. Set the **Drop Cap Number of Lines**to **3**, and adjust the **Font** of the first character to **Futura Std Medium Condensed**and the **Color** to **C=56 M=41 Y=37 K=20.**
 
 
-![Drop Cap](http://nuggetofjoy.com/wp-content/uploads/magazine_49.jpg)
+![Drop Cap](https://nuggetofjoy.com/wp-content/uploads/magazine_49.jpg)
 
 
 ### Step 7
@@ -538,7 +538,7 @@ You can also pull out the first letter of the article in a **Drop Cap**, using 
 Create another text frame at the same dimensions as the tall text frame you just created. Position to the right of the first frame, resting against the guide on the far right, as shown.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/magazine_50.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/magazine_50.jpg)
 
 
 Click on the white box at the bottom right corner of the first frame, before clicking in the second frame, allowing the text to flow into it.
@@ -547,13 +547,13 @@ Click on the white box at the bottom right corner of the first frame, before cli
 Continue to create new text frames at the same dimensions, positioning them in pairs on the opposite page of the spread, using the guides to help you. Repeat the process above, threading the text into the frames as you go. Adjust the color of some of the text to **[Paper]**if you need to contrast it against the dark background.
 
 
-![Threaded Text](http://nuggetofjoy.com/wp-content/uploads/magazine_51-1.jpg)
+![Threaded Text](https://nuggetofjoy.com/wp-content/uploads/magazine_51-1.jpg)
 
 
 Continue onto the next spread, **Pages 5–6**, positioning the text frames around the image of the stacked jeans as shown.
 
 
-![Threaded text on next spread](http://nuggetofjoy.com/wp-content/uploads/magazine_52.jpg)
+![Threaded text on next spread](https://nuggetofjoy.com/wp-content/uploads/magazine_52.jpg)
 
 
 ### Step 8
@@ -568,16 +568,16 @@ Use the **Type Tool (T)** to create a text frame the width of two columns, jus
 Open the **Story** panel**(Window > Type & Tables > Story)** and check the **Optical Margin Alignment** checkbox to shift the quotation marks to sit outside the text frame, giving a more even appearance to the text.
 
 
-![The Story Panel](http://nuggetofjoy.com/wp-content/uploads/magazine_53.jpg)
+![The Story Panel](https://nuggetofjoy.com/wp-content/uploads/magazine_53.jpg)
 
 
 Position the first quotation text frame below the two left-hand columns on Page 4. **Copy** and **Paste** the text frame, adjusting the text content, three more times, placing them on Pages 4, 5 and 6 as shown.
 
 
-![Quotations](http://nuggetofjoy.com/wp-content/uploads/magazine_54.jpg)
+![Quotations](https://nuggetofjoy.com/wp-content/uploads/magazine_54.jpg)
 
 
-![Quotations](http://nuggetofjoy.com/wp-content/uploads/magazine_55.jpg)
+![Quotations](https://nuggetofjoy.com/wp-content/uploads/magazine_55.jpg)
 
 
 ### Step 9
@@ -589,7 +589,7 @@ Your layouts are almost finished, and they're looking awesome!
 You can add a final decorative touch to give your layouts that extra pro touch. Create a square text frame and position it below the left-hand quotation on **Page 4** of your document. Type *‘D’*(for ‘denim’) and set the **Font** to **Sail**, **Size 200 pt, Color C=56 M=41 Y=37 K=20.** Rotate the text frame slightly to give it a slightly jaunty angle.
 
 
-![D Type Effect](http://nuggetofjoy.com/wp-content/uploads/magazine_56.jpg)
+![D Type Effect](https://nuggetofjoy.com/wp-content/uploads/magazine_56.jpg)
 
 
 With the text frame selected, go to **Object > Effects > Transparency**and reduce the **Opacity** to **30%.**
@@ -598,13 +598,13 @@ With the text frame selected, go to **Object > Effects > Transparency**and redu
 **Edit > Copy** and **Edit > Paste** the text frame, adjusting the **Font Color**to **[Paper]**. Position this second frame at the top right corner of **Page 4.**
 
 
-![Transparency on Text](http://nuggetofjoy.com/wp-content/uploads/magazine_57.jpg)
+![Transparency on Text](https://nuggetofjoy.com/wp-content/uploads/magazine_57.jpg)
 
 
 **Copy** and **Paste** both of the *‘D’*text frames onto the final spread of the magazine, positioning them as shown.
 
 
-![Text Applied to Next Spread](http://nuggetofjoy.com/wp-content/uploads/magazine_58.jpg)
+![Text Applied to Next Spread](https://nuggetofjoy.com/wp-content/uploads/magazine_58.jpg)
 
 
 ### Step 10
@@ -616,13 +616,13 @@ Before you go to export your layouts for print, just take a quick detour back to
 To quickly sort this out, select the **Ellipse Tool (L)** from the **Tools** panel and drag to create a small irregular ellipse that sits just over the bottom part of the shoe.
 
 
-![Ellipse Tool](http://nuggetofjoy.com/wp-content/uploads/magazine_59.jpg)
+![Ellipse Tool](https://nuggetofjoy.com/wp-content/uploads/magazine_59.jpg)
 
 
 Adjust the **Stroke Color** to **[None].** Go to **Window > Text Wrap** and set the wrap to**Wrap Around Object Shape**, at an **Offset** of **5 mm.**
 
 
-![Text Wrap](http://nuggetofjoy.com/wp-content/uploads/magazine_60.jpg)
+![Text Wrap](https://nuggetofjoy.com/wp-content/uploads/magazine_60.jpg)
 
 
 ## 6. Export Your Magazine for Print
@@ -631,7 +631,7 @@ Adjust the **Stroke Color** to **[None].** Go to **Window > Text Wrap** an
 Your layouts are finished—super work! They look fantastic.
 
 
-![Final Product](http://nuggetofjoy.com/wp-content/uploads/magazine_61-645x1024.jpg)
+![Final Product](https://nuggetofjoy.com/wp-content/uploads/magazine_61-645x1024.jpg)
 
 
 When you’re ready to send your designs off to print, simply follow the steps below.
@@ -649,7 +649,7 @@ In the **Export Adobe PDF**window select **Press Quality** from the **Adobe 
 Keep **Pages** checked, not **Spreads**, unless otherwise specified by your printer.
 
 
-![Export to PDF](http://nuggetofjoy.com/wp-content/uploads/magazine_62.jpg)
+![Export to PDF](https://nuggetofjoy.com/wp-content/uploads/magazine_62.jpg)
 
 
 ### Step 2
@@ -658,13 +658,13 @@ Keep **Pages** checked, not **Spreads**, unless otherwise specified by your p
 Under the **Marks and Bleeds**section, click to select **All Printer’s Marks** under the **Marks**menu and click to select **Use Document Bleed Settings** under the **Bleed and Slug**menu. Click **Export**.
 
 
-![Marks and Bleeds](http://nuggetofjoy.com/wp-content/uploads/magazine_63.jpg)
+![Marks and Bleeds](https://nuggetofjoy.com/wp-content/uploads/magazine_63.jpg)
 
 
 *Well done!*You now have your magazine layouts ready to be sent to the printers.
 
 
-![Final PDF for Print](http://nuggetofjoy.com/wp-content/uploads/magazine_64-3-748x1024.jpg)
+![Final PDF for Print](https://nuggetofjoy.com/wp-content/uploads/magazine_64-3-748x1024.jpg)
 
 
 In this tutorial, we have learned how to design professional-standard layouts for a fashion magazine feature. The lessons we’ve covered here, such as setting up suitable Master pages, creating a simple grid, and experimenting with stylish typography, would also apply really well to any other kind of magazine you’re designing. *Great work!*

@@ -81,19 +81,19 @@ Hate having to return to websites to check for new articles
 Please conduct some research on the following blogs we love and get ideas to include
 
 
-[![Health](http://nuggetofjoy.com/wp-content/uploads/image-166-1024x674.png)](https://www.health.com/)
+[![Health](https://nuggetofjoy.com/wp-content/uploads/image-166-1024x674.png)](https://www.health.com/)
 
 
 [![GQ](https://cdn-images-1.medium.com/max/1600/1*o4oMuaNSrcLIKxg8afVoGw.png)](https://www.gq-magazine.co.uk/?international)
 
 
-[![Harvard Public Health](http://nuggetofjoy.com/wp-content/uploads/image-169-1024x670.png)](https://harvardpublichealth.org/)
+[![Harvard Public Health](https://nuggetofjoy.com/wp-content/uploads/image-169-1024x670.png)](https://harvardpublichealth.org/)
 
 
 [![Men's Health](https://cdn-images-1.medium.com/max/1600/1*GIlHTluEBryHjrTw-dx-0g.png)](https://www.menshealth.com/)
 
 
-[![Women's Health](http://nuggetofjoy.com/wp-content/uploads/image-165-1024x664.png)](https://www.womenshealthmag.com/)
+[![Women's Health](https://nuggetofjoy.com/wp-content/uploads/image-165-1024x664.png)](https://www.womenshealthmag.com/)
 
 
 ## **Deliverables**

@@ -17,10 +17,10 @@ tags: []
 The PowerPoint presentation given today can be downloaded [here](https://www.dropbox.com/s/uwofs8sj7yttjx2/font_pairings.zip?dl=0).
 
 
-<div class="wp-block-image"><figure class="aligncenter"><a href="http://nuggetofjoy.com/wp-content/uploads/2017/01/Picture1.png"><img alt="" class="wp-image-4798" src="http://nuggetofjoy.com/wp-content/uploads/2017/01/Picture1-1024x437.png"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://nuggetofjoy.com/wp-content/uploads/2017/01/Picture1.png"><img alt="" class="wp-image-4798" src="https://nuggetofjoy.com/wp-content/uploads/2017/01/Picture1-1024x437.png"/></a></figure></div>
 
 
-<div class="wp-block-image"><figure class="aligncenter"><a href="http://nuggetofjoy.com/wp-content/uploads/2017/01/Picture2.jpg"><img alt="" class="wp-image-4799" src="http://nuggetofjoy.com/wp-content/uploads/2017/01/Picture2-1024x776.jpg"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://nuggetofjoy.com/wp-content/uploads/2017/01/Picture2.jpg"><img alt="" class="wp-image-4799" src="https://nuggetofjoy.com/wp-content/uploads/2017/01/Picture2-1024x776.jpg"/></a></figure></div>
 
 
 Sources: [Poppie Pack](https://designschool.canva.com/blog/author/poppie/), December 15, 2015  

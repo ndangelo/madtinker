@@ -26,7 +26,7 @@ Let's look at how to combine two images in Photoshop using the Generative Fill t
 First, place two images on top of each other.
 
 
-![place two images on top of each other](http://nuggetofjoy.com/wp-content/uploads/0005_1-4.jpg)
+![place two images on top of each other](https://nuggetofjoy.com/wp-content/uploads/0005_1-4.jpg)
 
 
 ### Step 2
@@ -35,7 +35,7 @@ First, place two images on top of each other.
 Select the seam of the images using the **Rectangular Marquee** tool.
 
 
-![Select the seam of the images using the Rectangular Marquee tool](http://nuggetofjoy.com/wp-content/uploads/0004_2.jpg)
+![Select the seam of the images using the Rectangular Marquee tool](https://nuggetofjoy.com/wp-content/uploads/0004_2.jpg)
 
 
 ### Step 3
@@ -47,7 +47,7 @@ Hit **Generate**in the context bar without filling in a prompt. Photoshop will
 You maybe have to hit generate multiple times to get a good result.
 
 
-![Hit Generate in the context bar without filling in a prompt](http://nuggetofjoy.com/wp-content/uploads/0003_3.jpg)
+![Hit Generate in the context bar without filling in a prompt](https://nuggetofjoy.com/wp-content/uploads/0003_3.jpg)
 
 
 ### Step 4 (Optional)
@@ -59,7 +59,7 @@ Depending on the result, you can use the "Generative Fill" layers' Layer Mask 
 In this example, we return the subject's original face while keeping the interesting hair design.
 
 
-![mask away any unwarted image](http://nuggetofjoy.com/wp-content/uploads/0002_4.jpg)
+![mask away any unwarted image](https://nuggetofjoy.com/wp-content/uploads/0002_4.jpg)
 
 
 ## How to Combine Two Images in Photoshop Using AI
@@ -74,7 +74,7 @@ Alternatively, you can use generative fill to connect and combine two images in 
 Select the space and part of both images using the **Rectangular Marquee** tool.
 
 
-![Select the empty space and part of both images using the Rectangular Marquee tool](http://nuggetofjoy.com/wp-content/uploads/0001_5.jpg)
+![Select the empty space and part of both images using the Rectangular Marquee tool](https://nuggetofjoy.com/wp-content/uploads/0001_5.jpg)
 
 
 ### Step 2
@@ -83,7 +83,7 @@ Select the space and part of both images using the **Rectangular Marquee** too
 Hit Generate in the context bar without filling in a prompt. Photoshop will connect the two images, considering both lighting and perspective.
 
 
-![Hit Generate in the context bar without filling in a prompt](http://nuggetofjoy.com/wp-content/uploads/0000_6.jpg)
+![Hit Generate in the context bar without filling in a prompt](https://nuggetofjoy.com/wp-content/uploads/0000_6.jpg)
 
 
 ## That's How to Combine Two Images in Photoshop!

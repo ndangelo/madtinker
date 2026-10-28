@@ -101,22 +101,22 @@ How do I know these products are worth purchasing and reliable?
 Please conduct some research on the following eCommerce websites that we love and get ideas for features to include
 
 
-![Never Fail](http://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-8-1024x624.png)
+![Never Fail](https://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-8-1024x624.png)
 
 <https://www.neverfail.com.au/>
 
 
-![Hawk](http://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-9-1024x667.png)
+![Hawk](https://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-9-1024x667.png)
 
 <https://gertrudehawkchocolates.com/>
 
 
-![Shoe](http://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-11-1024x670.png)
+![Shoe](https://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-11-1024x670.png)
 
 <https://www.shoebacca.com/>
 
 
-![Cat](http://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-12-1024x667.png)
+![Cat](https://nuggetofjoy.com/wp-content/uploads/Screenshot-by-Dropbox-Capture-12-1024x667.png)
 
 <https://www.catbirdnyc.com/>
 

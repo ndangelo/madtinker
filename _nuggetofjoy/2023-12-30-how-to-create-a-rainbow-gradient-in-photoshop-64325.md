@@ -44,7 +44,7 @@ To create a colorful gradient in Photoshop, first, locate the **Layer Adjustmen
 Select and choose**Gradient**from the dropdown menu. This will create a **Gradient Fill**layer.
 
 
-![create a new gradient fill layer ](http://nuggetofjoy.com/wp-content/uploads/0006_Photoshop_xgUyaREcOO-3.jpg)
+![create a new gradient fill layer ](https://nuggetofjoy.com/wp-content/uploads/0006_Photoshop_xgUyaREcOO-3.jpg)
 
 
 ### Step 2
@@ -53,7 +53,7 @@ Select and choose**Gradient**from the dropdown menu. This will create a **Gradi
 Next, select the **Gradient** window to open the**Gradient Editor.** A number of premade gradients will appear.
 
 
-![open the gradient editor ](http://nuggetofjoy.com/wp-content/uploads/0005_Photoshop_xeOQ8mvP7N.jpg)
+![open the gradient editor ](https://nuggetofjoy.com/wp-content/uploads/0005_Photoshop_xeOQ8mvP7N.jpg)
 
 
 ### Step 3
@@ -79,7 +79,7 @@ The leftmost **Stop** is the beginning of the gradient, so let's set it to Red
 Click **OK.**
 
 
-![add in red color stop ](http://nuggetofjoy.com/wp-content/uploads/0004_Photoshop_wFsjuBUeVD.jpg)
+![add in red color stop ](https://nuggetofjoy.com/wp-content/uploads/0004_Photoshop_wFsjuBUeVD.jpg)
 
 
 ### Step 4
@@ -91,7 +91,7 @@ Now, select the rightmost**Stop**, setting it to a Purple `#750787` color.
 If the **Stop** started out as transparent, select the upper left **Stop** and set the **Opacity**to **100%**.
 
 
-![add in purple color stop ](http://nuggetofjoy.com/wp-content/uploads/0003_Photoshop_LtpKBjvAgZ.jpg)
+![add in purple color stop ](https://nuggetofjoy.com/wp-content/uploads/0003_Photoshop_LtpKBjvAgZ.jpg)
 
 
 ### Step 5
@@ -100,7 +100,7 @@ If the **Stop** started out as transparent, select the upper left **Stop** a
 Click right below the **Gradient** box to create a new **Stop**. We want to create four new **Stops** between the original two. Try to make them evenly spaced by clicking the**Stop**and dragging.
 
 
-![addin four more stops](http://nuggetofjoy.com/wp-content/uploads/0002_Photoshop_i1YvezNRSe.jpg)
+![addin four more stops](https://nuggetofjoy.com/wp-content/uploads/0002_Photoshop_i1YvezNRSe.jpg)
 
 
 ### Step 6
@@ -118,10 +118,10 @@ Change the colors of the middle **Stops** to:
 You can adjust the **Stops**to further refine your gradient. Click **New**to save your gradient as a Photoshop preset.
 
 
-![add in pride rainbow colors ](http://nuggetofjoy.com/wp-content/uploads/0001_Photoshop_tBUojb3lvr.jpg)
+![add in pride rainbow colors ](https://nuggetofjoy.com/wp-content/uploads/0001_Photoshop_tBUojb3lvr.jpg)
 
 
-![pride rainbow gradient ](http://nuggetofjoy.com/wp-content/uploads/final_pride.jpg)
+![pride rainbow gradient ](https://nuggetofjoy.com/wp-content/uploads/final_pride.jpg)
 
 
 ### Step 7
@@ -139,10 +139,10 @@ To create a ROYGBIV rainbow gradient background, select the Pride rainbow preset
 - Violet `#8a2be2`
 
 
-![ROYGBIV gradient settings](http://nuggetofjoy.com/wp-content/uploads/0001_Photoshop_tBUojb3lv2r.jpg)
+![ROYGBIV gradient settings](https://nuggetofjoy.com/wp-content/uploads/0001_Photoshop_tBUojb3lv2r.jpg)
 
 
-![ROYGBIV rainbow gradient  ](http://nuggetofjoy.com/wp-content/uploads/final_rgb.jpg)
+![ROYGBIV rainbow gradient  ](https://nuggetofjoy.com/wp-content/uploads/final_rgb.jpg)
 
 
 ## 2. How to Create a Rainbow Photoshop Effect
@@ -163,7 +163,7 @@ Choose the gradient and press **OK.**
 Adjust the **Style, Angle,** and**Scale** to fit your photo. My settings can be seen below, but they will depend on the image you are using and what color you'd like to appear most dominant.
 
 
-![pride rainbow gradient settings ](http://nuggetofjoy.com/wp-content/uploads/Photoshop_zl9V09Pfr9.jpg)
+![pride rainbow gradient settings ](https://nuggetofjoy.com/wp-content/uploads/Photoshop_zl9V09Pfr9.jpg)
 
 
 ### Step 3
@@ -172,7 +172,7 @@ Adjust the **Style, Angle,** and**Scale** to fit your photo. My settings can 
 Finally. set the gradients' layer mode to **Screen** and a **50% Opacity.**This will create a beautiful rainbow overlay in Photoshop.
 
 
-![rainbow gradient photo effect ](http://nuggetofjoy.com/wp-content/uploads/lesbian_couple_love_2021_09_02_05_51_10_utc.jpg)
+![rainbow gradient photo effect ](https://nuggetofjoy.com/wp-content/uploads/lesbian_couple_love_2021_09_02_05_51_10_utc.jpg)
 
 
 ## That's It! You Know How to Make Colorful Gradients in Photoshop
@@ -181,7 +181,7 @@ Finally. set the gradients' layer mode to **Screen** and a **50% Opacity.**Th
 That is all there is to creating a rainbow gradient in Photoshop. Input as many colors as you like, or try playing with the different positions of the color Stops to get several different effects. And then you can save each gradient to create your very own custom set of rainbow gradient presets and rainbow overlays in Photoshop.
 
 
-![rainbow gradient pride photo effect ](http://nuggetofjoy.com/wp-content/uploads/lesbian_couple_love_2021_09_02_05_51_10_utc.jpg)
+![rainbow gradient pride photo effect ](https://nuggetofjoy.com/wp-content/uploads/lesbian_couple_love_2021_09_02_05_51_10_utc.jpg)
 
 
 Esparza, A. (2023). How to Create a Rainbow Gradient in Photoshop: Envato Tuts+. Retrieved from https://design.tutsplus.com/tutorials/how-to-create-a-rainbow-gradient-in-photoshop--cms-39494

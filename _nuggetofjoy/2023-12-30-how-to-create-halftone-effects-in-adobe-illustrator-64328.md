@@ -14,7 +14,7 @@ categories:
 tags: []
 ---
 
-![Final product image](http://nuggetofjoy.com/wp-content/uploads/final_result-3.jpg)
+![Final product image](https://nuggetofjoy.com/wp-content/uploads/final_result-3.jpg)
 
 What You'll Be Creating
 
@@ -40,7 +40,7 @@ I open a new document in Adobe Illustrator and import the sketch by going to **
 From there I double-click the current layer the sketch is placed on, check the **Template** box and press **OK**. I won't be working with many of them for this one, but naming your layers is always a good practice.
 
 
-![Template layer for sketch](http://nuggetofjoy.com/wp-content/uploads/new_image_1.jpg)
+![Template layer for sketch](https://nuggetofjoy.com/wp-content/uploads/new_image_1.jpg)
 
 
 ### Step 2
@@ -49,7 +49,7 @@ From there I double-click the current layer the sketch is placed on, check the 
 Now I start inking the loose sketch with the**Brush Tool**. As usual, I like to use my [comic-style custom brush from a previous tutorial](https://design.tutsplus.com/tutorials/create-a-comic-character-making-a-character-sheet-in-adobe-illustrator--cms-23794) but go with your own preference on what brush you use.
 
 
-![Ink on top of sketch](http://nuggetofjoy.com/wp-content/uploads/new_image_2.jpg)
+![Ink on top of sketch](https://nuggetofjoy.com/wp-content/uploads/new_image_2.jpg)
 
 
 ### Step 3
@@ -61,7 +61,7 @@ I like to make pretty loose sketches and do the real defining during the inking 
 I have differed from the sketch in a lot of places, but now I feel it has the energy behind the expression just right, and it is ready for the next step.
 
 
-![Finished line art](http://nuggetofjoy.com/wp-content/uploads/new_image_3.jpg)
+![Finished line art](https://nuggetofjoy.com/wp-content/uploads/new_image_3.jpg)
 
 
 ## 2. Adding Shades of Gray
@@ -70,13 +70,13 @@ I have differed from the sketch in a lot of places, but now I feel it has the en
 Use the **Pen Tool** to create the shapes of the hair. Make two shapes, one for each side the hair is parted into. To get a gradient in black and white, press the **Period**keyon your keyboard.
 
 
-![Start filling in the lineart with grays](http://nuggetofjoy.com/wp-content/uploads/new_image_4.jpg)
+![Start filling in the lineart with grays](https://nuggetofjoy.com/wp-content/uploads/new_image_4.jpg)
 
 
 Once the hair is done, I add the shapes for the lips and irises as well. Since her hair covers part of her face, I add a large shadow underneath the big lock of hair.
 
 
-![Gradient tool used for hair lips and eyes](http://nuggetofjoy.com/wp-content/uploads/new_image_5.jpg)
+![Gradient tool used for hair lips and eyes](https://nuggetofjoy.com/wp-content/uploads/new_image_5.jpg)
 
 
 When shading the skin, I try to remember where the light source is coming from in the picture—from the left in this case—and try to break the shapes down that way. To add to the shock of the expression, I add extra shadow underneath the eyes, which can have a scary effect.
@@ -85,13 +85,13 @@ When shading the skin, I try to remember where the light source is coming from i
 When shading the tongue, I make a dark to medium gray object with the **Pen Tool**, and then I add points of lighter gray with the **Mesh Tool**.
 
 
-![Mesh tool used for tongue](http://nuggetofjoy.com/wp-content/uploads/new_image_6.jpg)
+![Mesh tool used for tongue](https://nuggetofjoy.com/wp-content/uploads/new_image_6.jpg)
 
 
 A good way to keep control over the overall look of your image is to make a grayscale palette from which you pick your colors. By limiting yourself to just a few shades, you minimize the risk of having it look chaotic and overworked.
 
 
-![Grayscale pallette](http://nuggetofjoy.com/wp-content/uploads/new_image_7.jpg)
+![Grayscale pallette](https://nuggetofjoy.com/wp-content/uploads/new_image_7.jpg)
 
 
 ## 3. Time to Make Halftones!
@@ -109,25 +109,25 @@ Which settings are best to use depends on what type of image you're after and wh
 I start by selecting all the objects making up the skin shading. Having these selected, I go to the **Effect** menu and choose **Pixelate**, then **Color Halftone**. Even though it says "Color Halftone" I recommend starting out creating these in black and white, simply because it's easier to just keep track of how those two colors behave. Making halftones in color involves several colors blending, and the results can be trickier to manipulate.
 
 
-![Halftone settings](http://nuggetofjoy.com/wp-content/uploads/new_image_10c.jpg)
+![Halftone settings](https://nuggetofjoy.com/wp-content/uploads/new_image_10c.jpg)
 
 
 My image is not very big, so the settings I decide to use have pretty low values, which creates a nice dense pattern for the skin.
 
 
-![Halftone result](http://nuggetofjoy.com/wp-content/uploads/new_image_11c.jpg)
+![Halftone result](https://nuggetofjoy.com/wp-content/uploads/new_image_11c.jpg)
 
 
 For the hair I want something a bit bolder, and I turn the values up a bit.
 
 
-![Halftone settings](http://nuggetofjoy.com/wp-content/uploads/new_image_12.jpg)
+![Halftone settings](https://nuggetofjoy.com/wp-content/uploads/new_image_12.jpg)
 
 
 Here, you can see how the dots work, becoming smaller the lighter the gradient becomes.
 
 
-![Halftone result](http://nuggetofjoy.com/wp-content/uploads/new_image_13.jpg)
+![Halftone result](https://nuggetofjoy.com/wp-content/uploads/new_image_13.jpg)
 
 
 Mouth
@@ -136,10 +136,10 @@ Mouth
 Finally, for the mouth, I decide to experiment a bit more with the values of the mesh before applying the halftone.
 
 
-![Halftone settings](http://nuggetofjoy.com/wp-content/uploads/new_image_14.jpg)
+![Halftone settings](https://nuggetofjoy.com/wp-content/uploads/new_image_14.jpg)
 
 
-![Halftone result](http://nuggetofjoy.com/wp-content/uploads/new_image_15.jpg)
+![Halftone result](https://nuggetofjoy.com/wp-content/uploads/new_image_15.jpg)
 
 
 ## 4. Use Dot Swatches for the Background
@@ -151,7 +151,7 @@ Besides creating the halftone effect yourself, Illustrator offers some ready swa
 This will provide you with a selection of plain grays and gradients in halftone. While they may not be as flexible as making your own, they are quick and easy to use, and will make a good background for our image.
 
 
-![Dot pattern swatches](http://nuggetofjoy.com/wp-content/uploads/new_image_16.jpg)
+![Dot pattern swatches](https://nuggetofjoy.com/wp-content/uploads/new_image_16.jpg)
 
 
 ## Awesome Work, You're Done!
@@ -163,7 +163,7 @@ Creating halftones is not very hard in Illustrator, but they can be a bit fickle
 You might spend some extra time tweaking the settings to get the perfect density of dots, but adding halftones can be a good way to shake up your grayscale artwork. Especially with all the resources available, there are several ways to approach this style as well. For example, you might feel more comfortable creating halftones with brushes.
 
 
-![Finished result](http://nuggetofjoy.com/wp-content/uploads/new_image_17.jpg)
+![Finished result](https://nuggetofjoy.com/wp-content/uploads/new_image_17.jpg)
 
 
 Berntsson, S. (2020). How to Create Halftone Effects in Adobe Illustrator: Envato Tuts+. Retrieved from https://design.tutsplus.com/tutorials/how-to-create-halftone-effects-in-adobe-illustrator--cms-25121

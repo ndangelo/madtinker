@@ -14,52 +14,52 @@ categories:
 tags: []
 ---
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-1.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-2.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-3.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-3.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-4.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-4.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-5.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-5.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-6.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-6.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-7.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-7.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-8.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-8.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-2.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-3.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-3.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-4.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-4.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-5.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-5.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-6.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-6.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-7.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-7.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-8.png)
+![](https://nuggetofjoy.com/wp-content/uploads/Artboard-8-copy-8.png)
 
 
 Product Mockup Psds can be found below.

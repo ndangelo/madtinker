@@ -42,7 +42,7 @@ Closing tags tell the browser where an element ends. They are almost the same as
 A full paragraph element looks like this:
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-12.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-12.png)
 
 
 You can think of elements as containers for content. The opening and closing tags tell the browser what content the element contains. The browser can then use that information to determine how it should interpret and format the content.

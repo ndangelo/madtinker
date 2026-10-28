@@ -44,19 +44,19 @@ What typefaces will help reinforce the tone of the tweet?
 NOTE: No offensive or distasteful tweets will be approved. You’re going to read this tweet hundreds of times for the next two weeks—choose something you’re excited to see!
 
 
-![Design Example](http://nuggetofjoy.com/wp-content/uploads/2551_TweetType_Examples-8-819x1024.jpg)
+![Design Example](https://nuggetofjoy.com/wp-content/uploads/2551_TweetType_Examples-8-819x1024.jpg)
 
 
-![Design Example](http://nuggetofjoy.com/wp-content/uploads/2551_TweetType_Examples-10-1-819x1024.jpg)
+![Design Example](https://nuggetofjoy.com/wp-content/uploads/2551_TweetType_Examples-10-1-819x1024.jpg)
 
 
-![Design Example](http://nuggetofjoy.com/wp-content/uploads/2551_P2_BDronet-1-819x1024.jpg)
+![Design Example](https://nuggetofjoy.com/wp-content/uploads/2551_P2_BDronet-1-819x1024.jpg)
 
 
-![Design Example](http://nuggetofjoy.com/wp-content/uploads/2551_P2_NBudde-1-1024x819.jpg)
+![Design Example](https://nuggetofjoy.com/wp-content/uploads/2551_P2_NBudde-1-1024x819.jpg)
 
 
-![Design Example](http://nuggetofjoy.com/wp-content/uploads/2551_P2_EMillet-1-819x1024.jpg)
+![Design Example](https://nuggetofjoy.com/wp-content/uploads/2551_P2_EMillet-1-819x1024.jpg)
 
 
 Sources

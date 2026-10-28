@@ -17,7 +17,7 @@ tags: []
 [**View Tutorial**](https://design.tutsplus.com/articles/learn-restaurant-menu-design-in-adobe-indesign--cms-33952)
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-54189" src="http://nuggetofjoy.com/wp-content/uploads/Menu.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-54189" src="https://nuggetofjoy.com/wp-content/uploads/Menu.jpg"/></figure></div>
 
 
 [**View Tutorial**](https://design.tutsplus.com/articles/learn-restaurant-menu-design-in-adobe-indesign--cms-33952)

@@ -21,7 +21,7 @@ Practice your interaction design skills and design experience optimized for smar
 **UPDATE!!!! Grayscale plugin for figma! Will be helpful when designing for accessibility!**
 
 
-[![Grayscale](http://nuggetofjoy.com/wp-content/uploads/image-283.png)](https://www.figma.com/community/plugin/1105916617805028875/grayscale)
+[![Grayscale](https://nuggetofjoy.com/wp-content/uploads/image-283.png)](https://www.figma.com/community/plugin/1105916617805028875/grayscale)
 
 
 ![Smartwatch Design for Messenger App  Brief](https://img.uxcel.com/briefs/messenger-app-smartwatch-design-1710008635637.svg)
@@ -89,4 +89,4 @@ For the theme, they chose a dark color scheme to complement the watch's black be
 They focused primarily on voice dictation for message input, believing it to be significantly easier and more efficient than typing on a smartwatch. This approach enhances the user experience by leveraging the natural convenience of voice commands in a compact and wearable device.
 
 
-[![sample](http://nuggetofjoy.com/wp-content/uploads/image-282.png)](https://www.figma.com/design/R4M1HYqfKr5LeSHxxwiu9E/WatchOS-UI-Kit-(Community)?node-id=0-1&p=f&t=EUOZnBm0JOl9iQDR-0)
+[![sample](https://nuggetofjoy.com/wp-content/uploads/image-282.png)](https://www.figma.com/design/R4M1HYqfKr5LeSHxxwiu9E/WatchOS-UI-Kit-(Community)?node-id=0-1&p=f&t=EUOZnBm0JOl9iQDR-0)

@@ -20,7 +20,7 @@ Source: Strube, J. (n.d.). Social Pastiche. Retrieved from https://teachingresou
 Design a poster that is a pastiche of a historical design movement. Next, choose a current social, cultural, or political topic and communicate it using the historical design style. The historical design movement's social, cultural, or political ideologies should inspire finished designs.
 
 
-![Pin Vo, 2019: Using Russian Constructivism to symbolically "present the poverty of the peasant society" to expose wealth inequality that defines classism in the United States](http://nuggetofjoy.com/wp-content/uploads/image-104-640x1024.png)
+![Pin Vo, 2019: Using Russian Constructivism to symbolically "present the poverty of the peasant society" to expose wealth inequality that defines classism in the United States](https://nuggetofjoy.com/wp-content/uploads/image-104-640x1024.png)
 
 Pin Vo, 2019: Using Russian Constructivism to symbolically "present the poverty of the peasant society" to expose wealth inequality that defines classism in the United States
 
@@ -35,12 +35,12 @@ Pin Vo, 2019: Using Russian Constructivism to symbolically "present the poverty 
 - Create, refine, and present a final conceptual design
 
 
-![Nhan Phan, 2019: Using post post-modern or contemporary digital methods to expose plastic pollution](http://nuggetofjoy.com/wp-content/uploads/image-105-640x1024.png)
+![Nhan Phan, 2019: Using post post-modern or contemporary digital methods to expose plastic pollution](https://nuggetofjoy.com/wp-content/uploads/image-105-640x1024.png)
 
 Nhan Phan, 2019: Using post-post-modern or contemporary digital methods to expose plastic pollution
 
 
-![Brianna Ostronic, 2019: Employing the ideals of Dada to comment on "fast fashion" as social decadence caused by the destructive impact of technological "progress"](http://nuggetofjoy.com/wp-content/uploads/image-107-640x1024.png)
+![Brianna Ostronic, 2019: Employing the ideals of Dada to comment on "fast fashion" as social decadence caused by the destructive impact of technological "progress"](https://nuggetofjoy.com/wp-content/uploads/image-107-640x1024.png)
 
 Brianna Ostronic, 2019: Employing the ideals of Dada to comment on "fast fashion" as social decadence caused by the destructive impact of technological "progress"
 

@@ -19,7 +19,7 @@ Source: <https://tobiasahlin.com/blog/common-flexbox-patterns>
 In theory, using flexbox (Flexible Box Module) to build complex layouts is pretty straightforward. Still, they have often found themselves adding `display: flex` to an element and spending an eternity trying to figure out how to make anything behave as expected. If you're anything like them, here's a list of 10 example flexbox layouts with CSS that you can copy and paste to get started with your layouts. They will walk through these basic layout patterns (click to jump to an example).
 
 
-![Flex Layout](http://nuggetofjoy.com/wp-content/uploads/image-172-1024x375.png)
+![Flex Layout](https://nuggetofjoy.com/wp-content/uploads/image-172-1024x375.png)
 
 
 Every example assumes that your HTML contains an element with a class of `container` , which then contains several children that all have a class of `item` (the number of children varies per example):
@@ -38,7 +38,7 @@ Every example assumes that your HTML contains an element with a class of `conta
 ## Stretch all fixed spacing
 
 
-![Stretch all, fixed spacing](http://nuggetofjoy.com/wp-content/uploads/image-173-1024x270.png)
+![Stretch all, fixed spacing](https://nuggetofjoy.com/wp-content/uploads/image-173-1024x270.png)
 
 
 [codepen\_embed height="300" default\_tab="html,result" slug\_hash="ZEgbmOg" pen\_title="Stretch all fixed spacing: Flexbox" user="ndangelo"]See the Pen [Stretch all fixed spacing: Flexbox](https://codepen.io/ndangelo/pen/ZEgbmOg) by Nicholas D'Angelo ([@ndangelo](https://codepen.io/ndangelo))
@@ -70,13 +70,13 @@ We use a `+` selector to only add gaps between pairs of items (essentially jus
 Increasing `flex-grow` will increase *the amount of space* that an element is allowed to stretch to compared to any other element. If we set `flex-grow`to `2` on the middle element here, we would basically divide up the available space into 6 chunks (1 chunk for each item plus 1 extra for the middle item, 1+1+2+1+1). The middle item gets two chunks (`flex-grow: 2`) worth of space, and all other elements get one chunk (`flex-grow: 1`).
 
 
-![flex grow](http://nuggetofjoy.com/wp-content/uploads/image-175-1024x242.png)
+![flex grow](https://nuggetofjoy.com/wp-content/uploads/image-175-1024x242.png)
 
 
 ## Stretch middle, fixed spacing
 
 
-![Stretch middle, fixed spacing](http://nuggetofjoy.com/wp-content/uploads/image-177-1024x262.png)
+![Stretch middle, fixed spacing](https://nuggetofjoy.com/wp-content/uploads/image-177-1024x262.png)
 
 
 [codepen\_embed height="300" default\_tab="html,result" slug\_hash="jOgWLON" pen\_title="Stretch all fixed spacing: Flexbox" user="ndangelo"]See the Pen [Stretch all fixed spacing: Flexbox](https://codepen.io/ndangelo/pen/jOgWLON) by Nicholas D'Angelo ([@ndangelo](https://codepen.io/ndangelo))
@@ -112,7 +112,7 @@ Even if the middle element here has a defined `width` of `100px`, `flex-grow
 ## Alternating grid
 
 
-![Alternating grid](http://nuggetofjoy.com/wp-content/uploads/image-179-1024x549.png)
+![Alternating grid](https://nuggetofjoy.com/wp-content/uploads/image-179-1024x549.png)
 
 
 This layout pattern is used on the following site <https://tobiasahlin.com/blog/> The goal is to create a grid with some variation: after every row of two equally sized items there’s one item that takes up an entire row:
@@ -156,7 +156,7 @@ on [CodePen](https://codepen.io).[/codepen\_embed]
 ## 3x3 grid
 
 
-![3x3](http://nuggetofjoy.com/wp-content/uploads/image-207-1024x545.png)
+![3x3](https://nuggetofjoy.com/wp-content/uploads/image-207-1024x545.png)
 
 
 [codepen\_embed height="300" default\_tab="html,result" slug\_hash="jOgWdEy" pen\_title="Alternating grid: Flexbox" user="ndangelo"]See the Pen [Alternating grid: Flexbox](https://codepen.io/ndangelo/pen/jOgWdEy) by Nicholas D'Angelo ([@ndangelo](https://codepen.io/ndangelo))
@@ -187,7 +187,7 @@ You can change the `flex-basis` to increase or decrease the number of items on
 ## 3x3 grid, constrained proportions (1:1)
 
 
-![3x3 grid, constrained proportions (1:1)](http://nuggetofjoy.com/wp-content/uploads/image-209-998x1024.png)
+![3x3 grid, constrained proportions (1:1)](https://nuggetofjoy.com/wp-content/uploads/image-209-998x1024.png)
 
 
 [codepen\_embed height="300" default\_tab="html,result" slug\_hash="PoMZVPw" pen\_title="3x3 Grid: Flexbox" user="ndangelo"]See the Pen [3x3 Grid: Flexbox](https://codepen.io/ndangelo/pen/PoMZVPw) by Nicholas D'Angelo ([@ndangelo](https://codepen.io/ndangelo))
@@ -219,7 +219,7 @@ Since we’ve created an element that is effectively made up of only padding, an
 ## 3x3 grid, constrained proportions (16:9)
 
 
-![3x3 grid, constrained proportions (16:9)](http://nuggetofjoy.com/wp-content/uploads/image-211-1024x675.png)
+![3x3 grid, constrained proportions (16:9)](https://nuggetofjoy.com/wp-content/uploads/image-211-1024x675.png)
 
 
 [codepen\_embed height="300" default\_tab="html,result" slug\_hash="jOgWdEy" pen\_title="3x3 Grid: Flexbox" user="ndangelo"]See the Pen [3x3 Grid: Flexbox](https://codepen.io/ndangelo/pen/jOgWdEy) by Nicholas D'Angelo ([@ndangelo](https://codepen.io/ndangelo))
@@ -247,7 +247,7 @@ To change the proportions of the items all you need to do is change the proporti
 ## Graph: vertical bars
 
 
-![Graph: vertical bars](http://nuggetofjoy.com/wp-content/uploads/image-213-1024x495.png)
+![Graph: vertical bars](https://nuggetofjoy.com/wp-content/uploads/image-213-1024x495.png)
 
 
 If you want to use Flexbox to create a simple graph visualization, all you need to do is to set `align-items` of the container to `flex-end` and define a `height` for each bar. `flex-end` will ensure that the bars are anchored to the bottom of the graph.
@@ -273,7 +273,7 @@ If you want to use Flexbox to create a simple graph visualization, all you need 
 ## Graph: horizontal bars
 
 
-![Graph: horizontal bars](http://nuggetofjoy.com/wp-content/uploads/image-215-1024x496.png)
+![Graph: horizontal bars](https://nuggetofjoy.com/wp-content/uploads/image-215-1024x496.png)
 
 
 Using the same technique as for vertical bars, one can add on the with a value of to create a set of horizontal bars. can have a value of (default) or , where runs horizontally (→) and runs vertically (↓). One can also reverse the direction of both by using (←) and (↑), respectively.
@@ -299,7 +299,7 @@ Using the same technique as for vertical bars, one can add on the with a value o
 ## Vertical stack (centered)
 
 
-![Vertical stack (centered)](http://nuggetofjoy.com/wp-content/uploads/image-217-1024x469.png)
+![Vertical stack (centered)](https://nuggetofjoy.com/wp-content/uploads/image-217-1024x469.png)
 
 
 [codepen\_embed height="300" default\_tab="html,result" slug\_hash="rNXxPrq" pen\_title="3x3 grid, constrained proportions (16:9): Flexbox" user="ndangelo"]See the Pen [3x3 grid, constrained proportions (16:9): Flexbox](https://codepen.io/ndangelo/pen/rNXxPrq) by Nicholas D'Angelo ([@ndangelo](https://codepen.io/ndangelo))
@@ -326,7 +326,7 @@ To create a vertical stack and make the items run from top to bottom all we need
 ## Masonry (or mosaic)
 
 
-![Masonry (or mosaic)](http://nuggetofjoy.com/wp-content/uploads/image-219-1024x833.png)
+![Masonry (or mosaic)](https://nuggetofjoy.com/wp-content/uploads/image-219-1024x833.png)
 
 
 You’ve probably seen masonry (or mosaic) layouts all over the internet, but it’s likely that they were all powered by [Masonry](https://masonry.desandro.com/) or a similar JavaScript library. Flexbox might seem like a great candidate to create this layout with CSS only finally, and it’s certainly possible, but it’s surprisingly hacky.
@@ -434,7 +434,7 @@ Flexbox has no easy way of rendering items with a `column` layout while using 
 This will create a masonry layout with items rendered as columns but ordered as rows (the gray vertical lines represent the pseudo elements that [force line breaks](https://tobiasahlin.com/blog/flexbox-break-to-new-row/):
 
 
-![masonry layout](http://nuggetofjoy.com/wp-content/uploads/image-221-1024x831.png)
+![masonry layout](https://nuggetofjoy.com/wp-content/uploads/image-221-1024x831.png)
 
 
 Let’s break down the implementation (or [jump to the solution](https://tobiasahlin.com/blog/masonry-with-css/#the-solution), or [see the codepen collection](https://codepen.io/collection/XPjvPP/)).
@@ -446,7 +446,7 @@ Let’s break down the implementation (or [jump to the solution](https://tobias
 Flexbox is not built for masonry—if you set a fixed height on a flex container (so that items can wrap when they overflow) and `flex-flow` to `column wrap`, you’ll achieve something like this:
 
 
-![shuffled order](http://nuggetofjoy.com/wp-content/uploads/image-223-1024x772.png)
+![shuffled order](https://nuggetofjoy.com/wp-content/uploads/image-223-1024x772.png)
 
 
 Items are rendered in columns from top to bottom, producing an arbitrary order when read from left to right. This is the expected outcome and desirable in many scenarios, but not when we’re trying to create a masonry layout, and it becomes increasingly disorienting as a page grows taller.
@@ -455,7 +455,7 @@ Items are rendered in columns from top to bottom, producing an arbitrary order w
 If we instead change the `flex-direction` to `row` and have elements of varying heights we’ll achieve the correct order but with weird and unexpected gaps all over our grid:
 
 
-![flex-direction to row](http://nuggetofjoy.com/wp-content/uploads/image-225-1024x903.png)
+![flex-direction to row](https://nuggetofjoy.com/wp-content/uploads/image-225-1024x903.png)
 
 
 So it seems impossible to get the best of both worlds: items rendered as columns but ordered as rows. You might decide to use `flex-direction: column` You can move around the elements in your HTML to achieve the right *visual* order, but this can be cumbersome and unnecessarily complex and can mess up the tab order of the elements.
@@ -506,7 +506,7 @@ Here we’re producing three sets: `1, 4, 7, 10` (3n+1) with `order: 1`, `2,
 If we render each of those groups as one column (and no more), it’ll create the illusion that the items have returned to their original order when you read from left to right. If we visually parse the grid as rows, the first row will contain the first element from every group (1, 2, 3), the second row will contain the second element from every group (4, 5, 6), and so on so forth. This technique allows us to create a masonry layout with items rendered as columns but ordered as rows.
 
 
-![Re-ordering elements with order and nth-child()](http://nuggetofjoy.com/wp-content/uploads/image-227-1024x832.png)
+![Re-ordering elements with order and nth-child()](https://nuggetofjoy.com/wp-content/uploads/image-227-1024x832.png)
 
 
 How is the tab order affected by shuffling around elements like this? Luckily, not at all. `order` Tabbing through the grid will work as intended, as the change only affects the visual representation of objects, not the tab order.
@@ -518,7 +518,7 @@ How is the tab order affected by shuffling around elements like this? Luckily, n
 If you have many items in a masonry layout this technique will fairly certainly break down at some point. We’re counting on that every “group” we’ve created will be rendered as exactly one column, but in reality, items can have different heights, and columns can easily start to merge. The first column could be longer than the other two, for example, which could make the third column start at the end of the second column:
 
 
-![Preventing columns from merging](http://nuggetofjoy.com/wp-content/uploads/image-229-1024x829.png)
+![Preventing columns from merging](https://nuggetofjoy.com/wp-content/uploads/image-229-1024x829.png)
 
 
 The highlighted box here (3) has to be rendered at the start of the third column or the ordering algorithm will break, but if there’s space for another element at the end of the 2nd column it will naturally be rendered there.
@@ -545,7 +545,7 @@ We have to insert these line break elements into our grid and array of elements,
 I’ve highlighted the pseudo-elements below to show their effect. Notice that despite that box 3 would fit in the 2nd column it’s rendered as the first element in the last column:
 
 
-![last column](http://nuggetofjoy.com/wp-content/uploads/image-231-1024x837.png)
+![last column](https://nuggetofjoy.com/wp-content/uploads/image-231-1024x837.png)
 
 
 ## The solution
@@ -652,7 +652,7 @@ The break elements, like previously, take up the full height of the container:
 This will create a masonry layout with four columns ([view codepen](https://codepen.io/tobiasahlin/pen/OGBvqW)):
 
 
-![masonry layout](http://nuggetofjoy.com/wp-content/uploads/image-233-1024x764.png)
+![masonry layout](https://nuggetofjoy.com/wp-content/uploads/image-233-1024x764.png)
 
 
 [codepen\_embed height="300" default\_tab="html,result" slug\_hash="OGBvqW" pen\_title="CSS flexbox masonry, 4 columns" user="tobiasahlin"]See the Pen [CSS flexbox masonry, 4 columns](https://codepen.io/tobiasahlin/pen/OGBvqW) by Tobias Ahlin ([@tobiasahlin](https://codepen.io/tobiasahlin))

@@ -20,7 +20,7 @@ tags: []
 Source: Kemerling, J. (2021). Design Plus Social Justice. Retrieved from https://justinkemerling.medium.com/design-plus-social-justice-9ef5b3491d62
 
 
-![conference](http://nuggetofjoy.com/wp-content/uploads/19NNzJUhWlnwUskmWU5pUEQ-1.jpeg)
+![conference](https://nuggetofjoy.com/wp-content/uploads/19NNzJUhWlnwUskmWU5pUEQ-1.jpeg)
 
 
 > “Art with vision, that reflects a people’s desire and aspirations, is an art that is guided by principle. It transcends borders, and thus becomes universal in its many creative expressions in support of the people’s movement for liberation against all forms of oppression and injustice.”

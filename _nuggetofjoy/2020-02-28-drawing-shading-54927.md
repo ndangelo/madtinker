@@ -47,7 +47,7 @@ The cast shadow is the darkest point on your drawing. It falls opposite the ligh
 This is where the object is turning away from you and is lighter than the cast shadow.
 
 
-<div class="wp-block-image"><figure class="alignright is-resized"><img alt="Pencil Shading Elements" class="wp-image-6840" height="215" src="http://nuggetofjoy.com/wp-content/uploads/What-are-the-Five-Elements-of-Shading-4.jpg" title="What are the Five Elements of Shading?" width="392"/></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img alt="Pencil Shading Elements" class="wp-image-6840" height="215" src="https://nuggetofjoy.com/wp-content/uploads/What-are-the-Five-Elements-of-Shading-4.jpg" title="What are the Five Elements of Shading?" width="392"/></figure></div>
 
 
 ### Halftone
@@ -101,7 +101,7 @@ This technique is when you simply let your lines travel together to create dimen
 Every time you put that pen or pencil to paper, keep the lines going in the same direction. The closer your lines get, the darker that area of the image will be.
 
 
-<div class="wp-block-image"><figure class="alignright is-resized"><img alt="girl practicing cross hatching on paper" class="wp-image-7525" height="270" src="http://nuggetofjoy.com/wp-content/uploads/What-are-the-Five-Elements-of-Shading-3-1.jpg" title="What are the Five Elements of Shading" width="405"/></figure></div>
+<div class="wp-block-image"><figure class="alignright is-resized"><img alt="girl practicing cross hatching on paper" class="wp-image-7525" height="270" src="https://nuggetofjoy.com/wp-content/uploads/What-are-the-Five-Elements-of-Shading-3-1.jpg" title="What are the Five Elements of Shading" width="405"/></figure></div>
 
 
 ### Cross-hatching

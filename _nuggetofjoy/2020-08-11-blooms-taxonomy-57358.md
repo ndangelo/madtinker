@@ -13,12 +13,12 @@ categories:
 tags: []
 ---
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-10.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-10.png)
 
 Bloom's Taxonomy
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/image-11.png)
+![](https://nuggetofjoy.com/wp-content/uploads/image-11.png)
 
 Bloom's 6 Strategies
 

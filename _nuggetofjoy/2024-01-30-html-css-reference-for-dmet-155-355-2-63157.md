@@ -13,7 +13,7 @@ categories:
 tags: []
 ---
 
-![Directory](http://nuggetofjoy.com/wp-content/uploads/file_structure-1-1024x456.jpg)
+![Directory](https://nuggetofjoy.com/wp-content/uploads/file_structure-1-1024x456.jpg)
 
 [Basic Directory Structure for a Static Site](#html-tag)
 
@@ -573,7 +573,7 @@ While they are not replacements for the `div` tag, HTML 5 introduces several t
 ## CSS Cheat Sheet
 
 
-![CSS Cheat Sheet](http://nuggetofjoy.com/wp-content/uploads/css_cheat_2-1-1024x728.png)
+![CSS Cheat Sheet](https://nuggetofjoy.com/wp-content/uploads/css_cheat_2-1-1024x728.png)
 
 
 ```
@@ -2440,7 +2440,7 @@ Note: if the name of a font is more than one word, it should be put in quotation
 `font-weight` states whether the text is bold or not. Most commonly, this is used as `font-weight: bold` or `font-weight: normal` but other values are `bolder`, `lighter`, `100`, `200`, `300`, `400` (same as `normal`), `500`, `600`, `700` (same as `bold`), `800` or `900`.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/weightStyle-1-19.gif)
+![](https://nuggetofjoy.com/wp-content/uploads/weightStyle-1-19.gif)
 
 
 [codepen\_embed height="300" default\_tab="html,result" slug\_hash="gOZgXqy" user="ndangelo"]See the Pen [Headings](https://codepen.io/ndangelo/pen/gOZgXqy) by Nicholas D'Angelo ([@ndangelo](https://codepen.io/ndangelo))
@@ -2513,7 +2513,7 @@ strong {
 Before we move on from this introduction to styling text, a quick look at how to space out the text on a page.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/spacingOutText-17.gif)
+![](https://nuggetofjoy.com/wp-content/uploads/spacingOutText-17.gif)
 
 
 The `letter-spacing` and `word-spacing` properties are for spacing between letters or words. The value can be a length or `normal`.
@@ -2627,7 +2627,7 @@ on [CodePen](https://codepen.io).[/codepen\_embed]
 To make a border around an element, all you need is `border-style`. The values can be `solid`, `dotted`, `dashed`, `double`, `groove`, `ridge`, `inset` and `outset`.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/border-style-15.png)
+![](https://nuggetofjoy.com/wp-content/uploads/border-style-15.png)
 
 
 `border-width` sets the **width** of the border, most commonly using pixels as a value. There are also properties for `border-top-width`, `border-right-width`, `border-bottom-width` and `border-left-width`.
@@ -2942,7 +2942,7 @@ a:visited {
 Also commonly used for links, the dynamic pseudo classes can apply styles when something happens to something.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/rollovers_border-7.png)
+![](https://nuggetofjoy.com/wp-content/uploads/rollovers_border-7.png)
 
 
 - `active` is for when something activated by the user, such as when a link is clicked on.
@@ -3154,7 +3154,7 @@ This amalgamates these properties:
 [codepen\_embed height="300" default\_tab="html,result" slug\_hash="ExGOVZp" user="ndangelo"]See the Pen [Untitled](https://codepen.io/ndangelo/pen/ExGOVZp) by Nicholas D'Angelo ([@ndangelo](https://codepen.io/ndangelo))
 on [CodePen](https://codepen.io).[/codepen\_embed]
 
-![](http://nuggetofjoy.com/wp-content/uploads/background-position-4.png)
+![](https://nuggetofjoy.com/wp-content/uploads/background-position-4.png)
 
 A top-right positioned, non-repeating background.
 
@@ -3240,7 +3240,7 @@ The most fundamental types of display are **inline**, **block** and **none**
 `inline` does just what it says — boxes that are displayed inline follow the flow of a line. Anchor (links) and emphasis are examples of elements that are displayed inline by default.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/displayInline-4.png)
+![](https://nuggetofjoy.com/wp-content/uploads/displayInline-4.png)
 
 Inline boxes.
 
@@ -3259,7 +3259,7 @@ li { display: inline }
 `block` makes a box standalone, fitting the entire width of its containing box, with an effective line break before and after it. Block boxes allow greater height, margins, and padding manipulation than inline boxes. Heading and paragraph elements are examples of elements displayed this way by default in browsers.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/displayBlock-4.png)
+![](https://nuggetofjoy.com/wp-content/uploads/displayBlock-4.png)
 
 Block boxes.
 
@@ -3636,7 +3636,7 @@ The `not` keyword will exclude media queries.
 The `first-letter` pseudo element applies to the first letter inside a box and `first-line` to the top-most displayed line in a box.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/firstLetterFirstLine.png)
+![](https://nuggetofjoy.com/wp-content/uploads/firstLetterFirstLine.png)
 
 Targeting the first letter and first line of a paragraph with pseudo elements.
 
@@ -3781,7 +3781,7 @@ Yeah. Border radius. Fear not, though — you don’t have to have borders. The�
 And there you have it. Rounded corners, see? Well, you will if you’ve got a sensible browser (see note below).
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/border-radius-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/border-radius-1.png)
 
 Corners are cut around the corresponding quarters of a circle (or ellipse) with the specified radius.
 
@@ -3818,7 +3818,7 @@ Ever so slightly less horribly wordy, you can also define all corner radii (what
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/border-radius_multiple.png)
+![](https://nuggetofjoy.com/wp-content/uploads/border-radius_multiple.png)
 
 Multiple-value border-radius.
 
@@ -3844,7 +3844,7 @@ Are circles a bit too square for you? You can specify different horizontal and v
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/border-radius_nanoo.png)
+![](https://nuggetofjoy.com/wp-content/uploads/border-radius_nanoo.png)
 
 Nanoo.
 
@@ -3884,7 +3884,7 @@ box-shadow: inset 0 0 7px 5px #ddd;
 ```
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/boxshadow-1-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/boxshadow-1-2.png)
 
 A basic drop-shadow and an inner-shadow.
 
@@ -4365,7 +4365,7 @@ As well as plastering a **single or tiling background** image across parts of 
 ## Multiple backgrounds
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/multipleBackgrounds-1-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/multipleBackgrounds-1-1.png)
 
 A repeating background image, a single-instance background image, and combining them together in the same box.
 
@@ -4395,7 +4395,7 @@ Easy, right? It’s just the same as using**`background-image`, `background-pos
 The `background-size` property allows you to stretch or compress a background image.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/background-size-1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/background-size-1.jpg)
 
 `background-size: contain` and `background-size: cover`
 
@@ -4446,7 +4446,7 @@ This page will only mention the `transform` and `transform-origin` propertie
 Manipulating a box over two dimensions, transform can be used to **rotate**, **skew**, **scale** and **translate** a box and its contents.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/transform-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/transform-1.png)
 
 The four basic 2D transform functions — rotate, skew, scale, and translate.
 
@@ -4575,7 +4575,7 @@ transform-origin: 0 0;
 This example will tell the box to transform (rotate, in the previous example) from the top left, the first “0” being horizontal, the second being vertical. These values could be different, of course — like all other x-y, and you can use the usual `center`, `top`, `right`, `bottom`, `left`, length and percentage values, including negatives.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/transform-origin-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/transform-origin-1.png)
 
 The same clockwise-rotated box with different transform origins.
 
@@ -4603,7 +4603,7 @@ background: linear-gradient(yellow, red);
 ```
 
 
-![Gradients](http://nuggetofjoy.com/wp-content/uploads/linearGradient-1.png)
+![Gradients](https://nuggetofjoy.com/wp-content/uploads/linearGradient-1.png)
 
 A simple yellow-to-red linear gradient background.
 
@@ -4640,7 +4640,7 @@ background: linear-gradient(hsl(0,100%,50%),hsl(60,100%,50%),hsl(120,100%,50%),h
 ```
 
 
-![Gradients](http://nuggetofjoy.com/wp-content/uploads/linearGradient2-1.png)
+![Gradients](https://nuggetofjoy.com/wp-content/uploads/linearGradient2-1.png)
 
 A colorful gradient extravaganza.
 
@@ -4678,7 +4678,7 @@ background: radial-gradient(yellow, green);
 ```
 
 
-![Gradients](http://nuggetofjoy.com/wp-content/uploads/radialGradient-1.png)
+![Gradients](https://nuggetofjoy.com/wp-content/uploads/radialGradient-1.png)
 
 A simple yellow-to-green radial gradient background.
 
@@ -4691,7 +4691,7 @@ background: radial-gradient(circle, yellow, green);
 ```
 
 
-![Gradients](http://nuggetofjoy.com/wp-content/uploads/radialGradient2-1.png)
+![Gradients](https://nuggetofjoy.com/wp-content/uploads/radialGradient2-1.png)
 
 A circular radial gradient.
 
@@ -4715,7 +4715,7 @@ background: radial-gradient(at top left, yellow, green);
 [codepen\_embed height="300" default\_tab="html,result" slug\_hash="xxmgpPy" user="ndangelo"]See the Pen [Radial Gradient](https://codepen.io/ndangelo/pen/xxmgpPy) by Nicholas D'Angelo ([@ndangelo](https://codepen.io/ndangelo))
 on [CodePen](https://codepen.io).[/codepen\_embed]
 
-![Gradients](http://nuggetofjoy.com/wp-content/uploads/radialGradient3-1.png)
+![Gradients](https://nuggetofjoy.com/wp-content/uploads/radialGradient3-1.png)
 
 A radial gradient emanates from the top-left corner of a box.
 
@@ -4758,7 +4758,7 @@ background: linear-gradient(135deg, hsl(36,100%,50%) 10%, hsl(72,100%,50%) 60%, 
 ```
 
 
-![Gradients](http://nuggetofjoy.com/wp-content/uploads/linearGradient3-1.png)
+![Gradients](https://nuggetofjoy.com/wp-content/uploads/linearGradient3-1.png)
 
 Color stops in a linear gradient.
 
@@ -4777,7 +4777,7 @@ background: repeating-linear-gradient(white, black 15px, white 30px);
 ```
 
 
-![Gradients](http://nuggetofjoy.com/wp-content/uploads/repeatingGradient-1.png)
+![Gradients](https://nuggetofjoy.com/wp-content/uploads/repeatingGradient-1.png)
 
 A repeating linear gradient.
 
@@ -4790,7 +4790,7 @@ background: repeating-radial-gradient(black, black 15px, white 15px, white 30px)
 ```
 
 
-![Gradients](http://nuggetofjoy.com/wp-content/uploads/repeatingGradient2-1.png)
+![Gradients](https://nuggetofjoy.com/wp-content/uploads/repeatingGradient2-1.png)
 
 A repeating radial gradient.
 

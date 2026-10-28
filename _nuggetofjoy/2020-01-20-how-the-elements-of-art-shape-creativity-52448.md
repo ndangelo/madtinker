@@ -26,7 +26,7 @@ In order to understand any field, it’s important to have a solid foundation fr
 ### **LINE**
 
 
-![What Are the 7 Elements of Art?](http://nuggetofjoy.com/wp-content/uploads/elements-of-art-2-18.jpg)
+![What Are the 7 Elements of Art?](https://nuggetofjoy.com/wp-content/uploads/elements-of-art-2-18.jpg)
 
 [Stock Photos](https://www.shutterstock.com/photos) from Rabbit Run 11/Shutterstock
 
@@ -37,7 +37,7 @@ In order to understand any field, it’s important to have a solid foundation fr
 ### **COLOR**
 
 
-![What are the 7 Elements of Art?](http://nuggetofjoy.com/wp-content/uploads/famous-flower-paintings-118.jpg)
+![What are the 7 Elements of Art?](https://nuggetofjoy.com/wp-content/uploads/famous-flower-paintings-118.jpg)
 
 “Still Life with Irises” by Vincent Van Gogh. 1890.
 
@@ -48,7 +48,7 @@ By working with hue, value, and intensity—three building blocks of colors—ar
 ### **SHAPE**
 
 
-![Visual Components of Art](http://nuggetofjoy.com/wp-content/uploads/elements-of-art-38.jpg)
+![Visual Components of Art](https://nuggetofjoy.com/wp-content/uploads/elements-of-art-38.jpg)
 
 “Simultaneous Counter Composition” (1930) by Theo van Doesburg (Photo: Public domain via [WikiArt](https://www.wikiart.org/en/theo-van-doesburg/simultaneous-counter-composition-1930))
 
@@ -59,7 +59,7 @@ The result of closed lines, shapes are two-dimensional, flat, and only have heig
 ### **FORM**
 
 
-![Art Education - The Elements of Art](http://nuggetofjoy.com/wp-content/uploads/elements-of-art-48.jpg)
+![Art Education - The Elements of Art](https://nuggetofjoy.com/wp-content/uploads/elements-of-art-48.jpg)
 
 Heydar Aliyev Center (2007-2012) by Zaha Hadid. (Photo: [Aleksandr Zykov](https://www.flickr.com/photos/infanticida/25667096538))
 
@@ -70,7 +70,7 @@ When a shape acquires depth and becomes three-dimensional, then it takes on form
 ### **VALUE**
 
 
-![7 Elements of Art](http://nuggetofjoy.com/wp-content/uploads/elements-of-art-18.jpg)
+![7 Elements of Art](https://nuggetofjoy.com/wp-content/uploads/elements-of-art-18.jpg)
 
 “The Tetons and the Snake River” (1942) by Ansel Adams. (Photo: Public domain, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Adams_The_Tetons_and_the_Snake_River.jpg))
 
@@ -81,7 +81,7 @@ Related to color, value is the lightness and darkness of a color. The lightest v
 ### **SPACE**
 
 
-![Atmospheric Perspective](http://nuggetofjoy.com/wp-content/uploads/perspective-drawing-68.jpeg)
+![Atmospheric Perspective](https://nuggetofjoy.com/wp-content/uploads/perspective-drawing-68.jpeg)
 
 (Photo: [Guillaume Briard](https://unsplash.com/photos/lSXpV8bDeMA))
 
@@ -92,7 +92,7 @@ This element of art can be manipulated based on how an artist places lines, shap
 ### **TEXTURE**
 
 
-![Seven Elements of Art](http://nuggetofjoy.com/wp-content/uploads/elements-of-art-58.jpg)
+![Seven Elements of Art](https://nuggetofjoy.com/wp-content/uploads/elements-of-art-58.jpg)
 
 “Pauline Bonaparte as Venus Victrix” (1805-1808) by Antonio Canova. (Photo: Public domain via [Wikipedia](https://commons.wikimedia.org/wiki/File:Paolina_Borghese_(Canova).jpg))
 

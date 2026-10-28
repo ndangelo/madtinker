@@ -13,7 +13,7 @@ categories:
 tags: []
 ---
 
-![Site Map](http://nuggetofjoy.com/wp-content/uploads/shutterstock_420563929-1-1024x1024.jpg)
+![Site Map](https://nuggetofjoy.com/wp-content/uploads/shutterstock_420563929-1-1024x1024.jpg)
 
 
 ### Flat Site Structure

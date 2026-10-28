@@ -16,7 +16,7 @@ tags: []
 Yulia Sokolova    Apr 12 and Sokolova, Y. (no date) *Make a Trendy Double Exposure Effect in Photoshop: Envato Tuts+*, *Design & Illustration Envato Tuts+*. Available at: https://design.tutsplus.com/tutorials/make-a-trendy-double-exposure-effect-in-adobe-photoshop--cms-23774 (Accessed: 12 February 2024).
 
 
-![Final product image](http://nuggetofjoy.com/wp-content/uploads/16-trendy-double-exposition-screen-15.jpg)
+![Final product image](https://nuggetofjoy.com/wp-content/uploads/16-trendy-double-exposition-screen-15.jpg)
 
 What You'll Be Creating
 
@@ -60,7 +60,7 @@ For the base of our image, we’ll be using the following photo of a young man f
 Let’s take the **Crop Tool (C)** and make the photo less wide by deleting its side parts.
 
 
-![crop the photo with the crop tool](http://nuggetofjoy.com/wp-content/uploads/double-exposure-1-8.jpg)
+![crop the photo with the crop tool](https://nuggetofjoy.com/wp-content/uploads/double-exposure-1-8.jpg)
 
 
 ### Step 2
@@ -69,10 +69,10 @@ Let’s take the **Crop Tool (C)** and make the photo less wide by deleting it
 Now we need to make it much brighter and add contrast. Go to **Image > Adjustments > Levels** or press **Control-L** to call the pop-up **Levels** menu. Move the lightest slider to the left, making our photo brighter, and add contrast by moving the left black slider to the right. Otherwise, you can just set the particular values in the spaces below: **7** for the shades of black, **1.15** for greys and **197** for whites. Click the **OK** button to apply the adjustments.
 
 
-![make the photo brighter with levels](http://nuggetofjoy.com/wp-content/uploads/double-exposure-2-8.jpg)
+![make the photo brighter with levels](https://nuggetofjoy.com/wp-content/uploads/double-exposure-2-8.jpg)
 
 
-![brightened photo](http://nuggetofjoy.com/wp-content/uploads/double-exposure-3-8.jpg)
+![brightened photo](https://nuggetofjoy.com/wp-content/uploads/double-exposure-3-8.jpg)
 
 
 ### Step 3
@@ -81,7 +81,7 @@ Now we need to make it much brighter and add contrast. Go to **Image > Adjustme
 Let’s fix the guy’s ear with the **Spot Healing Brush Tool (I).** Just click and move your mouse, drawing above the area you wish to fix and—voila!—the marked area is clean and flawless. This is a very handy tool for photo retouching, when you need to get rid of some minor flaws and bumps on the skin.
 
 
-![edit the ear with the Spot Healing Brush Tool](http://nuggetofjoy.com/wp-content/uploads/double-exposure-4-8.jpg)
+![edit the ear with the Spot Healing Brush Tool](https://nuggetofjoy.com/wp-content/uploads/double-exposure-4-8.jpg)
 
 
 ### Step 4
@@ -90,7 +90,7 @@ Let’s fix the guy’s ear with the **Spot Healing Brush Tool (I).** Just cli
 Now we need to get rid of the background. This is a piece of cake, as we’re using a photo with a clean background. Take the **Magic Wand Tool (W)** and click anywhere on the background to select it. Then go to **Select > Inverse** to select the man.
 
 
-![select the background with the Magic Wand Tool](http://nuggetofjoy.com/wp-content/uploads/double-exposure-5-8.jpg)
+![select the background with the Magic Wand Tool](https://nuggetofjoy.com/wp-content/uploads/double-exposure-5-8.jpg)
 
 
 ### Step 5
@@ -105,10 +105,10 @@ Slightly increase the **Radius** value in the **Edge Detection,**setting it t
 You can play with other **Refine Edge** options as well, making the edge smoother or more blurred. This would be handy if you’re cutting out the element that is surrounded by other elements, or the image has some more complex background and the edges of the main object are messy. In our case, these minor adjustments are enough to continue creating the desired effect.
 
 
-![use the refine edge to cut out the portrait](http://nuggetofjoy.com/wp-content/uploads/double-exposure-6-8.jpg)
+![use the refine edge to cut out the portrait](https://nuggetofjoy.com/wp-content/uploads/double-exposure-6-8.jpg)
 
 
-![background removed](http://nuggetofjoy.com/wp-content/uploads/double-exposure-7-8.jpg)
+![background removed](https://nuggetofjoy.com/wp-content/uploads/double-exposure-7-8.jpg)
 
 
 ### Step 6
@@ -117,10 +117,10 @@ You can play with other **Refine Edge** options as well, making the edge smoot
 Create a **New Layer** below the cut-out portrait and fill it with a neutral greyish color (`#dcdbd9`) using the **Paint Bucket Tool (G)**.
 
 
-![fill the background with color with Paint Bucket Toolv](http://nuggetofjoy.com/wp-content/uploads/double-exposure-8-8.jpg)
+![fill the background with color with Paint Bucket Toolv](https://nuggetofjoy.com/wp-content/uploads/double-exposure-8-8.jpg)
 
 
-![background added](http://nuggetofjoy.com/wp-content/uploads/double-exposure-9-8.jpg)
+![background added](https://nuggetofjoy.com/wp-content/uploads/double-exposure-9-8.jpg)
 
 
 ## 2. How to Do a Double Exposure in Photoshop by Combining Two Images
@@ -132,7 +132,7 @@ Create a **New Layer** below the cut-out portrait and fill it with a neutral g
 Let’s select the second photo for our composition. This can be a nice flower shot or cityscape, or anything abstract and intricate. For this double exposure Photoshop tutorial, we’ll use this monochromatic nature scene of a forest by Samuel Rohl, which you can find at [Unsplash.com](https://unsplash.com/samuelrohl).
 
 
-![select the second photo for our photomanipulation](http://nuggetofjoy.com/wp-content/uploads/double-exposure-10-8.jpg)
+![select the second photo for our photomanipulation](https://nuggetofjoy.com/wp-content/uploads/double-exposure-10-8.jpg)
 
 
 ### Step 2
@@ -141,7 +141,7 @@ Let’s select the second photo for our composition. This can be a nice flower s
 Place the image of the forest above the man’s portrait. Keeping the forest layer selected, press the **Control** key and click on the **Layer Clipping Mask** of the layer below (the one with the portrait). You will see the marching ants selection of the man’s silhouette on the forest layer.
 
 
-![make a selection from the portrait](http://nuggetofjoy.com/wp-content/uploads/double-exposure-11-8.jpg)
+![make a selection from the portrait](https://nuggetofjoy.com/wp-content/uploads/double-exposure-11-8.jpg)
 
 
 ### Step 3
@@ -153,10 +153,10 @@ Press the **Add vector mask** button at the bottom of the **Layers** panel t
 In our case, let’s put the forest image upside down, so that the dark reflection of the trees is placed in the head area of the silhouette, as shown in the screenshot below.
 
 
-![add layer mask](http://nuggetofjoy.com/wp-content/uploads/double-exposure-13-8.jpg)
+![add layer mask](https://nuggetofjoy.com/wp-content/uploads/double-exposure-13-8.jpg)
 
 
-![use Add vector mask and rotate the forest image](http://nuggetofjoy.com/wp-content/uploads/double-exposure-12-8.jpg)
+![use Add vector mask and rotate the forest image](https://nuggetofjoy.com/wp-content/uploads/double-exposure-12-8.jpg)
 
 
 ### Step 4
@@ -165,7 +165,7 @@ In our case, let’s put the forest image upside down, so that the dark reflecti
 Select the layer which contains the cutout portrait with a clipping mask. Make a copy**(Control-J)** and drag and drop it above the forest layer.
 
 
-![place the portrait above the forest](http://nuggetofjoy.com/wp-content/uploads/double-exposure-14-8.jpg)
+![place the portrait above the forest](https://nuggetofjoy.com/wp-content/uploads/double-exposure-14-8.jpg)
 
 
 Let’s make the portrait monochromatic to fit the forest image color palette. Keeping the portrait layer selected, move to **Image > Adjustments > Desaturate** or just press **Shift-Control-U**, converting our image to grayscale.
@@ -180,16 +180,16 @@ Open the **Levels** **(Control-L)** options window and make the image much da
 Apply the effect and go to **Image > Adjustments > Hue/Saturation.**Tick the**Colorize** checkbox in the bottom right corner of the options window to change the whole range of colors of our image. Set the **Hue** value to **212**, moving the slider to the right, thus adding tints of blue. Set the **Saturation** level to **10**, decreasing the vividness of the photo, and click **OK** to apply the created effect.
 
 
-![change contrast of the photo](http://nuggetofjoy.com/wp-content/uploads/double-exposure-15-8.jpg)
+![change contrast of the photo](https://nuggetofjoy.com/wp-content/uploads/double-exposure-15-8.jpg)
 
 
-![increased contrast](http://nuggetofjoy.com/wp-content/uploads/double-exposure-16-8.jpg)
+![increased contrast](https://nuggetofjoy.com/wp-content/uploads/double-exposure-16-8.jpg)
 
 
-![change colors and saturation of the photo](http://nuggetofjoy.com/wp-content/uploads/double-exposure-17-8.jpg)
+![change colors and saturation of the photo](https://nuggetofjoy.com/wp-content/uploads/double-exposure-17-8.jpg)
 
 
-![edit the hue and saturation of the photo](http://nuggetofjoy.com/wp-content/uploads/double-exposure-18-8.jpg)
+![edit the hue and saturation of the photo](https://nuggetofjoy.com/wp-content/uploads/double-exposure-18-8.jpg)
 
 
 ### Step 6
@@ -198,10 +198,10 @@ Apply the effect and go to **Image > Adjustments > Hue/Saturation.**Tick the**C
 **Right-click** on the portrait layer mask, and we can **Apply Layer Mask** in the dropdown menu. Change the **Blending Mode** of the portrait layer to **Screen** in the **Layers** panel. We can already see that the desired double exposure effect appears! Only a few minor tweaks left, so let’s move on!
 
 
-![apply the mask the switch to screen blending mode](http://nuggetofjoy.com/wp-content/uploads/double-exposure-19-8.jpg)
+![apply the mask the switch to screen blending mode](https://nuggetofjoy.com/wp-content/uploads/double-exposure-19-8.jpg)
 
 
-![double exposure effect](http://nuggetofjoy.com/wp-content/uploads/double-exposure-20-8.jpg)
+![double exposure effect](https://nuggetofjoy.com/wp-content/uploads/double-exposure-20-8.jpg)
 
 
 ## 3. How to Add the Finishing Touches to Your Double Exposure Photos
@@ -216,7 +216,7 @@ Let’s make the image more surrealistic by editing the head of the portrait. Ta
 Select the Layer Mask of the forest layer, set the **Fill** color to black and paint softly over the upper part of the head area, thus erasing the unwanted parts of the head and adding some air in the top part of the image. This makes the image look as if the trees are growing directly from the man’s head.
 
 
-![edit the top of the head with the brush tool](http://nuggetofjoy.com/wp-content/uploads/double-exposure-21-8.jpg)
+![edit the top of the head with the brush tool](https://nuggetofjoy.com/wp-content/uploads/double-exposure-21-8.jpg)
 
 
 ### Step 2
@@ -231,7 +231,7 @@ Create a **New Layer** beneath the desaturated portrait layer, take the **Bru
 Start painting over the eyes area, making it more distinct. For more convenience, you can **Control-click** on the layer mask of the portrait layer to create a marching ants selection, which allows you to draw inside the selected area, without crossing its boundaries.
 
 
-![make the eyes area more clear and contrast](http://nuggetofjoy.com/wp-content/uploads/double-exposure-22-7.jpg)
+![make the eyes area more clear and contrast](https://nuggetofjoy.com/wp-content/uploads/double-exposure-22-7.jpg)
 
 
 ### Step 3
@@ -240,7 +240,7 @@ Start painting over the eyes area, making it more distinct. For more convenience
 Let’s add a finishing touch to our image. Select the desaturated portrait layer and **Add Layer Mask**by clicking the mask icon in the bottom part of the **Layers** panel. Take the **Brush Tool (B)** and switch the **Fill** color to black. Since our Layer mask is white by default, the black color will help us to erase the unwanted parts of the image. Paint over the neck area of the man, creating an illusion of his face popping out from the trees.
 
 
-![edit the neck of the portrait with the layer mask](http://nuggetofjoy.com/wp-content/uploads/double-exposure-23-7.jpg)
+![edit the neck of the portrait with the layer mask](https://nuggetofjoy.com/wp-content/uploads/double-exposure-23-7.jpg)
 
 
 ## Great Job! Our Trendy Double Exposure Portrait Is Finished!
@@ -249,7 +249,7 @@ Let’s add a finishing touch to our image. Select the desaturated portrait laye
 Congratulations! These simple steps helped us to create a stylish double exposure portrait by combining two images and creating an interesting surrealistic effect. I hope you’ve found some handy tips and tricks, which will help you to make more interesting combinations and photo manipulations. Good luck!
 
 
-![final](http://nuggetofjoy.com/wp-content/uploads/double-exposure-final-7.jpg)
+![final](https://nuggetofjoy.com/wp-content/uploads/double-exposure-final-7.jpg)
 
 
 Yulia Sokolova                                  Apr 12 and Sokolova, Y. (no date) *Make a Trendy Double Exposure Effect in Photoshop: Envato Tuts+*, *Design & Illustration Envato Tuts+*. Available at: https://design.tutsplus.com/tutorials/make-a-trendy-double-exposure-effect-in-adobe-photoshop--cms-23774 (Accessed: 12 February 2024).

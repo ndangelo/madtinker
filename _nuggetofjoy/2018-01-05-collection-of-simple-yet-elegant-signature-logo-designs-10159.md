@@ -13,7 +13,7 @@ categories:
 tags: []
 ---
 
-![](http://nuggetofjoy.com/wp-content/uploads/signature-logo-design.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/signature-logo-design.jpg)
 
 
 ![]()

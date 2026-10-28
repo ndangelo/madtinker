@@ -30,7 +30,7 @@ tags: []
 ---
 
 
-![H.G. Wells. The Invisible Man](http://nuggetofjoy.com/wp-content/uploads/2016/09/2878b131862141.56645121eb225-683x1024.jpg)
+![H.G. Wells. The Invisible Man](https://nuggetofjoy.com/wp-content/uploads/2016/09/2878b131862141.56645121eb225-683x1024.jpg)
 
 https://nd-student-work.myportfolio.com/sean-puzzo
 
@@ -38,28 +38,28 @@ https://nd-student-work.myportfolio.com/sean-puzzo
 ---
 
 
-![typeface poster project by students studying at Berlin International](http://nuggetofjoy.com/wp-content/uploads/typography_layout_type_specimen_1-1-13.jpg)Alina Kurmanaeva, Esra Özcan, Anton Bugaev
+![typeface poster project by students studying at Berlin International](https://nuggetofjoy.com/wp-content/uploads/typography_layout_type_specimen_1-1-13.jpg)Alina Kurmanaeva, Esra Özcan, Anton Bugaev
 
 
-![typeface poster project by students studying at Berlin International](http://nuggetofjoy.com/wp-content/uploads/typography_layout_type_specimen_2jpg-13.jpg)
+![typeface poster project by students studying at Berlin International](https://nuggetofjoy.com/wp-content/uploads/typography_layout_type_specimen_2jpg-13.jpg)
 
 
 Lerato Linden, Yigit Kurukafa, Nadeen Alattar   
 
 
-![Plastic](http://nuggetofjoy.com/wp-content/uploads/Hueyplasticclothesmasteringtype1EDIT-1024x576.jpg)
+![Plastic](https://nuggetofjoy.com/wp-content/uploads/Hueyplasticclothesmasteringtype1EDIT-1024x576.jpg)
 
 Phoebe Huey  
 Huey’s experimental sewn version of Helvetica was created in the Typography course taught by Jordan. Huey later developed it into a motion design project. The designs were part of a campaign in response to the negative environmental impact of fast fashion, a business model that mass produces fashion trends at a low cost. The custom typography features machine-stitched threads to represent microfiber pollution.
 
 
-![plastic](http://nuggetofjoy.com/wp-content/uploads/hueyplasticlothesmasteringtypesub2-731x1024.jpg)
+![plastic](https://nuggetofjoy.com/wp-content/uploads/hueyplasticlothesmasteringtypesub2-731x1024.jpg)
 
 
-![plastic](http://nuggetofjoy.com/wp-content/uploads/hueyplasticclothesmasteringtypesub3-1024x906.jpg)
+![plastic](https://nuggetofjoy.com/wp-content/uploads/hueyplasticclothesmasteringtypesub3-1024x906.jpg)
 
 
-![Decorative Poster](http://nuggetofjoy.com/wp-content/uploads/24b1.jpg)
+![Decorative Poster](https://nuggetofjoy.com/wp-content/uploads/24b1.jpg)
 
 Omega Typography
 
@@ -91,7 +91,7 @@ Jordan's cover design for Subimal Misra's "This Could Have Become Ramayan Chamar
 ![A book cover for "A Story that Happens."](https://cdn.rit.edu/images/inline-images/JORDANstoryhrbg.jpg)
 
 
-![Type Driven Poster](http://nuggetofjoy.com/wp-content/uploads/2016/09/08.jpg)
+![Type Driven Poster](https://nuggetofjoy.com/wp-content/uploads/2016/09/08.jpg)
 
 Open Source
 
@@ -99,7 +99,7 @@ Open Source
 ---
 
 
-![Type Driven Poster](http://nuggetofjoy.com/wp-content/uploads/2016/09/18-2.jpg)
+![Type Driven Poster](https://nuggetofjoy.com/wp-content/uploads/2016/09/18-2.jpg)
 
 TPHorne
 
@@ -107,7 +107,7 @@ TPHorne
 ---
 
 
-![Type Driven Poster](http://nuggetofjoy.com/wp-content/uploads/2016/09/04.jpg)
+![Type Driven Poster](https://nuggetofjoy.com/wp-content/uploads/2016/09/04.jpg)
 
 <http://designyoutrust.com/2012/10/25-creative-typography-poster-design/>
 

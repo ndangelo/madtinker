@@ -14,7 +14,7 @@ categories:
 tags: []
 ---
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-54424" src="http://nuggetofjoy.com/wp-content/uploads/2020-02-10-18_43_46-kandinsky-layout.png"/><figcaption>Hans Thiemann</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-54424" src="https://nuggetofjoy.com/wp-content/uploads/2020-02-10-18_43_46-kandinsky-layout.png"/><figcaption>Hans Thiemann</figcaption></figure></div>
 
 
 ## Assignment
@@ -32,19 +32,19 @@ tags: []
 Before you start the above projects create small sketches first. Use two pages in your sketchbook. Quarter each sheet. Draw a sample drawing similar to the above directions.
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-54457" src="http://nuggetofjoy.com/wp-content/uploads/2020-02-13-13_07_04-Window.png"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-54457" src="https://nuggetofjoy.com/wp-content/uploads/2020-02-13-13_07_04-Window.png"/></figure></div>
 
 
 Use a common object to create an analytical drawing.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2020-02-13-13_11_31-Window.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2020-02-13-13_11_31-Window.png)
 
 
 Use collections of objects to help you form your lines and curves.
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-54460" src="http://nuggetofjoy.com/wp-content/uploads/2020-02-13-13_12_10-Window.png"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-54460" src="https://nuggetofjoy.com/wp-content/uploads/2020-02-13-13_12_10-Window.png"/></figure></div>
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-54462" src="http://nuggetofjoy.com/wp-content/uploads/2020-02-13-13_16_05-Window.png"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-54462" src="https://nuggetofjoy.com/wp-content/uploads/2020-02-13-13_16_05-Window.png"/></figure></div>

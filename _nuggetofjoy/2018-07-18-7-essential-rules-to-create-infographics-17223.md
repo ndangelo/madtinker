@@ -16,7 +16,7 @@ tags:
 - Media Graphics &amp; Design Assignments
 ---
 
-[![blogheader](http://nuggetofjoy.com/wp-content/uploads/blogheader-1.png)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/blogheader-1.png)
+[![blogheader](https://nuggetofjoy.com/wp-content/uploads/blogheader-1.png)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/blogheader-1.png)
 
 
 7 Essential Rules to Create Infographics. (2023). Retrieved from https://venngage.com/blog/7-essential-rules-create-infographics/
@@ -37,7 +37,7 @@ Infographic creation is an art these days, and if you want to make one that peop
 Ideally, you should have a single, coherent message that the entire infographic serves to deliver. Think of it as a story: it’s told with data and visual metaphors, but the structure is still the same.
 
 
-[![Infographic Heading](http://nuggetofjoy.com/wp-content/uploads/infographic-headings.gif)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/infographic-headings.gif)
+[![Infographic Heading](https://nuggetofjoy.com/wp-content/uploads/infographic-headings.gif)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/infographic-headings.gif)
 
 
 [*Via Smashing Magazine*](https://www.smashingmagazine.com/2011/10/the-dos-and-donts-of-infographic-design/)
@@ -49,7 +49,7 @@ Ideally, you should have a single, coherent message that the entire infographic 
 Then, there’s the **main content, which comes in in the middle** as the reader continues to the supporting data. Then, at the **end: the conclusion.**
 
 
-[![Infographics Example](http://nuggetofjoy.com/wp-content/uploads/carland-a-century-of-motoring-in-america_50290aaca56d5_w1500.jpg)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/carland-a-century-of-motoring-in-america_50290aaca56d5_w1500.jpg)
+[![Infographics Example](https://nuggetofjoy.com/wp-content/uploads/carland-a-century-of-motoring-in-america_50290aaca56d5_w1500.jpg)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/carland-a-century-of-motoring-in-america_50290aaca56d5_w1500.jpg)
 
 
 [*Via Visual.ly*](http://visual.ly/carland-century-motoring-america)
@@ -70,7 +70,7 @@ One more lesson you can take from road signs is color palette design: you might 
 Yellow: take notice. Orange: you should probably look at this. Red: Stop what you’re doing and read this now. That’s exactly how colors should be used when conveying data: simple ones, arranged by importance, with a clear sense of which color means what.
 
 
-[![True Colors Infographic](http://nuggetofjoy.com/wp-content/uploads/true-colors.png)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/true-colors.png)
+[![True Colors Infographic](https://nuggetofjoy.com/wp-content/uploads/true-colors.png)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/true-colors.png)
 
 
 [*Full Infographic on Column Five*](http://www.columnfivemedia.com/9-infographic-design-examples-that-will-leave-you-inspired)
@@ -88,7 +88,7 @@ Yellow: take notice. Orange: you should probably look at this. Red: Stop what yo
 ## 3. Space it out
 
 
-[![Abstract Infographic](http://nuggetofjoy.com/wp-content/uploads/abstract-infographic.jpg)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/abstract-infographic.jpg)
+[![Abstract Infographic](https://nuggetofjoy.com/wp-content/uploads/abstract-infographic.jpg)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/abstract-infographic.jpg)
 
 
 [*Via 123rf*](http://www.123rf.com/photo_20988450_stock-photo.html)
@@ -103,7 +103,7 @@ Yellow: take notice. Orange: you should probably look at this. Red: Stop what yo
 One of the most important uses of negative space is to ensure that your elements are properly aligned. This will go a long way towards structuring your data, which is a large part of convincing your readers there’s a point to the information and showing them the pattern you want them to see.
 
 
-[![Infographic Design](http://nuggetofjoy.com/wp-content/uploads/principles-of-design.jpg)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/principles-of-design.jpg)
+[![Infographic Design](https://nuggetofjoy.com/wp-content/uploads/principles-of-design.jpg)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/principles-of-design.jpg)
 
 
 [*Via Hongkiat*](http://www.hongkiat.com/blog/cheatsheet-graphic-designers/)
@@ -141,7 +141,7 @@ Typography can make or break a design of any type, though infographics are inclu
 Before laying out the infographic, please set up your storyline and how you want it to flow from one topic to the next. Spend an hour on this stage, not stopping until you have some usable layout sketches.
 
 
-[![Block Infographic](http://nuggetofjoy.com/wp-content/uploads/map-and-block-infographic.jpg)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/map-and-block-infographic.jpg)
+[![Block Infographic](https://nuggetofjoy.com/wp-content/uploads/map-and-block-infographic.jpg)](https://venngage-wordpress.s3.amazonaws.com/uploads/2016/08/map-and-block-infographic.jpg)
 
 
 [*Via Dummies.com*](http://www.dummies.com/how-to/content/wireframe-planning-map-and-block-your-infographic.html)

@@ -13,11 +13,11 @@ categories:
 tags: []
 ---
 
-[![Graphics](http://nuggetofjoy.com/wp-content/uploads/image-15-1024x275.png)](https://helpx.adobe.com/indesign/tutorials.html)
+[![Graphics](https://nuggetofjoy.com/wp-content/uploads/image-15-1024x275.png)](https://helpx.adobe.com/indesign/tutorials.html)
 
 From: adobe.com
 
 
-![Graphics](http://nuggetofjoy.com/wp-content/uploads/image-16-1024x288.png)
+![Graphics](https://nuggetofjoy.com/wp-content/uploads/image-16-1024x288.png)
 
 From: adobe.com

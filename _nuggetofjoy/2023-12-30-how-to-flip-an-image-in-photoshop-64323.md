@@ -37,7 +37,7 @@ Once you open your image in Photoshop, you can easily flip it in any direction. 
 Similarly, to flip your image vertically, click on the **Flip Canvas****Vertical** option.
 
 
-![go to the top menu and choose Image rotation then flip canvas horizontally ](http://nuggetofjoy.com/wp-content/uploads/0005_1_1-3.jpg)
+![go to the top menu and choose Image rotation then flip canvas horizontally ](https://nuggetofjoy.com/wp-content/uploads/0005_1_1-3.jpg)
 
 
 ### Step 2
@@ -46,7 +46,7 @@ Similarly, to flip your image vertically, click on the **Flip Canvas***
 Now, if you want to flip just one layer and not the whole canvas, you can select the layer you want to flip and press **Control/Command-T**to bring up the **Transform**controls, which are the blue lines outlining the layer. Now you can**right-click > Flip Horizontal** or**Flip Vertical.**This will flip only the selected layer.
 
 
-![Flip a layer using the Transform tool](http://nuggetofjoy.com/wp-content/uploads/0004_1_2.jpg)
+![Flip a layer using the Transform tool](https://nuggetofjoy.com/wp-content/uploads/0004_1_2.jpg)
 
 [Colorful Music Graphic](https://elements.envato.com/music-ad-VF6A7KD)
 
@@ -60,7 +60,7 @@ Now, if you want to flip just one layer and not the whole canvas, you can select
 Creating a mirror effect is very simple. First, **Duplicate**your original image using **Control/Command-J.**
 
 
-![duplicate layer ](http://nuggetofjoy.com/wp-content/uploads/0003_2_1.jpg)
+![duplicate layer ](https://nuggetofjoy.com/wp-content/uploads/0003_2_1.jpg)
 
 [Fish](https://elements.envato.com/colourful-betta-fish-siamese-fighting-fish-in-move-HKPHCHR)
 
@@ -71,7 +71,7 @@ Creating a mirror effect is very simple. First, **Duplicate**your original imag
 Move the duplicate layer to the side of the original on the canvas.
 
 
-![move the duplicate layer to the side of the original ](http://nuggetofjoy.com/wp-content/uploads/0002_2_2.jpg)
+![move the duplicate layer to the side of the original ](https://nuggetofjoy.com/wp-content/uploads/0002_2_2.jpg)
 
 
 Advertisement
@@ -83,7 +83,7 @@ Advertisement
 Use either a selection tool, **Layer Masks**,or the **Eraser** brush to trim any excess background from the duplicate image. I used the **Rectangular Marquee** **Tool** to delete the extra black background.
 
 
-![remove any excess background ](http://nuggetofjoy.com/wp-content/uploads/0001_2_3.jpg)
+![remove any excess background ](https://nuggetofjoy.com/wp-content/uploads/0001_2_3.jpg)
 
 
 ### Step 4
@@ -92,7 +92,7 @@ Use either a selection tool, **Layer Masks**,or the **Eraser** brush to trim 
 Use the **Crop** tool to crop the canvas so that both images can be seen and create a mirrored effect.
 
 
-![re-crop the image so both images can be seen ](http://nuggetofjoy.com/wp-content/uploads/0000_2_4.jpg)
+![re-crop the image so both images can be seen ](https://nuggetofjoy.com/wp-content/uploads/0000_2_4.jpg)
 
 
 ## Conclusion

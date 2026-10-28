@@ -37,7 +37,7 @@ This is the most common font pairing style designers will use when they want to 
 Within this font pairing style, you’ll find that certain sans serifs look better teamed with particular serifs. A good starting point is to decide on a headline sans serif that you really love, and then rotate the serif body text through several options until you find the font that looks just right.
 
 
-![font pairing beginners typography font families typeface sans serif serif bebas neue caslon](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.09.56-4.jpg)
+![font pairing beginners typography font families typeface sans serif serif bebas neue caslon](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.09.56-4.jpg)
 
 
 One of our favourite font pairings is headlines set in [Bebas Neue](https://www.fontsquirrel.com/fonts/bebas-neue), with body text set in [Caslon](https://www.fontspring.com/fonts/adobe/adobe-caslon-pro). A sub-heading set in [Adobe Caslon Pro Italic](https://www.fontspring.com/fonts/adobe/adobe-caslon-pro)adds the perfect finishing touch.
@@ -61,7 +61,7 @@ Some font families contain as few as three fonts, while others might extend to i
 Pairing two fonts taken from either the same family or superfamily is a quick route to creating a design that feels pulled-together and elegant. The success of this sort of pairing rests on the shared similarities between the chosen fonts, rather than contrast, which has a calming effect on the eye. For layouts which require a more traditional, formal or conservative style, this sort of font pairing is the perfect choice.
 
 
-![font pairing beginners typography font families typeface sans serif serif roboto](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.04-3.jpg)
+![font pairing beginners typography font families typeface sans serif serif roboto](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.04-3.jpg)
 
 
 That’s not to say that sourcing two fonts from the same family needs to be dull. In fact the vast range of font styles you can track down within a superfamily can give you plenty of variation, to keep your design looking playful. We love the combination of a [Roboto Slab](https://www.fontsquirrel.com/fonts/roboto-slab) headline with [Roboto](https://www.fontsquirrel.com/fonts/roboto) body text. These fonts have very different weights but share the same rounded-geometric form.
@@ -82,13 +82,13 @@ All fonts have a personality, whether it’s the bouncy optimism of a rounded sa
 Professional typographers call this evasive sense of mood that a group of fonts share a ‘sub-category’. Some serif fonts, such as [Bembo](https://www.fonts.com/font/monotype/bembo) and [Garamond](https://typekit.com/fonts/adobe-garamond), fall into the **Old Style** sub-category, with these fonts tending to have an old-fashioned, dignified personality. These work well paired with **Humanist** sans serifs like [Frutiger](https://www.myfonts.com/fonts/linotype/frutiger/) and [Gill Sans](https://www.fonts.com/font/monotype/gill-sans), because these too have an old-fashioned, serious mood.
 
 
-![font pairing beginners typography font families typeface sans serif serif](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.11-3.jpg)
+![font pairing beginners typography font families typeface sans serif serif](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.11-3.jpg)
 
 
 Here a [Garamond](https://typekit.com/fonts/adobe-garamond) headline and sub-heading makes a great team alongside [Gill Sans](https://www.fonts.com/font/monotype/gill-sans) body text.
 
 
-![font pairing beginners typography font families typeface sans serif serif](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.17-3.jpg)
+![font pairing beginners typography font families typeface sans serif serif](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.17-3.jpg)
 
 
 **Transitional** serifs have a more modern mood than Old Style typefaces, which makes them a suitable pairing for **Geometric** or **Rounded** sans serifs, like [Futura](https://www.myfonts.com/fonts/bitstream/futura/) and [Avenir](https://www.myfonts.com/fonts/linotype/avenir/). Here, a headline set in [Mrs. Eaves](https://www.myfonts.com/fonts/emigre/mrs-eaves-ot/) is stylishly offset by [Futura](https://www.myfonts.com/fonts/bitstream/futura/) body text.
@@ -97,7 +97,7 @@ Here a [Garamond](https://typekit.com/fonts/adobe-garamond) headline and sub-h
 **Modern** serifs, such as [Didot](https://www.myfonts.com/fonts/linotype/didot/) and [Bodoni](https://www.myfonts.com/fonts/bitstream/atf-bodoni/), have a classic elegance but feel more fun and fashionable than their Old Style relatives. Because they are more contemporary in style, they team best with **Geometric**sans serifs.
 
 
-![font pairing beginners typography font families typeface sans serif serif](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.23-3.jpg)
+![font pairing beginners typography font families typeface sans serif serif](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.23-3.jpg)
 
 
 In this example, [Bodoni](https://www.myfonts.com/fonts/bitstream/atf-bodoni/) and [Open Sans](https://www.fontsquirrel.com/fonts/open-sans) make for an elegant font pairing.
@@ -118,7 +118,7 @@ You don’t always need to rely on blowing your headline up to large size to mak
 If you’re putting together a more design-forward layout which needs to grab a viewer’s attention, such as a poster or magazine cover, this font pairing won’t fail to turn heads, and it looks super-stylish too.
 
 
-![font pairing beginners typography font families typeface sans serif serif](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.29-3.jpg)
+![font pairing beginners typography font families typeface sans serif serif](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.29-3.jpg)
 
 
 Here a headline set in [Scala Sans Black](https://www.myfonts.com/fonts/fontfont/ff-scala-sans/) is the perfect foil to the simple charms of [Gentium Basic](https://www.fontsquirrel.com/fonts/gentium-basic).
@@ -136,7 +136,7 @@ Here a headline set in [Scala Sans Black](https://www.myfonts.com/fonts/fontfon
 Rounded fonts are youthful, and used alone give an almost childlike quality to a design. Pairing a rounded sans serif headline, like [Woodford Bourne](https://www.fontsquirrel.com/fonts/woodford-bourne) or [Quicksand](https://www.fontsquirrel.com/fonts/quicksand) with more traditional serif body text exaggerates further the contrast that we looked at with the serif/sans serif font pairing at the start of the article.
 
 
-![font pairing beginners typography font families typeface sans serif serif](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.36-3.jpg)
+![font pairing beginners typography font families typeface sans serif serif](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.36-3.jpg)
 
 
 This is a more space-age version of that pairing rule, giving layouts a futuristic spin that feels clean and cutting-edge. In this example the exaggerated tracking of [Quicksand](https://www.fontsquirrel.com/fonts/quicksand) as the headline makes the ultimate contrast with neat and pulled-together [Garamond](https://typekit.com/fonts/adobe-garamond).
@@ -166,7 +166,7 @@ This is the most common font pairing style designers will use when they want to 
 Within this font pairing style, you’ll find that certain sans serifs look better teamed with particular serifs. A good starting point is to decide on a headline sans serif that you really love, and then rotate the serif body text through several options until you find the font that looks just right.
 
 
-![font pairing beginners typography font families typeface sans serif serif bebas neue caslon](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.09.56-4.jpg)
+![font pairing beginners typography font families typeface sans serif serif bebas neue caslon](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.09.56-4.jpg)
 
 
 One of our favourite font pairings is headlines set in [Bebas Neue](https://www.fontsquirrel.com/fonts/bebas-neue), with body text set in [Caslon](https://www.fontspring.com/fonts/adobe/adobe-caslon-pro). A sub-heading set in [Adobe Caslon Pro Italic](https://www.fontspring.com/fonts/adobe/adobe-caslon-pro)adds the perfect finishing touch.
@@ -190,7 +190,7 @@ Some font families contain as few as three fonts, while others might extend to i
 Pairing two fonts taken from either the same family or superfamily is a quick route to creating a design that feels pulled-together and elegant. The success of this sort of pairing rests on the shared similarities between the chosen fonts, rather than contrast, which has a calming effect on the eye. For layouts which require a more traditional, formal or conservative style, this sort of font pairing is the perfect choice.
 
 
-![font pairing beginners typography font families typeface sans serif serif roboto](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.04-3.jpg)
+![font pairing beginners typography font families typeface sans serif serif roboto](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.04-3.jpg)
 
 
 That’s not to say that sourcing two fonts from the same family needs to be dull. In fact the vast range of font styles you can track down within a superfamily can give you plenty of variation, to keep your design looking playful. We love the combination of a [Roboto Slab](https://www.fontsquirrel.com/fonts/roboto-slab) headline with [Roboto](https://www.fontsquirrel.com/fonts/roboto) body text. These fonts have very different weights but share the same rounded-geometric form.
@@ -211,13 +211,13 @@ All fonts have a personality, whether it’s the bouncy optimism of a rounded sa
 Professional typographers call this evasive sense of mood that a group of fonts share a ‘sub-category’. Some serif fonts, such as [Bembo](https://www.fonts.com/font/monotype/bembo) and [Garamond](https://typekit.com/fonts/adobe-garamond), fall into the **Old Style** sub-category, with these fonts tending to have an old-fashioned, dignified personality. These work well paired with **Humanist** sans serifs like [Frutiger](https://www.myfonts.com/fonts/linotype/frutiger/) and [Gill Sans](https://www.fonts.com/font/monotype/gill-sans), because these too have an old-fashioned, serious mood.
 
 
-![font pairing beginners typography font families typeface sans serif serif](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.11-3.jpg)
+![font pairing beginners typography font families typeface sans serif serif](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.11-3.jpg)
 
 
 Here a [Garamond](https://typekit.com/fonts/adobe-garamond) headline and sub-heading makes a great team alongside [Gill Sans](https://www.fonts.com/font/monotype/gill-sans) body text.
 
 
-![font pairing beginners typography font families typeface sans serif serif](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.17-3.jpg)
+![font pairing beginners typography font families typeface sans serif serif](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.17-3.jpg)
 
 
 **Transitional** serifs have a more modern mood than Old Style typefaces, which makes them a suitable pairing for **Geometric** or **Rounded** sans serifs, like [Futura](https://www.myfonts.com/fonts/bitstream/futura/) and [Avenir](https://www.myfonts.com/fonts/linotype/avenir/). Here, a headline set in [Mrs. Eaves](https://www.myfonts.com/fonts/emigre/mrs-eaves-ot/) is stylishly offset by [Futura](https://www.myfonts.com/fonts/bitstream/futura/) body text.
@@ -226,7 +226,7 @@ Here a [Garamond](https://typekit.com/fonts/adobe-garamond) headline and sub-h
 **Modern** serifs, such as [Didot](https://www.myfonts.com/fonts/linotype/didot/) and [Bodoni](https://www.myfonts.com/fonts/bitstream/atf-bodoni/), have a classic elegance but feel more fun and fashionable than their Old Style relatives. Because they are more contemporary in style, they team best with **Geometric**sans serifs.
 
 
-![font pairing beginners typography font families typeface sans serif serif](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.23-3.jpg)
+![font pairing beginners typography font families typeface sans serif serif](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.23-3.jpg)
 
 
 In this example, [Bodoni](https://www.myfonts.com/fonts/bitstream/atf-bodoni/) and [Open Sans](https://www.fontsquirrel.com/fonts/open-sans) make for an elegant font pairing.
@@ -247,7 +247,7 @@ You don’t always need to rely on blowing your headline up to large size to mak
 If you’re putting together a more design-forward layout which needs to grab a viewer’s attention, such as a poster or magazine cover, this font pairing won’t fail to turn heads, and it looks super-stylish too.
 
 
-![font pairing beginners typography font families typeface sans serif serif](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.29-3.jpg)
+![font pairing beginners typography font families typeface sans serif serif](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.29-3.jpg)
 
 
 Here a headline set in [Scala Sans Black](https://www.myfonts.com/fonts/fontfont/ff-scala-sans/) is the perfect foil to the simple charms of [Gentium Basic](https://www.fontsquirrel.com/fonts/gentium-basic).
@@ -265,7 +265,7 @@ Here a headline set in [Scala Sans Black](https://www.myfonts.com/fonts/fontfon
 Rounded fonts are youthful, and used alone give an almost childlike quality to a design. Pairing a rounded sans serif headline, like [Woodford Bourne](https://www.fontsquirrel.com/fonts/woodford-bourne) or [Quicksand](https://www.fontsquirrel.com/fonts/quicksand) with more traditional serif body text exaggerates further the contrast that we looked at with the serif/sans serif font pairing at the start of the article.
 
 
-![font pairing beginners typography font families typeface sans serif serif](http://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.36-3.jpg)
+![font pairing beginners typography font families typeface sans serif serif](https://nuggetofjoy.com/wp-content/uploads/Screen-Shot-2017-09-19-at-13.10.36-3.jpg)
 
 
 This is a more space-age version of that pairing rule, giving layouts a futuristic spin that feels clean and cutting-edge. In this example the exaggerated tracking of [Quicksand](https://www.fontsquirrel.com/fonts/quicksand) as the headline makes the ultimate contrast with neat and pulled-together [Garamond](https://typekit.com/fonts/adobe-garamond).

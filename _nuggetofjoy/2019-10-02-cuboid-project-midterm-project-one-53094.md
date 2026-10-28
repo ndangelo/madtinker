@@ -42,22 +42,22 @@ Utilizing your knowledge of one, two, and three-point perspective, draw a "const
 Your construct can be as simple or as complex as you wish.
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-53263" src="http://nuggetofjoy.com/wp-content/uploads/7ca4a29c127c78aaeb17490b17a63eb1.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-53263" src="https://nuggetofjoy.com/wp-content/uploads/7ca4a29c127c78aaeb17490b17a63eb1.jpg"/></figure></div>
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-53269" src="http://nuggetofjoy.com/wp-content/uploads/2019-10-02-20_09_35-scaned-in-6.webp-300×212.png"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-53269" src="https://nuggetofjoy.com/wp-content/uploads/2019-10-02-20_09_35-scaned-in-6.webp-300×212.png"/></figure></div>
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-53262" src="http://nuggetofjoy.com/wp-content/uploads/CIMG7463-764x1024.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-53262" src="https://nuggetofjoy.com/wp-content/uploads/CIMG7463-764x1024.jpg"/></figure></div>
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-53265" src="http://nuggetofjoy.com/wp-content/uploads/CIMG7506-768x1024.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-53265" src="https://nuggetofjoy.com/wp-content/uploads/CIMG7506-768x1024.jpg"/></figure></div>
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-53267" src="http://nuggetofjoy.com/wp-content/uploads/52-Of-The-Most-Famous-Buildings-In-The-World-That-Are-Known-For-Their-Unconventional-Architectural-Structure-51.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-53267" src="https://nuggetofjoy.com/wp-content/uploads/52-Of-The-Most-Famous-Buildings-In-The-World-That-Are-Known-For-Their-Unconventional-Architectural-Structure-51.jpg"/></figure></div>
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-53266" src="http://nuggetofjoy.com/wp-content/uploads/129563.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="" class="wp-image-53266" src="https://nuggetofjoy.com/wp-content/uploads/129563.jpg"/></figure></div>
 
 
-<div class="wp-block-image"><figure class="aligncenter"><a href="http://nuggetofjoy.com/wp-content/uploads/fa8bd21dd2f2f92fd69b37114e3f3805.jpg"><img alt="This image has an empty alt attribute; its file name is fa8bd21dd2f2f92fd69b37114e3f3805.jpg" src="http://nuggetofjoy.com/wp-content/uploads/fa8bd21dd2f2f92fd69b37114e3f3805.jpg"/></a><figcaption>Abstract "Block" Composition using two-point perspective</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://nuggetofjoy.com/wp-content/uploads/fa8bd21dd2f2f92fd69b37114e3f3805.jpg"><img alt="This image has an empty alt attribute; its file name is fa8bd21dd2f2f92fd69b37114e3f3805.jpg" src="https://nuggetofjoy.com/wp-content/uploads/fa8bd21dd2f2f92fd69b37114e3f3805.jpg"/></a><figcaption>Abstract "Block" Composition using two-point perspective</figcaption></figure></div>

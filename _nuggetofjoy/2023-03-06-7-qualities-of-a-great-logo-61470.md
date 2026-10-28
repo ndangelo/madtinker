@@ -13,4 +13,4 @@ categories:
 tags: []
 ---
 
-![](http://nuggetofjoy.com/wp-content/uploads/7-qualites-of-great-logo-infographic-scaled-1.webp)
+![](https://nuggetofjoy.com/wp-content/uploads/7-qualites-of-great-logo-infographic-scaled-1.webp)

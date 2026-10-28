@@ -77,94 +77,94 @@ Please use Adobe Indesign. You can use Illustrator and Photoshop to create most 
 ## Sample Layout
 
 
-![graphic](http://nuggetofjoy.com/wp-content/uploads/Paperback-Cover-Mockup-750x5062111111111111111111111111111111111111111111.jpg)
+![graphic](https://nuggetofjoy.com/wp-content/uploads/Paperback-Cover-Mockup-750x5062111111111111111111111111111111111111111111.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/Paperback-Cover-Screenshot-1024x7732111111111111111111111111111111111111111111.jpg)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/Paperback-Cover-Screenshot-1024x7732111111111111111111111111111111111111111111.jpg)
 
 
 ### Student Examples:
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/image-84-1024x683.png)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/image-84-1024x683.png)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/image-85-1024x679.png)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/image-85-1024x679.png)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/image-86-1024x685.png)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/image-86-1024x685.png)
 
 
-![c72NRr1qmfyEy5FCiRyukj49vkM07ZN-0F07nL1Lek8](http://nuggetofjoy.com/wp-content/uploads/2015/03/c72NRr1qmfyEy5FCiRyukj49vkM07ZN-0F07nL1Lek8.jpg)
+![c72NRr1qmfyEy5FCiRyukj49vkM07ZN-0F07nL1Lek8](https://nuggetofjoy.com/wp-content/uploads/2015/03/c72NRr1qmfyEy5FCiRyukj49vkM07ZN-0F07nL1Lek8.jpg)
 
 
-![Sso2CcCoBD5Cg5-x4hqfcfHFBfxMX9H-0yFQaimJjeo](http://nuggetofjoy.com/wp-content/uploads/2015/03/Sso2CcCoBD5Cg5-x4hqfcfHFBfxMX9H-0yFQaimJjeo.jpg)
+![Sso2CcCoBD5Cg5-x4hqfcfHFBfxMX9H-0yFQaimJjeo](https://nuggetofjoy.com/wp-content/uploads/2015/03/Sso2CcCoBD5Cg5-x4hqfcfHFBfxMX9H-0yFQaimJjeo.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/Final-book-cover.-1pdf_Page_1-1024x662.jpg)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/Final-book-cover.-1pdf_Page_1-1024x662.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/Final-book-cover.-1pdf_Page_2-1024x662.jpg)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/Final-book-cover.-1pdf_Page_2-1024x662.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/Final-book-cover.-1pdf_Page_3-1024x662.jpg)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/Final-book-cover.-1pdf_Page_3-1024x662.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/Skylar_Book-Covers_Page_1-1024x683.jpg)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/Skylar_Book-Covers_Page_1-1024x683.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/Skylar_Book-Covers_Page_2-1024x683.jpg)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/Skylar_Book-Covers_Page_2-1024x683.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/Skylar_Book-Covers_Page_3-1024x683.jpg)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/Skylar_Book-Covers_Page_3-1024x683.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/Skylar_Book-Covers_Page_4-1024x683.jpg)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/Skylar_Book-Covers_Page_4-1024x683.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/Skylar_Book-Covers_Page_5-1024x683.jpg)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/Skylar_Book-Covers_Page_5-1024x683.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/Skylar_Book-Covers_Page_6-1024x683.jpg)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/Skylar_Book-Covers_Page_6-1024x683.jpg)
 
 
-![ta-sketchkaleidoscope](http://nuggetofjoy.com/wp-content/uploads/2016/10/TA-SketchKaleidoscope-1.jpg)
+![ta-sketchkaleidoscope](https://nuggetofjoy.com/wp-content/uploads/2016/10/TA-SketchKaleidoscope-1.jpg)
 
 
-![tafrombeyondmockup](http://nuggetofjoy.com/wp-content/uploads/2016/10/TAfrombeyondmockup-1.jpg)
+![tafrombeyondmockup](https://nuggetofjoy.com/wp-content/uploads/2016/10/TAfrombeyondmockup-1.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/a-certain-hunger-spread.jpg)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/a-certain-hunger-spread.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/gone-girl-spread.jpg)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/gone-girl-spread.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/rest-spread.jpg)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/rest-spread.jpg)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/A-Time-To-Kill-2-1-1024x819.png)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/A-Time-To-Kill-2-1-1024x819.png)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/A-Time-To-Kill-1024x819.png)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/A-Time-To-Kill-1024x819.png)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/Into-The-Wild-2-1024x819.png)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/Into-The-Wild-2-1024x819.png)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/Into-The-Wild-1024x819.png)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/Into-The-Wild-1024x819.png)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/The-Outsiders-2-1024x819.png)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/The-Outsiders-2-1024x819.png)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/The-Outsiders-1024x819.png)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/The-Outsiders-1024x819.png)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/image-82-1024x476.png)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/image-82-1024x476.png)
 
 
-![Graphic](http://nuggetofjoy.com/wp-content/uploads/image-83-1024x473.png)
+![Graphic](https://nuggetofjoy.com/wp-content/uploads/image-83-1024x473.png)
 
 
 ## Book Cover Examples for Inspiration

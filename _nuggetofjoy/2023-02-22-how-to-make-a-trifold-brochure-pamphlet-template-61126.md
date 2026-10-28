@@ -13,7 +13,7 @@ categories:
 tags: []
 ---
 
-![Final product image](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-final-2-1.jpg)
+![Final product image](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-final-2-1.jpg)
 
 What You'll Be Creating
 
@@ -27,7 +27,7 @@ Trifold brochures can be an excellent tool for getting information to people in 
 Sometimes, we could also use a little extra help. Try out a trifold layout template if you're looking for a head start on your design project.
 
 
-[![Interior Furniture Trifold Brochure Flyer](http://nuggetofjoy.com/wp-content/uploads/tri-fold-pamphlet_6.jpg)](https://elements.envato.com/interior-furniture-trifold-brochure-flyer-HVRSDZ2)
+[![Interior Furniture Trifold Brochure Flyer](https://nuggetofjoy.com/wp-content/uploads/tri-fold-pamphlet_6.jpg)](https://elements.envato.com/interior-furniture-trifold-brochure-flyer-HVRSDZ2)
 
 Download trifold pamphlet template designs like this one on Envato Elements.
 
@@ -41,7 +41,7 @@ A trifold brochure is a page containing three panels per side for a total of six
 We will be creating a file with six pages and altering the Parent Pages later on. This approach will allow us to easily move panels on a template when necessary. We will also be able to make a PDF with crop marks, which will indicate the position of the folds. Do make sure to indicate this to the printer to avoid any mistakes.
 
 
-![trifold brochure panels diagram](http://nuggetofjoy.com/wp-content/uploads/3-trifold20brochure20template-diagram.jpg)
+![trifold brochure panels diagram](https://nuggetofjoy.com/wp-content/uploads/3-trifold20brochure20template-diagram.jpg)
 
 Use this visual guide to help you understand how to fold a pamphlet.
 
@@ -74,7 +74,7 @@ Let's begin our discussion of how to make a trifold brochure with setting up ou
 A common trifold dimension when open flat is Letter size or A4. We will be using a Letter size page for this tutorial. As trifold brochure dimensions will vary depending on your needs, I’ve created an equation chart that you can follow below:
 
 
-![trifold brochure equation](http://nuggetofjoy.com/wp-content/uploads/3-trifold20brochure20template-diagram-revised-02.jpg)
+![trifold brochure equation](https://nuggetofjoy.com/wp-content/uploads/3-trifold20brochure20template-diagram-revised-02.jpg)
 
 
 ### **Step 1**
@@ -102,7 +102,7 @@ In **InDesign**, go to **File > New**. Name the document *trifold brochure**.
 Click **Create.**
 
 
-![create a new file](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-1.jpg)
+![create a new file](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-1.jpg)
 
 
 ### **Step 2**
@@ -117,7 +117,7 @@ Head over to the **Pages**panel. If you don’t have it active, head over to *
 **Right-click** on **A-Parent > New Parent.**In the **New Parent**window, make sure **Based on Parent**is set to **[Parent].**Set the **Width** to **91.13 mm**(subtract 2 mm from the 93.13 mm). Click **OK.**
 
 
-![create a new parent page with a modified width](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-2.jpg)
+![create a new parent page with a modified width](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-2.jpg)
 
 
 ### **Step 3**
@@ -129,7 +129,7 @@ On the **Pages**panel, right-click on the **B-Parent** we just created and se
 In the **Parent Page Size Conflict** window, click **Use Parent Page Size.**
 
 
-![apply the new parent page](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-3.jpg)
+![apply the new parent page](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-3.jpg)
 
 
 ### **Step 4**
@@ -144,7 +144,7 @@ Make sure that Allow Document Pages to Shuffle is unchecked on the Main Menu of 
 To exit the **Parent Pages**mode, double-click on the regular page's thumbnail.
 
 
-![Combine pages 1-3 and pages 4-6 to create 2 spreads](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-4.jpg)
+![Combine pages 1-3 and pages 4-6 to create 2 spreads](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-4.jpg)
 
 
 ### **Step 5**
@@ -159,7 +159,7 @@ Bring up the **Layers**panel by going to **Window > Layers.**Double-click on 
 On the**Layers**panel main menu, select **New Layer.**Name it **Copy,**and click **OK.**
 
 
-![Create separate image and copy layers](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-5.jpg)
+![Create separate image and copy layers](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-5.jpg)
 
 
 ### **Step 6**
@@ -174,7 +174,7 @@ Let’s add some **Guides.**Head over to **Layout > Create Guides.**In the **
 **Show/Hide** the guides and margins by pressing**Command-;.**Alternatively, use **W**to enter and exit **Preview**mode.
 
 
-![create guides](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-6.jpg)
+![create guides](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-6.jpg)
 
 
 ### **Step 7**
@@ -190,7 +190,7 @@ Before we start with the design, let’s add some color swatches. Head over to 
 Click **Add**and **OK**after you input each of the color values.
 
 
-![add new color swatches ](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-7.jpg)
+![add new color swatches ](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-1-7.jpg)
 
 
 ## 2. **How to Place Images in Adobe InDesign**
@@ -213,7 +213,7 @@ On the **Toolbar,**select the **Frame Tool (F).**Using the guides we created, 
 I’ve changed the color for easier guidance. Make sure all the frames extend to the bleed. This will ensure there are no white edges.
 
 
-![use the rectangle tool to add images](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-1.jpg)
+![use the rectangle tool to add images](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-1.jpg)
 
 
 ### **Step 2**
@@ -228,7 +228,7 @@ Select the image inside the frame. You can do this by clicking on the donut shap
 This will be a background image. Place the image as you wish—there’s no right or wrong.
 
 
-![place images into the rectangles](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-2.jpg)
+![place images into the rectangles](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-2.jpg)
 
 
 ### **Step 3**
@@ -246,7 +246,7 @@ Repeat this process for **Page 3**. Select the [Two creative owners](https://e
 Head over to the **Control**bar. Activate the **Constrain Proportions for scaling**button and set the percentage to **35%.**Try to place the focused subject within the margins.
 
 
-![place images into the rectangles](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-3.jpg)
+![place images into the rectangles](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-3.jpg)
 
 
 ### **Step 4**
@@ -258,7 +258,7 @@ You’ll notice that the images we placed have different tones. A great way to f
 Using the **Rectangle Tool (M)**, create rectangles over each image. Go to the **Swatches**panel and select the purple color we added previously.
 
 
-![create rectangles over the images ](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-4.jpg)
+![create rectangles over the images ](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-4.jpg)
 
 
 ### **Step 5**
@@ -270,7 +270,7 @@ To apply an effect, bring up the **Effects**panel. Go to **Window > Effects.**
 Select the rectangle on **Page 1**. Since we will have text over this image, we need to select a **Blending Mode**that will allow the type to be legible. Select **Multiply** from the drop-down menu and set the **Opacity**to **90%.**
 
 
-![change the blending mode on the first rectangle to Multiply](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-5.jpg)
+![change the blending mode on the first rectangle to Multiply](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-5.jpg)
 
 
 ### **Step 6**
@@ -279,7 +279,7 @@ Select the rectangle on **Page 1**. Since we will have text over this image, we
 We need the images on **Page 2**and **3** to come through more since they will be standalone images. Select both rectangles and set the **Blending Mode**to **Color.**
 
 
-![set the blending mode to Color on pages 2 and 3](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-6.jpg)
+![set the blending mode to Color on pages 2 and 3](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-6.jpg)
 
 
 ### **Step 7**
@@ -291,7 +291,7 @@ Let’s add a contrasting color to some of the empty sections. This will help to
 Additionally, create a line under the main image on **Page 3**. Select the **Line Tool ()**from the toolbar. Hold down **Shift**to draw a straight horizontal line across the panel. Head over to the **Control**bar, set the **Stroke**size to **7 pt**, and set the **Stroke**color to yellow.
 
 
-![add a background to page 2 and a stroke to page 3](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-7-2.jpg)
+![add a background to page 2 and a stroke to page 3](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-7-2.jpg)
 
 
 ### **Step 8**
@@ -303,7 +303,7 @@ Let’s add a logo to the pamphlet template. Ideally, the logo is placed on the 
 Resize both images by going to the **Control**bar and setting the **Scaling**to **10%.**
 
 
-![add logos to pages 2 and 3](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-8.jpg)
+![add logos to pages 2 and 3](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-8.jpg)
 
 
 ### **Step 9**
@@ -318,7 +318,7 @@ Using the **Add Anchor Point Tool (=),**add an anchor on the first fold guide. 
 Head over to the **Swatches**panel, and select the color yellow.
 
 
-![create a rectangle to cover the width of pagees 4-6](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-9.jpg)
+![create a rectangle to cover the width of pagees 4-6](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-9.jpg)
 
 
 ### **Step 10**
@@ -333,7 +333,7 @@ Select the first rectangle and set the **Height**to **100 mm**on the **Contro
 Using the **Direct Selection Tool (A),**select the top inside points of the rectangles and move both downwards.
 
 
-![create rectangles to fit the bottom of pages 4-6](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-10.jpg)
+![create rectangles to fit the bottom of pages 4-6](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-10.jpg)
 
 
 ### **Step 11**
@@ -351,7 +351,7 @@ Let’s apply the same color effect here as the outside panel. Select both objec
 Select both objects and head over to the **Swatches**panel. Set the color to purple. On the **Effect**panel, set the **Blending Mode**to **Color.**
 
 
-![place images to pages 4-6 Add colored overlays with the color blending mode effect](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-11.jpg)
+![place images to pages 4-6 Add colored overlays with the color blending mode effect](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-2-11.jpg)
 
 
 Great job! We’ve finished working on the **Images** layer, and now it’s time to work on the **Copy**layer. Head over to the **Layers**panel, lock the **Images**layer, and select the **Copy**layer.
@@ -381,7 +381,7 @@ In the **New Paragraph Style**window option, select **Basic Character Formats*
 Click **OK.**
 
 
-![create a new headline paragraph style](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-1-1.jpg)
+![create a new headline paragraph style](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-1-1.jpg)
 
 
 Let’s add a second **Paragraph Style.**This time, let’s name it **Body Copy** and use the following settings for the **Basic Character Formats**options:
@@ -396,7 +396,7 @@ Let’s add a second **Paragraph Style.**This time, let’s name it **Body Cop
 Click **OK.**
 
 
-![create a new body copy paragraph style](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-1-2.jpg)
+![create a new body copy paragraph style](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-1-2.jpg)
 
 
 ### **Step 2**
@@ -414,7 +414,7 @@ Add the copy you wish to add. To format the text box, select the headline using 
 Select the text box and head over to the **Swatches**panel. Select the **[Paper]**color, making the type legible against the background.
 
 
-![Add text boxes and use the paragraph styles to format type on page 1](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-2-1.jpg)
+![Add text boxes and use the paragraph styles to format type on page 1](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-2-1.jpg)
 
 
 On **Page 2,** add a small tagline and contact information—this is great to have on the back of the template. Set the tagline to the **Headline**style. When applying a **Paragraph Style** to a text box, you can change the format through the **Control**bar. This will only change the format on the text box you are selecting and not on the style. Set the contact information to **Body Copy** and change the **Size**to **9 pt** on the **Control**bar.
@@ -423,7 +423,7 @@ On **Page 2,** add a small tagline and contact information—this is great to 
 On the **Swatches**panel, select the color purple for both elements.
 
 
-![add text and contact information to page 2](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-2-2.jpg)
+![add text and contact information to page 2](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-2-2.jpg)
 
 
 **Page 3** is the front of the brochure, so add a headline here that describes the information inside. Set the format to **Headline**style from the **Paragraph Style**panel. Select the first line using the same method as before and head over to the Control bar. Change the Family to Regular. This small detail can add something special to set this headline apart from the rest of the content.
@@ -432,7 +432,7 @@ On the **Swatches**panel, select the color purple for both elements.
 On the **Swatches**panel, select the color purple.
 
 
-![add a headline and format with the paragraph style panel on page 3](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-2-3.jpg)
+![add a headline and format with the paragraph style panel on page 3](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-2-3.jpg)
 
 
 ### **Step 3**
@@ -444,13 +444,13 @@ Let’s work on the inside panels. On the **Layers**panel, select **Pages 4-6.
 Using the **Text Tool (T),**create a text box on all three pages. With the help of the **Paragraph Styles,**format the contents.
 
 
-![add text to pages 4-6](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-3-1.jpg)
+![add text to pages 4-6](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-3-1.jpg)
 
 
 Let’s add some vectors on **Page 5.** Open the [150 Line icons](https://elements.envato.com/150-line-icons-TGA9MV) *1.ai* file on **Adobe Illustrator.** Press **Command-G**to **Ungroup**the icons. Select the first three icons from the first row. Press **Command-C**to **Copy.**
 
 
-![Open the icons file in illustrator and copy the objects](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-3-2.jpg)
+![Open the icons file in illustrator and copy the objects](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-3-2.jpg)
 
 
 Head back into **Adobe InDesign**and press **Command-V**to **Paste**the icons. Press **Command-G**to **Ungroup**the objects. On the **Swatches**panel, set the color to yellow.
@@ -465,7 +465,7 @@ We can use the Text Wrap option to make space for each icon. Go to **Window > T
 Using the **Swatches**panel, set the sub-heading color to yellow. This will make it easier for the reader to distinguish this section from the regular copy.
 
 
-![past the icons and add a wrap bounding box](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-3-3.jpg)
+![past the icons and add a wrap bounding box](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-3-3.jpg)
 
 
 Let’s work on **Page 6.**Use the **Paragraph Styles**to format the text.
@@ -477,7 +477,7 @@ A great tip when working with bullet points is to use hanging punctuations. This
 To do this, we can add an **Indent to Here** special character by pressing **Command-**after the bullet point**.**To see if this is activated, head over to **Type > Show Hidden Characters.**The **Indent to Here** should be shown as a dagger.
 
 
-![add bullet points to page 6 and use indent to here option](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-3-4.jpg)
+![add bullet points to page 6 and use indent to here option](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-3-3-4.jpg)
 
 
 ## 4. How to Export a PDF File for Printing
@@ -495,7 +495,7 @@ Remember that a crop mark will represent each fold. Let your professional printe
 To export the file, go to **File > Export.**Name the file **trifold brochure**and choose **Adobe PDF (Print)**from the **Format**drop-down menu. Click **Save.**
 
 
-![export the trifold brochure](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-4-1.jpg)
+![export the trifold brochure](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-4-1.jpg)
 
 
 ### **Step 2**
@@ -504,13 +504,13 @@ To export the file, go to **File > Export.**Name the file **trifold brochure**
 In the **Export Adobe PDF**window, set the **Adobe PDF Preset**to **Press Quality.**Under **Pages,**select **Export As Spreads.**
 
 
-![select the export as spreads setting](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-4-2-1.jpg)
+![select the export as spreads setting](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-4-2-1.jpg)
 
 
 On the left side of the panel, select **Marks and Bleeds.**Check **All Printer’s Marks**and **Use Document Bleed Settings.**Click **Export.**You will have a ready-to-print PDF file.
 
 
-![Select all printer marks under marks and bleeds Use the document bleed settings and export](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-4-2-2.jpg)
+![Select all printer marks under marks and bleeds Use the document bleed settings and export](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-4-2-2.jpg)
 
 
 ## **Great Job! You’ve Finished This Tutorial!**
@@ -528,10 +528,10 @@ In this tutorial, we learned how to make a trifold brochure template that's read
 - Export a ready-to-print brochure template PDF file.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-final-1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-final-1.jpg)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-final-2-1-1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/3-trifold-brochure-template-final-2-1-1.jpg)
 
 
-![Laura Keung](http://nuggetofjoy.com/wp-content/uploads/Screenshot-2021-06-02-at-11.16.08-3.jpg)[Laura Keung](https://tutsplus.com/authors/laura-keung) Last updated Apr 21, 2021
+![Laura Keung](https://nuggetofjoy.com/wp-content/uploads/Screenshot-2021-06-02-at-11.16.08-3.jpg)[Laura Keung](https://tutsplus.com/authors/laura-keung) Last updated Apr 21, 2021

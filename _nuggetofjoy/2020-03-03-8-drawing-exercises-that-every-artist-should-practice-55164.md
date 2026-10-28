@@ -14,7 +14,7 @@ categories:
 tags: []
 ---
 
-![](http://nuggetofjoy.com/wp-content/uploads/drawing-exercises-3.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/drawing-exercises-3.jpg)
 
 
 ---
@@ -26,7 +26,7 @@ tags: []
 ---
 
 
-![continuous-contour-line-drawing](http://nuggetofjoy.com/wp-content/uploads/continuous-contour-line-drawing-1.jpg)
+![continuous-contour-line-drawing](https://nuggetofjoy.com/wp-content/uploads/continuous-contour-line-drawing-1.jpg)
 
 
 ### Continuous Contour Line Drawing
@@ -38,7 +38,7 @@ A Continuous Contour Line Drawing is an exercise to help us focus on the line. T
 ---
 
 
-![blind-contour-line-drawing](http://nuggetofjoy.com/wp-content/uploads/blind-contour-line-drawing-1.png)
+![blind-contour-line-drawing](https://nuggetofjoy.com/wp-content/uploads/blind-contour-line-drawing-1.png)
 
 
 ### Continuous Blind Contour Line Drawing
@@ -50,7 +50,7 @@ If you enjoy the contour line exercise, then you should certainly try this one. 
 ---
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="gesture-drawing-exercise" class="wp-image-939" src="http://nuggetofjoy.com/wp-content/uploads/gesture-drawing-exercise-1.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="gesture-drawing-exercise" class="wp-image-939" src="https://nuggetofjoy.com/wp-content/uploads/gesture-drawing-exercise-1.jpg"/></figure></div>
 
 
 ### Gesture Drawing
@@ -69,7 +69,7 @@ You should begin to notice an improvement in your line quality and become more c
 ---
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="negative-space-drawing-exercise" class="wp-image-942" src="http://nuggetofjoy.com/wp-content/uploads/negative-space-drawing-exercise-1.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="negative-space-drawing-exercise" class="wp-image-942" src="https://nuggetofjoy.com/wp-content/uploads/negative-space-drawing-exercise-1.jpg"/></figure></div>
 
 
 ### Draw the Negative Space
@@ -81,7 +81,7 @@ In this exercise you will be drawing the space around the object, negative space
 ---
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-55536" src="http://nuggetofjoy.com/wp-content/uploads/value-drawing-exercise-524x544-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-55536" src="https://nuggetofjoy.com/wp-content/uploads/value-drawing-exercise-524x544-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.jpg"/></figure></div>
 
 
 ### Value Drawing Exercise

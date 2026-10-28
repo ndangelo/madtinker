@@ -16,7 +16,7 @@ tags: []
 From: <https://design.tutsplus.com/>
 
 
-![Final product image](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate00A-1-1.jpg)
+![Final product image](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate00A-1-1.jpg)
 
 What You'll Be Creating
 
@@ -37,7 +37,7 @@ This tutorial will teach you how to create a bifold pamphlet in **Adobe Illustr
 If you don't have the time to learn how to make a pamphlet, you can always try [Envato Elements](https://elements.envato.com/graphic-templates/print-templates). You will find a massive collection of pamphlet examples to choose from.
 
 
-[![travel brochure](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate0C-1.jpg)](https://elements.envato.com/travel-agency-brochure-KAPRYC2)
+[![travel brochure](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate0C-1.jpg)](https://elements.envato.com/travel-agency-brochure-KAPRYC2)
 
 
 ## What You Will Need
@@ -70,7 +70,7 @@ You can learn more about Illustrator's grid system in this short tutorial from A
 You should also open the **Info** panel (**Window > Info**) for a live preview with the size and position of your shapes. Don't forget to set the unit of measurement to millimeters from **Edit > Preferences > Units**. All these options will significantly increase your work speed.
 
 
-![pamphlet format](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate1-1.jpg)
+![pamphlet format](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate1-1.jpg)
 
 
 Now that you have your blank pamphlet template, let's learn how to set up the pamphlet layout.
@@ -91,7 +91,7 @@ Click your second artboard to select it. Pick the **Artboard Tool** (**Shift-O
 Enable the **Rulers** (**View > Rulers > Show Rulers** or **Control-R**). Focus on the vertical rulers and simply click and drag to add a vertical guide for your document. Move your guide to **210 mm** on the horizontal rulers to divide your pamphlet layout into two equal sides.
 
 
-![pamphlet layout](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate2-1.jpg)
+![pamphlet layout](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate2-1.jpg)
 
 
 ### Step 2
@@ -106,7 +106,7 @@ Click the **New Swatch** button and change the **Color Type** to **Spot Col
 The nice thing about spot colors is that you can easily edit them, and the instances where the spot color is used automatically adjust to fit the new values.
 
 
-![save colors](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate3-1.jpg)
+![save colors](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate3-1.jpg)
 
 
 ## 3. How to Add the Background for the Front of the Travel Pamphlet
@@ -124,7 +124,7 @@ Drag this [Aerial View of Green Pine Forest](https://elements.envato.com/aerial
 Select the **Rectangle Tool (M)** from your toolbar, create a **213 x 303 mm** shape, and place it as shown in the second image.
 
 
-![add photo](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate4-1.jpg)
+![add photo](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate4-1.jpg)
 
 
 ### Step 2
@@ -133,7 +133,7 @@ Select the **Rectangle Tool (M)** from your toolbar, create a **213 x 303 mm*
 Select the rectangle along with the photo, and go to **Object > Clipping Mask > Make** (**Control-7**).
 
 
-![clip photo](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate5-1.jpg)
+![clip photo](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate5-1.jpg)
 
 
 ### Step 3
@@ -145,7 +145,7 @@ Again, drag this [Danube](https://elements.envato.com/the-danube-gorges-PHKLKBK
 Select the **Rectangle Tool (M)** from your toolbar, create a **213 x 303 mm** shape, and place it as shown in the second image.
 
 
-![add photo](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate6-1.jpg)
+![add photo](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate6-1.jpg)
 
 
 ### Step 4
@@ -154,7 +154,7 @@ Select the **Rectangle Tool (M)** from your toolbar, create a **213 x 303 mm*
 Select both the rectangle and the photo, and go to **Object > Clipping Mask > Make** (**Control-7**).
 
 
-![clip photo](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate7-1.jpg)
+![clip photo](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate7-1.jpg)
 
 
 ## 4. How to Create the Left Front Side of the Travel Pamphlet
@@ -172,7 +172,7 @@ Select the **Type Tool (T)** from your toolbar and open the **Character** pa
 Simply click on your artboard to type in *"2021"* and replace the text color with your blue from the **Swatches** panel.
 
 
-![white rectangle](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate8-1.jpg)
+![white rectangle](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate8-1.jpg)
 
 
 ### Step 2
@@ -184,7 +184,7 @@ Keep focusing on the **Character** panel and keep the [Robinson Regular](http
 Click on your artboard and type *"MAKE THE WORLD YOUR HOME",* with each word on a separate row. Change the color of this text to white, and remember to check the **Align Center** button from the control panel to nicely center your text. Place it roughly as shown in the following image.
 
 
-![bold text](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate9-1.jpg)
+![bold text](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate9-1.jpg)
 
 
 ## 5. How to Create the Right Front Side of the Travel Pamphlet
@@ -199,7 +199,7 @@ Focus on the top side of the right photo and make sure that the**Type Tool (T)**
 Click on your artboard and type *"TRAVELER"*. Change the color of this text to white, and place it as shown in the following image.
 
 
-![text](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate10-1.jpg)
+![text](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate10-1.jpg)
 
 
 ### Step 2
@@ -211,7 +211,7 @@ Switch to the **Rectangle Tool (R)**, create a **96 x 2 mm**shape, fill it wit
 Reselect the **Type Tool (T)** and focus on the **Character** panel. Select the [More Sugar](https://elements.envato.com/more-sugar-font-A9PVHB)font, and set the **size** to **26** and the **tracking** to **900**. Type *"Romania"*, place this new text as shown in the second image, and make sure that the color is set to white.
 
 
-![header](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate11-1.jpg)
+![header](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate11-1.jpg)
 
 
 ### Step 3
@@ -223,7 +223,7 @@ Switch to the **Rectangle Tool (R)** and create three **28 x 2 mm** shapes. 
 Using the same tool, create two **2 mm** squares. Fill both shapes with white, and place them as shown in the second image.
 
 
-![red yellow blue](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate12-1.jpg)
+![red yellow blue](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate12-1.jpg)
 
 
 ### Step 4
@@ -235,7 +235,7 @@ Focus on the top side of the right photo, and make sure that the**Rectangle Tool
 Create a **213 x 50 mm** shape and place it as shown in the following image. Fill this new rectangle with white, lower its **Opacity** to **50%**, and change the **Blending Mode** to **Overlay**.
 
 
-![blend mode overlay](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate13-1.jpg)
+![blend mode overlay](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate13-1.jpg)
 
 
 ### Step 5
@@ -250,7 +250,7 @@ Switch to the **Type Tool (T)** and focus on the **Character** panel. Use th
 Add the three pieces of text shown in the second image. Make sure that the color is set to white.
 
 
-![white text](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate14A-1.jpg)
+![white text](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate14A-1.jpg)
 
 
 ### Step 6
@@ -265,7 +265,7 @@ Switch to the **Type Tool (T)** and focus on the **Character** panel. Use th
 Add the *"TRAVELER.COM"*piece of text, set the color to black, and place it as shown in the second image.
 
 
-![rectangle text](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate15A-1.jpg)
+![rectangle text](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate15A-1.jpg)
 
 
 ### Step 7
@@ -274,7 +274,7 @@ Add the *"TRAVELER.COM"*piece of text, set the color to black, and place it as 
 Select your black text along with the white rectangle, open the **Transparency** panel (**Window > Transparency**), click the **Make Mask**button, and don't forget to uncheck the **Clip** box.
 
 
-![opacity mask](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate16-1.jpg)
+![opacity mask](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate16-1.jpg)
 
 
 ## 6. How to Add a Border for the Front of the Travel Pamphlet
@@ -286,7 +286,7 @@ Select the **Rectangle Tool (M)** and create a **210 x 297 mm** shape. Remov
 Duplicate this shape (**Control-C > Control-V**) and place the copy as shown in the second image.
 
 
-![rectangle stroke](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate17A-1.jpg)
+![rectangle stroke](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate17A-1.jpg)
 
 
 ## 7. How to Add the Background for the Back of the Travel Pamphlet
@@ -304,7 +304,7 @@ Using the **Rectangle Tool (M)**, create a **213 x 303 mm** shape and place i
 Select both the rectangle and the photo and go to **Object > Clipping Mask > Make** (**Control-7**).
 
 
-![add photo](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate18-1.jpg)
+![add photo](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate18-1.jpg)
 
 
 ### Step 2
@@ -319,7 +319,7 @@ Using the **Rectangle Tool (M)**, create a **213 x 303 mm** shape and place i
 Select both the rectangle and the photo, and go to **Object > Clipping Mask > Make** (**Control-7**).
 
 
-![clip photo](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate19-1.jpg)
+![clip photo](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate19-1.jpg)
 
 
 ### Step 3
@@ -331,7 +331,7 @@ Drag this [Rasnov Fortress](https://elements.envato.com/rasnov-fortress-romania
 Using the **Rectangle Tool (M)**, create a **213 x 99 mm** shape and place it as shown in the second image. Switch to the **Direct Selection Tool (A)** and focus on the right side of this rectangle. Select the top anchor point and move it **100 mm** up, as shown in the third image.
 
 
-![add photo](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate20-1.jpg)
+![add photo](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate20-1.jpg)
 
 
 ### Step 4
@@ -340,7 +340,7 @@ Using the **Rectangle Tool (M)**, create a **213 x 99 mm** shape and place it
 Select both the shape and the photo added in the previous step and go to **Object > Clipping Mask > Make** (**Control-7**).
 
 
-![clip photo](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate21-1.jpg)
+![clip photo](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate21-1.jpg)
 
 
 ### Step 5
@@ -349,7 +349,7 @@ Select both the shape and the photo added in the previous step and go to **Obje
 Using the **Rectangle Tool (M)**, create a **213 x 303 mm** shape and place it as shown in the following image. Fill this new rectangle with blue and change the **Blending Mode** to **Soft Light**.
 
 
-![rectangle soft light](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate22-1.jpg)
+![rectangle soft light](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate22-1.jpg)
 
 
 ## 8. How to Add the Pamphlet Information
@@ -367,7 +367,7 @@ Focus on the top side of the left photo and pick the **Type Tool (T)**. Select 
 Click on your artboard and type *"TRAVELER"*. Change the color of this text to blue and place it as shown in the following image.
 
 
-![text](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate23-1.jpg)
+![text](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate23-1.jpg)
 
 
 ### Step 2
@@ -382,7 +382,7 @@ Using the same tool and settings, create two **5 x 16 mm** shapes, and place t
 Switch to the **Type Tool (T)** and focus on the **Character** panel. Select the[More Sugar](https://elements.envato.com/more-sugar-font-A9PVHB) font and set the **size** to **30**. Add the *"discover Romania"* text, set the color to white, and place it as shown in the third image.
 
 
-![header](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate24-1.jpg)
+![header](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate24-1.jpg)
 
 
 ### Step 3
@@ -391,7 +391,7 @@ Switch to the **Type Tool (T)** and focus on the **Character** panel. Select
 Pick the **Rectangle Tool (M)**, create a **90 x 217 mm** shape, fill it with white, and place it as shown in the following image.
 
 
-![white column](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate25-1.jpg)
+![white column](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate25-1.jpg)
 
 
 ### Step 4
@@ -406,7 +406,7 @@ Select only the *"$"* symbol from this new piece of text, return to the **Cha
 Using the same tool, add a small paragraph as shown in the second image. Change the text color to blue, keep the [Robinson Regular](https://elements.envato.com/robinson-regular-HQ9JBN) font, and set the **size** to **22** and the leading to **20**.
 
 
-![text](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate26-1.jpg)
+![text](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate26-1.jpg)
 
 
 ### Step 5
@@ -418,7 +418,7 @@ Keep focusing o the blue text added in the previous step. Using the **Type Tool
 Add two copies of this paragraph and move them below the original one, as shown in the third image.
 
 
-![text column](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate27-1.jpg)
+![text column](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate27-1.jpg)
 
 
 ### Step 6
@@ -427,7 +427,7 @@ Add two copies of this paragraph and move them below the original one, as shown 
 Select the white rectangle along with the text that lies on top of it, and duplicate them. Drag the copies to the right, as shown in the first image, and then make some small adjustments to the text.
 
 
-![duplicate text column](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate28-1.jpg)
+![duplicate text column](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate28-1.jpg)
 
 
 ### Step 7
@@ -442,7 +442,7 @@ Focus on the bottom side of this red rectangle and switch to the **Direct Selec
 Switch to the **Type Tool (T)** and focus on the **Character** panel. Select the [More Sugar](https://elements.envato.com/more-sugar-font-A9PVHB) font, and set the **size** to **10** and the tracking to **100**. Add the *"BESTSELLER"* text, set the color to white, rotate it **90 degrees**, and then place it as shown in the third image.
 
 
-![red ribbon](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate29-1.jpg)
+![red ribbon](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate29-1.jpg)
 
 
 ### Step 8
@@ -454,7 +454,7 @@ Using the **Rectangle Tool (M)**, create a **213 x 97 mm** shape, fill it wit
 Switch to the **Direct Selection Tool (A)** and focus on the left side of this rectangle. Select the top anchor point and move it **27 mm** down, as shown in the second image.
 
 
-![red shape](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate30-1.jpg)
+![red shape](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate30-1.jpg)
 
 
 ### Step 9
@@ -466,7 +466,7 @@ Using the **Rectangle Tool (M)**, create a **213 x 199 mm** shape, fill it wi
 Switch to the **Delete Anchor Point Tool (-)** and use it to remove the top-left anchor point, and then grab the **Direct Selection Tool (A)**. Select the remaining top anchor point and move it **213 mm** to the right, as shown in the third image.
 
 
-![yellow shape](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate31-1.jpg)
+![yellow shape](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate31-1.jpg)
 
 
 ### Step 10
@@ -478,7 +478,7 @@ Using the **Rectangle Tool (M)**, create a **213 x 70 mm** shape, fill it wit
 Switch to the **Delete Anchor Point Tool (-)** and use it to remove the top-right anchor point.
 
 
-![blue shape](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate32-1.jpg)
+![blue shape](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate32-1.jpg)
 
 
 ### Step 11
@@ -493,7 +493,7 @@ Switch to the **Type Tool (T)** and focus on the **Character** panel. Use th
 Add the *"TRAVELER.COM"*text, set the color to white, and place it as shown in the second image.
 
 
-![text box](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate33-1.jpg)
+![text box](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate33-1.jpg)
 
 
 ### Step 12
@@ -508,7 +508,7 @@ Switch to the **Type Tool (T)** and focus on the **Character** panel. Use th
 Add the *"EMAIL@TRAVELER.COM"*text, set the color to white, and place it as shown in the second image.
 
 
-![text email](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate34-1.jpg)
+![text email](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate34-1.jpg)
 
 
 ## 9. How to Create the Right Back Side of the Pamphlet Design
@@ -523,7 +523,7 @@ Pick the **Type Tool (T)** and focus on the **Character** panel. Use the [R
 Add the *"AND NEW PEOPLE"*text, set the color to black, and then rotate it and place it roughly as shown in the second image.
 
 
-![text rotate](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate35-1.jpg)
+![text rotate](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate35-1.jpg)
 
 
 ### Step 2
@@ -532,7 +532,7 @@ Add the *"AND NEW PEOPLE"*text, set the color to black, and then rotate it and 
 Select your black text along with the yellow shape, go to the **Transparency** panel, and click that **Make Mask** button. Don't forget to uncheck the **Clip** box.
 
 
-![text opacity mask](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate36-1.jpg)
+![text opacity mask](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate36-1.jpg)
 
 
 ### Step 3
@@ -541,7 +541,7 @@ Select your black text along with the yellow shape, go to the **Transparency**�
 Reselect the **Type Tool (T)** and add the *"DISCOVER A NEW WORLD"*piece of text. Set the color to yellow, rotate the text, and place it roughly as shown in the following image.
 
 
-![yellow text rotate](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate37-1.jpg)
+![yellow text rotate](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate37-1.jpg)
 
 
 ### Step 4
@@ -556,7 +556,7 @@ Switch to the **Type Tool (T)** and focus on the **Character** panel. Select
 Add the *"TRAVELER.COM"*text, rotate it **90 degrees**, set the color to white, and place it as shown in the second image.
 
 
-![text tag](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate38-1.jpg)
+![text tag](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate38-1.jpg)
 
 
 ## 10. How to Save Your Pamphlet as a PDF Document
@@ -568,7 +568,7 @@ Once your bifold pamphlet is ready for print, you might want to export it as a P
 Select **Adobe PDF** from the **Save as type** dropdown menu, type in a name for your PDF document, and click **Save**.
 
 
-![pamphlet export PDF](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate38A-1.jpg)
+![pamphlet export PDF](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate38A-1.jpg)
 
 
 ## Congratulations! Your Pamphlet Design Is Complete!
@@ -586,7 +586,7 @@ Now that you know how to make a pamphlet, you might want to test it inside a pam
 [Placeit](https://placeit.net/c/mockups/?search=a4) comes with a massive collection of pamphlet mockups. With just a few clicks, you can replace those blank pamphlet templates with your design.
 
 
-![bifold pamphlet](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate39A-1.jpg)
+![bifold pamphlet](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate39A-1.jpg)
 
 
-![travel pamphlet](http://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate40-1.jpg)
+![travel pamphlet](https://nuggetofjoy.com/wp-content/uploads/tourismPamphletTemplate40-1.jpg)

@@ -65,7 +65,7 @@ Select an entry from [The People's Graphic Design Archive](https://peoplesgdarc
 
 ![https://www.instagram.com/p/CM-2RzLB0Oq/
 By Kelsey Zuberbuehler
-PGDA x Instagram Histories](http://nuggetofjoy.com/wp-content/uploads/image-108-1024x658.png)
+PGDA x Instagram Histories](https://nuggetofjoy.com/wp-content/uploads/image-108-1024x658.png)
 
 <https://www.instagram.com/p/CM-2RzLB0Oq/>  
 By Kelsey Zuberbuehler  
@@ -74,7 +74,7 @@ PGDA x Instagram Histories
 
 ![https://www.instagram.com/p/CM9_6esB-hL/
 By Shannon Topham
-PGDA x Instagram Histories](http://nuggetofjoy.com/wp-content/uploads/image-109-1024x658.png)
+PGDA x Instagram Histories](https://nuggetofjoy.com/wp-content/uploads/image-109-1024x658.png)
 
 <https://www.instagram.com/p/CM9_6esB-hL/>  
 By Shannon Topham  
@@ -83,7 +83,7 @@ PGDA x Instagram Histories
 
 ![https://www.instagram.com/p/CM1QfLgB8oJ/​
 By Emmett Crass
-PGDA x Instagram Histories](http://nuggetofjoy.com/wp-content/uploads/image-110-1024x656.png)
+PGDA x Instagram Histories](https://nuggetofjoy.com/wp-content/uploads/image-110-1024x656.png)
 
 [https://www.instagram.com/p/CM1QfLgB8oJ/​](https://www.instagram.com/p/CM1QfLgB8oJ/%E2%80%8B)  
 By Emmett Crass  
@@ -92,7 +92,7 @@ PGDA x Instagram Histories
 
 ![https://www.instagram.com/p/CM3HQj5ht3h/
 ​By Izzy Gavaza
-PGDA x Instagram Histories](http://nuggetofjoy.com/wp-content/uploads/image-111-1024x753.png)
+PGDA x Instagram Histories](https://nuggetofjoy.com/wp-content/uploads/image-111-1024x753.png)
 
 <https://www.instagram.com/p/CM3HQj5ht3h/>  
 ​By Izzy Gavaza  
@@ -101,7 +101,7 @@ PGDA x Instagram Histories
 
 ![https://www.instagram.com/p/CM8RYBdhCSO/​
 By Max Lynn
-PGDA x Instagram Histories](http://nuggetofjoy.com/wp-content/uploads/image-112-1024x683.png)
+PGDA x Instagram Histories](https://nuggetofjoy.com/wp-content/uploads/image-112-1024x683.png)
 
 [https://www.instagram.com/p/CM8RYBdhCSO/​](https://www.instagram.com/p/CM8RYBdhCSO/%E2%80%8B)  
 By Max Lynn  

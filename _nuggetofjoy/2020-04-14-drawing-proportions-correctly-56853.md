@@ -29,13 +29,13 @@ The next time you try to draw something (preferably a still life) take one simpl
 Next, you must ask yourself many questions about the sizes and locations of the other objects **as compared to this reference object**. It’s important to quantify your findings; in other words, please assign a number to any of your comparisons. This is where art makes a strong connection to math, fractions and percentages to be specific. Look at the photograph of the still life below and pretend you are just about to draw this still life.
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Drawing Proportions Correctly | How To Draw | Techniques for Accurate Drawing" class="wp-image-1105" src="http://nuggetofjoy.com/wp-content/uploads/still-life-proportions-3.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Drawing Proportions Correctly | How To Draw | Techniques for Accurate Drawing" class="wp-image-1105" src="https://nuggetofjoy.com/wp-content/uploads/still-life-proportions-3.jpg"/></figure></div>
 
 
 Now that you have seen the still life set up let us take a peek into an artist’s mind to gain some insight into how they would start making important observations regarding this setup’s proportions. Take a look at this next photo accompanied by an artist’s comparative findings listed underneath the photo.
 
 
-<div class="wp-block-image"><figure class="aligncenter"><img alt="Drawing Proportions Correctly: comparing heights | How To Draw | Techniques for Accurate Drawing" class="wp-image-1106" src="http://nuggetofjoy.com/wp-content/uploads/still-life-proportions-height-1.jpg"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img alt="Drawing Proportions Correctly: comparing heights | How To Draw | Techniques for Accurate Drawing" class="wp-image-1106" src="https://nuggetofjoy.com/wp-content/uploads/still-life-proportions-height-1.jpg"/></figure></div>
 
 
 Here are some import findings regarding how tall each object is:
@@ -55,7 +55,7 @@ We just examined the heights of still life objects as compared to our **referen
 We just discovered how to proportion a drawing in terms of how tall each object is (heights). Now consider how wide each object is. Using the same cylinder for our reference object we can figure out how wide each object is. Do you see any objects that appear to be the same width? Look at the photograph of the still life again and you’ll notice some if the important findings listed below.
 
 
-<div class="wp-block-image"><figure class="aligncenter"><a href="http://helloartsy.com/wp-content/uploads/2015/12/still-life-proportions-height1.jpg"><img alt="Drawing Proportions Correctly: comparing widths | How To Draw | Techniques for Accurate Drawing" class="wp-image-1108" src="http://nuggetofjoy.com/wp-content/uploads/still-life-proportions-width-1.jpg"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="http://helloartsy.com/wp-content/uploads/2015/12/still-life-proportions-height1.jpg"><img alt="Drawing Proportions Correctly: comparing widths | How To Draw | Techniques for Accurate Drawing" class="wp-image-1108" src="https://nuggetofjoy.com/wp-content/uploads/still-life-proportions-width-1.jpg"/></a></figure></div>
 
 
 Here are some import findings regarding how tall each object is:
@@ -78,7 +78,7 @@ Defining the heights and widths of objects is very important but drawing proport
 Scroll up and take a look at the original still life at the start of this post one last time; let’s make a few discoveries regarding correctly proportioning the positions of each object and accounting for the spaces in between**. How big are the spaces in between each object? Is one object positioned higher or lower than another?**Be specific when you try to answer these questions and make as many discoveries as possible.
 
 
-<div class="wp-block-image"><figure class="aligncenter"><a href="http://helloartsy.com/wp-content/uploads/2015/12/still-life-proportions-placement.jpg"><img alt="Drawing Proportions Correctly: comparing spacing | How To Draw | Techniques for Accurate Drawing" class="wp-image-1109" src="http://nuggetofjoy.com/wp-content/uploads/still-life-proportions-placement-1.jpg"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="http://helloartsy.com/wp-content/uploads/2015/12/still-life-proportions-placement.jpg"><img alt="Drawing Proportions Correctly: comparing spacing | How To Draw | Techniques for Accurate Drawing" class="wp-image-1109" src="https://nuggetofjoy.com/wp-content/uploads/still-life-proportions-placement-1.jpg"/></a></figure></div>
 
 
 Here are some import findings regarding the spacing between objects:

@@ -28,7 +28,7 @@ From: <https://www.indesignskills.com/>
 ---
 
 
-![what is kerning beginners typography letter-spacing how to indesign](http://nuggetofjoy.com/wp-content/uploads/kerning1-1.jpg)
+![what is kerning beginners typography letter-spacing how to indesign](https://nuggetofjoy.com/wp-content/uploads/kerning1-1.jpg)
 
 
 Kerning is the process of increasing or decreasing the space between individual characters, adjusting the position of letters in relation to others. It’s commonly used on prominent pieces of text, such as headlines and logos. Note that tracking, on the other hand, is used to adjust the letter-spacing uniformly over a range of characters ([read more about tracking](https://indesignskills.com/tutorials/letter-spacing-tracking-typography/)).
@@ -46,7 +46,7 @@ Kerning is the process of increasing or decreasing the space between individual 
 Although the process of tweaking kerning may be very subtle, it can have significant effects on the legibility and overall presentation of text.
 
 
-![what is kerning beginners typography letter-spacing how to indesign](http://nuggetofjoy.com/wp-content/uploads/2-5.jpg)
+![what is kerning beginners typography letter-spacing how to indesign](https://nuggetofjoy.com/wp-content/uploads/2-5.jpg)
 
 
 Designers kern letters to improve the overall symmetry of a word or phrase, which the default tracking settings provided in the font file may not be able to achieve alone.
@@ -70,7 +70,7 @@ However, a note of caution! There are many infamous examples on the web of kerni
 In InDesign, you can adjust kerning from either the **Controls panel** running along the top of the workspace or the**Character panel** (**Window > Type & Tables > Character**).
 
 
-![what is kerning beginners typography letter-spacing how to indesign](http://nuggetofjoy.com/wp-content/uploads/3-4.jpg)
+![what is kerning beginners typography letter-spacing how to indesign](https://nuggetofjoy.com/wp-content/uploads/3-4.jpg)
 
 
 Select the **Type Tool (T)**, click your cursor to the left or right side of a letter, and increase or decrease the kerning (which is measured in thousandths of an em) by choosing from the default options (which jumps in sequences of 5’s, 10’s, 25’s and 100’s) or typing in a number.
@@ -100,7 +100,7 @@ Here, we’re going to find out more about letter-spacing or Tracking, including
 Tracking is the typographer’s term for letter-spacing. Sometimes confused with [kerning](https://indesignskills.com/tutorials/kerning/) (which is used to adjust spacing between individual letters), tracking adjusts the letter-spacing uniformly over a range of characters.
 
 
-![what is tracking beginners typography letter-spacing how to indesign](http://nuggetofjoy.com/wp-content/uploads/track1-1-3.jpg)
+![what is tracking beginners typography letter-spacing how to indesign](https://nuggetofjoy.com/wp-content/uploads/track1-1-3.jpg)
 
 
 Tracking affects the visual density of a word, phrase or paragraph. Decreasing the tracking makes the words appear more compact, while increasing tracking increases the amount of white space between letters and words, creating a more airy effect.
@@ -122,7 +122,7 @@ Designers apply tracking for two main reasons:
 - Many designers apply tracking to improve the look of typeset text. Increasing or decreasing tracking has the power to reduce the amount of hyphenation in a paragraph, and banish widows (lone words at the end of a paragraph) and orphans (lone words at the top of a page, which should belong on the previous page).
 
 
-![what is tracking beginners typography letter-spacing how to indesign](http://nuggetofjoy.com/wp-content/uploads/2-1-5.jpg)
+![what is tracking beginners typography letter-spacing how to indesign](https://nuggetofjoy.com/wp-content/uploads/2-1-5.jpg)
 
 
 In the second image the tracking has been reduced. This pushes all the letters closer together, causing the same number of words to fit onto less lines (which removes the widow ‘eat’).
@@ -146,7 +146,7 @@ Use your Type Tool (T) cursor to either highlight the text or use the Selection 
 The tracking option is indicated by an ‘A V’ symbol with an arrow sitting below, and is found alongside the other most commonly used text formatting options in the Controls or Character panel. Measured in thousandths of an em, you can either choose a positive (to increase the spacing) or negative (to decrease) value from the drop-down menu, or type in a numeric value in the text box.
 
 
-![what is tracking beginners typography letter-spacing how to indesign](http://nuggetofjoy.com/wp-content/uploads/3-1-7.jpg)
+![what is tracking beginners typography letter-spacing how to indesign](https://nuggetofjoy.com/wp-content/uploads/3-1-7.jpg)
 
 
 **\****For a linked sequence of text frames selecting the first text frame will apply the tracking settings to the text flowing across all the frames.*
@@ -170,7 +170,7 @@ Here, we’re going to find out more about leading (or line spacing), including 
 ---
 
 
-![what is leading beginners typography line-spacing how to indesign](http://nuggetofjoy.com/wp-content/uploads/Leading-2.jpg)
+![what is leading beginners typography line-spacing how to indesign](https://nuggetofjoy.com/wp-content/uploads/Leading-2.jpg)
 
 
 The definition of leading is: the distance between two baselines of lines of type. The word ‘leading’ originates from the strips of lead hand-typesetters used to use to space out lines of text evenly. The word leading has stuck, but essentially it’s a typographer’s term for line spacing.
@@ -188,7 +188,7 @@ The definition of leading is: the distance between two baselines of lines of ty
 Leading is one of the quickest and simplest tweaks you can do to make your text look instantly better.
 
 
-![what is leading beginners typography line-spacing how to indesign](http://nuggetofjoy.com/wp-content/uploads/Squashed-2.jpg)
+![what is leading beginners typography line-spacing how to indesign](https://nuggetofjoy.com/wp-content/uploads/Squashed-2.jpg)
 
 
 If you’re working in design software like InDesign, the program will set a default leading value whenever you type up more than one line of text. However, this is not usually generous enough, and can make paragraphs look squashed. This works fine if you’re creating a crammed front page for a newspaper, but less well for most other purposes.
@@ -197,7 +197,7 @@ If you’re working in design software like InDesign, the program will set a def
 Increasing the leading allows the text to breathe and makes it appear instantly more attractive. For readers it has practical advantages too—increasing leading makes text easier to read, and it’s also kinder on reader’s eyes over longer periods of reading.
 
 
-![what is leading beginners typography line-spacing how to indesign](http://nuggetofjoy.com/wp-content/uploads/Generous-2.jpg)
+![what is leading beginners typography line-spacing how to indesign](https://nuggetofjoy.com/wp-content/uploads/Generous-2.jpg)
 
 
 So if you’re designing a book or magazine layout, increasing your leading will ensure your audience is captive for longer.
@@ -215,13 +215,13 @@ So if you’re designing a book or magazine layout, increasing your leading will
 When working in InDesign, once you’ve created a piece of text using the **Type Tool (T)**, you can adjust the leading from either the **Controls panel** running along the top of the workspace or the **Character panel** (**Window > Type & Tables > Character**). To edit the leading across a whole section of text, either highlight the text or click on the text frame to select it.
 
 
-![what is leading beginners typography line-spacing how to indesign](http://nuggetofjoy.com/wp-content/uploads/1-10.jpg)
+![what is leading beginners typography line-spacing how to indesign](https://nuggetofjoy.com/wp-content/uploads/1-10.jpg)
 
 
 Leading is always positioned below or next to the**Font Size** option. Setting the leading to **Auto** will apply InDesign’s default leading for the font size you currently have applied. You should see this as a minimum value for your leading. Increasing the leading (which is measured in points, pt) will increase the line-spacing across your paragraph.
 
 
-![what is leading beginners typography line-spacing how to indesign](http://nuggetofjoy.com/wp-content/uploads/one-line-2.jpg)
+![what is leading beginners typography line-spacing how to indesign](https://nuggetofjoy.com/wp-content/uploads/one-line-2.jpg)
 
 
 To apply a particular leading value to just one line of text (e.g. if you want to separate a paragraph visually from a heading positioned above), highlight the line you want to shift downwards and increase the leading.

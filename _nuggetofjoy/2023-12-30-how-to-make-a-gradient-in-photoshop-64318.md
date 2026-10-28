@@ -26,7 +26,7 @@ Today let's take a quick look at how to make a gradient in Photoshop using the n
 The **Gradient** tool can be found in the left-hand toolbar or by pressing **G.**
 
 
-![The Gradient tool can be found in the left hand toolbar](http://nuggetofjoy.com/wp-content/uploads/tool_2-2.jpg)
+![The Gradient tool can be found in the left hand toolbar](https://nuggetofjoy.com/wp-content/uploads/tool_2-2.jpg)
 
 
 ### Step 2
@@ -38,7 +38,7 @@ In the upper **Options** bar, you can select a **Preset** gradient and the 
 To create the initial gradient, click and drag on the canvas. In the below example, I dragged from top to bottom.
 
 
-![To create the initial Gradient click and drag on the canvas](http://nuggetofjoy.com/wp-content/uploads/0006_2.jpg)
+![To create the initial Gradient click and drag on the canvas](https://nuggetofjoy.com/wp-content/uploads/0006_2.jpg)
 
 
 ### Step 3
@@ -50,7 +50,7 @@ You can adjust the placement and angle of the gradient by clicking and dragging 
 You can come back and edit the placement, style, and color of a Gradient layer for as long as the Gradient layer is *not* rasterized. Gradient Fill layers are considered non-destructive.
 
 
-![adjust the placement and angle of the gradient by clicking and dragging the outer Anchor Points](http://nuggetofjoy.com/wp-content/uploads/0005_3.jpg)
+![adjust the placement and angle of the gradient by clicking and dragging the outer Anchor Points](https://nuggetofjoy.com/wp-content/uploads/0005_3.jpg)
 
 
 Advertisement
@@ -65,7 +65,7 @@ You can adjust the spread of the gradient's color by clicking and dragging the**
 In our below example, there are only two colors, so we have one Color Midpoint. A new Color Midpoint will be added between any two colors.
 
 
-![adjust the spread of the gradients' color by clicking and dragging the Color Midpoint](http://nuggetofjoy.com/wp-content/uploads/0004_4.jpg)
+![adjust the spread of the gradients' color by clicking and dragging the Color Midpoint](https://nuggetofjoy.com/wp-content/uploads/0004_4.jpg)
 
 
 ### Step 5
@@ -80,7 +80,7 @@ To add a new color to your gradient, click right below the**Gradient Bar.** It 
 To change a color, **double-click** the **Color Stop** to open the **Color Picker**and select a new color.
 
 
-![You can find more gradient controls in the Window > Properties panel](http://nuggetofjoy.com/wp-content/uploads/0003_5.jpg)
+![You can find more gradient controls in the Window > Properties panel](https://nuggetofjoy.com/wp-content/uploads/0003_5.jpg)
 
 
 ### Step 6
@@ -89,7 +89,7 @@ To change a color, **double-click** the **Color Stop** to open the **Color 
 To remove a color from a gradient, select the**Color Stop**and hit **Delete.**
 
 
-![remove a color from a gradient select the Color Stop and hit Delete](http://nuggetofjoy.com/wp-content/uploads/0002_6.jpg)
+![remove a color from a gradient select the Color Stop and hit Delete](https://nuggetofjoy.com/wp-content/uploads/0002_6.jpg)
 
 
 ### Step 7
@@ -104,10 +104,10 @@ If you need to learn how to add a gradient to an image in Photoshop, here are th
 - Delete and **Opacity Stop**by selecting the stop and hitting**Delete.**
 
 
-![adjust the Opacity of the gradient in different locations using the Opacity Controls](http://nuggetofjoy.com/wp-content/uploads/0001_7.jpg)
+![adjust the Opacity of the gradient in different locations using the Opacity Controls](https://nuggetofjoy.com/wp-content/uploads/0001_7.jpg)
 
 
-![remove the Opacity of certain parts of a gradient  ](http://nuggetofjoy.com/wp-content/uploads/0000_8.jpg)
+![remove the Opacity of certain parts of a gradient  ](https://nuggetofjoy.com/wp-content/uploads/0000_8.jpg)
 
 [Woman in Bikini Standing with Surfboard](https://elements.envato.com/beautiful-african-american-woman-in-bikini-standin-CP5MB38)
 

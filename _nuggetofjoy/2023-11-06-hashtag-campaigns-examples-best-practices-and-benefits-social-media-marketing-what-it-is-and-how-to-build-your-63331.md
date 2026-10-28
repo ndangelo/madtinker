@@ -166,7 +166,7 @@ To ensure you craft a social media hashtag campaign that converts, you could use
 Booking has a brilliant campaign, encouraging people who use their services to use their new hashtag when posting pictures or videos from their travels.
 
 
-[![a screenshot from booking's instagram from posts](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-1-1-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-1.png)
+[![a screenshot from booking's instagram from posts](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-1-1-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-1.png)
 
 
 Their hashtag campaign uses "#TravelGenius," and Instagram and TikTok users have already started including it in their posts, proudly showing everyone the amazing places they've traveled with Booking.
@@ -175,13 +175,13 @@ Their hashtag campaign uses "#TravelGenius," and Instagram and TikTok users have
 The brand collaborates with celebrities who promote their new hashtag campaign. One of them is Mariah Carey.
 
 
-[![a screenshot from instagram with a photo of a river between rocks and the hashtag travel genius included](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-2-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-2.png)
+[![a screenshot from instagram with a photo of a river between rocks and the hashtag travel genius included](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-2-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-2.png)
 
 
 People really take amazing pictures that they include their travel journals and tag Booking.
 
 
-[![a screenshot form instagram with the posts under #travelgenius](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-3-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-3.png)
+[![a screenshot form instagram with the posts under #travelgenius](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-3-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-3.png)
 
 
 Up to this point, the #TravelGenius hashtag was used in more than 15,000 posts.
@@ -196,13 +196,13 @@ Coca-Cola never seizes to surprise their fans. The brand is currently running a 
 The new campaign using #CocaColaCreations shows people that their soda can now fit everyone's taste. This hashtag was used in more than 24,000 posts so far.
 
 
-[![a screenshot of the hashtag #cocacolacreations on instagram](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-4-1-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-4-1.png)
+[![a screenshot of the hashtag #cocacolacreations on instagram](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-4-1-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-4-1.png)
 
 
 The sodas launched in this campaign have different blends of tastes in a creative combination.
 
 
-[![a screenshot from coca cola's instagram showing a bottle on a pink background, as part of their new campaign creations](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-5-1-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-5-1.png)
+[![a screenshot from coca cola's instagram showing a bottle on a pink background, as part of their new campaign creations](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-5-1-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-5-1.png)
 
 
 The new campaign encourages users to be bold and try new tastes and experiment new sensations.
@@ -214,7 +214,7 @@ Many people who have tried the new sodas have commented on their posts, saying t
 The great part is that everyone found their favorite.
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-6-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-6.png)
+[![](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-6-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-6.png)
 
 
 ## Adidas - #ImpossibleIsNothing
@@ -226,19 +226,19 @@ Adidas has empowered their audience since forever, with motivational campaigns a
 The new hashtag campaign #ImpossibleIsNothing encourages users to surpass their limits.
 
 
-[![a screenshot with a post from adidas for the campaign #impossibleisnothing showing the importance of family](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-7-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-7.png)
+[![a screenshot with a post from adidas for the campaign #impossibleisnothing showing the importance of family](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-7-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-7.png)
 
 
 This campaign features a lot of collaborations with influencers and sports people who promote Adidas' new hashtag campaign.
 
 
-[![a screenshot with a post from adidas for the campaign #impossibleisnothing showing a baby](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-9-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-9.png)
+[![a screenshot with a post from adidas for the campaign #impossibleisnothing showing a baby](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-9-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-9.png)
 
 
 Their hashtag was already used in over 500,000 posts on Instagram. That's an amazing community.
 
 
-[![screenshot from instagram with the posts using the hashtag #impossibleisnothing](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-10-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-10.png)
+[![screenshot from instagram with the posts using the hashtag #impossibleisnothing](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-10-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-10.png)
 
 
 ## L’Oreal Paris - #GlowParadise
@@ -247,7 +247,7 @@ Their hashtag was already used in over 500,000 posts on Instagram. That's an ama
 L'Oreal Paris is one of the biggest beauty brands in the world. This brand runs many hashtag campaigns simultaneously since they periodically launch new products they want to promote.
 
 
-[![screenshot from loreal paris instagram with a posts in which a girl applies lipstick on her lips](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-12-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-12.png)
+[![screenshot from loreal paris instagram with a posts in which a girl applies lipstick on her lips](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-12-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-12.png)
 
 
 L'Oreal Paris collaborates with many influencers and celebrities, like Camila Cabello, to promote thier new hashtag campaigns.
@@ -268,7 +268,7 @@ This snack brand shocked everyone with their new campaign, launching surprising 
 The hashtag campaign #DoMeAFlavour is about letting their fans come up with new flavours' ideas and the brand chooses some of them to launch them in limited editions.
 
 
-[![screenshot from lays instagram with a post about lays with mountain dew taste](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-15-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-15.png)
+[![screenshot from lays instagram with a post about lays with mountain dew taste](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-15-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-15.png)
 
 
 Besides increasing brand awareness, they built a loyal community around the brand, showing their audience their opinions matters for Lays.
@@ -277,7 +277,7 @@ Besides increasing brand awareness, they built a loyal community around the bran
 People have asked for the weirdest combos of flavors.
 
 
-[![screenshot from lays instagram with a post about lays with french toast and mimosa taste](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-14-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-14.png)
+[![screenshot from lays instagram with a post about lays with french toast and mimosa taste](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-14-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-14.png)
 
 
 Their new hashtag campaign has over 135 posts so far, but the game has just started.
@@ -286,7 +286,7 @@ Their new hashtag campaign has over 135 posts so far, but the game has just star
 However, maybe for some people it's hard to find out about the campaign since the hashtag does not feature the brand's name, even if the pun used is fun and easy to remember.
 
 
-[![screenshot from instagram with the posts using the hashtag #dousaflavour](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-16-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-16.png)
+[![screenshot from instagram with the posts using the hashtag #dousaflavour](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaign-16-12.png)](https://www.socialinsider.io/blog/content/images/2023/06/hashtag-campaign-16.png)
 
 
 ## L’Oreal - #LessonOfWorth
@@ -298,7 +298,7 @@ L’Oreal has many inspiring social media hashtag campaigns that empower people 
 This brand talks about beauty like being a unique feature that comes in many forms and, although they sell make-up products, they have ads with actresses who take off the make-up.
 
 
-[![screenshot from a post on l'oreal's instagram with kate winslet](http://nuggetofjoy.com/wp-content/uploads/sm-hashtag-campaign-1-12.png)](https://www.socialinsider.io/blog/content/images/2023/09/sm-hashtag-campaign-1.png)
+[![screenshot from a post on l'oreal's instagram with kate winslet](https://nuggetofjoy.com/wp-content/uploads/sm-hashtag-campaign-1-12.png)](https://www.socialinsider.io/blog/content/images/2023/09/sm-hashtag-campaign-1.png)
 
 
 Why? Because they want to be perceived as a relevant brand, one inspired from their followers’ lives.
@@ -331,7 +331,7 @@ Sephora’s hashtag campaign called #SephoraSquad is one of the most used hashta
 Even if this beauty brand started this powerful hashtag campaign, the user-generated content that followed was incredible.
 
 
-[![screenshot from sephora's post on insta showing a girl brading her hair](http://nuggetofjoy.com/wp-content/uploads/sm-hashtag-campaign-2-12.png)](https://www.socialinsider.io/blog/content/images/2023/09/sm-hashtag-campaign-2.png)
+[![screenshot from sephora's post on insta showing a girl brading her hair](https://nuggetofjoy.com/wp-content/uploads/sm-hashtag-campaign-2-12.png)](https://www.socialinsider.io/blog/content/images/2023/09/sm-hashtag-campaign-2.png)
 
 
 Sephora works with a lot of influencers, both micro and macro-influencers and creators all around the world.
@@ -352,7 +352,7 @@ Sephora posted 3507 posts with this hashtag in the last six months on Instagram.
 ## HausLabs - #CleanBeauty
 
 
-[![screenshot from hauslab' instagram with a post with lady gaga](http://nuggetofjoy.com/wp-content/uploads/sm-hashtag-campaign-4-12.png)](https://www.socialinsider.io/blog/content/images/2023/09/sm-hashtag-campaign-4.png)
+[![screenshot from hauslab' instagram with a post with lady gaga](https://nuggetofjoy.com/wp-content/uploads/sm-hashtag-campaign-4-12.png)](https://www.socialinsider.io/blog/content/images/2023/09/sm-hashtag-campaign-4.png)
 
 
 Lady Gaga, renowned as a singer, actress, and role model globally, leveraged her influential image to promote her beauty brand, HausLabs. Using the hashtag #CleanBeauty, she initiated an awareness campaign advocating for makeup products not tested on animals. Despite not creating a brand-specific hashtag, the campaign utilized the existing #CleanBeauty, which has over 6 million posts on Instagram. Numerous brands, including HausLabs, have contributed to the hashtag, amassing over 114K posts by business accounts in the last 6 months, emphasizing its effectiveness in building brand awareness.
@@ -364,7 +364,7 @@ Lady Gaga, renowned as a singer, actress, and role model globally, leveraged her
 Everyone knows Duolingo has a really [strong marketing strategy](https://www.socialinsider.io/blog/duolingo-tiktok-strategy/), having a nice community behind it due to its presence on TikTok and Instagram.
 
 
-[![screenshot from duolingo's instagram with a post with their mascot](http://nuggetofjoy.com/wp-content/uploads/sm-hashtag-campaign-6-12.png)](https://www.socialinsider.io/blog/content/images/2023/09/sm-hashtag-campaign-6.png)
+[![screenshot from duolingo's instagram with a post with their mascot](https://nuggetofjoy.com/wp-content/uploads/sm-hashtag-campaign-6-12.png)](https://www.socialinsider.io/blog/content/images/2023/09/sm-hashtag-campaign-6.png)
 
 
 They really know how to build fun and informative content, attracting more clients through the playfulness of their brand.
@@ -385,7 +385,7 @@ In the last 6 months, the brand posted 5121 posts with this hashtag.
 I hope a lot of us remember who Grimace is. If not, well, this purple puppet that looks like a chicken nugget or a potato, it’s one of the characters used to be popular in the ‘90s.
 
 
-[![screenshot from mcdonald's instagram with a post about grimace's birthday](http://nuggetofjoy.com/wp-content/uploads/sm-hashtag-campaign-8-12.png)](https://www.socialinsider.io/blog/content/images/2023/09/sm-hashtag-campaign-8.png)
+[![screenshot from mcdonald's instagram with a post about grimace's birthday](https://nuggetofjoy.com/wp-content/uploads/sm-hashtag-campaign-8-12.png)](https://www.socialinsider.io/blog/content/images/2023/09/sm-hashtag-campaign-8.png)
 
 
 This puppet is the embodiment of a milkshake and McDonald’s has recently celebrated Grimace’s birthday, building a lot of suspense and hype around it.
@@ -406,19 +406,19 @@ There are 1984 tagged posts with #Grimace in the last 6 months on Instagram.
 Maison Margiela Fragrances, a renowned retailer with a focus on beauty and fragrances, gained widespread acclaim with the launch of REPLICA, a perfume line inspired by evocative memories. Their hashtag campaign, #SmellsLikeMemories, has garnered attention, accompanied by collaborations with artists and influencers. The brand has fostered a creative initiative, prompting artists to create diverse works such as recipes, paintings, sculptures, and flower installations inspired by their fragrances.
 
 
-[![screenshot from maison margiela fragrances post on instagram showing a perfume on a beach](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-14-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-14.png)
+[![screenshot from maison margiela fragrances post on instagram showing a perfume on a beach](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-14-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-14.png)
 
 
 Maison Margiela Fragrances also engages with their followers, replying to their comments and even helping those who want to find a suitable perfume for their preferences.
 
 
-[![screenshot from maison margiela fragrances instagram post with sailing day perfume on a mirror](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-13-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-13.png)
+[![screenshot from maison margiela fragrances instagram post with sailing day perfume on a mirror](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-13-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-13.png)
 
 
 The brand collaborates with skilled influencers who produce high-quality Reels and poetic content to endorse their fragrances. The associated hashtag has garnered over 26,000 posts on Instagram, with a recent six-month analysis using Socialinsider's AI Instagram listening tool revealing 186 posts. Influencers predominantly contribute carousels and Reels using the hashtag. Additionally, the brand has initiated a hashtag campaign for their refill bottles, employing #NeverEndingMemories.
 
 
-[![screenshot from maison margiela fragrances insta post with refill bottles for perfumes](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-9-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-9.png)
+[![screenshot from maison margiela fragrances insta post with refill bottles for perfumes](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-9-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-9.png)
 
 
 ## Skittles - #TasteTheRainbow
@@ -427,7 +427,7 @@ The brand collaborates with skilled influencers who produce high-quality Reels a
 Skittles, a leading brand in sour candy, has consistently captivated customers with a variety of sour flavors over the years. Their enduring and well-known hashtag campaign, #TasteTheRainbow, aligns with their colorful candy imagery seen in popular TV commercials. This hashtag has been featured in 678,000 posts on Instagram, reflecting its widespread use and success in promoting the brand.
 
 
-[![screenshot from skittles insta showing a green pack of candy on a red background](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-11-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-11.png)
+[![screenshot from skittles insta showing a green pack of candy on a red background](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-11-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-11.png)
 
 
 I used Socialinsider’s [AI Instagram listening tool](https://www.socialinsider.io/social-media-listening) to search for their hashtag campaign and I discovered that in the last 6 months, this hashtag was used in 527 posts, and 499 of them are from influencers.
@@ -439,7 +439,7 @@ The hashtag was primarily used when posting Reels.
 Skittles has used a lot of user-generated content in their campaign and also many posts from the influencers they collaborate with. Some of them have shown in Reels how they integrate Skittles in some weird recipes.
 
 
-[![screenshot from skittles insta with a post of a guy making a skittles drink recipe](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-8-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-8.png)
+[![screenshot from skittles insta with a post of a guy making a skittles drink recipe](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-8-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-8.png)
 
 
 ## Fenty Beauty - #FentyFam
@@ -451,7 +451,7 @@ Fenty Beauty is a beauty brand that is growing in popularity just like Rihanna�
 The #FentyFam hashtag campaign focuses on posts from the women working at Fenty. They record Reels and take pictures of them using Fenty products, while also telling their stories.
 
 
-[![screenshot from fenty insta post with a brunette girl in a yellow sweater applying foundation](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-7-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-7.png)
+[![screenshot from fenty insta post with a brunette girl in a yellow sweater applying foundation](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-7-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-7.png)
 
 
 And that’s how you get to your customers’ hearts: through stories and top-notch products.
@@ -469,7 +469,7 @@ In the last 6 months, this hashtag has been used in 57 posts, while 56 of them w
 The hashtag from Fenty Beauty was mostly used in Reels on Instagram.
 
 
-[![screenshot from fenty beauty insta post with two women of colour smiling](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-5-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-5.png)
+[![screenshot from fenty beauty insta post with two women of colour smiling](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-5-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-5.png)
 
 
 Some of the posts on Fenty Beauty’s Instagram show that the beauty brand even planned a Fenty Fam sale for all their employees. Isn’t that amazing?
@@ -493,13 +493,13 @@ In the last 6 months, this hashtag has been used in over 10K posts, and about 95
 They mostly used the branded hashtag from Tarte in Reels and carousels.
 
 
-[![screenshot from tarte cosmetics insta with a girl applying foundation, wearing a black t-shirt](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-4-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-4.png)
+[![screenshot from tarte cosmetics insta with a girl applying foundation, wearing a black t-shirt](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-4-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-4.png)
 
 
 The beauty brand uses a lot of content from the influencers, posting Reels with them when testing the newest beauty products. And this type of content is really satisfying for followers.
 
 
-[![screenshot from tarte cosmetics insta with a girl applying eyeliner](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-2-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-2.png)
+[![screenshot from tarte cosmetics insta with a girl applying eyeliner](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-2-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-2.png)
 
 
 Tarte Cosmetics does its social listening and social audit right since they interact with all the followers who need their guidance when purchasing their products.
@@ -508,7 +508,7 @@ Tarte Cosmetics does its social listening and social audit right since they inte
 Their quick replies to comments about new lipstick shades and blushes really boost their audience loyalty.
 
 
-[![screenshot from tarte cosmetics insta with a girl applying listick, wearing a brown sweater, near a tall building](http://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-1-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-1.png)
+[![screenshot from tarte cosmetics insta with a girl applying listick, wearing a brown sweater, near a tall building](https://nuggetofjoy.com/wp-content/uploads/hashtag-campaigns-1-12.png)](https://www.socialinsider.io/blog/content/images/2023/10/hashtag-campaigns-1.png)
 
 
 ## **Final thoughts**
@@ -556,7 +556,7 @@ Avoid solely publishing promotional messages and strike a good balance with auth
 For example, in this TikTok video, Sani, a family-owned apparel company features a day in the life of the brand’s founders while visiting India for business:
 
 
-[![The thumbnail image for a TikTok video link. Click to go to the Sani Sisters TikTok.](http://nuggetofjoy.com/wp-content/uploads/Open-TikTok-For-You-feed-e1695221975853-11.jpg)](https://www.tiktok.com/@sanisisters/video/7277241863877217579?is_from_webapp=1&sender_device=pc)
+[![The thumbnail image for a TikTok video link. Click to go to the Sani Sisters TikTok.](https://nuggetofjoy.com/wp-content/uploads/Open-TikTok-For-You-feed-e1695221975853-11.jpg)](https://www.tiktok.com/@sanisisters/video/7277241863877217579?is_from_webapp=1&sender_device=pc)
 
 
 #### Goal example 2: Generate leads and sales
@@ -565,7 +565,7 @@ For example, in this TikTok video, Sani, a family-owned apparel company features
 Whether online, in-store or through your social profiles, followers don’t accidentally make purchases. For example, are you alerting customers about new products and promos? Are you integrating your product catalog into your social profiles? Are you running exclusive deals for followers? Social media gives you an avenue to generate revenue.
 
 
-[![Cami Cake's Cupcakes Instagram post featuring an assortment of cupcakes. The caption reads, "Happy $2 Tuesday! 2 p.m. to 4 p.m. every Tuesday. #camicakes #cupcakes."](http://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-18-at-12.45.10-PM-11.png)](https://www.instagram.com/p/CwP_ygduOKG/)
+[![Cami Cake's Cupcakes Instagram post featuring an assortment of cupcakes. The caption reads, "Happy $2 Tuesday! 2 p.m. to 4 p.m. every Tuesday. #camicakes #cupcakes."](https://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-18-at-12.45.10-PM-11.png)](https://www.instagram.com/p/CwP_ygduOKG/)
 
 
 #### Goal example 3: Grow your brand’s audience
@@ -611,7 +611,7 @@ While larger brands may maintain a presence across multiple platforms due to ext
 Simple and straightforward, X is a solid starting point for most businesses. Requiring minimal setup and providing a place to go back and forth with followers directly, there's a reason why X remains one of the go-to platforms for [customer service](https://sproutsocial.com/insights/twitter-customer-service/). If you’re trying to master the social media marketing basics of hashtags, tagging, brand voice and social media etiquette, look no further.
 
 
-[![A Chick-fil-A Post on X showing a chicken biscuit, fruit and orange juice. The caption reads, "Starting your day with a chicken biscuit #TheLittleThings."](http://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-11-at-2.57.10-PM-11.png)](https://twitter.com/ChickfilA/status/1546887140507885570)
+[![A Chick-fil-A Post on X showing a chicken biscuit, fruit and orange juice. The caption reads, "Starting your day with a chicken biscuit #TheLittleThings."](https://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-11-at-2.57.10-PM-11.png)](https://twitter.com/ChickfilA/status/1546887140507885570)
 
 
 #### Facebook
@@ -620,7 +620,7 @@ Simple and straightforward, X is a solid starting point for most businesses. Req
 For local businesses, Facebook is essential for targeting local customers by enabling check-ins and reviews, fostering a dedicated local following. Its chatbot functionality enhances customer service and marketing campaigns. Despite algorithm changes in late 2022 prioritizing more sophisticated criteria, Facebook's ad platform remains the gold standard for social media ads, helping businesses navigate algorithmic shifts and stand out in the crowded digital landscape.
 
 
-[![Mary Mac's Tea Room Facebook post featuring a photo of the line outside of the restaurant. The caption encourages groups of 15 or less to join their waitlist on Yelp.com for a better seating experience.](http://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-11-at-3.12.52-PM-11.png)](https://www.facebook.com/marymacstearoom/posts/681438850681673?ref=embed_post)
+[![Mary Mac's Tea Room Facebook post featuring a photo of the line outside of the restaurant. The caption encourages groups of 15 or less to join their waitlist on Yelp.com for a better seating experience.](https://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-11-at-3.12.52-PM-11.png)](https://www.facebook.com/marymacstearoom/posts/681438850681673?ref=embed_post)
 
 
 #### Instagram
@@ -629,7 +629,7 @@ For local businesses, Facebook is essential for targeting local customers by ena
 At its core, Instagram is a network centered around visual content. A major hub for brick-and-mortar businesses, e-commerce shops and influencers alike, the platform encourages brands to get creative. From eye-popping photos to clever captions, it’s all about finding unique ways to show off what you’re selling.
 
 
-[![A King Arthur Baking Company Instagram post featuring a photo of bread. The caption says to view their 15 September recipes at the link in bio.](http://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-11-at-3.19.23-PM-11.png)](https://www.instagram.com/p/CwsRDWaustr/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+[![A King Arthur Baking Company Instagram post featuring a photo of bread. The caption says to view their 15 September recipes at the link in bio.](https://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-11-at-3.19.23-PM-11.png)](https://www.instagram.com/p/CwsRDWaustr/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 
 #### Threads
@@ -641,7 +641,7 @@ When Meta released Threads on July 5, 2023, the social network received over 1
 But, for now, Threads is a text-based social network that users can sign up for through their current Instagram account. Users can post on mobile, but Threads is also available on desktop. Threads are great for brands who already have Instagram accounts because the sign up process is pretty seamless.
 
 
-[![A Thread post from Sprout Social that reads, "Our first desktop Threads post. Is this thing still on?"](http://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-11-at-3.58.39-PM-11.png)](https://www.threads.net/@sproutsocial/post/CwV6V8rx9fu)
+[![A Thread post from Sprout Social that reads, "Our first desktop Threads post. Is this thing still on?"](https://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-11-at-3.58.39-PM-11.png)](https://www.threads.net/@sproutsocial/post/CwV6V8rx9fu)
 
 
 #### LinkedIn
@@ -653,7 +653,7 @@ LinkedIn is a network laser-focused on business trends and networking. LinkedIn 
 There are so many benefits of using [LinkedIn marketing](https://sproutsocial.com/insights/linkedin-marketing/) beyond networking, including content distribution and lead generation. We also have a guide for [LinkedIn best practices](https://sproutsocial.com/insights/linkedin-best-practices/) so you can get full advantage of those benefits.
 
 
-[![Example LinkedIn profile of Ann Hadley](http://nuggetofjoy.com/wp-content/uploads/LinkedIn-Profile-11.png)](https://www.linkedin.com/in/annhandley/)
+[![Example LinkedIn profile of Ann Hadley](https://nuggetofjoy.com/wp-content/uploads/LinkedIn-Profile-11.png)](https://www.linkedin.com/in/annhandley/)
 
 
 #### Pinterest
@@ -662,7 +662,7 @@ There are so many benefits of using [LinkedIn marketing](https://sproutsocial.c
 [Pinterest marketing](https://sproutsocial.com/insights/pinterest-marketing/) is insanely popular, especially among Gen Z and Millennials. Over 465 million people use this visual pinning platform every month to find inspiration and their next purchase. Pinterest is noted to be one of the best networks for social selling. Like Instagram, Pinterest thrives on imagery and inspirational content where products serve as the proverbial centerpiece.
 
 
-[![Sprouts Farmers Market Pinterest page featuring several pinboards.](http://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-11-at-4.05.47-PM-11.png)](https://www.pinterest.com/sproutsfm/)
+[![Sprouts Farmers Market Pinterest page featuring several pinboards.](https://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-11-at-4.05.47-PM-11.png)](https://www.pinterest.com/sproutsfm/)
 
 
 #### YouTube
@@ -671,7 +671,7 @@ There are so many benefits of using [LinkedIn marketing](https://sproutsocial.c
 Although some might not regard YouTube as a traditional social network, the platform’s active and engaged community speaks for itself. Considering that video represents the top-performing type of content across nearly every social network, YouTube is a great place to house your videos if you’re already producing them.
 
 
-[![Trader Joe's YouTube tutorial for taco monkey bread.](http://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-11-at-5.36.45-PM-11.png)](https://www.youtube.com/watch?v=YKKeL1erdoM)
+[![Trader Joe's YouTube tutorial for taco monkey bread.](https://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-11-at-5.36.45-PM-11.png)](https://www.youtube.com/watch?v=YKKeL1erdoM)
 
 
 ### TikTok
@@ -680,7 +680,7 @@ Although some might not regard YouTube as a traditional social network, the plat
 TikTok reached 1 billion users in September 2021 and remains one of the most popular apps in the world. Along with its viral trends and niche communities, the short-form video app is known for its hyper-personalized algorithm that keeps users scrolling for hours. TikTok marketing has changed the game for brands, allowing them to connect with customers in an entirely new way.
 
 
-[![A Starbucks video on TikTok featuring a new drink. The drink is shown within a miniature picnic set.](http://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-18-at-10.26.58-AM-11.png)](https://www.tiktok.com/@starbucks/video/7252366813277785386)
+[![A Starbucks video on TikTok featuring a new drink. The drink is shown within a miniature picnic set.](https://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-18-at-10.26.58-AM-11.png)](https://www.tiktok.com/@starbucks/video/7252366813277785386)
 
 
 ### Picking networks for your social media marketing strategy
@@ -715,13 +715,13 @@ Coming up with a [content strategy](https://sproutsocial.com/insights/social-me
 Regardless of what you might post, [coming up with a hashtag](https://sproutsocial.com/insights/create-a-hashtag/) to couple with your content is a brilliant branding move.
 
 
-[![Fenty Beauty's post on X featuring a new product video. The caption reads, "The easiest foundation you'll ever use. #EazeDropStick is available now! Swip, melt, go get it!"](http://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-12-at-12.16.53-AM-11.png)](https://twitter.com/fentybeauty/status/1690048649894764544)
+[![Fenty Beauty's post on X featuring a new product video. The caption reads, "The easiest foundation you'll ever use. #EazeDropStick is available now! Swip, melt, go get it!"](https://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-12-at-12.16.53-AM-11.png)](https://twitter.com/fentybeauty/status/1690048649894764544)
 
 
 Hashtags can get your attention and encourage people to share their photos interacting with your brand.
 
 
-[![A Post from Salesforce Developers about Dreamfroce 2023. The caption asks what attendees are looking for to the most while attending the conference. ](http://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-12-at-12.19.22-AM-11.png)](https://twitter.com/SalesforceDevs/status/1701283992417476932)
+[![A Post from Salesforce Developers about Dreamfroce 2023. The caption asks what attendees are looking for to the most while attending the conference. ](https://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-12-at-12.19.22-AM-11.png)](https://twitter.com/SalesforceDevs/status/1701283992417476932)
 
 
 ### Find your brand voice
@@ -733,7 +733,7 @@ One of the best ways to stand out on social media is to define your distinct bra
 The quippy, casual tone that makes Discord’s X presence beloved by casual users and moderators alike is a great example.
 
 
-[![A Discord Post that reads, "Shoutout to all the lurkers in my server you know who you are."](http://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-18-at-11.00.54-AM-11.png)](https://x.com/discord/status/1693669463034593375?s=46)
+[![A Discord Post that reads, "Shoutout to all the lurkers in my server you know who you are."](https://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-18-at-11.00.54-AM-11.png)](https://x.com/discord/status/1693669463034593375?s=46)
 
 
 Of course, not every company will benefit from the same sort of tone. The key is to present yourself as a human rather than a robot. Adopt a consistent brand voice and style that’s appropriate for your business.
@@ -754,7 +754,7 @@ From graphics to Reels and beyond, numerous brands consistently use familiar con
 Stories aren’t going anywhere. Tapping into your followers’ FOMO (fear of missing out), Stories-style content is both interactive and can’t-miss. Popping up first in your followers’ feeds by default, this content can help your brand’s account “skip the line” and stay fresh in your audience’s minds.
 
 
-[![Spiller Park's Instagram Story featuring a repost from a customer saying the coffee shop is their favorite in Atlanta.](http://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-12-at-12.28.53-AM-11.png)](https://www.instagram.com/stories/spillerpark/3189685893887177254/)
+[![Spiller Park's Instagram Story featuring a repost from a customer saying the coffee shop is their favorite in Atlanta.](https://nuggetofjoy.com/wp-content/uploads/Screenshot-2023-09-12-at-12.28.53-AM-11.png)](https://www.instagram.com/stories/spillerpark/3189685893887177254/)
 
 
 Stories are especially valuable for taking your followers behind-the-scenes and making your social feed feel more personal. For example, consider how you can use Stories to cover an event or take your followers on a journey without them having to leave the comfort of the ‘gram.
@@ -775,7 +775,7 @@ Both personal and personable content should be a cornerstone of your social medi
 For example, Zoom has excellent original content on their Instagram and TikTok accounts, like this Reel that explores the different signs in the workplace:
 
 
-[![Zoom's Reel video about different zodiac signs in the workplace.](http://nuggetofjoy.com/wp-content/uploads/File-5-11.jpg)](https://www.instagram.com/reel/CuALwsOAAOy/?igshid=MWZjMTM2ODFkZg==)
+[![Zoom's Reel video about different zodiac signs in the workplace.](https://nuggetofjoy.com/wp-content/uploads/File-5-11.jpg)](https://www.instagram.com/reel/CuALwsOAAOy/?igshid=MWZjMTM2ODFkZg==)
 
 
 ## Make your social presence as timely as possible

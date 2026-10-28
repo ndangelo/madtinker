@@ -28,7 +28,7 @@ If you use Adobe Illustrator, then it's almost certain that you use the Pen Tool
 Click on artboard to create paths with straight segments, click and drag to create paths with [Bezier curves](http://en.wikipedia.org/wiki/B%C3%A9zier_curve).
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/pen-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/pen-1.png)
 
 
 ### Add Anchor Point Tool (+)
@@ -37,7 +37,7 @@ Click on artboard to create paths with straight segments, click and drag to crea
 Click on a path segment to add anchor points.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/pen-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/pen-2.png)
 
 
 ### Delete Anchor Point Tool (-)
@@ -46,7 +46,7 @@ Click on a path segment to add anchor points.
 Click on anchor point to remove from path.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/pen-4.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/pen-4.png)
 
 
 ### Convert Anchor Point (Shift-C)
@@ -55,13 +55,13 @@ Click on anchor point to remove from path.
 Click on an anchor point and drag to create bezier handles where there were none, click on an anchor point with handles to remove them.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/pen-5.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/pen-5.png)
 
 
 Alternatively, click and drag midway along a path to manipulate it as a curve.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/pen-6.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/pen-6.png)
 
 
 ### Scissors Tool (C)
@@ -70,7 +70,7 @@ Alternatively, click and drag midway along a path to manipulate it as a curve.
 Not part of the Pen Tool group, but definitely associated with it. Click on a path segment to divide into two paths.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/pen-6.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/pen-6.png)
 
 
 ## 2. Keyboard Shortcuts
@@ -93,40 +93,40 @@ The Pen Tool takes on different forms depending on what you're doing when you're
 (Caps Lock to toggle between pointer and cross hair)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-1.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-2.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-3.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-3.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-4.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-4.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-2.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-3.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-3.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-4.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-4.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-6.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-6.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-7.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-7.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-8.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-8.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-a1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-a1.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-a2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/cursor-a2.png)
 
 
 ## 4. Secondary Mouse Controls (With Path Selected)
@@ -157,7 +157,7 @@ The Pen Tool takes on different forms depending on what you're doing when you're
 You can access the preferences which influence the Pen Tool (P) and other related tools by going to**Illustrator > Preferences > Selection & Anchor Display**.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/preferences.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/preferences.png)
 
 
 ### Tolerance
@@ -166,7 +166,7 @@ You can access the preferences which influence the Pen Tool (P) and other relate
 Radius of the selection area around anchor points. Must be between 1 and 8 pixels, 1px if you're deadly accurate with your mouse or have a lot of anchors in close range of one another, 8px if you prefer less precision. 3px is the default value.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/pref_1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/pref_1.png)
 
 
 ### Object Selection by Path Only
@@ -175,7 +175,7 @@ Radius of the selection area around anchor points. Must be between 1 and 8 pixel
 When checked, this option allows selection of objects only by clicking their paths. Clicking on their filled areas is ineffective, comparable to working in Outline mode (**View > Outline**).
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/pref_2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/pref_2.png)
 
 
 ### Snap to Point
@@ -184,13 +184,13 @@ When checked, this option allows selection of objects only by clicking their pat
 Also checkable via **View > Snap to Point**, though via the **Selection & Anchor Display** dialogue the tolerance can also be determined from 1 to 8 pixels. This value again represents the radius around anchor points. When lining up two objects, anchor points from one will snap to points of the other should they be positioned within the specified range.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/pref_3.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/pref_3.png)
 
 
 It's worth noting that since the release of Adobe Illustrator CC Bezier handles are immune to grid-snapping. You can therefore make sure your anchors all stick to the grid (great for web use) whilst maintaining precision with free curves.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/pref_4.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/pref_4.png)
 
 
 ### Anchor Point and Handle Display
@@ -199,7 +199,7 @@ It's worth noting that since the release of Adobe Illustrator CC Bezier handles 
 Determines the way in which your path anchor points and handles are displayed.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/pref_5.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/pref_5.png)
 
 
 ### Highlight Anchors on Mouseover
@@ -208,7 +208,7 @@ Determines the way in which your path anchor points and handles are displayed.
 When checked, highlights anchor points when hovered over with cursor.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/pref_6.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/pref_6.png)
 
 
 ### Show Handles When Multiple Anchors are Selected
@@ -217,7 +217,7 @@ When checked, highlights anchor points when hovered over with cursor.
 When checked, this options displays the handles of points when multiple points are selected. Otherwise, handles of multiple selected points are *not* displayed.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/pref_6.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/pref_6.png)
 
 
 ### Hide Corner Widget
@@ -226,7 +226,7 @@ When checked, this options displays the handles of points when multiple points a
 Corner widgets allow you to drag corners in order to make them rounded. You may find it helpful to specify the corner angle at which you no longer want to have the widget displayed. Choose from 105°, 120°, 135°, 150° or 165°.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/corner.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/corner.png)
 
 
 ### Enable Rubber Band
@@ -235,7 +235,7 @@ Corner widgets allow you to drag corners in order to make them rounded. You may 
 When wanting to lay down an anchor point I always find it helpful to know what the path will look like. Checking the **Rubber Band** option gives you a preview of the path before you commit.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/rubberband.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/rubberband.png)
 
 
 ## 7. Other Shortcuts and Tips
@@ -250,7 +250,7 @@ With path selected, use the **Spacebar** to give you access to the **Hand Tool (
 While creating or editing an anchor point, click and **Click-Hold-Spacebar** to alter the position of the anchor point you're working on. Since the release of Adobe Illustrator CC 2014 this manipulation is also possible on the closing anchor of a path.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/move.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/move.png)
 
 
 With the **Direct Selection Tool (A)** select the end point and starting point of a path. **Command (Control)-J**to Join.
@@ -262,13 +262,13 @@ With the **Direct Selection Tool (A)** select the end point and starting point 
 Bear in mind that the color of your highlighted paths and their Bezier handles is dependent on the color of the layer they're placed on.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/colour.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/colour.png)
 
 
 To smoothen a path by reducing the number of anchor points open the **Simplify** dialogue (**Object > Path > Simplify**) and adjust according to your needs.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/simplify.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/simplify.png)
 
 
 Conversely, should you want more anchor points to improve manipulation go to **Object > Path > Add Anchor Points**. A new anchor point will appear after every existing anchor point on the selected path.
@@ -277,13 +277,13 @@ Conversely, should you want more anchor points to improve manipulation go to **O
 To prevent the **Pen Tool (P)** from changing its function when interacting with other anchor points or paths, open the general preferences dialogue (**Illustrator > Preferences > General**) and check the **Disable Auto Add/Delete** option. The Pen Tool will now only draw paths.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/disable.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/disable.png)
 
 
 Since the release of Adobe Illustrator CC 2014, control over Bezier handles has improved. Now, whilst dragging handles of an anchor point press and hold **Command/Control** to independently stretch and shrink the leading handle, whilst keeping its *movement* paired to the trailing handle.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/paired-handles.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/paired-handles.png)
 
 
 ## 8. Best Practice Suggestions
@@ -295,13 +295,13 @@ Drag handles from the first anchor point when beginning a curved path.
 Drag your handles around just one third of the curve you're creating for a smooth path.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/best_2.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/best_2.png)
 
 
 Position anchor points on a curve where the paths begin to change direction, not in the middle of its curve.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2016/09/best_3.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2016/09/best_3.png)
 
 
 Be sparing with your use of anchor points, fewer points = neater path.
@@ -313,7 +313,7 @@ Be sparing with your use of anchor points, fewer points = neater path.
 This is all well and good in theory, but while these tips are fresh in your mind why not put them into practice? Download the [Pen Tool Exercise](https://www.dropbox.com/s/s5utar3xrd7iwta/pen_tool_excercise.zip?dl=0) file and follow the guides to create precise paths, using the hints and shortcuts covered in this article.
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/2016/09/excercise_wide.jpg)](https://www.dropbox.com/s/s5utar3xrd7iwta/pen_tool_excercise.zip?dl=0)
+[![](https://nuggetofjoy.com/wp-content/uploads/2016/09/excercise_wide.jpg)](https://www.dropbox.com/s/s5utar3xrd7iwta/pen_tool_excercise.zip?dl=0)
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/2016/09/exercise.jpg)](https://www.dropbox.com/s/s5utar3xrd7iwta/pen_tool_excercise.zip?dl=0)
+[![](https://nuggetofjoy.com/wp-content/uploads/2016/09/exercise.jpg)](https://www.dropbox.com/s/s5utar3xrd7iwta/pen_tool_excercise.zip?dl=0)

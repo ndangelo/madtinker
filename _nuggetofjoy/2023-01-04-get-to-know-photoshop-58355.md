@@ -13,7 +13,7 @@ categories:
 tags: []
 ---
 
-[![](http://nuggetofjoy.com/wp-content/uploads/Interface-1024x683.jpg)](https://helpx.adobe.com/photoshop/how-to/ps-basics-fundamentals.html?playlistPath=/services/playlist.helpx/set-header:ccx-designer/learn-path:get-started/products:SG_PHOTOSHOP_1_1/playlist:ccl-get-started-1/en_us.json)
+[![](https://nuggetofjoy.com/wp-content/uploads/Interface-1024x683.jpg)](https://helpx.adobe.com/photoshop/how-to/ps-basics-fundamentals.html?playlistPath=/services/playlist.helpx/set-header:ccx-designer/learn-path:get-started/products:SG_PHOTOSHOP_1_1/playlist:ccl-get-started-1/en_us.json)
 
 all rights reserved to martinhoangdesign
 
@@ -27,7 +27,7 @@ This tutorial introduces you to the Photoshop work area and shows you how to ope
 # Change the image size
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/Resize-1024x683.jpg)](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html?playlistPath=/services/playlist.helpx/set-header:ccx-designer/learn-path:get-started/products:SG_PHOTOSHOP_1_1/playlist:ccl-get-started-1/en_us.json)
+[![](https://nuggetofjoy.com/wp-content/uploads/Resize-1024x683.jpg)](https://helpx.adobe.com/photoshop/how-to/image-resizing-basics.html?playlistPath=/services/playlist.helpx/set-header:ccx-designer/learn-path:get-started/products:SG_PHOTOSHOP_1_1/playlist:ccl-get-started-1/en_us.json)
 
 all rights reserved to martinhoangdesign
 
@@ -41,7 +41,7 @@ Learn how to resize an image, crop and straighten, and add to the image canvas i
 # Work with layers
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/Add_Images2-1024x683.jpg)](https://helpx.adobe.com/photoshop/how-to/ps-layers-basics.html?playlistPath=/services/playlist.helpx/set-header:ccx-designer/learn-path:get-started/products:SG_PHOTOSHOP_1_1/playlist:ccl-get-started-1/en_us.json)
+[![](https://nuggetofjoy.com/wp-content/uploads/Add_Images2-1024x683.jpg)](https://helpx.adobe.com/photoshop/how-to/ps-layers-basics.html?playlistPath=/services/playlist.helpx/set-header:ccx-designer/learn-path:get-started/products:SG_PHOTOSHOP_1_1/playlist:ccl-get-started-1/en_us.json)
 
 all rights reserved to martinhoangdesign
 
@@ -55,7 +55,7 @@ Learn how to use layers in the Layers panel, resize the contents of a layer, add
 # Adjust the image quality
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/Brightness_Contrast1-1024x683.jpg)](https://helpx.adobe.com/photoshop/how-to/photo-enhancement-basics.html?playlistPath=/services/playlist.helpx/set-header:ccx-designer/learn-path:get-started/products:SG_PHOTOSHOP_1_1/playlist:ccl-get-started-1/en_us.json)
+[![](https://nuggetofjoy.com/wp-content/uploads/Brightness_Contrast1-1024x683.jpg)](https://helpx.adobe.com/photoshop/how-to/photo-enhancement-basics.html?playlistPath=/services/playlist.helpx/set-header:ccx-designer/learn-path:get-started/products:SG_PHOTOSHOP_1_1/playlist:ccl-get-started-1/en_us.json)
 
 all rights reserved to martinhoangdesign
 
@@ -69,7 +69,7 @@ Learn how to enhance the brightness and color and improve the quality of your im
 # Make Selections
 
 
-[![](http://nuggetofjoy.com/wp-content/uploads/Selection_Basics-1024x683.jpg)](https://helpx.adobe.com/photoshop/how-to/selection-tools-basics.html?playlistPath=/services/playlist.helpx/set-header:ccx-designer/learn-path:get-started/products:SG_PHOTOSHOP_1_1/playlist:ccl-get-started-1/en_us.json)
+[![](https://nuggetofjoy.com/wp-content/uploads/Selection_Basics-1024x683.jpg)](https://helpx.adobe.com/photoshop/how-to/selection-tools-basics.html?playlistPath=/services/playlist.helpx/set-header:ccx-designer/learn-path:get-started/products:SG_PHOTOSHOP_1_1/playlist:ccl-get-started-1/en_us.json)
 
 
 Learn how to create a selection, work with popular selection tools, and fine-tune the edges of a selection in Adobe Photoshop. (Adobe.com)
@@ -81,7 +81,7 @@ Learn how to create a selection, work with popular selection tools, and fine-tun
 # Retouch Images
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Remove_Object-1024x768.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Remove_Object-1024x768.jpg)
 
 
 Use the Spot Healing Brush tool to remove objects.
@@ -93,7 +93,7 @@ Use the Spot Healing Brush tool to remove objects.
 # Add Text and Shapes
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Add_Text-1024x681.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Add_Text-1024x681.jpg)
 
 
 When you add text and shapes in Adobe Photoshop, they remain editable, and you can customize them down to the smallest detail.
@@ -105,7 +105,7 @@ When you add text and shapes in Adobe Photoshop, they remain editable, and you c
 # Use Color
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Brush-1024x683.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Brush-1024x683.jpg)
 
 
 Learn how to work with brushes and color in Adobe Photoshop.
@@ -117,7 +117,7 @@ Learn how to work with brushes and color in Adobe Photoshop.
 # Combine Images
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Texture1-1024x682.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Texture1-1024x682.jpg)
 
 
 One of the most powerful aspects of Adobe Photoshop is its ability to combine images to form imaginative composites.
@@ -129,7 +129,7 @@ One of the most powerful aspects of Adobe Photoshop is its ability to combine im
 # Apply Filters
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Blur1-1024x665.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Blur1-1024x665.jpg)
 
 
 You can add quick effects to an image using filters in Adobe Photoshop. Filters can also be combined to create unique results.

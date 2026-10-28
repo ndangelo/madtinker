@@ -23,7 +23,7 @@ This project calls for a comprehensive visual identity—from its marketing stra
 You will need to establish the same basic color **"swatches**" to use with your logo's. You will establish the color scheme while making your style tile. You will use these colors in the next branding phase.
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2015/09/4905372858102032.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2015/09/4905372858102032.png)
 
 
 ### Helps You Develop Great Logo Designs
@@ -32,7 +32,7 @@ You will need to establish the same basic color **"swatches**" to use with your
 Check out the infographic below to discover how you can use grids to make impressive logos.
 
 
-![Grids To Make Impressive Logos](http://nuggetofjoy.com/wp-content/uploads/Grids-To-Make-Impressive-Logos-6.png "Grids To Make Impressive Logos")
+![Grids To Make Impressive Logos](https://nuggetofjoy.com/wp-content/uploads/Grids-To-Make-Impressive-Logos-6.png "Grids To Make Impressive Logos")
 
 
 1. ~~Produce at least twenty sketches to aid in designing your logo.~~
@@ -59,34 +59,34 @@ Put all nine versions of your logo on a **tabloid size page**.
 ### 
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2015/09/creativelogos5.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/2015/09/creativelogos5.jpg)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2015/09/pepsi_8_182ocm2-182ocmk.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/2015/09/pepsi_8_182ocm2-182ocmk.jpg)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2015/09/red-clothing-brand-logos-13-brands-that-were-only-cool-to-wear-in-the-90s-photos-1024x767.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/2015/09/red-clothing-brand-logos-13-brands-that-were-only-cool-to-wear-in-the-90s-photos-1024x767.jpg)
 
 
 ## Student Work
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Studio_Connect_Logo_Variations1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Studio_Connect_Logo_Variations1.jpg)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2018-01-30-12_02_52-ShareYourRead_Logo.pdf-Adobe-Acrobat-Reader-DC1.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2018-01-30-12_02_52-ShareYourRead_Logo.pdf-Adobe-Acrobat-Reader-DC1.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2018-01-30-12_25_55-The-Line-Logo.pdf-Adobe-Acrobat-Reader-DC.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2018-01-30-12_25_55-The-Line-Logo.pdf-Adobe-Acrobat-Reader-DC.png)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2018-01-30-12_29_30-logo_branding.pdf-Adobe-Acrobat-Reader-DC.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2018-01-30-12_29_30-logo_branding.pdf-Adobe-Acrobat-Reader-DC.png)
 
 
 #### 
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/2018-01-30-12_34_27-OmnibusLogosFin.ai-@-100-CMYK_GPU-Preview.png)
+![](https://nuggetofjoy.com/wp-content/uploads/2018-01-30-12_34_27-OmnibusLogosFin.ai-@-100-CMYK_GPU-Preview.png)
 
 
 ## Logo Project Requirements.

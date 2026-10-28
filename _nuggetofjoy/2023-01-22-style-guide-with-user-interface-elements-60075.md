@@ -14,19 +14,19 @@ categories:
 tags: []
 ---
 
-![](http://nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_1.jpg)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_2.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_2.jpg)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_3.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_3.jpg)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_4-1.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_4-1.jpg)
 
 
-![](http://nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_5-scaled.jpg)
+![](https://nuggetofjoy.com/wp-content/uploads/Brand-Style-Guide-Template_Page_5-scaled.jpg)
 
 
 ## Brand Style Guide

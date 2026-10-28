@@ -43,7 +43,7 @@ To start, let's learn how to show the **Character** panel in Illustrator. You 
 By default, you'll have access to some of the most basic settings. To add the rest of the settings, you need to open the fly-out menu from the **Character** panel. Start by selecting **Show Options**, and then reopen the fly-out menu to enable the **Snap to Glyph** and **Font Height Options**, and also the **Touch Type Tool**.
 
 
-![character panel settings](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel1-1.jpg)
+![character panel settings](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel1-1.jpg)
 
 
 ## 2. How to Show the Character Panel in Illustrator
@@ -55,7 +55,7 @@ As long as you have a text tool selected, you can also access the **Character**
 Simply click the **Character** text, and this will open the **Character** fly-out panel. This can be pretty useful when you need to make some quick text adjustments.
 
 
-![character panel control panel](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel1A.jpg)
+![character panel control panel](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel1A.jpg)
 
 
 ## 3. How to Browse and Preview Fonts Using the Character Panel in Illustrator
@@ -70,7 +70,7 @@ Focus on the **Character** panel, and let's start with the font. Just click th
 On the left side **(1)**, you have the name of the font, and between parentheses is the number of available styles. You can click that arrow button on the left-hand side to have a look at all the available styles.
 
 
-![character panel fonts](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel2.jpg)
+![character panel fonts](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel2.jpg)
 
 
 ### Step 2
@@ -79,13 +79,13 @@ On the left side **(1)**, you have the name of the font, and between parenthese
 Next, you have a preview of the font **(2)**. If you can't see it, you need to open the fly-out menu from the **Character** panel and **Enable in-menu font previews**.
 
 
-![character panel font preview](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel2A.jpg)
+![character panel font preview](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel2A.jpg)
 
 
 Use that wavy button **(3)** to quickly view similar fonts. Remember to click that **Back** button to remove the filter and return to the entire list of fonts.
 
 
-![character panel similar font](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel2B.jpg)
+![character panel similar font](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel2B.jpg)
 
 
 Using the star buttons **(4)**, you can easily save fonts as favorites or remove them from the favorites list.
@@ -94,7 +94,7 @@ Using the star buttons **(4)**, you can easily save fonts as favorites or remov
 On the right-hand side **(5)**, you have a series of icons which indicate the type of the font: OpenType, Variable, TrueType, SVG, or Activated Adobe Font.
 
 
-![character panel font type](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel2C.jpg)
+![character panel font type](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel2C.jpg)
 
 
 ## 4. How to Filter Fonts Using the Character Panel in Adobe Illustrator
@@ -103,43 +103,43 @@ On the right-hand side **(5)**, you have a series of icons which indicate the t
 If you have hundreds of fonts installed, it might be a bit of a hassle to find the font that you like. Using the Filters, you can easily narrow down the list. First of all, if you know the name of the font, you can type the name in the font field and it will show up in the list.
 
 
-![character panel  font filter](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel3.jpg)
+![character panel  font filter](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel3.jpg)
 
 
 Click the **Find More**tab **(1)**, and you can scroll through the fonts that Adobe provides. Once you find a font that you like, click that **Activate** button on the right-hand side, and the font can be used in your design.
 
 
-![character panel activate font](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel3A.jpg)
+![character panel activate font](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel3A.jpg)
 
 
 Moving to the **Filters** section, using the first button **(2)** you can filter your fonts by classification and properties. Just check the settings that interest you, and the list of available fonts will update accordingly.
 
 
-![character panel filter font](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel3B.jpg)
+![character panel filter font](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel3B.jpg)
 
 
 Click the star button **(3)** from the **Filters** section whenever you want to view only the fonts that you marked as favorites.
 
 
-![character panel favorite font](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel3C.jpg)
+![character panel favorite font](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel3C.jpg)
 
 
 The next two buttons from the **Filters** section can be used to only view the recently added fonts **(4)** or the activated fonts **(5)**. Keep in mind that you can combine these filters to narrow down the list of fonts as much as possible. Remember to click that **Clear All**button whenever you wish to remove all the filters.
 
 
-![character panel recent font](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel3D.jpg)
+![character panel recent font](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel3D.jpg)
 
 
 Moving to the dropdown menu **(6)**, this can be used to set the look of the font preview. By default, it will show a preview with your selected text. If you don't have any text selected, it will show a preview of the text "Sample". Feel free to select one of the other preview options if you prefer to view the capital letters from a font, the numbers, or the symbols.
 
 
-![character panel font text preview](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel3E.jpg)
+![character panel font text preview](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel3E.jpg)
 
 
 Finally, using the three buttons from the right-hand **(7)** side, you can adjust the size of the font sample.
 
 
-![character panel text preview size](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel3F.jpg)
+![character panel text preview size](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel3F.jpg)
 
 
 ## 5. How to Set the Font Style Using the Character Panel in Adobe Illustrator
@@ -151,7 +151,7 @@ If a font has more than one style, you can change it from the **Font Style** m
 Selecting a variable font will also give you access to the **Variable Font** settings. Just click the button and minutely adjust your font using those sliders.
 
 
-![character panel variable font](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel4.jpg)
+![character panel variable font](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel4.jpg)
 
 
 ## 6. How to Set the Font Height Reference Using the Character Panel in Illustrator
@@ -163,7 +163,7 @@ Next, you have the **Font Height Reference** menu. The default **Em Box** di
 Select **Cap Height** to adjust the font size in reference to the uppercase letters. **x-Height** sets the font size with reference to the lowercase letters, such as x. Finally, use **ICF box** to set the font size with reference to the ICF box. This applies in general for CJK fonts.
 
 
-![character panel font height reference](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel5.jpg)
+![character panel font height reference](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel5.jpg)
 
 
 ## 7. How to Set the Font Size Using Adobe Illustrator's Character Panel
@@ -178,7 +178,7 @@ Moving to the next set of settings, you can use these buttons to change the size
 Let's start by seeing how you can adjust the font size using Illustrator's **Character** panel.
 
 
-![character panel font size](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel6.jpg)
+![character panel font size](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel6.jpg)
 
 
 ### Step 2
@@ -187,7 +187,7 @@ Let's start by seeing how you can adjust the font size using Illustrator's **Ch
 First, you can click that arrow button and select one of the preset font size values.
 
 
-![font size preset](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel6A.gif)
+![font size preset](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel6A.gif)
 
 
 ### Step 3
@@ -196,7 +196,7 @@ First, you can click that arrow button and select one of the preset font size va
 Using the tiny arrow buttons, you can increase or decrease the font size by **1 px**. Hold down the **Shift** key as you click these buttons to increase or decrease the size by **10 px**.
 
 
-![font size increments](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel6B.gif)
+![font size increments](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel6B.gif)
 
 
 ### Step 4
@@ -205,7 +205,7 @@ Using the tiny arrow buttons, you can increase or decrease the font size by **1
 Click the font size icon to quickly select the existing value, and press the up or down arrow buttons to increase or decrease the font size by **1 px**. Again, you can also hold down the **Shift** key as you press the arrow buttons to increase or decrease the size by **10 px**.
 
 
-![font size arrow button](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel6C.gif)
+![font size arrow button](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel6C.gif)
 
 
 ### Step 5
@@ -214,7 +214,7 @@ Click the font size icon to quickly select the existing value, and press the up 
 Finally, you can select the existing font size and type in the new value. Keep in mind that any of these techniques can also be used to adjust the leading, kerning, tracking, vertical or horizontal scale, baseline shift, and rotation.
 
 
-![font size custom](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel6D.gif)
+![font size custom](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel6D.gif)
 
 
 ## 8. How to Adjust the Leading in Illustrator
@@ -226,7 +226,7 @@ Finally, you can select the existing font size and type in the new value. Keep i
 **Leading** is the distance measured from the baseline of one line of text to the baseline of the line above it. A **baseline** is the invisible line on which letters sit. Let's see how you can adjust the leading in Illustrator.
 
 
-![baseline leading](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel7.jpg)
+![baseline leading](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel7.jpg)
 
 
 ### Step 2
@@ -238,7 +238,7 @@ You can find the leading settings on the right-hand side of the font size settin
 **Double-click** the **Leading** icon from the **Character** panel whenever you wish to quickly change the leading value with the same value that's used for the font size.
 
 
-![leading size equal](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel7A.jpg)
+![leading size equal](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel7A.jpg)
 
 
 ### Step 3
@@ -247,7 +247,7 @@ You can find the leading settings on the right-hand side of the font size settin
 Alternatively, you can use a keyboard shortcut to edit the leading in Illustrator. Select your text and press**Alt-Up Arrow**or **Alt-Down Arrow** to decrease or increase the leading value by **2 px**. Pressing **Control-Alt-Up Arrow**or **Control-Alt-Down Arrow** will decrease or increase the leading value by **10 px**.
 
 
-![leading keyboard shortcut](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel7B.gif)
+![leading keyboard shortcut](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel7B.gif)
 
 
 ### Step 4
@@ -256,7 +256,7 @@ Alternatively, you can use a keyboard shortcut to edit the leading in Illustrato
 You can also set custom leading settings for specific lines of text from a paragraph. Use the **Type Tool** to select one or more lines of text from a paragraph and adjust the leading in Illustrator's Character panel.
 
 
-![leading paragraph](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel7C.jpg)
+![leading paragraph](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel7C.jpg)
 
 
 ## 9. How to Adjust the Kerning in Illustrator
@@ -271,7 +271,7 @@ Using **Kerning** in Illustrator, you can adjust the spacing between specific 
 Select a piece of text and make sure that the**Type Tool (T)**is active before you start kerning text in Illustrator. Click between two letters, focus on the **Kerning** box, and edit the existing value, thus adjusting the spacing between those two letters. When kerning is set to **Auto** (Metric kerning), the value appears between parentheses.
 
 
-![kerning illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel8.jpg)
+![kerning illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel8.jpg)
 
 
 ### Step 2
@@ -286,7 +286,7 @@ Optical kerning adjusts the letter spacing in Illustrator based on their shapes.
 Manual kerning is in your hands. Just click between the letters in your text and adjust the kerning values as you wish.
 
 
-![kerning presets](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel8A.jpg)
+![kerning presets](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel8A.jpg)
 
 
 ### Step 3
@@ -295,7 +295,7 @@ Manual kerning is in your hands. Just click between the letters in your text and
 Kerning text in Illustrator can also be done using keyboard shortcuts. Click between the pair of letters and press**Alt-Right Arrow**or **Alt-Left Arrow** to increase or decrease the kerning by **20**. Pressing **Control-Alt-Right Arrow**or **Control-Alt-Left Arrow** will increase or decrease the tracking by **100**.
 
 
-![kerning keyboard shortcut](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel8B.gif)
+![kerning keyboard shortcut](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel8B.gif)
 
 
 ## 10. How to Change the Space Between Letters in Illustrator Using Tracking
@@ -310,7 +310,7 @@ Using **Tracking**, you can change the space between letters in Adobe Illustrat
 Select a piece of text, focus on the **Tracking** settings, and edit the existing value to easily adjust the font spacing in Illustrator.
 
 
-![tracking illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel9.jpg)
+![tracking illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel9.jpg)
 
 
 ### Step 2
@@ -319,7 +319,7 @@ Select a piece of text, focus on the **Tracking** settings, and edit the exist
 As with kerning, you can use a keyboard shortcut to change the space between letters in Adobe Illustrator. Select your text and press**Alt-Shift-Right Arrow**or **Alt-Shift-Left Arrow** to increase or decrease the font spacing in Illustrator by **20**. Pressing **Control-Alt-Shift-Right Arrow**or **Control-Alt-Shift-Left Arrow** will increase or decrease the tracking by **100**.
 
 
-![tracking keyboard shortcut](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel9A.gif)
+![tracking keyboard shortcut](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel9A.gif)
 
 
 ### Step 3
@@ -328,7 +328,7 @@ As with kerning, you can use a keyboard shortcut to change the space between let
 You can also set custom tracking settings for specific characters from a word. Use the **Type Tool** to select one or more characters from a word and adjust the tracking value in the **Character** panel.
 
 
-![tracking characters](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel9B.jpg)
+![tracking characters](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel9B.jpg)
 
 
 ### Step 4
@@ -337,7 +337,7 @@ You can also set custom tracking settings for specific characters from a word. U
 Tracking and kerning go hand in hand, so feel free to combine these settings to meticulously change the space between letters in Adobe Illustrator.
 
 
-![kerning tracking](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel9C.jpg)
+![kerning tracking](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel9C.jpg)
 
 
 ## 11. How to Scale Text Using the Character Panel in Illustrator
@@ -349,7 +349,7 @@ The **Vertical** and **Horizontal Scale** settings can be used to scale text
 Use the percentage values to scale your selected text relative to the existing text settings.
 
 
-![horizontal vertical scale text illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel10.jpg)
+![horizontal vertical scale text illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel10.jpg)
 
 
 ## 12. How to Change the Baseline Shift in Illustrator
@@ -364,7 +364,7 @@ A **baseline** is the invisible line on which letters sit. Using baseline shif
 Select a piece of text or use the **Type Tool (T)** to select a part of that text, focus on the **Baseline Shift** setting, and edit the existing value to move the selection relative to the baseline.
 
 
-![baseline shift illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel11.jpg)
+![baseline shift illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel11.jpg)
 
 
 ### Step 2
@@ -373,7 +373,7 @@ Select a piece of text or use the **Type Tool (T)** to select a part of that t
 Alternatively, you can use a keyboard shortcut to adjust the baseline shift in Illustrator. Select your text and press**Alt-Shift-Up Arrow**or **Alt-Shift-Down Arrow** to increase or decrease the baseline shift by **2 px**. Pressing **Control-Alt-Shift-Up Arrow**or **Control-Alt-Shift-Down Arrow** will increase or decrease the baseline shift by **10 px**.
 
 
-![baseline shift keyboard shortcut](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel11A.gif)
+![baseline shift keyboard shortcut](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel11A.gif)
 
 
 ### Step 3
@@ -382,7 +382,7 @@ Alternatively, you can use a keyboard shortcut to adjust the baseline shift in I
 Baseline shift can be particularly useful when you're working with text on a path as it provides a pretty quick way for you to align and move text along that path.
 
 
-![baseline shift text path](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel11B.jpg)
+![baseline shift text path](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel11B.jpg)
 
 
 ## 13. How to Rotate Text Using the Character Panel in Adobe Illustrator
@@ -394,7 +394,7 @@ Baseline shift can be particularly useful when you're working with text on a pat
 Using the **Character Rotation** settings, you can easily rotate letters from a text. All you have to do is select a piece of text and set the angle. This will independently rotate each letter in your text.
 
 
-![letter rotation illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel12.jpg)
+![letter rotation illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel12.jpg)
 
 
 ### Step 2
@@ -403,7 +403,7 @@ Using the **Character Rotation** settings, you can easily rotate letters from 
 To rotate just a particular letter from your text, use the **Type Tool (T)** to select it and then set the **Rotation** angle.
 
 
-![character rotation illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel12A.jpg)
+![character rotation illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel12A.jpg)
 
 
 ## 14. How to Capitalize Text in Illustrator
@@ -418,7 +418,7 @@ Select a piece of text or parts of it and simply click the **All Caps** button
 Small caps are lowercase characters that resemble the uppercase letters but are reduced in size, close to the lowercase letters. Again, select a piece of text or parts of it, and just click the **Small Caps** buttons to easily turn the lowercase letters into small caps.
 
 
-![all caps small caps illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel13.jpg)
+![all caps small caps illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel13.jpg)
 
 
 ## 15. How to Do Superscript in Adobe Illustrator
@@ -430,7 +430,7 @@ Small caps are lowercase characters that resemble the uppercase letters but are 
 Use the **Type Tool (T)** to select letters from your text, and simply click the **Superscript** button from the **Character** panel to turn the selected text into superscript.
 
 
-![superscript illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel14.jpg)
+![superscript illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel14.jpg)
 
 
 ## 16. How to Do Subscript in Illustrator
@@ -442,7 +442,7 @@ Use the **Type Tool (T)** to select letters from your text, and simply click t
 To create subscript text in Adobe Illustrator, pick the **Type Tool (T)** and use it to select the letters that you want to turn into subscript. Just click the **Subscript** button from the **Character** panel to turn the selected text into subscript.
 
 
-![subscript illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel15.jpg)
+![subscript illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel15.jpg)
 
 
 ## 17. How to Underline or Strikethrough Text Using the Character Panel
@@ -451,7 +451,7 @@ To create subscript text in Adobe Illustrator, pick the **Type Tool (T)** and 
 The **Underline** and **Strikethrough** buttons are pretty self-explanatory. Select some text or parts of it using the **Type Tool (T)**, and just click those two buttons whenever you wish to underline or strikethrough that selection.
 
 
-![underline strikethrough illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel16.jpg)
+![underline strikethrough illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel16.jpg)
 
 
 ## 18. How to Set the Hyphenation Language and the Anti-Aliasing Method
@@ -463,7 +463,7 @@ The **Underline** and **Strikethrough** buttons are pretty self-explanatory.
 Using the **Language** drop-down menu, you can set the hyphenation language for any piece of text.
 
 
-![illustrator hyphenation language](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel17.jpg)
+![illustrator hyphenation language](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel17.jpg)
 
 
 ### Step 2
@@ -475,7 +475,7 @@ Next to the **Language** setting, you have the **Anti-Aliasing** method, whi
 First, go to **View > Pixel Preview** to see how your text will look once it's rasterized. Using one of the **Anti-Aliasing** methods, you can smoothen out the appearance of those curvy edges. Generally, the default **Sharp** anti-aliasing is the ideal option so you won't have to mess with the other settings.
 
 
-![illustrator anti-aliasing text](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel18.jpg)
+![illustrator anti-aliasing text](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel18.jpg)
 
 
 ## 19. How to Use Glyphs and the OpenType Panel in Illustrator
@@ -493,7 +493,7 @@ For example, the "h" lowercase from this [Collina Regular font](https://element
 Using the **Glyphs** panel (**Window > Type > Glyphs**) you can view all available glyphs for each font. Use the **Show** drop-down menu to filter the existing glyphs, and just double-click a glyph to insert it in your selected text.
 
 
-![illustrator glyph](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel19.jpg)
+![illustrator glyph](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel19.jpg)
 
 
 ### Step 2
@@ -505,55 +505,55 @@ The type and number of available glyphs vary from font to font. The **Glyphs**�
 First, you have the **Standard Ligatures**. Ligatures are additional replacement characters for certain letter combos, such as fi, fl, ff, ffi, ffl, aff, and many more.
 
 
-![illustrator standard ligatures](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel20.gif)
+![illustrator standard ligatures](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel20.gif)
 
 
 Next, you have **Contextual Alternates** which glue together certain letters, giving your text a better flow.
 
 
-![illustrator contextual alternates](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel20A.gif)
+![illustrator contextual alternates](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel20A.gif)
 
 
 Besides the **Standard Ligatures**, some fonts also include **Discretionary Ligatures**for letter pairs such as ct, st, and ft.
 
 
-![illustrator discretionary ligatures](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel20B.gif)
+![illustrator discretionary ligatures](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel20B.gif)
 
 
 **Swashes** are decorations that embellish characters. These are generally added at the beginning or end of a word.
 
 
-![illustrator swashes](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel20C.gif)
+![illustrator swashes](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel20C.gif)
 
 
 Use **Stylistic Alternates** to stylize the font. Although it's not a rule, most of the time, this will replace a double-storey "a" with a single-storey "a" and adjust the look for most of the vowels.
 
 
-![illustrator stylistic alternates](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel20D.gif)
+![illustrator stylistic alternates](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel20D.gif)
 
 
 As the name implies, **Titling Alternates** are mostly for titling. Titling fonts are usually all caps fonts designed specifically for headlines or display usage. Using **Titling Alternates**, you can further decorate such fonts.
 
 
-![illustrator titling alternates](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel20E.gif)
+![illustrator titling alternates](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel20E.gif)
 
 
 If the font makes it available, the **Ordinals** button can be another method that you can use to insert a superscript in Adobe Illustrator. It can be a bit of a time saver as it adds more than one superscript with only one click.
 
 
-![illustrator ordinals](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel20F.gif)
+![illustrator ordinals](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel20F.gif)
 
 
 If you're working with fractions and the font allows it, you can use this **Fractions** button to nicely nest the numbers on top of one another.
 
 
-![illustrator fractions](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel20G.gif)
+![illustrator fractions](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel20G.gif)
 
 
 Finally, you can activate specific style sets using the Stylistic Sets button. Depending on the font, the names of these sets might help you understand what will change with each stylistic set that you enable.
 
 
-![illustrator stylistic sets](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel20H.gif)
+![illustrator stylistic sets](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel20H.gif)
 
 
 ### Step 3
@@ -565,7 +565,7 @@ When the font allows it, you can use the **Figure** drop-down menu to particul
 Select **Tabular Lining** to use full-height numbers of the same width. This can be useful when you need to align numbers in columns perfectly. **Proportional Oldstyle** will create numbers that have varying heights and widths. Select **Proportional Lining** to use full-height numbers with varying widths or **Tabular Oldstyle** for numbers with equal widths but varying heights.
 
 
-![illustrator figure lining](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel20I.jpg)
+![illustrator figure lining](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel20I.jpg)
 
 
 ### Step 4
@@ -574,13 +574,13 @@ Select **Tabular Lining** to use full-height numbers of the same width. This c
 When available in the font, you can use the **Superscript/Superior** or the **Numerator** settings to insert different variations of a superscript in Adobe Illustrator.
 
 
-![illustrator superscript open type](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel20J.jpg)
+![illustrator superscript open type](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel20J.jpg)
 
 
 Using the **Subscript/Inferior** and **Denominator** settings, you can insert variations of a subscript in Illustrator.
 
 
-![illustrator subscript open type](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel20K.jpg)
+![illustrator subscript open type](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel20K.jpg)
 
 
 ## 20. How to Snap to Glyphs Using Illustrator's Character Panel
@@ -595,7 +595,7 @@ Now that you know everything you need to know about glyphs and Illustrator's Ope
 Most importantly, you need to go to **View** in the menu bar to enable the **Smart Guides** and **Snap to Glyph**. Keep in mind that **Snap to Glyph** won't work when the **Snap to Grid** is enabled, if the **Alignment Guides** are disabled (**Edit > Preferences > Smart Guides**), or when the **Snapping Tolerance** is set to **0**.
 
 
-![illustrator snap glyph](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel19A.jpg)
+![illustrator snap glyph](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel19A.jpg)
 
 
 ### Step 2
@@ -604,7 +604,7 @@ Most importantly, you need to go to **View** in the menu bar to enable the **
 Enable the first one whenever you wish to snap to the **baseline** of glyphs while drawing, moving, or scaling an object. The glyph guides will appear on the text when you draw, scale, rotate, or move objects.
 
 
-![snap glyph baseline](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel19B.jpg)
+![snap glyph baseline](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel19B.jpg)
 
 
 ### Step 3
@@ -613,7 +613,7 @@ Enable the first one whenever you wish to snap to the **baseline** of glyphs w
 Enable the second one to snap to the **height** of lowercase glyphs (x, z, v, w) while drawing, moving, or scaling an object.
 
 
-![snap glyph height](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel19C.jpg)
+![snap glyph height](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel19C.jpg)
 
 
 ### Step 4
@@ -622,7 +622,7 @@ Enable the second one to snap to the **height** of lowercase glyphs (x, z, v, 
 When you use the **Glyph Bounds** setting, the glyph guides will appear on the left, right, top, and bottom of glyphs.
 
 
-![snap glyph bounds](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel19D.jpg)
+![snap glyph bounds](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel19D.jpg)
 
 
 ### Step 5
@@ -631,13 +631,13 @@ When you use the **Glyph Bounds** setting, the glyph guides will appear on the
 The **Proximity Guides** will generate guides near the baseline, x-height, and glyph bound.
 
 
-![snap glyph proximity guides](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel19E.jpg)
+![snap glyph proximity guides](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel19E.jpg)
 
 
 Obviously, you can enable more than one of these snap features to easily align your shapes with the glyph edges.
 
 
-![illustrator snap glyph](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel19D2.gif)
+![illustrator snap glyph](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel19D2.gif)
 
 
 ### Step 6
@@ -646,7 +646,7 @@ Obviously, you can enable more than one of these snap features to easily align y
 Additionally, you can isolate a character to generate guides solely around it. Pick the **Selection Tool (V)**, **right-click** a letter from your text, and select **Snap to Glyph [symbol]**.
 
 
-![isolate glyph](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel19F.jpg)
+![isolate glyph](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel19F.jpg)
 
 
 ### Step 7
@@ -658,7 +658,7 @@ Remember to isolate a character whenever you wish to use the **Angular Guides**
 To release an isolated character, you can either **right-click** it and select **Release Snap to Glyph** or you can click the **Release Glyph** button from the control panel.
 
 
-![snap glyph angular guides](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel19G.jpg)
+![snap glyph angular guides](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel19G.jpg)
 
 
 ### Step 8
@@ -667,7 +667,7 @@ To release an isolated character, you can either **right-click** it and select
 Finally, using the **Anchor Point** setting, you can snap to the anchor points of a glyph while drawing. This can be pretty useful if you need to decorate a font.
 
 
-![snap glyph anchor point](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel19H.jpg)
+![snap glyph anchor point](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel19H.jpg)
 
 
 ## 21. How to Adjust the Letter Spacing in Illustrator Using the Touch Type Tool
@@ -679,7 +679,7 @@ Pressing the **Touch Type Tool** button from the **Character** panel will ac
 Click any character from a text to select it, use the round handle to rotate the character, and click and drag to move it wherever you wish.
 
 
-![touch type tool](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel21.jpg)
+![touch type tool](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel21.jpg)
 
 
 ## 22. How to Use the Commands From the Fly-Out Menu
@@ -691,7 +691,7 @@ Click any character from a text to select it, use the round handle to rotate the
 Now that you understand all the settings from the **Character** panel, let's have a look at the remaining commands from the fly-out menu. Open it, and we'll start with the **Standard Vertical Roman Alignment**features.
 
 
-![standard vertical roman alignment](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel22.jpg)
+![standard vertical roman alignment](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel22.jpg)
 
 
 ### Step 2
@@ -700,7 +700,7 @@ Now that you understand all the settings from the **Character** panel, let's h
 Besides the buttons from the **Character** panel, you can also use the commands from the fly-out menu to add text caps in Illustrator, or to insert superscript and subscript in Illustrator.
 
 
-![caps superscript subscript](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel23.jpg)
+![caps superscript subscript](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel23.jpg)
 
 
 ### Step 3
@@ -712,7 +712,7 @@ By default, the **Fractional Widths** feature is enabled. It varies the spacin
 The only time when you might need to disable it is when you set the font size to be really small. Keeping the **Fractional Widths** enabled might cause the text to overlap or have too much extra space.
 
 
-![fractional widths](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel24.jpg)
+![fractional widths](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel24.jpg)
 
 
 ### Step 4
@@ -721,7 +721,7 @@ The only time when you might need to disable it is when you set the font size to
 To make sure that a word won't break into syllables, select it and select **No Break** from the fly-out menu of the **Character**panel.
 
 
-![no break text illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel25.jpg)
+![no break text illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel25.jpg)
 
 
 ### Step 5
@@ -730,7 +730,7 @@ To make sure that a word won't break into syllables, select it and select **No 
 Select **Reset Panel** from the fly-out menu of the **Character** panel whenever you wish to replace the existing settings with the default ones.
 
 
-![reset panel character illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel26.jpg)
+![reset panel character illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel26.jpg)
 
 
 ## 23. How to Adjust the Default Character Style in Illustrator
@@ -742,7 +742,7 @@ To adjust the default **Character** panel settings, you need to go to the **C
 You can start with the **Basic Character Formats** to adjust the main settings, and remember to click the **OK** button when you're done.
 
 
-![default font settings illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel27.jpg)
+![default font settings illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel27.jpg)
 
 
 ## 24. How to Create a Character Style in Illustrator
@@ -754,7 +754,7 @@ Once you've created a text style that you like, you might want to save it or app
 Make sure that your text is selected, focus on the**Character Styles**panel, and simply click the **Create New Style** button to save the style of your selected text. Now, select another piece of text and just click your saved style to instantly apply all those text settings.
 
 
-![character style illustrator](http://nuggetofjoy.com/wp-content/uploads/CharacterPanel28.jpg)
+![character style illustrator](https://nuggetofjoy.com/wp-content/uploads/CharacterPanel28.jpg)
 
 
 Marius, A. (2022). A Beginner’s Guide to the Character Panel in Illustrator: Envato Tuts+. Retrieved from https://design.tutsplus.com/tutorials/a-beginners-guide-to-the-character-panel-in-illustrator--cms-42092
