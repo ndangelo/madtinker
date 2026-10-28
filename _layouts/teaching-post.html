@@ -7,8 +7,10 @@ layout: default
     <h1>{{ page.title | escape }}</h1>
     <p class="meta"><a href="{{ '/teaching/' | relative_url }}">← Teaching archive</a>{% if page.source_url %} · <a href="{{ page.source_url }}" rel="noopener noreferrer">Original WordPress post</a>{% endif %}</p>
   </header>
-  <div class="article-content teaching-content mt-post{% if page.wordpress_id == 68303 %} gradient-part-two{% endif %}">
+  <div class="article-content teaching-content mt-post">
+    {% if page.wordpress_id == 68303 %}<div class="gradient-part-two">{% endif %}
     {{ content }}
+    {% if page.wordpress_id == 68303 %}</div>{% endif %}
   </div>
 </article>
 <link rel="stylesheet" href="{{ '/assets/css/teaching-archive.css' | relative_url }}">
