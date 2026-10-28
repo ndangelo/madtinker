@@ -46,6 +46,7 @@ jobs:
           print('Media references:',len(rows))
           print('HTTP-only references:',sum(x[2]=='http-only' for x in rows))
           print('Relative references:',sum(x[2]=='relative' for x in rows))
+          print('WordPress HTTP media references:',sum('http://nuggetofjoy.com/wp-content/' in x[3].lower() for x in rows))
           from collections import Counter
           print('Most affected articles:')
           for name,count in Counter(x[0] for x in rows if x[2]=='http-only').most_common(12):
