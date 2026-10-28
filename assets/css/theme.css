@@ -95,3 +95,10 @@ body{background:var(--paper);color:var(--ink)}
 /* Archive lessons use their own hero styling, not the homepage decorative glyph. */
 .teaching-article .teaching-content .hero::before,
 .teaching-article .teaching-content .hero::after { content: none; }
+
+/* Teaching pages have their own section hierarchy; never inject Markdown glyphs. */
+body:has(.teaching-article) .article-content h2::before,
+body:has(.teaching-article) .article-content h3::before {
+  content:none!important;
+  display:none!important;
+}
