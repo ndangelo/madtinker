@@ -39,5 +39,6 @@ jobs:
           git add _nuggetofjoy
           if ! git diff --cached --quiet; then
             git commit -m "Prepare Nugget of Joy preview collection"
-            git push
+            git pull --rebase origin nuggetofjoy-import
+            git push origin HEAD:nuggetofjoy-import
           fi
