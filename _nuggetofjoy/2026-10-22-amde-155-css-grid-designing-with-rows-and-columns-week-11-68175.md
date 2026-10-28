@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 <header class="ag-hero">
 <div class="ag-eyebrow">AMDE 155 · Introduction to Web Design · Week 11</div>
@@ -481,3 +482,4 @@ tags: []
 <p><strong>Next week:</strong> Responsive Design and Media Queries — adapting your website for desktop, tablet, and mobile screens.</p>
 </footer>
 </div>
+{:/nomarkdown}
