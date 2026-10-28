@@ -13,6 +13,8 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
+<div id="amde477-campaign-guide">
 <div class="amde-wrap">
 <header class="amde-hero">
 <p class="amde-kicker">AMDE 477 / Interactive &amp; Social Media</p>
@@ -176,3 +178,5 @@ MADTINKERBLOCKTOKEN0END
 <p>Use the assignment instructions in D2L for the exact deliverables, submission format, post requirements, and due dates. This overview explains the process; it does not replace the specific assignment instructions.</p>
 </div>
 </div>
+</div>
+{:/nomarkdown}
