@@ -14,6 +14,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 <header class="ag-hero">
 <div class="ag-eyebrow">AMDE 155 · Introduction to Web Design · Week 10</div>
@@ -551,3 +552,4 @@ tags: []
 <p><strong>Next week:</strong> CSS Grid — creating layouts with rows and columns for more complex page structures.</p>
 </footer>
 </div>
+{:/nomarkdown}
