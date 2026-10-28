@@ -151,3 +151,49 @@
   border-color:var(--mt-line)!important;
 }
 /* Preserve colored HTML/CSS tokens inside preformatted examples. */
+
+/* AMDE 350 social-design lessons: recolor legacy paper sections. */
+.teaching-article .teaching-content :is(.amde350-week1,.amde350-week2) {
+  --sd-ink:var(--mt-text);--sd-paper:var(--mt-bg);
+  --sd-orange:var(--mt-orange);--sd-teal:var(--mt-sky);
+  --sd-muted:var(--mt-muted);
+  background:var(--mt-bg)!important;color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content :is(.amde350-week1,.amde350-week2) :is(.sd-hero,.sd-section,.sd-card,.sd-callout,.sd-panel) {
+  background-color:var(--mt-surface)!important;
+  color:var(--mt-text)!important;
+  border-color:var(--mt-line)!important;
+}
+.teaching-article .teaching-content :is(.amde350-week1,.amde350-week2) :is(p,li) {color:var(--mt-text)!important}
+.teaching-article .teaching-content :is(.amde350-week1,.amde350-week2) :is(h2,h3) {color:var(--mt-sky)!important}
+.teaching-article .teaching-content :is(.amde350-week1,.amde350-week2) :is(.sd-kicker,.sd-number) {color:var(--mt-orange)!important}
+
+/* AMDE 477 campaign overview: map its independent palette variables. */
+.teaching-article .teaching-content #amde477-campaign-guide {
+  --amde-ink:var(--mt-text);--amde-slate:var(--mt-sky);
+  --amde-coral:var(--mt-orange);--amde-cream:var(--mt-surface);
+  --amde-paper:var(--mt-bg);--amde-muted:var(--mt-muted);
+  background:var(--mt-bg)!important;color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content #amde477-campaign-guide :is(.amde-hero,.amde-card,.amde-section,.amde-callout,.amde-panel) {
+  background-color:var(--mt-surface)!important;
+  color:var(--mt-text)!important;
+  border-color:var(--mt-line)!important;
+}
+.teaching-article .teaching-content #amde477-campaign-guide :is(p,li) {color:var(--mt-text)!important}
+.teaching-article .teaching-content #amde477-campaign-guide :is(h2,h3) {color:var(--mt-sky)!important}
+.teaching-article .teaching-content #amde477-campaign-guide .amde-kicker {color:var(--mt-orange)!important}
+
+/* AMDE 477 case studies: keep colored examples, but normalize article panels. */
+.teaching-article .teaching-content .amde-case {
+  --ink:var(--mt-text);--slate:var(--mt-sky);
+  --coral:var(--mt-orange);--cream:var(--mt-surface);
+  --paper:var(--mt-bg);
+}
+.teaching-article .teaching-content .amde-case :is(.card,.bottom,.callout) {
+  background:var(--mt-card)!important;color:var(--mt-text)!important;
+  border-color:var(--mt-line)!important;
+}
+.teaching-article .teaching-content .amde-case :is(.card,.bottom,.callout) :is(p,li) {
+  color:var(--mt-text)!important;
+}
