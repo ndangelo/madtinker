@@ -1,0 +1,231 @@
+---
+title: UX Portfolio Case Study Template
+slug: ux-portfolio-case-study-template
+date: '2024-07-19'
+modified: '2024-08-02'
+status: published
+wordpress_id: 65574
+source_url: https://nuggetofjoy.com/ux-portfolio-case-study-template/
+author: admin
+categories:
+- Projects
+- UI/UX
+tags: []
+migration:
+  format: hybrid-markdown
+  original_html: original-html/65574.html
+  post_css: null
+  needs_review: true
+---
+
+Source: Pedzai, C. (2022). UX Portfolio Case Study template (plus examples from successful hires). Retrieved from https://uxdesignmastery.com/ux-portfolio-case-study-template-plus-examples-from-successful-hires/
+
+
+Your portfolio is the most critical piece of the puzzle when it comes to selling your design skills to recruiters and clients. It’s the single most vital component of any design career move you will ever make.
+
+
+![Case Study](https://cdn-images-1.medium.com/max/1455/1*XiQB7sypiqB4ERh5XUftug.jpeg)
+
+UX Case Study template
+
+
+**A UX case study is a comprehensive yet concise presentation of a design project, outlining its goals, objectives, the research methods employed, the process for finding a solution, and the achieved results.**
+
+
+### **How do you write a UX case study**
+
+
+The core idea is to try to break down your case study creation process into a writing component and designing component so that you can tackle each one without getting stuck or overwhelmed.
+
+
+### This template is meant to help outline all the text that is going to be in your case study that recruiters/clients are looking for.
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*Nrm52m9F0Bdw2qGkI_CKNw.gif)
+
+
+This ensures that your case study has a good narrative and understandable structure. This also allows you to plan more effectively what design artifacts you will need in your case study. It’s a system by which you can rapidly roll out multiple case studies without forgetting anything that’s relevant to a recruiter or client.
+
+
+The **UX Portfolio Case Study template** has 8 critical sections that recruiters are looking for.
+
+
+### UX Portfolio Case Study template
+
+
+1. **Project Title & Subtitle** (A headline and subtitle that indicates the name and goal of the project)
+2. **Client/Company/Project type**
+3. **Project date**(When did you work on the project)
+4. **Your role**(What you were responsible for on the project)
+5. **Project Summary/About this Project**(An overview that summarizes the project, goal, and results)
+6. **The challenge** (What specific problem, user needs, business requirements, and/or pain points that the project solves? Were there any technical constraints or business KPIs you had to keep in mind? Who are your users and what are their specific needs)
+7. **Solution** (What method/process was used to solve specific problems, user needs, business requirements, and/or pain points? How did features address the objectives?)
+8. **Results**(Project success metrics, awards, reflections, project next steps and/or lessons learned)
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*tbXsOjA6aYhUnQoFXJHkcA.png)
+
+
+### Let’s examine these sections in detail, determine roughly how long each one should be, and share some real-life examples of successful hires.
+
+
+---
+
+
+### Project Title & Subtitle
+
+
+*Length: Project Title (1 line) & Subtitle (1–2 lines)*
+
+
+**A short, concise headline that couples the name of the brand/application/client and the goal of the project.** It is the first thing a recruiter is going to read to decide whether or not to carry on reading your UX case study. Make sure it is clear, understandable, and does not use technical jargon. The subtitle is optional but a great way to build more context around the Project title.
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*1O2f9cHx5wGlsvvx6x_8iQ.png)
+
+Abbey Lee, Amazon
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*DMAth1b93ln8EwG_KH2hoQ.png)
+
+Rachel Cheng, Facebook
+
+
+### Client/Company/Project type
+
+
+*Length:1 line*
+
+
+Unless stated in the title, this helps build more background to who the project was for. If the project was not a commercial project for a client or brand, this is where you can state that it was a conceptual project, a design challenge, or a practice project.
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*XGDbjLSBBcAjNSG87A2Pgw.png)
+
+Mariah Ho, Apple
+
+
+### Project date/duration
+
+
+*Length:1 line*
+
+
+When or how long the project was helps the recruiter establish whether this is your most recent work and most importantly, to gauge where your skill level is. Always try to put up work that is recent because it’s an accurate reflection of your skills.
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*wTcaUOoKgiYbAWsufcFtNQ.png)
+
+Bre Huang, Uber
+
+
+### Your role
+
+
+*Length:1–2 lines*
+
+
+This is a section to state everything you did and were responsible for. Recruiters are looking to accurately assess your skills in the context of the entire project’s execution. Did you work with a team, did you work unsupervised to create the project deliverables. Recruiters can make an informed decision about whether you will need help on the job or hit the ground running.
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*KkHipYGje-IwgebRldwI1A.png)
+
+Pratibha Joshi, Sprinklr
+
+
+### Project Summary
+
+
+*Length: 1–2 paragraphs*
+
+
+This is a critical section for any reader who does not have a lot of time to read through the entire case study but wants a brief summary of the project, goals, and results. They may be going through a stack of applications and only have a few minutes to scan over one or two projects in your portfolio. Usually the first two. If nothing stands out or if the work is unclear then they will quickly move on.
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*cjgi-DMGPeDZqCGXNgkSqQ.png)
+
+Pratibha Joshi, Sprinklr
+
+
+---
+
+
+### The Challenge/Problem
+
+
+*Length: 2–3 paragraphs*
+
+
+This section specifically looks at the problems the project is trying to address. What are the business requirements, user needs, pain points that the project solves? Who are the end-users and core target market? What platforms was the project for and where there any technical constraints or business KPIs you had to keep in mind?
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*mxUyGpy8g8_oL8cHqtHTyg.png)
+
+Rachel Cheng, Facebook
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*vOnnDosJBiiM5GUJvbQ3rA.png)
+
+Rahul Jain, Google
+
+
+### The Solution
+
+
+*Length: As long as needed*
+
+
+This section is going to be the longest as it showcases how the project goals where achieved. Firstly, outline the design process steps and methods followed during the project outlines the layout of this section. Show your overall project steps, why you chose the methods you used, Recruiters want to see all the relevant design artifacts that you produced from sketches to visual mockups to prototypes.
+
+
+Here are some examples to show the overall process:
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*c76XsicCt3rDM3jZym1Uvg.png)
+
+Slyvia Yu, SimpleLegal
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*qN7eOuyEZYUZn5ERmBWlZw.png)
+
+Slyvia Yu, SimpleLegal
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*JBZXNVTP-Fwf3E851CuuvA.png)
+
+Bre Huang, Uber
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*ypZJ-rmHW39y5DzDojdsPQ.png)
+
+Lim Zhiyang
+
+
+Other deliverables that you can show:
+
+
+- Personas
+- Sketches
+- Interview notes
+- Usability tests results
+- Whiteboards
+- Wireframes
+- UI designs
+- Prototypes
+
+
+### Results
+
+
+*Length: 1 paragraph*
+
+
+The critical last section concludes the case study by outlining any project success metrics that were achieved, awards that were won. In the case of a project that is not live, reflections and the project’s next steps are sufficient to round up the case study. Try to share any lessons that you learned to demonstrate you are invested in both the project’s life cycle and your career development.
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*jEAiBDGPizaz9oYaeydWkg.png)
+
+Rachel Cheng, Facebook
+
+
+![Design Example](https://cdn-images-1.medium.com/max/1455/1*wWho5gWDUPRD8y-7pZejog.png)

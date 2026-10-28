@@ -1,0 +1,176 @@
+---
+title: Type on a Path in InDesign Tutorial
+slug: type-on-a-path-in-indesign-tutorial
+date: '2023-02-08'
+modified: '2023-02-08'
+status: published
+wordpress_id: 59748
+source_url: https://nuggetofjoy.com/type-on-a-path-in-indesign-tutorial/
+author: admin
+categories:
+- 255 Digital Publishing for Graphics &amp; Web
+tags: []
+migration:
+  format: hybrid-markdown
+  original_html: original-html/59748.html
+  post_css: null
+  needs_review: true
+---
+
+## **We are taking a look at how the Type on a Path Tool can give your typography a curved, fluid style that looks fantastic layered over photography.**
+
+
+In this series of tutorials,**[How Did They Do That?](https://indesignskills.com/tag/how-did-they-do-that-tutorial/)**, we dissect the tricks used by graphic design pros and share surprisingly simple tips that will make your InDesign work look ultra-professional, even if you’re a beginner to the software!
+
+
+---
+
+
+### **Examples of the Type on a Path Tool**
+
+
+---
+
+
+We’re going to focus on how the **Type on a Path Tool** can be used in magazine design. Image + typography might be the consistent formula for selling issues, but this doesn’t mean the formula needs to be conventional. Magazine designers are always on the lookout for new ways to reinvent their covers.
+
+
+Layering text in interesting, fluid ways over the top of striking photography is an attention-grabbing way to make covers look more artistic and exciting. It’s also a great technique for making the text interact more naturally with the curves, lines and shapes of an image.
+
+
+[![indesign curved text type on a path organic fluid typography fraulein magazine cover design](http://nuggetofjoy.com/wp-content/uploads/Fraulein-cover-1.jpg)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/Fraulein-cover.jpg?ssl=1)
+
+
+Text is positioned along the curves of Sophie Hicks’ head, from **[Fraulein Magazine](https://fraeulein-magazine.eu/)**
+
+
+[![indesign curved text type on a path organic fluid typography elle indonesia magazine cover design](http://nuggetofjoy.com/wp-content/uploads/Elle-indonesia-cover.jpg)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/Elle-indonesia-cover.jpg?ssl=1)
+
+
+Graffiti-style headers sit on irregular baselines, from **[Elle Indonesia](https://www.elle.co.id/)**
+
+
+[![indesign curved text type on a path organic fluid typography milwaukee magazine cover design](http://nuggetofjoy.com/wp-content/uploads/Milwaukee-cover.jpg)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/Milwaukee-cover.jpg?ssl=1)
+
+
+A chalkboard-style cover, from **[Milwaukee Magazine](https://www.milwaukeemag.com/)**
+
+
+This technique might look tricky, but it’s anything but. You can recreate the style easily in Adobe InDesign with the **Type on a Path** and **Pen Tools**.
+
+
+It all comes down to a few simple steps…
+
+
+---
+
+
+### **Step 1: Create a New Layer for Your Typography**
+
+
+---
+
+
+**Create a basic cover in Adobe InDesign**, to a size that you prefer. On the existing layer,**use the Rectangle Frame Tool (F)** to create a new image frame, and **File > Place a photo in the frame**.
+
+
+[UNLIMITED DOWNLOADS: 50 Million+ Fonts & Design Assets](https://1.envato.market/c/1727040/431866/4662)[DOWNLOAD NOW](https://1.envato.market/c/1727040/431866/4662)
+
+
+Look for photos with strong shapes and curves—portraits of people work well, as do aerial photos with plenty of white space in-between items on the photo (this doesn’t have to be actually white, just one plain background color which will allow text to appear legible).
+
+
+[![indesign curved text type on a path organic fluid typography magazine cover photo](http://nuggetofjoy.com/wp-content/uploads/1-5.jpg)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/1.jpg?ssl=1)
+
+
+I’ve used this aerial shot of rolls of bread on a wooden board. There’s plenty of curves and lots of space for placing text, without being interrupted with too much detail beneath.
+
+
+**Create a new layer from the Layers panel** (choose New Layer from the panel’s drop-down menu), and **rename the layer Typography.**
+
+
+[![indesign curved text type on a path organic fluid typography layers panel](http://nuggetofjoy.com/wp-content/uploads/1.1-2.png)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/1.1.png?ssl=1)
+
+
+**Lock the bottom layer**, to avoid moving the photo around by mistake. You can make room for a header, and subtitle at the top of the page.
+
+
+[![indesign curved text type on a path organic fluid typography magazine cover](http://nuggetofjoy.com/wp-content/uploads/1.2-5.jpg)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/1.2.jpg?ssl=1)
+
+
+---
+
+
+### **Step 2: Use the Pen Tool (P)**
+
+
+---
+
+
+From the **Tools panel** choose the **Pen Tool**, or **hit P on the keyboard.**
+
+
+[![indesign curved text type on a path organic fluid typography pen tool](http://nuggetofjoy.com/wp-content/uploads/Pen-tool.png)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/Pen-tool.png?ssl=1)
+
+
+You can use the **Pen Tool** in two ways. One, by simply clicking onto the page and creating a series of joined straight lines. The second way, which we’re going to use here, is to click and drag onto the page to create a curved line, then click again to create a second curve joined to the first and so on
+
+
+Move across to the pasteboard, next to the page, to experiment with creating curved lines with the **Pen Tool**. You can do this quite easily without a graphics tablet, but it might take a little bit of practice to get the curves looking really smooth and fluid.
+
+
+[![indesign curved text type on a path organic fluid typography pen tool](http://nuggetofjoy.com/wp-content/uploads/pen-tool-pasteboard.png)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/pen-tool-pasteboard.png?ssl=1)
+
+
+Move back onto the page, and **use the Pen Tool to draw smooth curves** around one section of your selected photo.
+
+
+You can use the**Direct Selection Tool (A)**to select the anchor points and handlesof the line, and adjust them by either dragging or using the arrows on the keyboard. You may also find it useful to set the**Stroke Color**of the line to a bright, contrasting color for now, to make it easier to see.
+
+
+[![indesign curved text type on a path organic fluid typography pen tool](http://nuggetofjoy.com/wp-content/uploads/1.3-1.jpg)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/1.3.jpg?ssl=1)
+
+
+---
+
+
+### **Step 3: Use the Type on a Path Tool (Shift+T)**
+
+
+---
+
+
+Once you’ve created your line, head back over to the **Tools**panel. From the**Type Tool drop-down menu**, choose the**Type on a Path Tool (Shift+T).**
+
+
+Hover your cursor over one edge of the line and click once. The curved line will be transformed into a type path. You can now type in text, and apply formatting in the same way as you would for text in a text frame.
+
+
+Remove the color of the**Stroke** and set it to**[None]**.
+
+
+Here, I’ve used two fonts to create a bold, uppercase effect, set in a white, [Paper], color—[Aachen Std](https://www.myfonts.com/fonts/itc/aachen/)…
+
+
+[![indesign curved text type on a path organic fluid typography type on a path tool](http://nuggetofjoy.com/wp-content/uploads/curved-type-bread.jpg)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/curved-type-bread.jpg?ssl=1)
+
+
+…and**[Return to Sender](https://www.dafont.com/return-to-sender.font)[.](https://indesignskills.com/wp-content/uploads/2016/01/curved-type-aachen.jpg)**
+
+
+[![indesign curved text type on a path organic fluid typography type on a path tool](http://nuggetofjoy.com/wp-content/uploads/curved-type-aachen.jpg)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/curved-type-aachen.jpg?ssl=1)
+
+
+Repeat the process, using the **Pen Tool (P)** to draw curved lines around parts of the photo, and then transform them into text paths using the **Type on a Path Tool (Shift+T).**
+
+
+[![indesign curved text type on a path organic fluid typography type on a path tool](http://nuggetofjoy.com/wp-content/uploads/curved-lines-sample.jpg)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/curved-lines-sample.jpg?ssl=1)
+
+
+[![indesign curved text type on a path organic fluid typography type on a path tool magazine cover design](http://nuggetofjoy.com/wp-content/uploads/magazine-cover-1.jpg)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/magazine-cover-1.jpg?ssl=1)
+
+
+Format the text using the **Formatting Controls panel** at the top of the workspace, or from the **Character panel** (**Window > Type & Tables > Character**).**Vary the Font Size, Font and Color** to create an eclectic, interesting look.
+
+
+[![indesign curved text type on a path organic fluid typography type on a path tool magazine cover design](http://nuggetofjoy.com/wp-content/uploads/magazine-cover-2.jpg)](https://i0.wp.com/indesignskills.com/wp-content/uploads/2016/01/magazine-cover-2.jpg?ssl=1)

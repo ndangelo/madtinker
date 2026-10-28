@@ -1,0 +1,34 @@
+
+.amde-grid-lesson{font-family:inherit;color:#182033;line-height:1.65;max-width:1100px;margin:0 auto}
+.amde-grid-lesson *{box-sizing:border-box}
+.amde-grid-lesson .ag-hero{background:#111827;color:#f8fafc;padding:clamp(24px,5vw,48px);border-radius:22px;position:relative;overflow:hidden;margin-bottom:28px}
+.amde-grid-lesson .ag-hero:after{content:"";position:absolute;width:230px;height:230px;border:1px solid #b8f34b;border-radius:50%;right:-70px;top:-95px;box-shadow:0 0 0 24px #b8f34b10,0 0 0 48px #b8f34b08}
+.amde-grid-lesson .ag-eyebrow{letter-spacing:.14em;text-transform:uppercase;font-size:.75rem;font-weight:800;color:#b8f34b;margin:0 0 12px}
+.amde-grid-lesson .ag-hero h2{font-size:clamp(2rem,5vw,3.4rem);line-height:1.04;letter-spacing:-.04em;color:#fff;margin:0 0 18px;max-width:760px}
+.amde-grid-lesson .ag-hero p{font-size:1.08rem;max-width:760px;color:#dbe4f0}
+.amde-grid-lesson .ag-chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}
+.amde-grid-lesson .ag-chip{border:1px solid #465267;border-radius:999px;padding:6px 11px;font-size:.82rem;color:#e5e7eb}
+.amde-grid-lesson .ag-section{margin:32px 0}
+.amde-grid-lesson .ag-section h2{font-size:1.5rem;letter-spacing:-.025em;margin:0 0 12px;color:#111827}
+.amde-grid-lesson .ag-section h3{font-size:1.15rem;margin:20px 0 10px;color:#111827}
+.amde-grid-lesson .ag-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,235px),1fr));gap:14px}
+.amde-grid-lesson .ag-card{border:1px solid #dbe2ea;border-radius:16px;padding:20px;background:#fff;box-shadow:0 4px 14px #11182708}
+.amde-grid-lesson .ag-number{display:inline-grid;place-items:center;width:34px;height:34px;background:#b8f34b;color:#111827;border-radius:10px;font-weight:900;margin-bottom:12px}
+.amde-grid-lesson .ag-callout{padding:18px 20px;border-left:5px solid #b8f34b;border-radius:0 12px 12px 0;background:#f3f8e8;margin:18px 0}
+.amde-grid-lesson .ag-callout.blue{border-color:#61a8ff;background:#eef6ff}
+.amde-grid-lesson .ag-callout.amber{border-color:#d97706;background:#fffbeb}
+.amde-grid-lesson .ag-inline{background:#eef2f7;padding:.12em .4em;border-radius:5px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.92em}
+.amde-grid-lesson .ag-editor{background:#0b1020;color:#e5e7eb;border:1px solid #26334b;border-radius:16px;overflow:hidden;margin:16px 0;box-shadow:0 14px 34px #0b102018}
+.amde-grid-lesson .ag-editor-head{display:flex;align-items:center;gap:7px;padding:11px 15px;background:#151d30;border-bottom:1px solid #26334b;font-size:.8rem;color:#aab7cc}
+.amde-grid-lesson .ag-dot{width:9px;height:9px;border-radius:50%;display:inline-block;background:#ff6b6b}
+.amde-grid-lesson .ag-editor-head .ag-dot:nth-child(2){background:#ffd166}.amde-grid-lesson .ag-editor-head .ag-dot:nth-child(3){background:#7bd88f}
+.amde-grid-lesson .ag-editor-title{margin-left:8px}
+.amde-grid-lesson .ag-code{padding:18px;overflow-x:auto;font:.88rem/1.7 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre;tab-size:2;margin:0;color:#e5e7eb}
+.amde-grid-lesson .tok-tag{color:#7dd3fc}.amde-grid-lesson .tok-attr{color:#c4b5fd}.amde-grid-lesson .tok-string{color:#bef264}.amde-grid-lesson .tok-comment{color:#94a3b8;font-style:italic}.amde-grid-lesson .tok-key{color:#f9a8d4}.amde-grid-lesson .tok-value{color:#fde68a}.amde-grid-lesson .tok-selector{color:#7dd3fc}.amde-grid-lesson .tok-prop{color:#c4b5fd}.amde-grid-lesson .tok-punct{color:#e2e8f0}.amde-grid-lesson .tok-num{color:#fdba74}
+.amde-grid-lesson .ag-steps{counter-reset:agstep;list-style:none;padding:0;display:grid;gap:12px}
+.amde-grid-lesson .ag-steps li{counter-increment:agstep;padding:15px 16px 15px 56px;position:relative;background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px}
+.amde-grid-lesson .ag-steps li:before{content:counter(agstep,decimal-leading-zero);position:absolute;left:15px;top:15px;color:#52621c;font-weight:900}
+.amde-grid-lesson .ag-checklist{padding-left:1.25rem}
+.amde-grid-lesson .ag-checklist li{margin:.45rem 0}
+.amde-grid-lesson .ag-footer{border-top:1px solid #dbe2ea;padding-top:18px;color:#64748b;font-size:.9rem}
+@media(max-width:640px){.amde-grid-lesson .ag-hero{border-radius:14px}.amde-grid-lesson .ag-code{font-size:.78rem;padding:13px}}
