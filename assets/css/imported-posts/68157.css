@@ -281,3 +281,33 @@
 @media (prefers-reduced-motion: no-preference) {
   .amde-grid-lesson a { transition: color .15s ease, background-color .15s ease; }
 }
+
+/* MadTinker integration: restore the original light lesson canvas and readable text. */
+.teaching-content .amde-grid-lesson {
+  background: #fff;
+  color: #20252b;
+  padding: clamp(18px, 3vw, 34px);
+  border-radius: 14px;
+}
+.teaching-content .amde-grid-lesson .ag-section,
+.teaching-content .amde-grid-lesson .ag-section p,
+.teaching-content .amde-grid-lesson .ag-section li,
+.teaching-content .amde-grid-lesson .ag-card,
+.teaching-content .amde-grid-lesson .ag-callout {
+  color: #20252b;
+}
+.teaching-content .amde-grid-lesson .ag-section h2,
+.teaching-content .amde-grid-lesson .ag-section h3,
+.teaching-content .amde-grid-lesson .ag-card h3 {
+  color: #20252b;
+}
+.teaching-content .amde-grid-lesson .ag-section h2::before,
+.teaching-content .amde-grid-lesson .ag-section h3::before {
+  content: none !important;
+}
+.teaching-content .amde-grid-lesson .ag-code,
+.teaching-content .amde-grid-lesson .ag-code code { color: #e8edf5; }
+.teaching-content .amde-grid-lesson .ag-code .ag-tag { color: #80c7ff; }
+.teaching-content .amde-grid-lesson .ag-code .ag-attr { color: #f4c879; }
+.teaching-content .amde-grid-lesson .ag-code .ag-value { color: #b7e3a1; }
+.teaching-content .amde-grid-lesson .ag-code .ag-text { color: #f2f4f8; }
