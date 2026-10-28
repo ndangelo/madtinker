@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 
 <section class="ag-hero">
@@ -324,3 +325,4 @@ tags: []
 </section>
 <footer class="ag-footer"><p><strong>AMDE 355 · Advanced Web Design</strong> — Week 08</p><p>Project 1 Critique &amp; Revision · Observe carefully, prioritize thoughtfully, and revise with evidence.</p></footer>
 </div>
+{:/nomarkdown}
