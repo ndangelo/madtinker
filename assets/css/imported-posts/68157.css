@@ -311,3 +311,41 @@
 .teaching-content .amde-grid-lesson .ag-code .ag-attr { color: #f4c879; }
 .teaching-content .amde-grid-lesson .ag-code .ag-value { color: #b7e3a1; }
 .teaching-content .amde-grid-lesson .ag-code .ag-text { color: #f2f4f8; }
+
+/* Keep wide code examples and grid content inside the lesson viewport. */
+.teaching-content .amde-grid-lesson {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: clip;
+}
+.teaching-content .amde-grid-lesson .ag-section,
+.teaching-content .amde-grid-lesson .ag-grid,
+.teaching-content .amde-grid-lesson .ag-card,
+.teaching-content .amde-grid-lesson .ag-callout,
+.teaching-content .amde-grid-lesson .ag-instructor-only {
+  min-width: 0;
+  max-width: 100%;
+}
+.teaching-content .amde-grid-lesson pre.ag-code {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  overflow-x: auto !important;
+  white-space: pre !important;
+  overflow-wrap: normal !important;
+}
+.teaching-content .amde-grid-lesson pre.ag-code code {
+  display: block;
+  width: max-content;
+  min-width: 100%;
+  max-width: none;
+  white-space: pre !important;
+  overflow-wrap: normal !important;
+}
+.teaching-content .amde-grid-lesson .ag-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+@media (max-width: 700px) {
+  .teaching-content .amde-grid-lesson .ag-grid { grid-template-columns: minmax(0, 1fr); }
+}
