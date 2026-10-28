@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 
 <div class="amde-grid-lesson">
@@ -430,3 +431,4 @@ noteButton.addEventListener(<span class="tok-string">"click"</span>, function ()
 </ul>
 </div>
 </div></div>
+{:/nomarkdown}
