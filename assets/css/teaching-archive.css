@@ -19,3 +19,6 @@
 .teaching-content .mt-instructor,.teaching-content .instructor-note{border-left:4px solid #ff9955;padding:1rem 1.25rem;background:rgba(255,153,85,.09);margin:1.5rem 0}
 .teaching-content .mt-callout{border-left:4px solid #80d7f2;padding:1rem 1.25rem;background:rgba(128,215,242,.09);margin:1.5rem 0}
 @media(max-width:650px){.teaching-content .alignleft,.teaching-content .alignright{float:none;margin:1rem auto;display:block}.teaching-content{font-size:.96rem}}
+
+/* Preserve readable lesson layouts when legacy WordPress images are missing. */
+.mt-media-unavailable{display:inline-block;margin:.6rem 0;padding:.6rem .9rem;border:1px dashed #718096;border-radius:4px;color:#a9b8cb;font: .8rem/1.4 ui-monospace,SFMono-Regular,Consolas,monospace;background:#14253b}
