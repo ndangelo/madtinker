@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 
 <header class="hero">
@@ -280,3 +281,4 @@ button.<span class="tok-key">addEventListener</span>(<span class="tok-string">"c
 <p style="color:#78350f;">Before students leave, verify that each student has a working version to test, has checked at least one core task, has reviewed the layout at multiple widths, and has recorded remaining issues by priority. If a project is not yet deployable, accept a reliable local or prototype demonstration for the studio check, but require a clear plan for how the final critique version will be accessed.</p>
 </div>
 </div>
+{:/nomarkdown}
