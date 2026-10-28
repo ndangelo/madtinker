@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 
 <section class="ag-hero">
@@ -358,3 +359,4 @@ tags: []
 </section>
 <footer class="ag-footer"><p><strong>AMDE 355 · Advanced Web Design</strong> — Week 07</p><p>Design Systems &amp; Reusable Components · Turn visual decisions into a consistent, maintainable interface.</p></footer>
 </div>
+{:/nomarkdown}
