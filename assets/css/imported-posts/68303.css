@@ -166,3 +166,20 @@
 .teaching-content.gradient-part-two .gp-grid{min-width:0;max-width:100%}
 .teaching-content.gradient-part-two .gp-footer p,.teaching-content.gradient-part-two .gp-hero p{color:#e0eafa}
 .teaching-content.gradient-part-two .gp-list-item{margin:3px 0 3px 15px}
+
+/* Repair archive theme inheritance and constrain imported content. */
+.article-content.teaching-content.gradient-part-two{background:#f5f7fb!important;color:#263248!important;min-width:0;max-width:100%;overflow:hidden;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;font-size:15px;line-height:1.65}
+.article-content.teaching-content.gradient-part-two h2{color:#101b35!important;font-family:inherit;font-weight:750;font-size:clamp(23px,3vw,31px);letter-spacing:-.025em;text-transform:none;line-height:1.3;white-space:normal;overflow-wrap:anywhere}
+.article-content.teaching-content.gradient-part-two h2::before,.article-content.teaching-content.gradient-part-two h2::after{content:none!important;display:none!important}
+.article-content.teaching-content.gradient-part-two h3{color:#101b35!important;font-family:inherit;letter-spacing:normal;text-transform:none}
+.article-content.teaching-content.gradient-part-two p,.article-content.teaching-content.gradient-part-two li{color:#263248!important;font-family:inherit;font-weight:400!important;font-size:15px;line-height:1.7;letter-spacing:normal;text-transform:none;white-space:normal;overflow-wrap:anywhere}
+.article-content.teaching-content.gradient-part-two .gp-card li{color:#263248!important}
+.article-content.teaching-content.gradient-part-two .gp-code,.article-content.teaching-content.gradient-part-two .gp-code *{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;white-space:pre;color:#edf3ff}
+.article-content.teaching-content.gradient-part-two .gp-code .gp-prop{color:#75cfff}
+.article-content.teaching-content.gradient-part-two .gp-code .gp-fn{color:#c8ff3d}
+.article-content.teaching-content.gradient-part-two .gp-code .gp-color{color:#ff9c55}
+.article-content.teaching-content.gradient-part-two .gp-code .gp-value{color:#ff82c8}
+.article-content.teaching-content.gradient-part-two .gp-grid,.article-content.teaching-content.gradient-part-two .gp-card{max-width:100%}
+.article-content.teaching-content.gradient-part-two .gp-kicker{color:#c8ff3d!important}
+.article-content.teaching-content.gradient-part-two .gp-footer p{color:#e0eafa!important}
+@media(max-width:760px){.article-content.teaching-content.gradient-part-two .gp-grid{grid-template-columns:minmax(0,1fr)}}
