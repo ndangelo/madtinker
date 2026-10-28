@@ -1,0 +1,54 @@
+/* MadTinker teaching palette: loaded AFTER each imported post stylesheet.
+   Recolors presentation while preserving the original layouts and interactions. */
+.teaching-article .teaching-content {
+  --mt-bg:#0b1424; --mt-surface:#101d30; --mt-card:#16263b;
+  --mt-line:#30445d; --mt-text:#e3eaf3; --mt-muted:#b2c1d4;
+  --mt-lime:#b9ed68; --mt-sky:#8bc8f5; --mt-orange:#ff9b54; --mt-pink:#e3a2d6;
+  color:var(--mt-text);
+}
+.teaching-article .teaching-content :is(.amde-grid-lesson,.amde-case,.amde477-campaign-guide,#amde477-campaign-guide,.wrap,.lesson,.lesson-wrap,.content-wrap) {
+  --ink:var(--mt-text);--muted:var(--mt-muted);--line:var(--mt-line);
+  --paper:var(--mt-bg);--cream:var(--mt-surface);--slate:var(--mt-sky);
+  --blue:var(--mt-sky);--lime:var(--mt-lime);--coral:var(--mt-orange);
+}
+.teaching-article .teaching-content :is(.amde-grid-lesson,.amde-case,#amde477-campaign-guide) {
+  background:var(--mt-bg)!important;color:var(--mt-text)!important;
+  max-width:100%;min-width:0;
+}
+.teaching-article .teaching-content :is(.ag-section,.ag-card,.ag-callout,.ag-footer,.ag-grid,.card,.callout,.example,.bottom,.panel,.box,.note,.activity,.assignment,.assignment-box,.mt-assignment,.instructor-note,.mt-instructor,.mt-callout) {
+  color:var(--mt-text)!important;
+  border-color:var(--mt-line);
+}
+.teaching-article .teaching-content :is(.ag-card,.card,.example,.panel,.box,.activity,.assignment,.assignment-box) {
+  background:var(--mt-card)!important;
+}
+.teaching-article .teaching-content :is(.ag-callout,.callout,.note,.mt-callout,.mt-assignment,.mt-instructor,.instructor-note) {
+  background:var(--mt-surface)!important;
+}
+.teaching-article .teaching-content :is(.ag-hero,.hero,.ag-footer,.bottom) {
+  background:var(--mt-surface)!important;color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content :is(h1,h2,h3,h4,h5,h6) {
+  color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content :is(p,li,dt,dd,td,th,figcaption,small,summary,label) {
+  color:inherit;
+}
+.teaching-article .teaching-content :is(.ag-muted,.muted,.small,.subtitle,.lede) {
+  color:var(--mt-muted)!important;
+}
+.teaching-article .teaching-content :is(.kicker,.ag-eyebrow,.eyebrow,.label,.ag-number) {
+  color:var(--mt-orange)!important;
+}
+.teaching-article .teaching-content a {color:var(--mt-sky)!important}
+.teaching-article .teaching-content a:hover {color:var(--mt-lime)!important}
+.teaching-article .teaching-content :is(hr,table,td,th) {border-color:var(--mt-line)}
+.teaching-article .teaching-content :is(input,textarea,select,button) {
+  background:var(--mt-card);color:var(--mt-text);border-color:var(--mt-line);
+}
+.teaching-article .teaching-content :is(.ag-grid,.grid,.ag-section,.ag-card,.card,.example,.callout) {min-width:0;max-width:100%}
+.teaching-article .teaching-content :is(pre,code,.highlight) {color:#e7f0fa}
+@media (max-width:700px) {
+  .teaching-article .teaching-content :is(.amde-grid-lesson,.amde-case) {padding:16px}
+}
+/* Keep intentional demonstrations, images, and embedded media untouched. */
