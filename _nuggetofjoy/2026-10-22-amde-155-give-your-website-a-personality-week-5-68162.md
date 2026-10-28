@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 <header class="ag-hero">
 <p class="ag-eyebrow">AMDE 155 · Introduction to Web Design · Week 05</p>
@@ -201,3 +202,4 @@ tags: []
   updateContrast();
 })();
 </script>
+{:/nomarkdown}
