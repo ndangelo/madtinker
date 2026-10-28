@@ -54,4 +54,12 @@ jobs:
           assert Path('_site/assets/css/imported-posts/68273.css').exists(), 'Campaign stylesheet missing'
           assert '{::nomarkdown}' not in campaign_html, 'Raw preservation marker leaked into HTML'
           print('AMDE 477 campaign HTML and stylesheet checks passed')
+          for post_id,slug in [('68157','2026-10-22-amde-155-connect-the-dots-week3-68157'),('68186','2026-10-22-amde-355-html-css-refresher-week-1-68186')]:
+              page=Path('_site/teaching')/slug/'index.html'
+              assert page.exists(), f'{post_id} missing'
+              rendered=page.read_text()
+              assert 'class="amde-grid-lesson"' in rendered, f'{post_id} wrapper missing'
+              assert 'imported-posts/'+post_id+'.css' in rendered, f'{post_id} CSS missing'
+              assert '{::nomarkdown}' not in rendered, f'{post_id} preservation marker leaked'
+          print('AMDE 155 and 355 representative lessons checked')
           PY
