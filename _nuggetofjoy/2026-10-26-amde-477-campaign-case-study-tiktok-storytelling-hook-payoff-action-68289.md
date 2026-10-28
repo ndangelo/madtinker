@@ -13,7 +13,7 @@ categories:
 tags: []
 ---
 
-
+{::nomarkdown}
 <div class="amde-case">
 
 <div class="wrap">
@@ -87,3 +87,4 @@ tags: []
 <div class="bottom"><h2>Apply it to your campaign</h2>
 <p>Use the questions and activity in this post to analyze the strategy—not just whether you personally like the creative. Your own campaign should fit your brand, audience, offer, and objective. Follow the current D2L assignment for required deliverables and due dates.</p></div>
 </div></div>
+{:/nomarkdown}
