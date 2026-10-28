@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 <header class="ag-hero">
 <div class="ag-eyebrow">AMDE 155 · Introduction to Web Design · Week 01</div>
@@ -378,3 +379,4 @@ tags: []
 <p><strong>For now:</strong> Copy an example, change something, and see what happens. You have already started building for the web.</p>
 </footer>
 </div>
+{:/nomarkdown}
