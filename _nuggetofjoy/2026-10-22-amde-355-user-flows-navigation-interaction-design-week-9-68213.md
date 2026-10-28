@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 
 <section class="ag-hero">
@@ -354,3 +355,4 @@ tags: []
 </section>
 <footer class="ag-footer"><p><strong>AMDE 355 · Advanced Web Design</strong> — Week 09</p><p>User Flows, Navigation &amp; Interaction Design · Make the next step clear, test the journey, and revise based on evidence.</p></footer>
 </div>
+{:/nomarkdown}
