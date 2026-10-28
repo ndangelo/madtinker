@@ -1,0 +1,31 @@
+name: Test teaching archive Jekyll build
+on:
+  push:
+    branches: [nuggetofjoy-import]
+    paths:
+      - '_config.yml'
+      - '_nuggetofjoy/**'
+      - '_layouts/**'
+      - 'teaching.html'
+      - '.github/workflows/test-teaching-archive.yml'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+      - name: Build Jekyll site
+        run: bundle exec jekyll build --destination _site
+      - name: Validate teaching archive output
+        run: |
+          test -f _site/teaching/index.html
+          python3 - <<'PY'
+          from pathlib import Path
+          posts=list(Path('_site/teaching').glob('*/index.html'))
+          print('Rendered teaching posts:',len(posts))
+          assert len(posts)==382, f'Expected 382, got {len(posts)}'
+          PY
