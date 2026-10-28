@@ -21,3 +21,21 @@ layout: default
 .teaching-content pre{overflow-x:auto}
 .teaching-content table{display:block;max-width:100%;overflow-x:auto}
 </style>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('.teaching-content img').forEach(function (img) {
+    function markUnavailable() {
+      if (img.dataset.mediaUnavailable) return;
+      img.dataset.mediaUnavailable = 'true';
+      var notice = document.createElement('span');
+      notice.className = 'mt-media-unavailable';
+      notice.textContent = 'Archived image unavailable';
+      notice.setAttribute('role', 'status');
+      img.insertAdjacentElement('afterend', notice);
+      img.hidden = true;
+    }
+    img.addEventListener('error', markUnavailable);
+    if (img.complete && img.naturalWidth === 0) markUnavailable();
+  });
+});
+</script>
