@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 
 <div class="amde-grid-lesson">
@@ -350,3 +351,4 @@ console.log(qaButton);</code></pre>
 </div>
 </div>
 <!-- /wp:html --></div>
+{:/nomarkdown}
