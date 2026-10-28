@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 <header class="ag-hero">
 <div class="ag-eyebrow">AMDE 155 · Introduction to Web Design · Week 12</div>
@@ -515,3 +516,4 @@ tags: []
 <p><strong>Coming next:</strong> Week 13 — Accessibility, Forms, and Web Best Practices.</p>
 </footer>
 </div>
+{:/nomarkdown}
