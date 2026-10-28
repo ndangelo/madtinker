@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="article teaching-article">
+  <header class="article-header">
+    <p class="meta">Nugget of Joy archive · {{ page.date | date: "%B %-d, %Y" }}</p>
+    <h1>{{ page.title | escape }}</h1>
+    <p class="meta"><a href="{{ '/teaching/' | relative_url }}">← Teaching archive</a>{% if page.source_url %} · <a href="{{ page.source_url }}" rel="noopener noreferrer">Original WordPress post</a>{% endif %}</p>
+  </header>
+  <div class="article-content teaching-content">
+    {{ content }}
+  </div>
+</article>
+<style>
+.teaching-content img{max-width:100%;height:auto}
+.teaching-content iframe{max-width:100%}
+.teaching-content pre{overflow-x:auto}
+.teaching-content table{display:block;max-width:100%;overflow-x:auto}
+</style>
