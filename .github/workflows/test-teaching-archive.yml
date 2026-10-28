@@ -45,4 +45,13 @@ jobs:
           assert 'gp-reference' in html, 'Gradient reference table missing'
           assert Path('_site/assets/css/imported-posts/68303.css').exists(), 'Gradient stylesheet missing'
           print('Gradient lesson HTML and stylesheet checks passed')
+          campaign=Path('_site/teaching/2026-10-26-amde-477-from-brand-awareness-to-campaign-action-68273/index.html')
+          assert campaign.exists(), 'AMDE 477 campaign page missing'
+          campaign_html=campaign.read_text()
+          assert 'id="amde477-campaign-guide"' in campaign_html, 'Campaign CSS scope missing'
+          assert '<h1>From Brand Awareness to Campaign Action</h1>' in campaign_html, 'Campaign heading missing'
+          assert 'imported-posts/68273.css' in campaign_html, 'Campaign CSS link missing'
+          assert Path('_site/assets/css/imported-posts/68273.css').exists(), 'Campaign stylesheet missing'
+          assert '{::nomarkdown}' not in campaign_html, 'Raw preservation marker leaked into HTML'
+          print('AMDE 477 campaign HTML and stylesheet checks passed')
           PY
