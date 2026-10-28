@@ -22,3 +22,12 @@
 
 /* Preserve readable lesson layouts when legacy WordPress images are missing. */
 .mt-media-unavailable{display:inline-block;margin:.6rem 0;padding:.6rem .9rem;border:1px dashed #718096;border-radius:4px;color:#a9b8cb;font: .8rem/1.4 ui-monospace,SFMono-Regular,Consolas,monospace;background:#14253b}
+
+/* Readable source examples on the dark MadTinker theme. */
+.teaching-content pre,
+.teaching-content div.highlighter-rouge,
+.teaching-content figure.highlight {display:block;max-width:100%;margin:1.25rem 0;background:#0b1729!important;color:#e7f0fa!important;border:1px solid #38516d;border-radius:7px;overflow-x:auto}
+.teaching-content pre {padding:1rem 1.2rem!important;white-space:pre!important;overflow-wrap:normal!important}
+.teaching-content pre code,.teaching-content .highlight code{display:block;background:transparent!important;color:inherit!important;white-space:pre!important;overflow-wrap:normal!important;font: .88rem/1.65 ui-monospace,SFMono-Regular,Consolas,monospace!important}
+.teaching-content :not(pre)>code{padding:.12rem .32rem;border-radius:3px;background:#1b3049;color:#b6f6d1;overflow-wrap:anywhere}
+.teaching-content .highlight,.teaching-content .highlight pre{background:#0b1729!important;color:#e7f0fa!important}
