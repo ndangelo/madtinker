@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 <header class="ag-hero">
 <div class="ag-eyebrow">AMDE 355 · Advanced Web Design · Week 01</div>
@@ -360,3 +361,4 @@ tags: []
 <p>Structure with purpose. Style with intention. Test every decision.</p>
 </footer>
 </section></div>
+{:/nomarkdown}
