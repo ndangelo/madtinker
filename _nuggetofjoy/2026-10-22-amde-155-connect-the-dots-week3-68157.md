@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 <header class="ag-hero">
 <p class="ag-eyebrow">AMDE 155 · INTRODUCTION TO WEB DESIGN · WEEK 03</p>
@@ -349,3 +350,4 @@ tags: []
 <span class="ag-muted">Organize the content. Connect the experience.</span>
 </footer>
 </div>
+{:/nomarkdown}
