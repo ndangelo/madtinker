@@ -25,6 +25,9 @@ jobs:
           files=list(source.glob('*.md'))
           assert len(files)==382, f'Expected 382 Markdown files, got {len(files)}'
           for src in files:
+              # Preserve manually repaired lessons and avoid overwriting reviewed content.
+              if target.joinpath(src.name).exists():
+                  continue
               body=src.read_text()
               # Modernize links to the original WordPress media host.
               body=re.sub(r'http://(www[.])?nuggetofjoy[.]com/wp-content/', 'https://nuggetofjoy.com/wp-content/', body, flags=re.I)
@@ -32,6 +35,15 @@ jobs:
               # Keep source metadata; add Jekyll layout and a safe, isolated permalink.
               body=body.replace('---\n', '---\nlayout: teaching-post\n', 1)
               body=re.sub(r'(?m)^migration:\s*\n(?:  .+\n)+', '', body)
+              # Only bypass Markdown for posts whose entire body is already HTML.
+              # Mixed HTML/Markdown requires a separate parser; do not blindly wrap it.
+              parts=body.split('---\n', 2)
+              if len(parts)==3:
+                  content=parts[2]
+                  lines=[line.strip() for line in content.splitlines() if line.strip()]
+                  has_markdown=any(re.match(r'^(#{1,6}\\s|[-*+]\\s|\\d+[.]\\s|\x60{3}|>\\s)', line) for line in lines)
+                  if lines and not has_markdown and lines[0].startswith('<') and '{::nomarkdown}' not in content:
+                      body=parts[0]+'---\n'+parts[1]+'---\n\n{::nomarkdown}\n'+content.strip()+'\n{:/nomarkdown}\n'
               target.joinpath(src.name).write_text(body)
           css_source=Path('_imports/nuggetofjoy/styles/posts')
           css_target=Path('assets/css/imported-posts')
