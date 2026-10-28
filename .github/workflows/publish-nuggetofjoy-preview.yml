@@ -28,6 +28,7 @@ jobs:
               body=src.read_text()
               # Modernize links to the original WordPress media host.
               body=re.sub(r'http://(www[.])?nuggetofjoy[.]com/wp-content/', 'https://nuggetofjoy.com/wp-content/', body, flags=re.I)
+              assert 'http://nuggetofjoy.com/wp-content/' not in body.lower(), src.name
               # Keep source metadata; add Jekyll layout and a safe, isolated permalink.
               body=body.replace('---\n', '---\nlayout: teaching-post\n', 1)
               body=re.sub(r'(?m)^migration:\s*\n(?:  .+\n)+', '', body)
