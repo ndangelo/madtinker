@@ -14,6 +14,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 
 <section class="ag-hero">
@@ -317,3 +318,4 @@ tags: []
 </section>
 <footer class="ag-footer"><p><strong>AMDE 355 · Advanced Web Design</strong> — Week 06</p><p>Typography, Motion &amp; Composition · Build hierarchy, refine readability, and use motion with purpose.</p></footer>
 </div>
+{:/nomarkdown}
