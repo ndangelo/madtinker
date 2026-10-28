@@ -46,6 +46,9 @@ jobs:
           print('Media references:',len(rows))
           print('HTTP-only references:',sum(x[2]=='http-only' for x in rows))
           print('Relative references:',sum(x[2]=='relative' for x in rows))
+          print('Remaining non-WordPress HTTP references:')
+          for article,tag,risk,url in rows:
+              if risk=='http-only': print(' ',article,tag,url)
           old=sum('http://nuggetofjoy.com/wp-content/' in x[3].lower() for x in rows)
           print('WordPress HTTP media references:',old)
           assert old==0, f'{old} insecure WordPress media references remain'
