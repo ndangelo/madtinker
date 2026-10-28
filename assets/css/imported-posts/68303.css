@@ -144,3 +144,14 @@
       animation: gp-gradient-shift 8s ease infinite;
     }
   
+/* Restore the original lesson's framed teaching layout and table. */
+.gradient-part-two{background:#f5f7fb!important;padding:clamp(18px,3vw,38px);border-radius:12px;color:#263248!important}
+.gradient-part-two>h2:first-of-type{margin-top:0;font-size:clamp(29px,5vw,44px)}
+.gradient-part-two .gp-kicker:first-child{display:inline-block;background:#101b35;padding:8px 12px;border-radius:5px}
+.gradient-part-two .gp-chips{background:#101b35;border-radius:8px;padding:12px}
+.gradient-part-two .gp-note,.gradient-part-two .gp-challenge{color:#263248}
+.gradient-part-two .gp-reference{width:100%;border-collapse:collapse;display:table;min-width:600px}
+.gradient-part-two .gp-reference th,.gradient-part-two .gp-reference td{padding:12px;text-align:left;border-bottom:1px solid #dfe5ef}
+.gradient-part-two .gp-reference th{background:#101b35;color:#fff}
+.gradient-part-two .gp-reference code{white-space:normal;overflow-wrap:anywhere}
+.gradient-part-two .gp-footer h3{color:white}
