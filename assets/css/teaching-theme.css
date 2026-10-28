@@ -214,3 +214,34 @@
 .teaching-article .teaching-content #amde477-campaign-guide .amde-card a {
   color:var(--mt-sky)!important;
 }
+
+/* Shared legacy lesson cards: replace pale surfaces and their pale-on-pale
+   text together. Limited to known instructional card/panel components;
+   do not recolor CSS demonstrations, previews, or syntax examples. */
+.teaching-article .teaching-content :is(
+  .amde-grid-lesson,.amde-case,#amde477-campaign-guide,
+  .amde350-week1,.amde350-week2
+) :is(.ag-card,.amde-card,.sd-card,.card,.panel,.ag-callout,.amde-callout,.sd-callout) {
+  background:var(--mt-card)!important;
+  color:var(--mt-text)!important;
+  border-color:var(--mt-line)!important;
+}
+.teaching-article .teaching-content :is(
+  .amde-grid-lesson,.amde-case,#amde477-campaign-guide,
+  .amde350-week1,.amde350-week2
+) :is(.ag-card,.amde-card,.sd-card,.card,.panel,.ag-callout,.amde-callout,.sd-callout)
+:is(p,li,h3,h4,small,span:not(.ag-tag):not(.ag-attr):not(.ag-value):not(.ag-text):not(.ag-comment):not(.ag-css-prop):not(.ag-css-value)) {
+  color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content :is(
+  .amde-grid-lesson,.amde-case,#amde477-campaign-guide,
+  .amde350-week1,.amde350-week2
+) :is(.ag-card,.amde-card,.sd-card,.card,.panel) a {
+  color:var(--mt-sky)!important;
+}
+.teaching-article .teaching-content :is(
+  .amde-grid-lesson,.amde-case,#amde477-campaign-guide,
+  .amde350-week1,.amde350-week2
+) :is(.ag-number,.amde-num,.sd-number,.kicker,.sd-kicker,.amde-kicker) {
+  color:var(--mt-orange)!important;
+}
