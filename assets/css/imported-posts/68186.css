@@ -1,0 +1,50 @@
+
+.amde-grid-lesson{--ink:#182033;--muted:#596579;--line:#dce3ed;--blue:#2855d9;--lime:#b8f34b;--coral:#ef7e67;--paper:#f5f7fb;color:var(--ink);font-family:inherit;line-height:1.65}
+.amde-grid-lesson *{box-sizing:border-box}
+.amde-grid-lesson .ag-hero{background:#111827;color:#fff;padding:clamp(24px,5vw,48px);border-radius:18px;margin-bottom:30px;position:relative;overflow:hidden}
+.amde-grid-lesson .ag-hero:after{content:"</>";position:absolute;right:4%;bottom:-35px;font:bold clamp(7rem,18vw,13rem)/1 ui-monospace,monospace;color:rgba(184,243,75,.09);pointer-events:none}
+.amde-grid-lesson .ag-eyebrow{font-size:.78rem;text-transform:uppercase;letter-spacing:.14em;font-weight:800;color:var(--lime)}
+.amde-grid-lesson .ag-hero h2{color:#fff;font-size:clamp(2.2rem,5vw,3.8rem);line-height:1.02;margin:12px 0;max-width:760px;position:relative;z-index:1}
+.amde-grid-lesson .ag-hero p{color:#e0e7f1;max-width:760px;position:relative;z-index:1}
+.amde-grid-lesson .ag-chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px;position:relative;z-index:1}
+.amde-grid-lesson .ag-chip{border:1px solid #69758a;border-radius:999px;padding:4px 11px;font-size:.82rem;color:#fff}
+.amde-grid-lesson .ag-section{margin:34px 0}
+.amde-grid-lesson .ag-section>h2{font-size:clamp(1.5rem,3vw,2rem);line-height:1.2;margin-bottom:10px}
+.amde-grid-lesson .ag-muted{color:var(--muted)}
+.amde-grid-lesson .ag-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:14px}
+.amde-grid-lesson .ag-card{border:1px solid var(--line);border-radius:13px;padding:20px;background:#fff;min-width:0;box-shadow:0 5px 18px rgba(24,32,51,.04)}
+.amde-grid-lesson .ag-card h3{font-size:1.12rem;margin:0 0 8px}
+.amde-grid-lesson .ag-number{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:9px;background:#e8edff;color:#2447b6;font-weight:800;margin-bottom:12px}
+.amde-grid-lesson .ag-callout{background:#eef3ff;border-left:4px solid var(--blue);padding:14px 17px;border-radius:7px;margin:16px 0}
+.amde-grid-lesson .ag-callout.ag-green{background:#f0f8e8;border-left-color:#679328}
+.amde-grid-lesson .ag-callout.ag-coral{background:#fff0ec;border-left-color:var(--coral)}
+.amde-grid-lesson .ag-code-window{background:#0c1220;border:1px solid #27354b;color:#eef3ff;border-radius:12px;overflow:hidden;margin:14px 0;box-shadow:0 10px 28px rgba(12,18,32,.12)}
+.amde-grid-lesson .ag-code-top{display:flex;align-items:center;gap:7px;background:#172238;padding:11px 15px;border-bottom:1px solid #2a3951;font-size:.78rem;color:#cbd5e1}
+.amde-grid-lesson .ag-dot{display:inline-block;width:9px;height:9px;border-radius:50%;background:#ef7e67}
+.amde-grid-lesson .ag-dot:nth-child(2){background:#f4c95d}.amde-grid-lesson .ag-dot:nth-child(3){background:#80d89a}
+.amde-grid-lesson .ag-code-label{margin-left:auto;color:#b8f34b;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+.amde-grid-lesson .ag-code{margin:0;padding:18px;overflow-x:auto;white-space:pre;font: .88rem/1.75 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:#e8eef9;tab-size:2}
+.amde-grid-lesson .ag-code .tok-tag{color:#7dd3fc}
+.amde-grid-lesson .ag-code .tok-attr{color:#c4b5fd}
+.amde-grid-lesson .ag-code .tok-string{color:#bef264}
+.amde-grid-lesson .ag-code .tok-comment{color:#94a3b8;font-style:italic}
+.amde-grid-lesson .ag-code .tok-key{color:#f9a8d4}
+.amde-grid-lesson .ag-code .tok-value{color:#fcd34d}
+.amde-grid-lesson .ag-code .tok-selector{color:#7dd3fc}
+.amde-grid-lesson .ag-code .tok-prop{color:#c4b5fd}
+.amde-grid-lesson .ag-code .tok-punct{color:#e2e8f0}
+.amde-grid-lesson .ag-inline{background:#edf1f7;padding:2px 5px;border-radius:4px;font:.92em ui-monospace,monospace;overflow-wrap:anywhere}
+.amde-grid-lesson .ag-demo-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:12px 0}
+.amde-grid-lesson .ag-demo-grid span{display:grid;place-items:center;min-height:65px;padding:10px;text-align:center;border:1px solid #b7c9f5;background:#e5edff;border-radius:6px;font-weight:700}
+.amde-grid-lesson .ag-demo-grid .ag-wide{grid-column:span 2;background:#d9e3ff}
+.amde-grid-lesson .ag-demo-grid .ag-tall{grid-row:span 2;min-height:138px;background:#f4e4ff;border-color:#d7b6eb}
+.amde-grid-lesson .ag-demo-grid .ag-dark{background:#182033;color:#fff;border-color:#182033}
+.amde-grid-lesson .ag-demo-grid .ag-lime{background:#b8f34b;color:#182033;border-color:#9acb3c}
+.amde-grid-lesson .ag-steps li{margin:8px 0}
+.amde-grid-lesson .ag-checklist{list-style:none;padding:0}
+.amde-grid-lesson .ag-checklist li{padding:8px 0;border-bottom:1px solid var(--line)}
+.amde-grid-lesson .ag-checklist li:before{content:"□";font-weight:800;color:var(--blue);margin-right:10px}
+.amde-grid-lesson .ag-footer{background:#111827;color:#fff;padding:22px;border-radius:13px;margin-top:28px}
+.amde-grid-lesson .ag-footer h2{color:#fff}.amde-grid-lesson .ag-footer p{color:#e0e7f1}
+@media(max-width:700px){.amde-grid-lesson .ag-demo-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.amde-grid-lesson .ag-demo-grid .ag-wide{grid-column:span 2}}
+@media(max-width:600px){.amde-grid-lesson .ag-card{padding:15px}.amde-grid-lesson .ag-code{font-size:.78rem;padding:14px}}

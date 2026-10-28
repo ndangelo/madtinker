@@ -1,0 +1,115 @@
+
+/* AMDE 155 — CSS Gradients Design Lab */
+.gradient-lesson {
+  --gl-navy: #172b4d;
+  --gl-lime: #c7f464;
+  --gl-ink: #202a36;
+  --gl-muted: #5c6877;
+  --gl-line: #dce3e8;
+  color: var(--gl-ink);
+  font-family: inherit;
+  line-height: 1.7;
+  max-width: 100%;
+}
+.gradient-lesson * { box-sizing: border-box; }
+.gradient-lesson h2,
+.gradient-lesson h3 { color: var(--gl-navy); line-height: 1.25; }
+.gradient-lesson h2 { margin-top: 2.5rem; }
+.gradient-lesson h3 { margin-top: 1.5rem; }
+.gradient-lesson .gl-hero {
+  background: linear-gradient(135deg, #172b4d 0%, #365f8d 55%, #c7f464 100%);
+  color: white;
+  padding: clamp(2rem, 6vw, 4rem);
+  border-radius: 18px;
+  margin-bottom: 2rem;
+}
+.gradient-lesson .gl-hero h2 { color: white; margin-top: .5rem; }
+.gradient-lesson .gl-tag {
+  display: inline-block;
+  background: var(--gl-lime);
+  color: var(--gl-navy);
+  padding: .25rem .7rem;
+  border-radius: 4px;
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+.gradient-lesson .gl-card {
+  border: 1px solid var(--gl-line);
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin: 1rem 0;
+}
+.gradient-lesson .gl-demo {
+  min-height: 150px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  margin: 1rem 0;
+  color: #172b4d;
+  font-weight: 700;
+  text-align: center;
+}
+.gradient-lesson .gl-linear {
+  background: linear-gradient(120deg, #c7f464, #5dd9c1, #6178ed);
+}
+.gradient-lesson .gl-radial {
+  background: radial-gradient(circle, #fff2a6 0%, #ff9cbd 42%, #7357d8 100%);
+}
+.gradient-lesson .gl-conic {
+  background: conic-gradient(#ff6b6b, #ffd166, #c7f464, #5dd9c1, #6178ed, #ff6b6b);
+}
+.gradient-lesson .gl-animated {
+  background: linear-gradient(120deg, #172b4d, #7357d8, #ed7aa8, #c7f464);
+  background-size: 300% 300%;
+  animation: gl-gradient-flow 8s ease infinite;
+  color: white;
+}
+@keyframes gl-gradient-flow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.gradient-lesson .gl-code {
+  background: #172b4d;
+  color: #eff6ff;
+  border-radius: 10px;
+  padding: 1rem;
+  overflow-x: auto;
+  font-size: .9rem;
+  line-height: 1.6;
+  white-space: pre;
+}
+.gradient-lesson .gl-code .gl-comment { color: #a8c6a0; }
+.gradient-lesson .gl-code .gl-property { color: #91d8ff; }
+.gradient-lesson .gl-code .gl-value { color: #f4d58d; }
+.gradient-lesson .gl-note {
+  background: #f2f8e8;
+  border-left: 5px solid #8bbd35;
+  padding: 1rem 1.2rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1.25rem 0;
+}
+.gradient-lesson .gl-step {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: var(--gl-lime);
+  color: var(--gl-navy);
+  font-weight: 800;
+  margin-right: .4rem;
+}
+.gradient-lesson li { margin-bottom: .5rem; }
+.gradient-lesson a { overflow-wrap: anywhere; }
+@media (prefers-reduced-motion: reduce) {
+  .gradient-lesson .gl-animated {
+    animation: none;
+    background-position: 50% 50%;
+  }
+}

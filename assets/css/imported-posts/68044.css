@@ -1,0 +1,170 @@
+</p>
+
+<p>.uber-ux-guide{max-width:960px;margin:0 auto;color:#202124;line-height:1.7;font-size:17px;font-family:inherit}
+.uber-ux-guide h1,.uber-ux-guide h2,.uber-ux-guide h3{line-height:1.2;letter-spacing:-.02em}
+.uber-ux-guide h1{font-size:clamp(2.3rem,5vw,4.4rem);margin:.2em 0 .35em}
+.uber-ux-guide h2{font-size:clamp(1.8rem,3.5vw,2.6rem);margin:1.8em 0 .6em}
+.uber-ux-guide h3{font-size:1.25rem;margin:1.3em 0 .4em}
+.uber-ux-guide p{margin:.65em 0 1em}
+.uber-ux-guide figure{margin:1.5em 0}
+.uber-ux-guide img{display:block;width:100%;height:auto;border-radius:10px;object-fit:contain}
+.uber-ux-guide .uber-hero-image img{display:block;width:300px;max-width:100%;height:auto;margin:0 auto}
+.uber-ux-guide .uber-reference-image{margin:1.6em 0}
+.uber-ux-guide .uber-ui-icon img{width:48px;height:auto;border-radius:0}
+.uber-ux-guide .uber-reference-image img{max-height:none}
+.uber-ux-guide .uber-styleguide-overview{max-width:100%;padding:0}
+.uber-ux-guide .uber-styleguide-overview img{border:1px solid #e2e5e8}
+.uber-ux-guide .uber-make-steps{grid-template-columns:repeat(3,minmax(0,1fr))}
+.uber-ux-guide figcaption{font-size:.88rem;line-height:1.45;color:#62676d;margin-top:.6em}
+.uber-ux-guide .eyebrow{font-size:.8rem;font-weight:800;letter-spacing:.13em;text-transform:uppercase}
+.uber-ux-guide .lead{font-size:1.25rem;max-width:760px}
+.uber-ux-guide section{margin:3em 0}
+.uber-ux-guide .uber-deliverables,.uber-ux-guide .uber-principle-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:1.5em 0}
+.uber-ux-guide .uber-deliverable,.uber-ux-guide .uber-principle-grid>div{border:1px solid #e2e5e8;border-radius:12px;padding:20px;background:#f8f9fa}
+.uber-ux-guide .uber-deliverable span{display:inline-block;font-weight:800;font-size:.85rem;color:#666;margin-bottom:.5em}
+.uber-ux-guide .uber-deliverable h3,.uber-ux-guide .uber-principle-grid h3{margin:.15em 0 .5em}
+.uber-ux-guide .uber-callout{padding:20px 24px;border-left:4px solid #111;background:#f5f6f7;border-radius:0 10px 10px 0}
+.uber-ux-guide .uber-template-link{display:inline-block;font-weight:700;padding:12px 16px;border:1px solid #202124;border-radius:7px;text-decoration:none}
+.uber-ux-guide .uber-two-column{display:grid;grid-template-columns:1.1fr .9fr;gap:24px;align-items:start}
+.uber-ux-guide .uber-two-column figure{margin:0}
+.uber-ux-guide .uber-principle-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.uber-ux-guide .uber-checklist{padding:24px;border:1px solid #e2e5e8;border-radius:14px}
+.uber-ux-guide .uber-checklist li{margin:.45em 0}
+.uber-ux-guide .uber-closing{font-size:1.15rem;margin-top:1.5em}
+@media(max-width:650px){.uber-ux-guide .uber-deliverables,.uber-ux-guide .uber-principle-grid,.uber-ux-guide .uber-two-column,.uber-ux-guide .uber-make-steps{grid-template-columns:1fr}.uber-ux-guide{font-size:16px}.uber-ux-guide section{margin:2.3em 0}}</p>
+
+<p>/<em> Purpose-built user-flow and finished flat-screen examples </em>/
+/<em> User-flow example styled to echo the AMDE 477 FigJam template </em>/
+.uber-ux-guide .uber-example-heading{display:flex;flex-direction:column;gap:5px;margin-bottom:20px}
+.uber-ux-guide .uber-example-heading>span{font-size:.72rem;letter-spacing:.13em;font-weight:800;color:#6c5ce7}
+.uber-ux-guide .uber-example-heading>strong{font-size:1.35rem;line-height:1.25}
+.uber-ux-guide .uber-example-heading>small{color:#62676d}
+.uber-ux-guide .uber-flow-example,.uber-ux-guide .uber-flat-examples{padding:24px;border:1px solid #e2e5e8;border-radius:14px;background:#fbfbfc}
+.uber-ux-guide .uber-flow-title{display:flex;flex-direction:column;gap:4px;margin-bottom:22px}
+.uber-ux-guide .uber-flow-title>span{font-size:.72rem;letter-spacing:.12em;font-weight:800;color:#6c5ce7}
+.uber-ux-guide .uber-flow-title>strong{font-size:1.8rem;line-height:1.15;letter-spacing:-.03em}
+.uber-ux-guide .uber-flow-title>small{color:#62676d}
+.uber-ux-guide .uber-flow-guide-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:0 0 22px}
+.uber-ux-guide .uber-flow-guide-cards>div{border:1px solid #e2e5e8;border-radius:9px;background:#fff;padding:14px;display:flex;flex-direction:column;gap:7px}
+.uber-ux-guide .uber-flow-guide-cards b{font-size:.68rem;letter-spacing:.04em;color:#6c5ce7;line-height:1.35}
+.uber-ux-guide .uber-flow-guide-cards span{font-size:.82rem;line-height:1.4;color:#454950}
+.uber-ux-guide .uber-flow-legend{display:flex;flex-wrap:wrap;gap:9px 16px;padding:13px 0 18px;border-bottom:1px solid #e2e5e8;margin-bottom:18px}
+.uber-ux-guide .uber-flow-legend span{display:flex;align-items:center;gap:7px;font-size:.75rem;color:#555b63}
+.uber-ux-guide .uber-flow-legend i{display:inline-block;width:13px;height:13px;border:1px solid #bfc4cc;background:#fff;border-radius:3px}
+.uber-ux-guide .uber-flow-legend .legend-start{border-radius:7px;background:#f4f1ff;border-color:#6c5ce7}
+.uber-ux-guide .uber-flow-legend .legend-action{background:#eef5ff;border-color:#8eadd7}
+.uber-ux-guide .uber-flow-legend .legend-decision{transform:rotate(45deg);border-radius:0;background:#fff7e8;border-color:#d6aa5e;width:11px;height:11px}
+.uber-ux-guide .uber-flow-legend .legend-error{background:#f0f1f3;border-color:#9aa0a6}
+.uber-ux-guide .uber-flow-diagram{max-width:760px;margin:0 auto;display:flex;flex-direction:column;align-items:stretch;gap:0}
+.uber-ux-guide .uber-flow-step{padding:15px 18px;border:1px solid #d9dce3;border-radius:9px;background:#fff;display:flex;flex-direction:column;gap:4px;max-width:440px;width:100%;margin:0 auto}
+.uber-ux-guide .uber-flow-step>b{font-size:.67rem;letter-spacing:.09em;color:#6c5ce7}
+.uber-ux-guide .uber-flow-step>strong{font-size:1rem;line-height:1.3;color:#202124}
+.uber-ux-guide .uber-flow-step>small{font-size:.8rem;line-height:1.4;color:#62676d}
+.uber-ux-guide .uber-flow-step.flow-start{background:#f4f1ff;border-color:#6c5ce7;border-radius:18px}
+.uber-ux-guide .uber-flow-step.flow-decision{max-width:280px;text-align:center;background:#fff7e8;border-color:#d6aa5e;border-radius:8px}
+.uber-ux-guide .uber-flow-step.flow-action{background:#eef5ff;border-color:#8eadd7}
+.uber-ux-guide .uber-flow-step.flow-error{background:#f0f1f3;border-color:#9aa0a6;max-width:380px}
+.uber-ux-guide .uber-flow-step.flow-end{background:#effaf3;border-color:#a8d7b8;border-radius:18px;text-align:center}
+.uber-ux-guide .uber-flow-step.flow-end>b{color:#237447}
+.uber-ux-guide .uber-flow-connector{text-align:center;height:34px;display:flex;align-items:center;justify-content:center;color:#6c5ce7;font-size:1.35rem;font-weight:800}
+.uber-ux-guide .uber-flow-branches{display:grid;grid-template-columns:1fr 1fr;gap:12px;max-width:660px;width:100%;margin:0 auto 12px}
+.uber-ux-guide .uber-flow-branch{border-left:3px solid #6c5ce7;padding:12px 14px;background:#f4f1ff;border-radius:0 8px 8px 0;display:flex;flex-direction:column;gap:6px;font-size:.84rem;line-height:1.4}
+.uber-ux-guide .uber-flow-branch b{font-size:.68rem;letter-spacing:.07em;color:#6c5ce7}
+.uber-ux-guide .uber-flow-branch span{color:#4e5258}
+.uber-ux-guide .uber-flow-branch.flow-no{border-left-color:#9aa0a6;background:#f0f1f3}
+.uber-ux-guide .uber-flow-branch.flow-no b{color:#62676d}
+.uber-ux-guide .uber-screen-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;align-items:start}
+.uber-ux-guide .uber-screen-card{min-width:0}
+.uber-ux-guide .uber-phone{background:#fff;border:1px solid #d8dbe0;border-radius:20px;padding:12px 10px 13px;box-shadow:0 3px 12px #1018280d;color:#202124;min-height:405px;display:flex;flex-direction:column;gap:11px;font-family:Arial,sans-serif}
+.uber-ux-guide .uber-phone-status{display:flex;justify-content:space-between;font-size:9px;font-weight:700;padding:0 2px}
+.uber-ux-guide .uber-screen-top{display:flex;flex-direction:column;gap:4px}
+.uber-ux-guide .uber-screen-top b{font-size:15px;line-height:1.25}
+.uber-ux-guide .uber-screen-top span{font-size:10px;color:#646a73;line-height:1.35}
+.uber-ux-guide .uber-search{font-size:10px;background:#f1f2f4;border-radius:8px;padding:10px;color:#565b63}
+.uber-ux-guide .uber-map{height:116px;border-radius:9px;background-color:#eef1eb;background-image:linear-gradient(28deg,transparent 45%,#fff 46%,#fff 49%,transparent 50%),linear-gradient(112deg,transparent 39%,#fff 40%,#fff 44%,transparent 45%),linear-gradient(0deg,transparent 62%,#d8e4d3 63%,#d8e4d3 75%,transparent 76%);position:relative;overflow:hidden}
+.uber-ux-guide .uber-map-road{position:absolute;display:block;height:7px;width:140%;background:#fff;border:1px solid #dfe3dc;left:-20%;top:45%;transform:rotate(-22deg)}
+.uber-ux-guide .road-two{top:60%;transform:rotate(37deg)}
+.uber-ux-guide .uber-map-pin{position:absolute;left:48%;top:35%;width:17px;height:17px;border-radius:50%;background:#6c5ce7;color:#fff;font-size:9px;display:grid;place-items:center;border:3px solid #fff}
+.uber-ux-guide .uber-map-label{position:absolute;left:8px;bottom:7px;font-size:8px;font-weight:700;background:#fff;padding:5px 6px;border-radius:4px}
+.uber-ux-guide .uber-screen-button{margin-top:auto;background:#111;color:#fff;text-align:center;border-radius:8px;padding:11px 5px;font-size:10px;font-weight:700}
+.uber-ux-guide .uber-phone-nav{display:flex;justify-content:space-around;border-top:1px solid #eceef0;padding-top:8px;font-size:13px;text-align:center}
+.uber-ux-guide .uber-phone-nav span{display:flex;flex-direction:column;align-items:center;gap:2px}
+.uber-ux-guide .uber-phone-nav small{font-size:7px;color:#656b73}
+.uber-ux-guide .uber-info-card,.uber-ux-guide .uber-driver-card{padding:10px;border:1px solid #e3e5e8;border-radius:8px;display:flex;flex-direction:column;gap:4px}
+.uber-ux-guide .uber-info-card b,.uber-ux-guide .uber-driver-card b{font-size:10px}
+.uber-ux-guide .uber-info-card span,.uber-ux-guide .uber-driver-card small{font-size:9px;line-height:1.35;color:#5d636b}
+.uber-ux-guide .uber-info-card small{font-size:8px;color:#6c727a}
+.uber-ux-guide .uber-screen-link{text-align:center;font-size:9px;font-weight:700}
+.uber-ux-guide .uber-ride-option{display:grid;grid-template-columns:20px 1fr auto;align-items:center;gap:5px;padding:9px 5px;border:1px solid #e3e5e8;border-radius:8px}
+.uber-ux-guide .uber-ride-option.uber-selected{border:1.5px solid #6c5ce7;background:#f7f5ff}
+.uber-ux-guide .uber-car{font-size:15px}
+.uber-ux-guide .uber-ride-option span:nth-child(2){display:flex;flex-direction:column;gap:3px}
+.uber-ux-guide .uber-ride-option b,.uber-ux-guide .uber-ride-option strong{font-size:9px}
+.uber-ux-guide .uber-ride-option small{font-size:7px;line-height:1.25;color:#656b73}
+.uber-ux-guide .uber-confirm-icon{width:42px;height:42px;border-radius:50%;background:#e6f7ed;color:#217548;font-size:24px;display:grid;place-items:center;margin:10px auto 2px}
+.uber-ux-guide .uber-center{text-align:center}
+.uber-ux-guide .uber-driver-card{display:grid;grid-template-columns:30px 1fr;align-items:center;gap:6px}
+.uber-ux-guide .uber-driver-card>span{display:flex;flex-direction:column;gap:4px}
+.uber-ux-guide .uber-driver-card> b{grid-column:2}
+.uber-ux-guide .uber-avatar{width:28px;height:28px;border-radius:50%;background:#e9e5ff;color:#5142a9;display:grid;place-items:center;font-size:9px;font-weight:700}
+.uber-ux-guide .uber-screen-card>p{font-size:.82rem;line-height:1.45;color:#5b6068}
+.uber-ux-guide .uber-screen-card>p strong{color:#202124}
+@media(max-width:760px){.uber-ux-guide .uber-screen-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.uber-ux-guide .uber-flow-guide-cards{grid-template-columns:1fr}.uber-ux-guide .uber-flow-branches{grid-template-columns:1fr}.uber-ux-guide .uber-phone{min-height:390px}}
+@media(max-width:420px){.uber-ux-guide .uber-screen-grid{grid-template-columns:1fr 1fr;gap:8px}.uber-ux-guide .uber-phone{padding:9px 7px;min-height:375px}.uber-ux-guide .uber-flat-examples,.uber-ux-guide .uber-flow-example{padding:14px}}</p>
+
+<p>/<em> Figma Make tutorial embed </em>/
+.uber-ux-guide .uber-video-resource{margin:1.5em 0;padding:22px;border:1px solid #e2e5e8;border-radius:12px;background:#f8f9fa}
+.uber-ux-guide .uber-video-resource h3{margin-top:0}
+.uber-ux-guide .uber-video-embed{position:relative;width:100%;aspect-ratio:16/9;overflow:hidden;border-radius:9px;background:#111}
+.uber-ux-guide .uber-video-embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0}</p>
+
+<p>/<em> Refined visual direction for the holiday ride screens </em>/
+.uber-ux-guide .uber-flat-examples{background:linear-gradient(145deg,#f7f8f6 0%,#fff 62%,#f3f5f2 100%);border-color:#dfe4df;box-shadow:0 12px 35px rgba(24,39,32,.06)}
+.uber-ux-guide .uber-example-heading>span{color:#167a55}
+.uber-ux-guide .uber-example-heading>strong{letter-spacing:-.035em}
+.uber-ux-guide .uber-phone{position:relative;overflow:hidden;background:#fff;border:1px solid #d8ded9;border-radius:23px;padding:13px 11px 14px;box-shadow:0 10px 25px rgba(17,34,25,.11);gap:11px;min-height:435px}
+.uber-ux-guide .uber-phone:before{content:"";position:absolute;top:0;left:0;right:0;height:5px;background:linear-gradient(90deg,#0d6b4a 0%,#20a36f 58%,#d9a441 100%)}
+.uber-ux-guide .uber-phone-status{padding-top:3px;color:#242a27}
+.uber-ux-guide .uber-screen-top b{font-size:17px;letter-spacing:-.035em;color:#151a17}
+.uber-ux-guide .uber-screen-top span{font-size:10px;color:#6a736d}
+.uber-ux-guide .uber-seasonal-kicker{font-size:8px!important;letter-spacing:.14em;font-weight:800;color:#167a55!important}
+.uber-ux-guide .uber-search{display:flex;align-items:center;gap:7px;background:#f6f8f6;border:1px solid #e0e7e1;border-radius:11px;padding:11px;color:#59635d;box-shadow:0 2px 5px rgba(20,40,28,.03)}
+.uber-ux-guide .uber-search-dot{width:8px;height:8px;border:2px solid #147b54;border-radius:50%;display:inline-block;flex:none}
+.uber-ux-guide .uber-search-arrow{margin-left:auto;font-size:14px;color:#167a55}
+.uber-ux-guide .uber-map{height:132px;border:1px solid #dce5da;border-radius:13px;background-color:#e7eee4;background-image:linear-gradient(27deg,transparent 42%,#fff 43%,#fff 47%,transparent 48%),linear-gradient(115deg,transparent 34%,#fff 35%,#fff 39%,transparent 40%),linear-gradient(0deg,transparent 62%,#d2e2cf 63%,#d2e2cf 76%,transparent 77%),linear-gradient(90deg,transparent 20%,#dce8d7 21%,#dce8d7 28%,transparent 29%,transparent 74%,#dce8d7 75%,#dce8d7 82%,transparent 83%)}
+.uber-ux-guide .uber-map:before{content:"";position:absolute;left:10%;top:18%;width:23%;height:19%;border-radius:3px;background:#d6e4d0;box-shadow:50px 50px 0 #d7e3d1,110px 7px 0 #d6e4d0,160px 48px 0 #d6e4d0}
+.uber-ux-guide .uber-map-road{height:8px;background:#fff;border:1px solid #d5ded3;box-shadow:0 0 0 1px rgba(255,255,255,.4)}
+.uber-ux-guide .uber-map-pin{left:49%;top:31%;width:20px;height:20px;background:#0d6b4a;border:3px solid #fff;box-shadow:0 2px 7px #183d2b44;font-size:0}
+.uber-ux-guide .uber-map-pin:after{content:"";position:absolute;left:5px;top:5px;width:4px;height:4px;border-radius:50%;background:#fff}
+.uber-ux-guide .uber-map-label{left:8px;bottom:8px;border-radius:7px;padding:6px 8px;box-shadow:0 2px 8px #183d2b12;font-size:8px}
+.uber-ux-guide .uber-map-pickup{height:110px}
+.uber-ux-guide .uber-screen-button{background:#101512;border-radius:10px;padding:12px 6px;font-size:10px;letter-spacing:.005em;box-shadow:0 3px 0 #dce4dd}
+.uber-ux-guide .uber-phone-nav{margin-top:1px;color:#167a55;border-top-color:#e7ece8}
+.uber-ux-guide .uber-phone-nav small{color:#6b746e}
+.uber-ux-guide .uber-info-card,.uber-ux-guide .uber-driver-card{padding:11px;border:1px solid #e1e8e2;border-radius:11px;background:#fbfcfb;gap:5px}
+.uber-ux-guide .uber-info-card b,.uber-ux-guide .uber-driver-card b{font-size:10px;color:#202923}
+.uber-ux-guide .uber-info-card span{font-size:11px;font-weight:700;color:#222a24}
+.uber-ux-guide .uber-info-card small{font-size:8px;color:#657169}
+.uber-ux-guide .uber-pickup-tag{align-self:flex-start;background:#eaf6ef;color:#167a55;border:1px solid #d2eadb;border-radius:99px;padding:5px 8px;font-size:8px;font-weight:800;letter-spacing:.01em}
+.uber-ux-guide .uber-screen-link{color:#167a55;padding:2px 0}
+.uber-ux-guide .uber-ride-option{grid-template-columns:25px minmax(0,1fr) auto;gap:7px;padding:11px 7px;border:1px solid #e1e7e2;border-radius:11px;background:#fff}
+.uber-ux-guide .uber-ride-option.uber-selected{border:1.5px solid #138357;background:#f0f8f3;box-shadow:0 0 0 2px #13835712}
+.uber-ux-guide .uber-car{display:grid;place-items:center;width:24px;height:24px;border-radius:7px;background:#edf3ee;color:#167a55;font-size:13px}
+.uber-ux-guide .uber-ride-option b,.uber-ux-guide .uber-ride-option strong{font-size:10px;color:#1b241e}
+.uber-ux-guide .uber-ride-option small{font-size:7.5px;color:#68736b}
+.uber-ux-guide .uber-confirm-icon{width:48px;height:48px;background:#e7f7ed;color:#138052;border:1px solid #c7ead4;box-shadow:0 4px 12px #13805214;font-size:25px}
+.uber-ux-guide .uber-confirm-kicker{text-align:center;font-size:8px;letter-spacing:.14em;font-weight:800;color:#167a55;margin-top:-5px}
+.uber-ux-guide .uber-driver-card{grid-template-columns:34px minmax(0,1fr);background:#f8faf8}
+.uber-ux-guide .uber-avatar{width:32px;height:32px;background:#dcefe3;color:#126d49;border:1px solid #c5e2d0}
+.uber-ux-guide .uber-screen-card>p{margin-top:12px}
+.uber-ux-guide .uber-screen-card>p strong{display:inline-block;margin-bottom:2px}
+@media(max-width:760px){.uber-ux-guide .uber-phone{min-height:420px}}</p>
+
+<p>/<em> Gutenberg native-block enhancements for the Uber assignment </em>/
+.uber-ux-guide.wp-block-group{max-width:960px;margin-inline:auto}
+.uber-ux-guide .wp-block-heading{line-height:1.2;letter-spacing:-.02em}
+.uber-ux-guide .wp-block-image{margin:1.5em 0}
+.uber-ux-guide .wp-block-list{margin-bottom:1em}
+.uber-ux-guide .uber-hero-image img{width:300px!important;max-width:100%!important}</p>
+
+<p>
