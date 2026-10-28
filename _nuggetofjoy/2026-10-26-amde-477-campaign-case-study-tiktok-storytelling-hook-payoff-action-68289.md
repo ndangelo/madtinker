@@ -13,8 +13,6 @@ categories:
 tags: []
 ---
 
-![](https://nuggetofjoy.com/wp-content/uploads/image-1-6.png)
-
 
 <div class="amde-case">
 
