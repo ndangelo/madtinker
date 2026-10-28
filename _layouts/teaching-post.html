@@ -13,8 +13,7 @@ layout: default
 </article>
 <link rel="stylesheet" href="{{ '/assets/css/teaching-archive.css' | relative_url }}">
 {% assign post_css_path = '/assets/css/imported-posts/' | append: page.wordpress_id | append: '.css' %}
-{% assign css_exists = site.static_files | where: "path", post_css_path | first %}
-{% if css_exists %}<link rel="stylesheet" href="{{ post_css_path | relative_url }}">{% endif %}
+{% if page.wordpress_id %}<link rel="stylesheet" href="{{ post_css_path | relative_url }}?v={{ site.time | date: '%s' }}">{% endif %}
 <style>
 .teaching-content img{max-width:100%;height:auto}
 .teaching-content iframe{max-width:100%}
