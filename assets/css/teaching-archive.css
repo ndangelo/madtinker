@@ -1,0 +1,21 @@
+/* Imported teaching archive: preserve historical HTML while adapting to MadTinker */
+.teaching-article{max-width:1100px;margin-inline:auto}
+.teaching-article .article-header{max-width:900px}
+.teaching-content{font-size:1rem;line-height:1.7;overflow-wrap:anywhere}
+.teaching-content img,.teaching-content video,.teaching-content svg{max-width:100%;height:auto}
+.teaching-content iframe{max-width:100%;border:0}
+.teaching-content figure{max-width:100%;margin:1.5rem auto}
+.teaching-content figcaption{font-size:.85rem;opacity:.8}
+.teaching-content pre,.teaching-content code{white-space:pre-wrap;overflow-wrap:anywhere}
+.teaching-content pre{overflow-x:auto;white-space:pre}
+.teaching-content table{display:block;overflow-x:auto;max-width:100%}
+.teaching-content .aligncenter{display:block;margin-inline:auto}
+.teaching-content .alignleft{float:left;margin:0 1.5rem 1rem 0}
+.teaching-content .alignright{float:right;margin:0 0 1rem 1.5rem}
+.teaching-content::after{content:"";display:block;clear:both}
+.teaching-content .wp-block-embed__wrapper{position:relative;max-width:100%}
+.teaching-content .wp-caption{max-width:100%}
+.teaching-content .mt-assignment,.teaching-content .assignment,.teaching-content .assignment-box{border-left:4px solid #c5f25c;padding:1rem 1.25rem;background:rgba(197,242,92,.09);margin:1.5rem 0}
+.teaching-content .mt-instructor,.teaching-content .instructor-note{border-left:4px solid #ff9955;padding:1rem 1.25rem;background:rgba(255,153,85,.09);margin:1.5rem 0}
+.teaching-content .mt-callout{border-left:4px solid #80d7f2;padding:1rem 1.25rem;background:rgba(128,215,242,.09);margin:1.5rem 0}
+@media(max-width:650px){.teaching-content .alignleft,.teaching-content .alignright{float:none;margin:1rem auto;display:block}.teaching-content{font-size:.96rem}}
