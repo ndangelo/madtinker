@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 
 <header class="hero">
@@ -252,3 +253,4 @@ button.<span class="tok-key">addEventListener</span>(<span class="tok-string">"c
 <p style="color:#78350f;">Before students leave, verify that each planning brief identifies a clear audience, a primary user task, a workable structure, three prioritized revisions, and at least two success criteria. If a brief only lists visual changes, ask the student to identify one usability or content goal as well.</p>
 </div>
 </div>
+{:/nomarkdown}
