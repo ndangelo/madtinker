@@ -1,0 +1,19 @@
+---
+layout: teaching-post
+title: CSS Cheat Sheet
+slug: css-cheat-sheet
+date: '2019-09-24'
+modified: '2019-09-24'
+status: published
+wordpress_id: 114
+source_url: https://nuggetofjoy.com/css-cheat-sheet/
+author: admin
+categories:
+- AMDE 355 ADVANCED WEB DESIGN
+tags: []
+---
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://nuggetofjoy.com/wp-content/uploads/2013/10/css_cheat_2.png" rel="noopener noreferrer" target="_blank"><img alt="css_cheat_2" class="wp-image-117" src="https://nuggetofjoy.com/wp-content/uploads/2013/10/css_cheat_2.png"/></a></figure></div>
+
+
+[Click the image above to download a CSS cheat sheet.](https://nuggetofjoy.com/wp-content/uploads/2013/10/css_cheat_2.png)

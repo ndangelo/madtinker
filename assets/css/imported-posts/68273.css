@@ -1,0 +1,122 @@
+
+    #amde477-campaign-guide {
+      --amde-ink: #252525;
+      --amde-slate: #426b7a;
+      --amde-coral: #d95f45;
+      --amde-cream: #f5f0e8;
+      --amde-paper: #fffdf9;
+      --amde-muted: #5e6870;
+      color: var(--amde-ink);
+      background: var(--amde-paper);
+      font-family: inherit;
+      line-height: 1.7;
+      max-width: 100%;
+      margin: 0 auto;
+    }
+    #amde477-campaign-guide * { box-sizing: border-box; }
+    #amde477-campaign-guide .amde-wrap { max-width: 980px; margin: 0 auto; padding: 0 22px; }
+    #amde477-campaign-guide .amde-hero {
+      background: var(--amde-ink);
+      color: #fffdf9;
+      padding: clamp(34px, 7vw, 76px) clamp(24px, 6vw, 64px);
+      border-radius: 18px;
+      margin: 0 0 28px;
+      position: relative;
+      overflow: hidden;
+    }
+    #amde477-campaign-guide .amde-kicker {
+      text-transform: uppercase; letter-spacing: .14em; font-size: .78rem;
+      font-weight: 800; color: #f2a08c; margin: 0 0 12px;
+    }
+    #amde477-campaign-guide .amde-hero h1 {
+      color: #fffdf9; font-size: clamp(2.1rem, 5.5vw, 4.2rem);
+      line-height: 1.04; letter-spacing: -.04em; margin: 0 0 18px;
+      max-width: 760px;
+    }
+    #amde477-campaign-guide .amde-hero p { color: #f1ece5; max-width: 700px; margin: 0; font-size: 1.08rem; }
+    #amde477-campaign-guide .amde-meta {
+      display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px; margin: 22px 0 0;
+    }
+    #amde477-campaign-guide .amde-meta div {
+      border: 1px solid rgba(255,255,255,.2); border-radius: 12px;
+      padding: 12px 14px; font-size: .9rem; color: #fffdf9;
+    }
+    #amde477-campaign-guide .amde-meta strong {
+      display: block; color: #f2a08c; text-transform: uppercase;
+      font-size: .7rem; letter-spacing: .1em; margin-bottom: 3px;
+    }
+    #amde477-campaign-guide h2 {
+      color: var(--amde-ink); font-size: clamp(1.55rem, 3vw, 2.15rem);
+      line-height: 1.18; letter-spacing: -.025em; margin: 42px 0 12px;
+    }
+    #amde477-campaign-guide h3 {
+      color: var(--amde-slate); font-size: 1.18rem; line-height: 1.3;
+      margin: 20px 0 7px;
+    }
+    #amde477-campaign-guide p { margin: 0 0 14px; }
+    #amde477-campaign-guide a { color: #2f6477; text-decoration-thickness: 1px; text-underline-offset: 3px; overflow-wrap: anywhere; }
+    #amde477-campaign-guide a:hover { color: var(--amde-coral); }
+    #amde477-campaign-guide .amde-callout {
+      background: var(--amde-cream); border-left: 5px solid var(--amde-coral);
+      border-radius: 0 12px 12px 0; padding: 18px 20px; margin: 22px 0;
+    }
+    #amde477-campaign-guide .amde-callout strong { color: var(--amde-slate); }
+    #amde477-campaign-guide .amde-grid {
+      display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; margin: 18px 0;
+    }
+    #amde477-campaign-guide .amde-card {
+      border: 1px solid #e7e0d7; background: #fff; border-radius: 14px; padding: 18px;
+    }
+    #amde477-campaign-guide .amde-card .amde-num {
+      color: var(--amde-coral); font-weight: 900; letter-spacing: .08em;
+      font-size: .8rem; text-transform: uppercase;
+    }
+    #amde477-campaign-guide .amde-card h3 { margin-top: 6px; }
+    #amde477-campaign-guide .amde-card p:last-child { margin-bottom: 0; }
+    #amde477-campaign-guide .amde-steps { list-style: none; padding: 0; counter-reset: amde-step; margin: 18px 0; }
+    #amde477-campaign-guide .amde-steps li {
+      counter-increment: amde-step; position: relative; padding: 0 0 22px 54px; margin: 0;
+    }
+    #amde477-campaign-guide .amde-steps li::before {
+      content: counter(amde-step, decimal-leading-zero); position: absolute; left: 0; top: 0;
+      width: 38px; height: 38px; display: flex; align-items: center; justify-content: center;
+      border-radius: 50%; background: var(--amde-cream); color: var(--amde-coral); font-weight: 900;
+    }
+    #amde477-campaign-guide .amde-example {
+      background: #f7f8f8; border: 1px solid #dfe6e8; border-radius: 14px;
+      padding: 18px 20px; margin: 16px 0;
+    }
+    #amde477-campaign-guide .amde-example .amde-label {
+      font-size: .72rem; text-transform: uppercase; letter-spacing: .12em;
+      color: var(--amde-coral); font-weight: 900; margin-bottom: 7px;
+    }
+    #amde477-campaign-guide .amde-platform {
+      border-top: 3px solid var(--amde-slate); padding: 14px 16px;
+      background: #fff; border-radius: 0 0 12px 12px; border-left: 1px solid #e7e0d7;
+      border-right: 1px solid #e7e0d7; border-bottom: 1px solid #e7e0d7;
+    }
+    #amde477-campaign-guide .amde-platform h3 { margin-top: 0; }
+    #amde477-campaign-guide .amde-checklist { list-style: none; padding: 0; }
+    #amde477-campaign-guide .amde-checklist li { padding-left: 30px; position: relative; margin: 0 0 9px; }
+    #amde477-campaign-guide .amde-checklist li::before {
+      content: "✓"; position: absolute; left: 0; top: 0; color: var(--amde-coral); font-weight: 900;
+    }
+    #amde477-campaign-guide .amde-small { color: var(--amde-muted); font-size: .92rem; }
+    #amde477-campaign-guide .amde-rule { border: 0; border-top: 1px solid #e7e0d7; margin: 34px 0; }
+    #amde477-campaign-guide .amde-table-wrap { overflow-x: auto; margin: 18px 0; }
+    #amde477-campaign-guide table { width: 100%; border-collapse: collapse; min-width: 620px; font-size: .93rem; }
+    #amde477-campaign-guide th { background: var(--amde-ink); color: white; text-align: left; padding: 12px; }
+    #amde477-campaign-guide td { border-bottom: 1px solid #e7e0d7; padding: 12px; vertical-align: top; }
+    #amde477-campaign-guide .amde-bottom {
+      background: var(--amde-slate); color: white; border-radius: 16px;
+      padding: 24px; margin: 34px 0 0;
+    }
+    #amde477-campaign-guide .amde-bottom h2 { color: white; margin-top: 0; }
+    #amde477-campaign-guide .amde-bottom p { color: #f3f6f6; }
+    @media (max-width: 680px) {
+      #amde477-campaign-guide .amde-meta, #amde477-campaign-guide .amde-grid { grid-template-columns: 1fr; }
+      #amde477-campaign-guide .amde-wrap { padding: 0 14px; }
+      #amde477-campaign-guide .amde-hero { border-radius: 12px; }
+    }
+  

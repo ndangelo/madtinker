@@ -1,0 +1,61 @@
+
+.food-app-assignment{color:inherit;font-family:inherit;line-height:1.65;max-width:100%;}
+.food-app-assignment *{box-sizing:border-box;}
+.food-app-assignment .food-hero{background:linear-gradient(135deg,#fff3d8,#fce6dc);border-radius:18px;padding:clamp(22px,4vw,42px);margin:24px 0 30px;display:grid;grid-template-columns:1.15fr .85fr;gap:24px;align-items:center;}
+.food-app-assignment .eyebrow{font-size:.8rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#a74c28;margin:0 0 8px;}
+.food-app-assignment h2,.food-app-assignment h3{line-height:1.25;margin-top:1.4em;}
+.food-app-assignment .food-hero h2{font-size:clamp(1.8rem,4vw,3rem);margin:0 0 12px;}
+.food-app-assignment .food-hero p{margin:0 0 12px;}
+.food-app-assignment .hero-art{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;transform:rotate(2deg);}
+.food-app-assignment .food-tile{background:#fff;border-radius:14px;padding:14px;text-align:center;box-shadow:0 8px 22px #67351b12;}
+.food-app-assignment .food-emoji{font-size:clamp(2rem,5vw,3.8rem);display:block;line-height:1.3;}
+.food-app-assignment .food-tile strong{font-size:.85rem;display:block;}
+.food-app-assignment .quick-facts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:22px 0;}
+.food-app-assignment .fact{border:1px solid #e4e4e4;border-radius:12px;padding:16px;}
+.food-app-assignment .fact strong{display:block;font-size:1.05rem;}
+.food-app-assignment .persona-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:18px 0 26px;}
+.food-app-assignment .persona{border:1px solid #dedede;border-radius:14px;padding:18px;background:#fff;}
+.food-app-assignment .persona .avatar{width:52px;height:52px;border-radius:50%;display:grid;place-items:center;background:#fbe5d8;font-size:1.6rem;margin-bottom:10px;}
+.food-app-assignment .persona h3{font-size:1.05rem;margin:0 0 4px;}
+.food-app-assignment .persona .role{font-size:.85rem;color:#555;margin:0 0 12px;}
+.food-app-assignment .persona p{font-size:.95rem;margin:0;}
+.food-app-assignment .deliverables{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:18px 0;}
+.food-app-assignment .deliverable{border:1px solid #e1e1e1;border-radius:12px;padding:16px;}
+.food-app-assignment .deliverable .num{font-size:.8rem;font-weight:700;color:#a74c28;letter-spacing:.08em;}
+.food-app-assignment .deliverable h3{font-size:1.05rem;margin:5px 0 6px;}
+.food-app-assignment .deliverable p{font-size:.94rem;margin:0;}
+.food-app-assignment .screen-preview{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:22px 0;}
+.food-app-assignment .phone{border:5px solid #202020;border-radius:24px;background:#fff;padding:10px;min-width:0;box-shadow:0 6px 18px #00000012;}
+.food-app-assignment .phone-top{height:8px;width:40%;background:#222;border-radius:8px;margin:0 auto 12px;}
+.food-app-assignment .mock-heading{font-size:.8rem;font-weight:700;margin-bottom:7px;}
+.food-app-assignment .mock-search{font-size:.6rem;color:#777;background:#f2f2f2;padding:7px;border-radius:7px;margin-bottom:8px;}
+.food-app-assignment .mock-food{height:58px;border-radius:8px;background:linear-gradient(135deg,#ffd7a1,#ef8e5b);display:grid;place-items:center;font-size:1.8rem;margin-bottom:8px;}
+.food-app-assignment .mock-line{height:6px;background:#e9e9e9;border-radius:5px;margin:6px 0;}
+.food-app-assignment .mock-line.short{width:58%;}
+.food-app-assignment .mock-button{font-size:.58rem;color:#fff;background:#d95332;text-align:center;padding:7px;border-radius:7px;margin-top:9px;}
+.food-app-assignment .note{border-left:4px solid #d95332;background:#fff5ed;padding:14px 18px;margin:22px 0;}
+.food-app-assignment .food-checklist{padding-left:1.3em;}
+.food-app-assignment .food-checklist li{margin:.45em 0;}
+.food-app-assignment .reference-links a{overflow-wrap:anywhere;}
+
+.food-app-assignment .flow-visual{display:flex;flex-wrap:wrap;align-items:stretch;gap:10px;margin:20px 0;padding:18px;background:#f7f8fa;border:1px solid #e0e3e8;border-radius:14px;}
+.food-app-assignment .flow-step{flex:1 1 115px;min-width:100px;background:#fff;border:1px solid #d7dce2;border-radius:10px;padding:13px 10px;text-align:center;font-size:.9rem;}
+.food-app-assignment .flow-step strong{display:block;margin-bottom:4px;color:#a74c28;}
+.food-app-assignment .flow-arrow{align-self:center;font-size:1.3rem;font-weight:700;color:#a74c28;}
+.food-app-assignment .styleguide-template-shot{margin:22px 0 30px;}
+.food-app-assignment .styleguide-template-shot img{max-width:100%;height:auto;border:1px solid #ddd;border-radius:8px;}
+.food-app-assignment .styleguide-template-shot figcaption{font-size:.95em;margin-top:8px;}
+.food-app-assignment .styleguide-visual{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:20px 0;}
+.food-app-assignment .styleguide-card{border:1px solid #e0e0e0;border-radius:14px;padding:18px;background:#fff;min-width:0;}
+.food-app-assignment .styleguide-card h3{margin:0 0 10px;font-size:1.05rem;}
+.food-app-assignment .swatches{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0;}
+.food-app-assignment .swatch{width:42px;height:42px;border-radius:8px;border:1px solid #00000018;}
+.food-app-assignment .type-sample{padding:10px 0;border-bottom:1px solid #eee;}
+.food-app-assignment .type-sample:last-child{border-bottom:0;}
+.food-app-assignment .component-sample{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:10px;}
+.food-app-assignment .sample-button{display:inline-block;border-radius:8px;background:#d95332;color:#fff;padding:9px 13px;font-size:.85rem;font-weight:700;}
+.food-app-assignment .sample-input{border:1px solid #b9bec5;border-radius:8px;padding:9px 11px;color:#666;font-size:.85rem;}
+.food-app-assignment .sample-chip{border-radius:99px;background:#fff1e8;color:#8c3b21;padding:6px 10px;font-size:.78rem;font-weight:700;}
+@media(max-width:700px){.food-app-assignment .styleguide-visual{grid-template-columns:1fr}.food-app-assignment .flow-arrow{display:none}}
+@media(max-width:700px){.food-app-assignment .food-hero{grid-template-columns:1fr}.food-app-assignment .quick-facts,.food-app-assignment .persona-grid{grid-template-columns:1fr}.food-app-assignment .deliverables{grid-template-columns:1fr 1fr}.food-app-assignment .screen-preview{grid-template-columns:repeat(2,minmax(0,1fr));}}
+@media(max-width:420px){.food-app-assignment .deliverables{grid-template-columns:1fr}.food-app-assignment .phone{border-width:3px;padding:7px}}

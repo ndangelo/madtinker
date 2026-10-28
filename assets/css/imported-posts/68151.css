@@ -1,0 +1,253 @@
+
+/* AMDE 155 — Responsive Layout Lesson */
+.amde155-media-lesson {
+  --amde-ink: #17243b;
+  --amde-navy: #101b30;
+  --amde-orange: #f29b52;
+  --amde-paper: #f7f7f4;
+  --amde-line: #d9dde4;
+  --amde-muted: #657084;
+  color: var(--amde-ink);
+  font-family: inherit;
+  line-height: 1.7;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.amde155-media-lesson *,
+.amde155-media-lesson *::before,
+.amde155-media-lesson *::after {
+  box-sizing: border-box;
+}
+.amde155-media-lesson .amde-hero {
+  background: var(--amde-navy);
+  color: #fff;
+  padding: clamp(28px, 6vw, 64px);
+  border-radius: 12px;
+  margin-bottom: 32px;
+}
+.amde155-media-lesson .amde-kicker {
+  color: var(--amde-orange);
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  font-size: .8rem;
+  font-weight: 700;
+}
+.amde155-media-lesson .amde-hero h1 {
+  color: #fff;
+  font-size: clamp(2rem, 5vw, 3.6rem);
+  line-height: 1.08;
+  margin: 12px 0 18px;
+}
+.amde155-media-lesson .amde-hero p {
+  color: #dce3ee;
+  max-width: 700px;
+  margin-bottom: 0;
+}
+.amde155-media-lesson h2 {
+  font-size: clamp(1.5rem, 3vw, 2.1rem);
+  line-height: 1.2;
+  margin: 40px 0 16px;
+  color: var(--amde-ink);
+}
+.amde155-media-lesson h3 {
+  font-size: 1.15rem;
+  margin: 0 0 8px;
+  color: var(--amde-ink);
+}
+.amde155-media-lesson p {
+  margin: 0 0 16px;
+}
+.amde155-media-lesson .amde-section {
+  margin: 30px 0;
+}
+.amde155-media-lesson .amde-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 20px 0;
+}
+.amde155-media-lesson .amde-card {
+  border: 1px solid var(--amde-line);
+  border-radius: 9px;
+  padding: 20px;
+  background: #fff;
+}
+.amde155-media-lesson .amde-card p:last-child {
+  margin-bottom: 0;
+}
+.amde155-media-lesson .amde-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--amde-orange);
+  color: var(--amde-navy);
+  font-weight: 800;
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+  margin-bottom: 12px;
+}
+.amde155-media-lesson .amde-callout {
+  background: #fff5e9;
+  border-left: 5px solid var(--amde-orange);
+  border-radius: 0 8px 8px 0;
+  padding: 18px 22px;
+  margin: 22px 0;
+}
+.amde155-media-lesson .amde-callout p:last-child {
+  margin-bottom: 0;
+}
+.amde155-media-lesson .amde-code {
+  background: #111c30;
+  color: #e4eaf3;
+  border-radius: 9px;
+  padding: 20px;
+  overflow-x: auto;
+  margin: 16px 0 22px;
+  font: .9rem/1.8 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  white-space: pre;
+}
+.amde155-media-lesson .amde-code .sel { color: #8bd5ff; }
+.amde155-media-lesson .amde-code .prop { color: #f3b7ff; }
+.amde155-media-lesson .amde-code .val { color: #a9e6b0; }
+.amde155-media-lesson .amde-code .num { color: #ffce83; }
+.amde155-media-lesson .amde-code .comment { color: #9aa8bb; }
+.amde155-media-lesson .amde-code .tag { color: #ffb48a; }
+.amde155-media-lesson .amde-code .attr { color: #b9c7ff; }
+.amde155-media-lesson .amde-code .punct { color: #cbd5e1; }
+.amde155-media-lesson .amde-code-label {
+  display: block;
+  color: #aab9ce;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-size: .72rem;
+  margin: 0 0 8px;
+}
+.amde155-media-lesson .amde-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0 24px;
+}
+.amde155-media-lesson .amde-table th,
+.amde155-media-lesson .amde-table td {
+  border: 1px solid var(--amde-line);
+  padding: 12px 14px;
+  text-align: left;
+  vertical-align: top;
+}
+.amde155-media-lesson .amde-table th {
+  background: var(--amde-navy);
+  color: #fff;
+}
+.amde155-media-lesson .amde-table code,
+.amde155-media-lesson p code,
+.amde155-media-lesson li code {
+  background: #edf0f5;
+  padding: 2px 5px;
+  border-radius: 4px;
+  overflow-wrap: anywhere;
+}
+.amde155-media-lesson .amde-demo {
+  border: 1px solid var(--amde-line);
+  border-radius: 9px;
+  padding: 16px;
+  margin: 18px 0;
+  background: var(--amde-paper);
+}
+.amde155-media-lesson .amde-demo-nav {
+  background: #dce2ea;
+  height: 24px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
+.amde155-media-lesson .amde-demo-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.amde155-media-lesson .amde-demo-block {
+  min-height: 65px;
+  background: #dce2ea;
+  border: 1px solid #b8c2d0;
+  border-radius: 4px;
+  padding: 12px;
+  font-size: .85rem;
+}
+.amde155-media-lesson .amde-demo-projects {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 12px;
+}
+.amde155-media-lesson .amde-demo-project {
+  min-height: 75px;
+  background: #f7dfc8;
+  border: 1px solid #e7b888;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: .8rem;
+}
+.amde155-media-lesson .amde-checklist {
+  padding-left: 1.4rem;
+}
+.amde155-media-lesson .amde-checklist li {
+  margin-bottom: 9px;
+}
+.amde155-media-lesson .amde-assignment {
+  background: var(--amde-paper);
+  border: 1px solid var(--amde-line);
+  border-radius: 12px;
+  padding: clamp(20px, 4vw, 36px);
+  margin: 26px 0;
+}
+.amde155-media-lesson .amde-break {
+  border: 0;
+  border-top: 1px solid var(--amde-line);
+  margin: 30px 0;
+}
+.amde155-media-lesson .amde-small {
+  color: var(--amde-muted);
+  font-size: .9rem;
+}
+.amde155-media-lesson .amde-button {
+  display: inline-block;
+  background: var(--amde-orange);
+  color: var(--amde-navy);
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 5px;
+  padding: 11px 17px;
+}
+.amde155-media-lesson .amde-button:hover {
+  background: #ffc184;
+}
+@media screen and (max-width: 850px) {
+  .amde155-media-lesson .amde-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .amde155-media-lesson .amde-demo-projects {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media screen and (max-width: 600px) {
+  .amde155-media-lesson .amde-grid {
+    grid-template-columns: 1fr;
+  }
+  .amde155-media-lesson .amde-demo-layout {
+    grid-template-columns: 1fr;
+  }
+  .amde155-media-lesson .amde-demo-projects {
+    grid-template-columns: 1fr;
+  }
+  .amde155-media-lesson .amde-hero {
+    padding: 25px 21px;
+  }
+  .amde155-media-lesson .amde-card {
+    padding: 16px;
+  }
+  .amde155-media-lesson .amde-table th,
+  .amde155-media-lesson .amde-table td {
+    padding: 8px;
+    font-size: .9rem;
+  }
+}

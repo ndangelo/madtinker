@@ -1,0 +1,44 @@
+name: Deploy teaching preview
+on:
+  workflow_dispatch:
+  push:
+    branches: [nuggetofjoy-import]
+    paths:
+      - '.github/workflows/deploy-teaching-preview.yml'
+      - '_nuggetofjoy/**'
+      - '_layouts/**'
+      - 'teaching.html'
+      - 'assets/css/**'
+      - '_config.yml'
+permissions:
+  contents: read
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+      - name: Build isolated preview
+        run: |
+          cp _config.yml _config.preview.yml
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('_config.preview.yml')
+          s=p.read_text().replace('url: "https://madtinker.net"','url: ""')
+          p.write_text(s)
+          PY
+          bundle exec jekyll build --config _config.yml,_config.preview.yml --destination _site
+          test -f _site/teaching/index.html
+          python3 - <<'PY'
+          from pathlib import Path
+          pages=list(Path('_site/teaching').glob('*/index.html'))
+          assert len(pages)==382, f'Expected 382 teaching pages, got {len(pages)}'
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: madtinker-teaching-preview-site
+          path: _site
+          retention-days: 14

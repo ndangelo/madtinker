@@ -1,0 +1,8 @@
+/* MadTinker hybrid teaching components; adjust to site palette */
+:root { --mt-ink:#102a43;--mt-accent:#c5f25c;--mt-sky:#80d7f2;--mt-orange:#ff9955; }
+.mt-assignment, .assignment, .assignment-box {border-left:4px solid var(--mt-accent);padding:1rem 1.25rem;background:#f5f8f8;margin:1.5rem 0;}
+.mt-instructor, .instructor-note {border-left:4px solid var(--mt-orange);padding:1rem 1.25rem;background:#fff8f1;margin:1.5rem 0;}
+.mt-callout {border-left:4px solid var(--mt-sky);padding:1rem 1.25rem;background:#f0f9fc;}
+.mt-post img {max-width:100%;height:auto;}
+.mt-post iframe {max-width:100%;}
+.mt-post pre {overflow-x:auto;}

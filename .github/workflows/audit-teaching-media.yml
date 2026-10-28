@@ -1,0 +1,63 @@
+name: Audit imported teaching media
+on:
+  workflow_dispatch:
+  push:
+    branches: [nuggetofjoy-import]
+    paths:
+      - '.github/workflows/audit-teaching-media.yml'
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit media references and legacy markup
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from html.parser import HTMLParser
+          import csv, re
+          class MediaParser(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.urls=[]
+              def handle_starttag(self,tag,attrs):
+                  if tag in ('img','iframe','video','source','audio'):
+                      d=dict(attrs)
+                      u=d.get('src') or d.get('data-src')
+                      if u: self.urls.append((tag,u))
+          files=sorted(Path('_nuggetofjoy').glob('*.md'))
+          assert len(files)==382
+          rows=[]
+          for p in files:
+              body=p.read_text(errors='replace')
+              parser=MediaParser()
+              parser.feed(body)
+              for tag,url in parser.urls:
+                  risk=('http-only' if url.startswith('http://') else
+                        'relative' if url.startswith('/') else
+                        'external' if url.startswith('https://') else 'other')
+                  rows.append((p.name,tag,risk,url))
+          Path('teaching-media-audit.csv').write_text('')
+          with Path('teaching-media-audit.csv').open('w',newline='') as f:
+              writer=csv.writer(f)
+              writer.writerow(('article','element','reference_type','url'))
+              writer.writerows(rows)
+          print('Articles:',len(files))
+          print('Media references:',len(rows))
+          print('HTTP-only references:',sum(x[2]=='http-only' for x in rows))
+          print('Relative references:',sum(x[2]=='relative' for x in rows))
+          print('Remaining non-WordPress HTTP references:')
+          for article,tag,risk,url in rows:
+              if risk=='http-only': print(' ',article,tag,url)
+          old=sum('http://nuggetofjoy.com/wp-content/' in x[3].lower() for x in rows)
+          print('WordPress HTTP media references:',old)
+          assert old==0, f'{old} insecure WordPress media references remain'
+          from collections import Counter
+          print('Most affected articles:')
+          for name,count in Counter(x[0] for x in rows if x[2]=='http-only').most_common(12):
+              print(f'  {count:3} {name}')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: teaching-media-audit
+          path: teaching-media-audit.csv

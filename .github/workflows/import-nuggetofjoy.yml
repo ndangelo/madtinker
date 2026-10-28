@@ -1,0 +1,54 @@
+name: Stage Nugget of Joy archive
+on:
+  push:
+    branches: [nuggetofjoy-import]
+    paths:
+      - 'imports/madtinker-archive-preview.zip'
+      - '.github/workflows/import-nuggetofjoy.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  stage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: nuggetofjoy-import
+      - name: Extract archive into review-only staging directory
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f imports/madtinker-archive-preview.zip || { echo "Upload imports/madtinker-archive-preview.zip first"; exit 1; }
+          mkdir -p _imports/nuggetofjoy
+          python3 - <<'PY'
+          from zipfile import ZipFile
+          from pathlib import Path
+          z=ZipFile('imports/madtinker-archive-preview.zip')
+          dest=Path('_imports/nuggetofjoy')
+          prefix='madtinker-archive-preview/'
+          for item in z.infolist():
+              if not item.filename.startswith(prefix) or item.is_dir():
+                  continue
+              rel=Path(item.filename[len(prefix):])
+              if rel.parts[0] not in ('markdown', 'styles'):
+                  continue
+              if '..' in rel.parts or rel.is_absolute():
+                  raise ValueError('Unsafe archive path')
+              out=dest/rel
+              out.parent.mkdir(parents=True,exist_ok=True)
+              out.write_bytes(z.read(item))
+          count=len(list((dest/'markdown').glob('*.md')))
+          assert count==382, f'Expected 382 posts, found {count}'
+          print(f'Staged {count} posts; no live _posts were changed.')
+          PY
+      - name: Commit staged files to import branch
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _imports/nuggetofjoy
+          if ! git diff --cached --quiet; then
+            git commit -m "Stage 382 Nugget of Joy posts for review"
+            git push
+          fi

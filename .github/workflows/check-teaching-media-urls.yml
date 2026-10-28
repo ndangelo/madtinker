@@ -1,0 +1,68 @@
+name: Check teaching media availability
+on:
+  workflow_dispatch:
+  push:
+    branches: [nuggetofjoy-import]
+    paths:
+      - '.github/workflows/check-teaching-media-urls.yml'
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check original WordPress media availability
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from html.parser import HTMLParser
+          from concurrent.futures import ThreadPoolExecutor,as_completed
+          from urllib.request import Request,urlopen
+          from urllib.error import HTTPError,URLError
+          from urllib.parse import urlparse
+          from collections import defaultdict,Counter
+          import csv,time
+          class Parser(HTMLParser):
+              def __init__(self): super().__init__();self.urls=[]
+              def handle_starttag(self,tag,attrs):
+                  if tag in ('img','video','audio','source'):
+                      a=dict(attrs)
+                      u=a.get('src') or a.get('data-src')
+                      if u and urlparse(u).hostname in ('nuggetofjoy.com','www.nuggetofjoy.com'):
+                          self.urls.append(u)
+          sources=defaultdict(set)
+          for p in Path('_nuggetofjoy').glob('*.md'):
+              parser=Parser();parser.feed(p.read_text(errors='replace'))
+              for url in parser.urls: sources[url].add(p.name)
+          def check(url):
+              last=''
+              for method in ('HEAD','GET'):
+                  try:
+                      req=Request(url,method=method,headers={'User-Agent':'Mozilla/5.0 (compatible; MadTinkerMediaAudit/1.0)'})
+                      with urlopen(req,timeout=12) as response:
+                          code=response.status
+                          return (url,str(code),'ok' if code<400 else 'http-error',response.geturl())
+                  except HTTPError as e:
+                      last=f'HTTP {e.code}'
+                      if method=='HEAD' and e.code in (403,405,429): continue
+                      return (url,str(e.code),'http-error','')
+                  except Exception as e:
+                      last=type(e).__name__+': '+str(e)[:120]
+              return (url,'','request-failed',last)
+          urls=sorted(sources)
+          print('Unique original WordPress media URLs:',len(urls))
+          results=[]
+          with ThreadPoolExecutor(max_workers=5) as pool:
+              futures=[pool.submit(check,url) for url in urls]
+              for future in as_completed(futures): results.append(future.result())
+          with Path('teaching-media-availability.csv').open('w',newline='') as f:
+              w=csv.writer(f);w.writerow(('url','http_status','result','final_url','articles'))
+              for url,code,result,detail in sorted(results):
+                  w.writerow((url,code,result,detail,'; '.join(sorted(sources[url]))))
+          print('Results:',dict(Counter(x[2] for x in results)))
+          for url,code,result,detail in sorted(results):
+              if result!='ok': print(result,code,url,detail)
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: teaching-media-availability
+          path: teaching-media-availability.csv

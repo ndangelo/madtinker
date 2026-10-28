@@ -1,0 +1,45 @@
+---
+layout: page
+title: Teaching archive
+permalink: /teaching/
+description: Imported Nugget of Joy teaching posts, staged for review.
+---
+<p>This imported teaching archive is under review. Embedded media and older layouts may need adjustments.</p>
+<label for="teaching-search">Search teaching posts</label>
+<input id="teaching-search" type="search" placeholder="Search titles or categories…" autocomplete="off" aria-controls="teaching-results">
+<p id="teaching-count" aria-live="polite"></p>
+<div class="archive-list" id="teaching-results">
+{% assign entries = site.nuggetofjoy | sort: 'date' | reverse %}
+{% for post in entries %}
+  <article class="archive-item teaching-result" data-search="{{ post.title | append: ' ' | append: post.categories | downcase | escape }}">
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+    <div><h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+    {% if post.categories.size > 0 %}<p>{{ post.categories | join: ', ' }}</p>{% endif %}</div>
+  </article>
+{% endfor %}
+</div>
+
+<script>
+(() => {
+  const input=document.getElementById('teaching-search');
+  const items=[...document.querySelectorAll('.teaching-result')];
+  const count=document.getElementById('teaching-count');
+  const update=()=>{
+    const q=input.value.toLocaleLowerCase().trim();
+    let visible=0;
+    items.forEach(item=>{
+      const show=!q||item.dataset.search.includes(q);
+      item.hidden=!show;
+      if(show)visible++;
+    });
+    count.textContent=visible+' of '+items.length+' teaching posts';
+  };
+  input.addEventListener('input',update);
+  update();
+})();
+</script>
+<style>
+#teaching-search{width:100%;max-width:620px;padding:.85rem 1rem;margin:.5rem 0 1rem;border:1px solid #75848e;border-radius:.4rem;background:transparent;color:inherit;font:inherit}
+.teaching-result[hidden]{display:none}
+#teaching-count{font-size:.85rem;opacity:.75}
+</style>
