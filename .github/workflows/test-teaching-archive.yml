@@ -28,4 +28,8 @@ jobs:
           posts=list(Path('_site/teaching').glob('*/index.html'))
           print('Rendered teaching posts:',len(posts))
           assert len(posts)==382, f'Expected 382, got {len(posts)}'
+          css=list(Path('_site/assets/css/imported-posts').glob('*.css'))
+          print('Original post CSS files:',len(css))
+          assert len(css)==52, f'Expected 52 CSS files, got {len(css)}'
+          assert Path('_site/assets/css/teaching-archive.css').exists()
           PY
