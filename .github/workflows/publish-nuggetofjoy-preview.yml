@@ -1,0 +1,43 @@
+name: Build Nugget of Joy Jekyll preview
+on:
+  workflow_dispatch:
+  push:
+    branches: [nuggetofjoy-import]
+    paths:
+      - '.github/workflows/publish-nuggetofjoy-preview.yml'
+permissions:
+  contents: write
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: nuggetofjoy-import
+      - name: Copy imported Markdown to Jekyll draft preview collection
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re, shutil
+          source=Path('_imports/nuggetofjoy/markdown')
+          target=Path('_nuggetofjoy')
+          target.mkdir(exist_ok=True)
+          files=list(source.glob('*.md'))
+          assert len(files)==382, f'Expected 382 Markdown files, got {len(files)}'
+          for src in files:
+              body=src.read_text()
+              # Keep source metadata; add Jekyll layout and a safe, isolated permalink.
+              body=body.replace('---\n', '---\nlayout: post\n', 1)
+              body=re.sub(r'(?m)^migration:\s*\n(?:  .+\n)+', '', body)
+              target.joinpath(src.name).write_text(body)
+          print(f'Prepared {len(files)} posts for Jekyll collection')
+          PY
+      - name: Commit preview collection
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _nuggetofjoy
+          if ! git diff --cached --quiet; then
+            git commit -m "Prepare Nugget of Joy preview collection"
+            git push
+          fi
