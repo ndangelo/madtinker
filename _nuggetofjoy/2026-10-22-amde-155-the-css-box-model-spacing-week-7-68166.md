@@ -14,6 +14,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 <header class="ag-hero">
 <p class="ag-eyebrow">AMDE 155 · INTRODUCTION TO WEB DESIGN · WEEK 07</p>
@@ -400,3 +401,4 @@ tags: []
 <span class="ag-muted">Good design gives every element room to work.</span>
 </footer>
 </div>
+{:/nomarkdown}
