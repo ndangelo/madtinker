@@ -1,11 +1,13 @@
 name: Test teaching archive Jekyll build
 on:
   push:
-    branches: [nuggetofjoy-import]
+    branches: [main, nuggetofjoy-import]
     paths:
       - '_config.yml'
       - '_nuggetofjoy/**'
       - '_layouts/**'
+      - 'assets/css/imported-posts/**'
+      - 'assets/css/teaching-archive.css'
       - 'teaching.html'
       - '.github/workflows/test-teaching-archive.yml'
   workflow_dispatch:
@@ -32,4 +34,15 @@ jobs:
           print('Original post CSS files:',len(css))
           assert len(css)==52, f'Expected 52 CSS files, got {len(css)}'
           assert Path('_site/assets/css/teaching-archive.css').exists()
+          lesson=Path('_site/teaching/2026-10-27-68303-2-68303/index.html')
+          assert lesson.exists(), 'Gradients lesson URL missing'
+          html=lesson.read_text()
+          assert '<h2>CSS Gradients Part 2</h2>' in html, 'Lesson heading not rendered as HTML'
+          assert '<h2>01 / Start Here</h2>' in html, 'Lesson section heading missing'
+          assert 'MADTINKERBLOCKTOKEN' not in html, 'Unresolved import placeholder'
+          assert 'gradient-part-two' in html, 'Lesson wrapper class missing'
+          assert 'imported-posts/68303.css' in html, 'Lesson CSS link missing'
+          assert 'gp-reference' in html, 'Gradient reference table missing'
+          assert Path('_site/assets/css/imported-posts/68303.css').exists(), 'Gradient stylesheet missing'
+          print('Gradient lesson HTML and stylesheet checks passed')
           PY
