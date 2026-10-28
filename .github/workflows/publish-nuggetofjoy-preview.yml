@@ -30,13 +30,18 @@ jobs:
               body=body.replace('---\n', '---\nlayout: teaching-post\n', 1)
               body=re.sub(r'(?m)^migration:\s*\n(?:  .+\n)+', '', body)
               target.joinpath(src.name).write_text(body)
-          print(f'Prepared {len(files)} posts for Jekyll collection')
+          css_source=Path('_imports/nuggetofjoy/styles/posts')
+          css_target=Path('assets/css/imported-posts')
+          css_target.mkdir(parents=True,exist_ok=True)
+          for css in css_source.glob('*.css'):
+              shutil.copy2(css,css_target/css.name)
+          print(f'Prepared {len(files)} posts and {len(list(css_source.glob("*.css")))} post-specific stylesheets')
           PY
       - name: Commit preview collection
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _nuggetofjoy
+          git add _nuggetofjoy assets/css/imported-posts
           if ! git diff --cached --quiet; then
             git commit -m "Prepare Nugget of Joy preview collection"
             git pull --rebase origin nuggetofjoy-import
