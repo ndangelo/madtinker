@@ -9,7 +9,8 @@ layout: default
   </header>
   <div class="article-content teaching-content mt-post">
     {% if page.wordpress_id == 68303 %}<div class="gradient-part-two">{% endif %}
-    {{ content }}
+    {% assign teaching_rendered_content = content | replace: '{::nomarkdown}', '' | replace: '{:/nomarkdown}', '' %}
+    {{ teaching_rendered_content }}
     {% if page.wordpress_id == 68303 %}</div>{% endif %}
   </div>
 </article>
