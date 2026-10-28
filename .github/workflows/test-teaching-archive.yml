@@ -60,6 +60,9 @@ jobs:
               rendered=page.read_text()
               assert 'class="amde-grid-lesson"' in rendered, f'{post_id} wrapper missing'
               assert 'imported-posts/'+post_id+'.css' in rendered, f'{post_id} CSS missing'
+              if '{::nomarkdown}' in rendered:
+                  marker_at=rendered.index('{::nomarkdown}')
+                  print('Marker context:',repr(rendered[marker_at-100:marker_at+150]))
               assert '{::nomarkdown}' not in rendered, f'{post_id} preservation marker leaked'
           print('AMDE 155 and 355 representative lessons checked')
           PY
