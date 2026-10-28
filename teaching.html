@@ -1,0 +1,17 @@
+---
+layout: page
+title: Teaching archive
+permalink: /teaching/
+description: Imported Nugget of Joy teaching posts, staged for review.
+---
+<p>This imported teaching archive is under review. Embedded media and older layouts may need adjustments.</p>
+<div class="archive-list">
+{% assign entries = site.nuggetofjoy | sort: 'date' | reverse %}
+{% for post in entries %}
+  <article class="archive-item">
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+    <div><h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+    {% if post.categories.size > 0 %}<p>{{ post.categories | join: ', ' }}</p>{% endif %}</div>
+  </article>
+{% endfor %}
+</div>
