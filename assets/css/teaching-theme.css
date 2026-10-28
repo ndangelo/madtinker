@@ -66,3 +66,13 @@
 .teaching-article .teaching-content :is(.amde-case,.amde-grid-lesson,#amde477-campaign-guide) :is(.muted,.subtitle,.lede,.small,.secondary) {
   color:var(--mt-muted)!important;
 }
+
+/* Consistent MadTinker heading hierarchy across all imported teaching posts.
+   Scope to lesson content, leaving site titles and card headings unchanged. */
+.teaching-article .teaching-content h2,
+.teaching-article .teaching-content :is(.amde-case,.amde-grid-lesson,#amde477-campaign-guide) h2 {
+  color:var(--mt-sky)!important;
+}
+.teaching-article .teaching-content :is(.card,.ag-card,.panel,.box,.example) h2 {
+  color:var(--mt-text)!important;
+}
