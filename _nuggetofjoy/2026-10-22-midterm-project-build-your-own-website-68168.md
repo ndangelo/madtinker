@@ -14,6 +14,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 <header class="ag-hero">
 <div class="ag-eyebrow">AMDE 155 · Introduction to Web Design · Week 08</div>
@@ -263,3 +264,4 @@ MADTINKERBLOCKTOKEN0END
 <p><strong>Design with purpose. Build with care. Test before you submit.</strong></p>
 </footer>
 </div>
+{:/nomarkdown}
