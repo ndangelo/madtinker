@@ -13,6 +13,7 @@ categories:
 tags: []
 ---
 
+{::nomarkdown}
 <div class="amde-grid-lesson">
 
 <section class="ag-hero">
@@ -238,3 +239,4 @@ tags: []
 </section>
 <p class="ag-footer">AMDE 355 · Advanced Web Design · Week 02 · Layout is not decoration added at the end. It is part of how the content communicates.</p>
 </div>
+{:/nomarkdown}
