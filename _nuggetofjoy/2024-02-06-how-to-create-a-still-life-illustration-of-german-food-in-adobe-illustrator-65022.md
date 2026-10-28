@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Still-Life Illustration of German Food in Adobe Illustrator
 slug: how-to-create-a-still-life-illustration-of-german-food-in-adobe-illustrator
 date: '2024-02-06'

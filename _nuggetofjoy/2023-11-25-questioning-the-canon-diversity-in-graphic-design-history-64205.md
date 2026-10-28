@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Questioning the Canon: Diversity in Graphic Design History'
 slug: questioning-the-canon-diversity-in-graphic-design-history
 date: '2023-11-25'

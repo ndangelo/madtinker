@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'UX/UI Project #6: Food App'
 slug: ux-ui-projects-for-beginners-6-food-app
 date: '2024-07-19'

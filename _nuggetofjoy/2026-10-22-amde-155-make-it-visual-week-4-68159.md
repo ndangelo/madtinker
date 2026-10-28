@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 155 Make It Visual (Week 4)
 slug: amde-155-make-it-visual-week-4
 date: '2026-10-22'

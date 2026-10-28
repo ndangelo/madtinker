@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Design the Next Two App Screens IV
 slug: design-the-next-two-app-screens
 date: '2024-08-21'

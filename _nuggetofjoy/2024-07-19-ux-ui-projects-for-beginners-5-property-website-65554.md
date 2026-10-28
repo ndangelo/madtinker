@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'UX/UI Project #5: Property Website'
 slug: ux-ui-projects-for-beginners-5-property-website
 date: '2024-07-19'

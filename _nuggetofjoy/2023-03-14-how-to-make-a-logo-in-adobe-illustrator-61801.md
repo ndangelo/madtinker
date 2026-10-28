@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Make a Logo in Adobe Illustrator
 slug: how-to-make-a-logo-in-adobe-illustrator
 date: '2023-03-14'

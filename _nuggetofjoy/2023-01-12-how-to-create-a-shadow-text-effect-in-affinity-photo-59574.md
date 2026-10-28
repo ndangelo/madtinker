@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Shadow Text Effect in Affinity Photo
 slug: how-to-create-a-shadow-text-effect-in-affinity-photo
 date: '2023-01-12'

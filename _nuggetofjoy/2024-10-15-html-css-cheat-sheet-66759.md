@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: HTML &amp; CSS/Flex Cheat Sheet
 slug: html-css-cheat-sheet
 date: '2024-10-15'

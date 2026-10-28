@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Week 6 — Images and Art Direction
 slug: week-6-images-and-art-direction
 date: '2026-10-10'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'UX/UI design brief #7: Redesigning Renault outdated website'
 slug: ux-ui-design-brief-7-redesigning-renault-outdated-website
 date: '2024-09-05'

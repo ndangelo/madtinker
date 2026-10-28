@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Week 4 — CSS Fundamentals: Style the Structure'
 slug: week-4-css-fundamentals-style-the-structure
 date: '2026-10-09'

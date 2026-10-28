@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Composite Ad Instructional Video
 slug: composite-ad-instructional-video
 date: '2025-02-19'

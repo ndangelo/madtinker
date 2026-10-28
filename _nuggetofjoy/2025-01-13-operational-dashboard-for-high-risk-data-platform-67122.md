@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Operational Dashboard for High-Risk Data Platform
 slug: operational-dashboard-for-high-risk-data-platform
 date: '2025-01-13'

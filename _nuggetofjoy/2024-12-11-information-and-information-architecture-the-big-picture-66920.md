@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Information And Information Architecture: The BIG Picture'
 slug: information-and-information-architecture-the-big-picture
 date: '2024-12-11'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Adobe InDesign for Beginners
 slug: adobe-indesign-for-beginners
 date: '2024-01-20'

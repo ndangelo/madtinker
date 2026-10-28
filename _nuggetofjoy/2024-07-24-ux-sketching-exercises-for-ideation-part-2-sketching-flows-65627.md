@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'UX Sketching Exercises for Ideation Part 2: Sketching flows'
 slug: ux-sketching-exercises-for-ideation-part-2-sketching-flows
 date: '2024-07-24'

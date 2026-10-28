@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Final Project: Design &amp; Build a Multi-Page Website (Week 14)'
 slug: final-project-design-build-a-multi-page-website-week-14
 date: '2026-10-22'

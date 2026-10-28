@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: '[INFOGRAPHIC]: The 10 Commandments of Typography'
 slug: infographic-the-10-commandments-of-typography
 date: '2024-04-04'

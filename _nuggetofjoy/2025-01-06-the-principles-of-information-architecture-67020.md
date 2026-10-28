@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: The Principles of Information Architecture
 slug: the-principles-of-information-architecture
 date: '2025-01-06'

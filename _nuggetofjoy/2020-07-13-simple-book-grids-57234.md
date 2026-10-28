@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Simple Grids
 slug: simple-book-grids
 date: '2020-07-13'

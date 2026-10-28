@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: A Beginner's Guide to the Character Panel in Illustrator
 slug: a-beginners-guide-to-the-character-panel-in-illustrator
 date: '2024-01-02'

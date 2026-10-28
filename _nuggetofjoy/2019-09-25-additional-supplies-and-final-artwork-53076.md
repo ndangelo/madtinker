@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Additional Supplies and Final Artwork
 slug: additional-supplies-and-final-artwork
 date: '2019-09-25'

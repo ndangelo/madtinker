@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Flexbox: Advanced Web Design'
 slug: flexbox-advanced-web-design
 date: '2023-04-05'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Social Media Marketing for Small Business: Guide + Template'
 slug: social-media-marketing-for-small-business-guide-template
 date: '2024-07-08'

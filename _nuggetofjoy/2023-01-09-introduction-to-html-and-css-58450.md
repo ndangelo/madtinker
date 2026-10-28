@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 1. Introduction To HTML And CSS
 slug: introduction-to-html-and-css
 date: '2023-01-09'

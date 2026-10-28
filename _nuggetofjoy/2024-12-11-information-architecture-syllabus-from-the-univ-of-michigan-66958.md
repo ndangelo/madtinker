@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Information Architecture Syllabus from the Univ. of Michigan
 slug: information-architecture-syllabus-from-the-univ-of-michigan
 date: '2024-12-11'

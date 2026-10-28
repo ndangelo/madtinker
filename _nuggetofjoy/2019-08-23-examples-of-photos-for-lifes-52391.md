@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Still Life Photos
 slug: examples-of-photos-for-lifes
 date: '2019-08-23'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Design a Stylish Real Estate Flyer Template in Adobe InDesign
 slug: how-to-design-a-stylish-real-estate-flyer-template-in-adobe-indesign
 date: '2020-02-05'

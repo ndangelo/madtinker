@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Use the Color Replacement Tool in Photoshop
 slug: how-to-use-the-color-replacement-tool-in-photoshop
 date: '2024-02-06'

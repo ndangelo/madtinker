@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Week 9 — Navigation and Information Architecture
 slug: week-9-navigation-and-information-architecture
 date: '2026-10-10'

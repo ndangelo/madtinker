@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Basic Components of IA
 slug: basic-components-of-ia
 date: '2025-01-06'

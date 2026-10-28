@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 155 Welcome to the Web (Week 1)
 slug: what-is-web-design-week-1
 date: '2026-10-22'

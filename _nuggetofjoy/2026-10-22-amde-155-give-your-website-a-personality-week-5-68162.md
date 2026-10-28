@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'AMDE 155: Give Your Website a Personality (Week 5)'
 slug: amde-155-give-your-website-a-personality-week-5
 date: '2026-10-22'

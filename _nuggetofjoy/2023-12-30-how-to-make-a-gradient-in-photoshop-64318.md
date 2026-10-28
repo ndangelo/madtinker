@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Make a Gradient in Photoshop
 slug: how-to-make-a-gradient-in-photoshop
 date: '2023-12-30'

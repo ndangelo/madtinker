@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Make a Bi-Fold Brochure in InDesign
 slug: how-to-make-a-bi-fold-brochure-in-indesign
 date: '2024-02-06'

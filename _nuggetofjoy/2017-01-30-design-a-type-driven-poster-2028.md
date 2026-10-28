@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: DESIGN A TYPE-DRIVEN POSTER
 slug: design-a-type-driven-poster
 date: '2017-01-30'

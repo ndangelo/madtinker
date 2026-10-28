@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Captivate your audience with our target audience template
 slug: captivate-your-audience-with-our-target-audience-template
 date: '2025-09-12'

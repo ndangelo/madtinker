@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Create a Pamphlet Template in Illustrator
 slug: create-a-pamphlet-template-in-illustrator
 date: '2023-01-15'

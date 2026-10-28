@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'AMDE 477 / Campaign Case Study - Liquid Death: Entertainment Is Part of the Strategy'
 slug: amde-477-campaign-case-study-liquid-death-entertainment-is-part-of-the-strategy
 date: '2026-10-26'

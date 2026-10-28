@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Bloom's Taxonomy
 slug: blooms-taxonomy
 date: '2020-08-11'

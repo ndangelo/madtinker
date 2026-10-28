@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Business Infographic Assignment - 2023
 slug: business-infographic-assignment-2020
 date: '2020-02-24'

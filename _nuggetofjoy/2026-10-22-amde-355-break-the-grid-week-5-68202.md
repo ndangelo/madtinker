@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 355 - Break the Grid (Week 5)
 slug: amde-355-break-the-grid-week-5
 date: '2026-10-22'

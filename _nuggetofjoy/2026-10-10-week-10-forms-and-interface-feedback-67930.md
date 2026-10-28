@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Week 10 — Forms and Interface Feedback
 slug: week-10-forms-and-interface-feedback
 date: '2026-10-10'

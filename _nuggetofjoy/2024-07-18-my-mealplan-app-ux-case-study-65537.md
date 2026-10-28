@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: My MealPlan - App UX Case Study
 slug: my-mealplan-app-ux-case-study
 date: '2024-07-18'

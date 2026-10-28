@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Social Pastiche
 slug: social-pastiche
 date: '2023-11-25'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Getting to Know Illustrator
 slug: getting-to-know-illustrator
 date: '2023-01-12'

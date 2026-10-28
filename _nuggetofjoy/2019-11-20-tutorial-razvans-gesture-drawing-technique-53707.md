@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Tutorial: Razvan''s gesture drawing technique'
 slug: tutorial-razvans-gesture-drawing-technique
 date: '2019-11-20'

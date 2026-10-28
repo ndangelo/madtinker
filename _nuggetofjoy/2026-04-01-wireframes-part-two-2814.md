@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Final Project and The Importance of Wireframes: Main Lecture'
 slug: wireframes-part-two
 date: '2026-04-01'

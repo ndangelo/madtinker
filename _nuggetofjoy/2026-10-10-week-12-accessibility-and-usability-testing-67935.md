@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Week 12 — Accessibility and Usability Testing
 slug: week-12-accessibility-and-usability-testing
 date: '2026-10-10'

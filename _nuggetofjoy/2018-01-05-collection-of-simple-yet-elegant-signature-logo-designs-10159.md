@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Collection of Simple Yet Elegant Signature Logo Designs
 slug: collection-of-simple-yet-elegant-signature-logo-designs
 date: '2018-01-05'

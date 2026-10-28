@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Rainbow Gradient in Photoshop
 slug: how-to-create-a-rainbow-gradient-in-photoshop
 date: '2023-12-30'

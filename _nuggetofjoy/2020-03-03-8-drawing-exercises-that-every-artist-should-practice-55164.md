@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 5 Drawing Exercises That Every Artist Should Practice
 slug: 8-drawing-exercises-that-every-artist-should-practice
 date: '2020-03-03'

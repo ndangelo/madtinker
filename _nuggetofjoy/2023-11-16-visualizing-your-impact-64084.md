@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Visualizing Your Impact: What you Eat and it''s Carbon Footprint'
 slug: visualizing-your-impact
 date: '2023-11-16'

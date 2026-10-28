@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 10 Great Web Font Combinations
 slug: 10-great-web-font-combinations
 date: '2024-04-05'

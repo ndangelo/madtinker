@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Resetting Password: Design Brief and Lesson'
 slug: resetting-password-design-brief-and-lesson
 date: '2025-01-06'

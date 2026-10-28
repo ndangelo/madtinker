@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How Your Eyes Move on a Website [INFOGRAPHIC]
 slug: how-your-eyes-move-on-a-website-infographic
 date: '2024-08-13'

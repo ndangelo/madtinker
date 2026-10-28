@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Drawing (Proportion Basics)
 slug: drawing-proportion-basics
 date: '2020-02-28'

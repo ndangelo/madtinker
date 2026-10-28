@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Confetti Brush in Adobe Illustrator
 slug: how-to-create-a-confetti-brush-in-adobe-illustrator
 date: '2023-01-15'

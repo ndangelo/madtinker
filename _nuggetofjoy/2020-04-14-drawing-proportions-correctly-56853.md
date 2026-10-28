@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Drawing Proportions Correctly
 slug: drawing-proportions-correctly
 date: '2020-04-14'

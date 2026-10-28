@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'UX/UI design brief: Redesigning the Spotify App'
 slug: ux-ui-design-brief-8-redesigning-the-spotify-app
 date: '2026-07-19'

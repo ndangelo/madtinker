@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'AMDE 155: Typography Has a Voice (Week 6)'
 slug: amde-155-typography-has-a-voice-week-6
 date: '2026-10-22'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: '5. CSS: Meet the header tag, Styling with color, Background images, Hover states, Transitions, Child selectors, Classes,
   Widths and heights'
 slug: css-look-and-feel-of-a-webpage

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Social Design-Designing for Social Impact
 slug: social-design-designing-for-social-impact
 date: '2025-01-15'

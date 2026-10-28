@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Laws of UX Website Design
 slug: laws-of-ux-website-design
 date: '2024-07-18'

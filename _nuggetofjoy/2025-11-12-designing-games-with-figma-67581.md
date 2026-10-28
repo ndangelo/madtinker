@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Designing Games with Figma
 slug: designing-games-with-figma
 date: '2025-11-12'

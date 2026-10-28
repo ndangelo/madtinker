@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'AMDE 477: From Brand Awareness to Campaign Action'
 slug: amde-477-from-brand-awareness-to-campaign-action
 date: '2026-10-26'

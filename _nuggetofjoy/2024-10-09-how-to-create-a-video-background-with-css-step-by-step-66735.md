@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Video Background with CSS [Step-by-Step]
 slug: how-to-create-a-video-background-with-css-step-by-step
 date: '2024-10-09'

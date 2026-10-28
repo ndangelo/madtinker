@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Drawing (One Point Perspective)
 slug: drawing-one-point-perspective
 date: '2020-02-28'

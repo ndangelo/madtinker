@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 355 - Make the Layout Do Something (Week 2)
 slug: amde-355-make-the-layout-do-something-week-2
 date: '2026-10-22'

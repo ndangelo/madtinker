@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'The Poster Series — Composite Image: Poster Advertisement'
 slug: composite-image-poster-advertisement
 date: '2023-11-04'

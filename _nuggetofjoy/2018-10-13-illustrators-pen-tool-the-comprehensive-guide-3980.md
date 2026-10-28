@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Illustrator’s Pen Tool: The Comprehensive Guide'
 slug: illustrators-pen-tool-the-comprehensive-guide
 date: '2018-10-13'

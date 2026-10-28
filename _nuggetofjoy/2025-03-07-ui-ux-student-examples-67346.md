@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: UI/UX Student Examples
 slug: ui-ux-student-examples
 date: '2025-03-07'

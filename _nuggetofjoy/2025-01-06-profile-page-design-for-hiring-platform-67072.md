@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Profile Page Design For Hiring Platform: Design Brief'
 slug: profile-page-design-for-hiring-platform
 date: '2025-01-06'

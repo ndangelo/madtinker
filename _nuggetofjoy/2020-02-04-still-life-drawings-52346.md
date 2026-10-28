@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Still Life Drawings and Shading Techniques
 slug: still-life-drawings
 date: '2020-02-04'

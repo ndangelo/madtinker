@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Week 3 — HTML: Give Content Structure and Meaning'
 slug: week-3-html-give-content-structure-and-meaning
 date: '2026-10-09'

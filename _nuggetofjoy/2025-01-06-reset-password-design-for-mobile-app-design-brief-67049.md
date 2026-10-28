@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Reset Password Design for Mobile App: Design Brief'
 slug: reset-password-design-for-mobile-app-design-brief
 date: '2025-01-06'

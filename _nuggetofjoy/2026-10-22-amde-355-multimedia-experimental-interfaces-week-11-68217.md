@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 355 - Multimedia &amp; Experimental Interfaces (Week 11)
 slug: amde-355-multimedia-experimental-interfaces-week-11
 date: '2026-10-22'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Use ChatGPT for UI/UX Design with 25 Best Examples Prompt
 slug: how-to-use-chatgpt-for-ui-ux-design-with-25-best-examples-prompt
 date: '2024-07-18'

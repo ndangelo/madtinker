@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Week 11 — AI-Assisted Web Design: Prompt, Evaluate, Revise'
 slug: week-11-ai-assisted-web-design-prompt-evaluate-revise
 date: '2026-10-10'

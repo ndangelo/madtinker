@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a 90s Abstract Rave Poster in Adobe Photoshop
 slug: how-to-create-a-90s-abstract-rave-poster-in-adobe-photoshop
 date: '2024-02-18'

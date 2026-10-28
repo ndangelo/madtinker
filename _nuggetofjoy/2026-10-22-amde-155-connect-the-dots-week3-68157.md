@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'AMDE 155: Connect the Dots (Week3)'
 slug: amde-155-connect-the-dots-week3
 date: '2026-10-22'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 1. Different programming languages for different tasks
 slug: different-programming-languages-for-different-tasks-2
 date: '2023-01-13'

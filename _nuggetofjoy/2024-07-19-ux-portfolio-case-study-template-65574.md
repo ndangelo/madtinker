@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: UX Portfolio Case Study Template
 slug: ux-portfolio-case-study-template
 date: '2024-07-19'

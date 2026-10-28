@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'UX/UI design brief: Tourism Site'
 slug: ux-ui-design-brief-9-redesigning-the-swedish-tourism-site
 date: '2024-07-19'

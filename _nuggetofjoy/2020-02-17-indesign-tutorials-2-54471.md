@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: InDesign Tutorials - Moby- Dick
 slug: indesign-tutorials-2
 date: '2020-02-17'

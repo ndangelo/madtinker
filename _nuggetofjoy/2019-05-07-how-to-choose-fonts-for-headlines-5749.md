@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Choose Fonts for Headlines
 slug: how-to-choose-fonts-for-headlines
 date: '2019-05-07'

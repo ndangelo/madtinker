@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Common CSS Flexbox Layout Patterns with Example Code
 slug: common-css-flexbox-layout-patterns-with-example-code
 date: '2024-09-26'

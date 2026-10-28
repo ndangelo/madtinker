@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Systems Thinking for the Graphic Designer 101: A Toolkit for Making Positive Impact'
 slug: systems-thinking-for-the-graphic-designer-101-a-toolkit-for-making-positive-impact
 date: '2023-11-25'

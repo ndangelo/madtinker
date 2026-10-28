@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Principles of Composition (In Theory)
 slug: principles-of-composition-in-theory
 date: '2020-01-19'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Complete Guide to Typography - Poster: Supplimentary'
 slug: complete-guide-to-typography
 date: '2018-02-19'

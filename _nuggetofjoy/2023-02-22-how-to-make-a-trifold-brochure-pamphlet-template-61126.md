@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Make a Trifold Brochure Pamphlet Template
 slug: how-to-make-a-trifold-brochure-pamphlet-template
 date: '2023-02-22'

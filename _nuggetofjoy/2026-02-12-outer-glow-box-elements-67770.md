@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Outer Glow (Box Elements)
 slug: outer-glow-box-elements
 date: '2026-02-12'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Drawing (Shading)
 slug: drawing-shading
 date: '2020-02-28'

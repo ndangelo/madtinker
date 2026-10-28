@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How Color Affects Mood &amp; Emotion
 slug: how-color-affects-mood-emotion
 date: '2025-01-06'

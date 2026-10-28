@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Drawing (Values and Edges)
 slug: drawing-values-and-edges
 date: '2020-02-28'

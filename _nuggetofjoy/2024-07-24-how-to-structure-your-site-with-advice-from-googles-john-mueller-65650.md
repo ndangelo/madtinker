@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Structure Your Site with Advice from Google’s John Mueller
 slug: how-to-structure-your-site-with-advice-from-googles-john-mueller
 date: '2024-07-24'

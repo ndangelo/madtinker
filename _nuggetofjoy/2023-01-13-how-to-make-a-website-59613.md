@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 2. How to make a website, Recapping front-end web development, But how do you write code?
 slug: how-to-make-a-website
 date: '2023-01-13'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Designing an SEO-Friendly Website Menu
 slug: designing-an-seo-friendly-website-menu
 date: '2024-07-24'

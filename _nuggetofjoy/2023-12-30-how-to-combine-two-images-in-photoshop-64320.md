@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Combine Two Images in Photoshop
 slug: how-to-combine-two-images-in-photoshop
 date: '2023-12-30'

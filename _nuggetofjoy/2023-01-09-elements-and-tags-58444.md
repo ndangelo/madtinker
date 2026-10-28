@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 2. Elements And Tags
 slug: elements-and-tags
 date: '2023-01-09'

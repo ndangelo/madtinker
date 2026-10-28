@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Floral Typography Text Effect in Photoshop
 slug: how-to-create-a-floral-typography-text-effect-in-photoshop
 date: '2024-01-02'

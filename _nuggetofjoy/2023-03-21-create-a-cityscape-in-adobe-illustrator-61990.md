@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: CREATE A CITYSCAPE IN ADOBE ILLUSTRATOR
 slug: create-a-cityscape-in-adobe-illustrator
 date: '2023-03-21'

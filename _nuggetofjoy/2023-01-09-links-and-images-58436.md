@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 6. Links And Images
 slug: links-and-images
 date: '2023-01-09'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Make a Social Media Plan
 slug: how-to-make-a-social-media-plan
 date: '2024-07-08'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Settings Page for Mobile App: Design Brief'
 slug: settings-page-for-mobile-app-design-brief
 date: '2025-01-06'

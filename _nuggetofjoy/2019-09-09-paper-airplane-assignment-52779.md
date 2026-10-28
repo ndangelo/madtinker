@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Paper Airplane Assignment
 slug: paper-airplane-assignment
 date: '2019-09-09'

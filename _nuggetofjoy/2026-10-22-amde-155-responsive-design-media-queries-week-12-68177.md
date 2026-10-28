@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 155 - Responsive Design &amp; Media Queries (Week 12)
 slug: amde-155-responsive-design-media-queries-week-12
 date: '2026-10-22'

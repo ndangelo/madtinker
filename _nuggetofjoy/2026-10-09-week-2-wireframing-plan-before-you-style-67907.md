@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Week 2 — Wireframing: Plan Before You Style'
 slug: week-2-wireframing-plan-before-you-style
 date: '2026-10-09'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Get to know Photoshop
 slug: get-to-know-photoshop
 date: '2023-01-04'

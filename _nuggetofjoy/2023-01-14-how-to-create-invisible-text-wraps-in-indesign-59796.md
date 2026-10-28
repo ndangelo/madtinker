@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create Invisible Text Wraps in InDesign
 slug: how-to-create-invisible-text-wraps-in-indesign
 date: '2023-01-14'

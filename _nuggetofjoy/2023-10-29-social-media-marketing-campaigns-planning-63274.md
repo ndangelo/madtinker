@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Social Media Marketing Campaigns: Planning'
 slug: social-media-marketing-campaigns-planning
 date: '2023-10-29'

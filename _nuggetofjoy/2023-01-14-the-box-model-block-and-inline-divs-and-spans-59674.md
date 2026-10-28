@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'The CSS Box Model: Block And Inline/Divs and Spans'
 slug: the-box-model-block-and-inline-divs-and-spans
 date: '2023-01-14'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Bauhaus Poster in Adobe InDesign
 slug: how-to-create-a-bauhaus-poster-in-adobe-indesign
 date: '2024-02-07'

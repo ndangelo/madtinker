@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title:  Creating Composite Images
 slug: creating-composite-images
 date: '2024-02-23'

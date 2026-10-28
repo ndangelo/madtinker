@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Cuboid Project - Midterm
 slug: cuboid-project-midterm-project-one
 date: '2019-10-02'

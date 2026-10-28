@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Adobe Micro Lessons for InDesign
 slug: adobe-micro-lessons-for-indesign
 date: '2023-01-15'

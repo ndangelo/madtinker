@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: '7. multi-column layouts with floats: Wrapping elements using floats, Overflow,Transparency with opacity and rgba colors,
   Drop shadows'
 slug: multi-column-layouts-with-floats

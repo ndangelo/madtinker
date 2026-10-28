@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Drawing (Compositional Guidelines)
 slug: drawing-compositional-guidelines
 date: '2020-02-28'

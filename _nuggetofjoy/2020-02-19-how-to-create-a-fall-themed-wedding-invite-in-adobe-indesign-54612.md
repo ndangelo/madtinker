@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Fall-Themed Wedding Invite in Adobe InDesign
 slug: how-to-create-a-fall-themed-wedding-invite-in-adobe-indesign
 date: '2020-02-19'

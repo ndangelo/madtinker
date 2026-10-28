@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 7 Essential Rules to Create Infographics
 slug: 7-essential-rules-to-create-infographics
 date: '2018-07-18'

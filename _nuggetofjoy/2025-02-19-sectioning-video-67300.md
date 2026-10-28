@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: '"Sectioning" Video'
 slug: sectioning-video
 date: '2025-02-19'

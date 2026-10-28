@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How To Run a Great X/Bluesky Contest
 slug: how-to-run-a-great-twitter-contest
 date: '2026-09-30'

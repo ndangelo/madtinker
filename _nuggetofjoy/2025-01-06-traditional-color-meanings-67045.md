@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Traditional Color Meanings
 slug: traditional-color-meanings
 date: '2025-01-06'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Edit Text in Illustrator
 slug: how-to-edit-text-in-illustrator
 date: '2024-01-02'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Brand Development/Process
 slug: brand-development-process
 date: '2023-03-14'

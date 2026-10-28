@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Facebook & Instagram
 slug: facebook-instagram
 date: '2019-10-15'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 3. HTML Boilerplate
 slug: html-boilerplate
 date: '2023-01-09'

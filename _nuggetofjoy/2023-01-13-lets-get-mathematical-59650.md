@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: '6. Let''s get mathematical: Ratios, Margins and paddings, Borders, Rounded corners with border radius, Filters'
 slug: lets-get-mathematical
 date: '2023-01-13'

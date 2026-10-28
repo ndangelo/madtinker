@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'People’s Graphic Design Archive: Instagram Histories'
 slug: peoples-graphic-design-archive-x-instagram-histories
 date: '2023-11-25'

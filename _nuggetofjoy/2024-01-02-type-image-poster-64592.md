@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Type + Image Poster
 slug: type-image-poster
 date: '2024-01-02'

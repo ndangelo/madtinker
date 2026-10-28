@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Use the Pen Tool in Adobe Illustrator
 slug: how-to-use-the-pen-tool-in-adobe-illustrator
 date: '2023-03-14'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Make a Trendy Double Exposure Effect in Adobe Photoshop
 slug: make-a-trendy-double-exposure-effect-in-adobe-photoshop
 date: '2023-01-12'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create Halftone Effects in Adobe Illustrator
 slug: how-to-create-halftone-effects-in-adobe-illustrator
 date: '2023-12-30'

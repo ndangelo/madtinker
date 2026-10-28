@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Principles of Design
 slug: principles-of-design
 date: '2024-11-23'

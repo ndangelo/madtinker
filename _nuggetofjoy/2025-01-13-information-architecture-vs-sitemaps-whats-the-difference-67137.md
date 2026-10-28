@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Information Architecture vs. Sitemaps: What’s the Difference?'
 slug: information-architecture-vs-sitemaps-whats-the-difference
 date: '2025-01-13'

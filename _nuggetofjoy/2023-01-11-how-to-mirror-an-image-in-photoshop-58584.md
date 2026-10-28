@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Mirror an Image in Photoshop 
 slug: how-to-mirror-an-image-in-photoshop
 date: '2023-01-11'

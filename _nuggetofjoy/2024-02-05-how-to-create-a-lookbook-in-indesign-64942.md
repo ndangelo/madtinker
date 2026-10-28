@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Lookbook in InDesign
 slug: how-to-create-a-lookbook-in-indesign
 date: '2024-02-05'

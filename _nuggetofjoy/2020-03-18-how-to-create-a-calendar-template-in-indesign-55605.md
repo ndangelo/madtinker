@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Calendar Template in InDesign
 slug: how-to-create-a-calendar-template-in-indesign
 date: '2020-03-18'

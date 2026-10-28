@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Week 5 — Typography, Color, and Visual Hierarchy
 slug: week-5-typography-color-and-visual-hierarchy
 date: '2026-10-09'

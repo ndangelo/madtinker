@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'AMDE 155 - Midterm Project: Build Your Own Website (Week 8)'
 slug: midterm-project-build-your-own-website
 date: '2026-10-22'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Style Tile - Logo - Brand Identity 2020
 slug: style-tile-logo-brand-identity-2020
 date: '2020-02-05'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Week 8 — Midterm Project: Build a Purposeful Website'
 slug: week-8-midterm-project-build-a-purposeful-website
 date: '2026-10-10'

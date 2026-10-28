@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: BILLBOARD DESIGN BEST PRACTICES
 slug: imaging-technology-project-3-brand-implementation
 date: '2025-01-20'

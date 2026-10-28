@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Design a Food Delivery App
 slug: design-a-food-delivery-app
 date: '2026-10-17'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 355 - Interactive Web Experiences (Week 10)
 slug: amde-355-interactive-web-experiences-week-10
 date: '2026-10-22'

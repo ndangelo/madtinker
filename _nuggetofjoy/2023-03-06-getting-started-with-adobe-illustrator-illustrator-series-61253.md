@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Getting Started with Adobe Illustrator: Illustrator series'
 slug: getting-started-with-adobe-illustrator-illustrator-series
 date: '2023-03-06'

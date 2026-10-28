@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Instagram Marketing: Creating Content That Connects'
 slug: instagram-marketing-creating-content-that-connects
 date: '2026-09-15'

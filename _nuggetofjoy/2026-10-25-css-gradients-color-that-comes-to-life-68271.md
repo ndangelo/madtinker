@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'CSS Gradients: Color That Comes to Life'
 slug: css-gradients-color-that-comes-to-life
 date: '2026-10-25'

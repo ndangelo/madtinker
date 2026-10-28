@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Create a Simple Magazine Template in Adobe InDesign
 slug: how-to-create-a-simple-magazine-template-in-adobe-indesign
 date: '2020-03-02'

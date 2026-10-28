@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Facebook Business Engagement
 slug: facebook-business-engagement
 date: '2020-11-02'

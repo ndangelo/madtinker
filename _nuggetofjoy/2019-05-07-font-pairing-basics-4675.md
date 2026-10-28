@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Font Pairing Basics
 slug: font-pairing-basics
 date: '2019-05-07'

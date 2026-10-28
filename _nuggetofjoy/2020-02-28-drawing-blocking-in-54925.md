@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Drawing (blocking In)
 slug: drawing-blocking-in
 date: '2020-02-28'

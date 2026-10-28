@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Annual Report Design
 slug: annual-report-design
 date: '2024-01-02'

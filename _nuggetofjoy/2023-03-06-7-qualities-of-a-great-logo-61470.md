@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 7 Qualities of a Great Logo
 slug: 7-qualities-of-a-great-logo
 date: '2023-03-06'

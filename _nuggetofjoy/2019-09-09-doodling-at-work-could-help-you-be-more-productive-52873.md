@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Doodling at work could help you be more productive
 slug: doodling-at-work-could-help-you-be-more-productive
 date: '2019-09-09'

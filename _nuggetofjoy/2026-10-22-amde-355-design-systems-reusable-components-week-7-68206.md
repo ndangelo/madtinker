@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 355 - Design Systems &amp; Reusable Components (Week 7)
 slug: amde-355-design-systems-reusable-components-week-7
 date: '2026-10-22'

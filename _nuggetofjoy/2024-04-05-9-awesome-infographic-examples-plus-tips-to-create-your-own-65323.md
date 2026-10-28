@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 9 Awesome Infographic Examples (Plus Tips to Create Your Own)
 slug: 9-awesome-infographic-examples-plus-tips-to-create-your-own
 date: '2024-04-05'

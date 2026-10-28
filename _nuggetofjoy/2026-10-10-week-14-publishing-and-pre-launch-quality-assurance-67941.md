@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Week 14 — Publishing and Pre-Launch Quality Assurance
 slug: week-14-publishing-and-pre-launch-quality-assurance
 date: '2026-10-10'

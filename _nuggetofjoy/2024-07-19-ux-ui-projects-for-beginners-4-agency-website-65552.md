@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'UX/UI Project #4: Agency Website'
 slug: ux-ui-projects-for-beginners-4-agency-website
 date: '2024-07-19'

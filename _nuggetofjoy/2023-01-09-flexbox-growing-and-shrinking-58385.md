@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: '12. Flexbox: Growing And Shrinking'
 slug: flexbox-growing-and-shrinking
 date: '2023-01-09'

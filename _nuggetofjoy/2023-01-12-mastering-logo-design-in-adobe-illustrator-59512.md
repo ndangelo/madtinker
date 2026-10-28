@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Mastering Logo Design in Adobe Illustrator
 slug: mastering-logo-design-in-adobe-illustrator
 date: '2023-01-12'

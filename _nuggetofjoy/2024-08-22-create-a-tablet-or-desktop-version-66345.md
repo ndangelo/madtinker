@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Create a Tablet or Desktop Version VI
 slug: create-a-tablet-or-desktop-version
 date: '2024-08-22'

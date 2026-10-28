@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Adobe Illustrator for Beginners
 slug: adobe-illustrator-for-beginners
 date: '2024-01-02'

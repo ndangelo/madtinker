@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Make a Custom Music Poster in Photoshop With Bitmap Mode
 slug: how-to-make-a-custom-music-poster-in-photoshop-with-bitmap-mode
 date: '2024-02-12'

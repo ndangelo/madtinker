@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Logo Design, and Style Guide with User Interface Elements
 slug: style-guide-with-user-interface-elements
 date: '2023-01-22'

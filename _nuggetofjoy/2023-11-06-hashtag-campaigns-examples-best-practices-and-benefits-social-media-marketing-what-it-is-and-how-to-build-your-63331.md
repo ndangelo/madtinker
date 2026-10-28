@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Hashtag Campaigns: What it is and how to build your strategy'
 slug: hashtag-campaigns-examples-best-practices-and-benefits-social-media-marketing-what-it-is-and-how-to-build-your
 date: '2023-11-06'

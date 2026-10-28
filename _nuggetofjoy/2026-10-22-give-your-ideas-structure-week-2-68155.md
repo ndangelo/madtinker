@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Give Your Ideas Structure (Week 2)
 slug: give-your-ideas-structure-week-2
 date: '2026-10-22'

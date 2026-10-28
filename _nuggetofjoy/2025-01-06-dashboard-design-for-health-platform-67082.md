@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Dashboard Design for Health Platform
 slug: dashboard-design-for-health-platform
 date: '2025-01-06'

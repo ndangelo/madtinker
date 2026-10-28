@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Font Pairings: Powerpoint'
 slug: font-pairings-powerpoint
 date: '2019-05-07'

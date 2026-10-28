@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Logo/Corporate Branding
 slug: logo_branding
 date: '2019-09-09'

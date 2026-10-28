@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Final Project Production &amp; Deployment (Week 14)
 slug: final-project-production-deployment-week-15
 date: '2026-10-22'

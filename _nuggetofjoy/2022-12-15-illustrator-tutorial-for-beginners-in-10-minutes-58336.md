@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Illustrator tutorial for beginners in 10 minutes
 slug: illustrator-tutorial-for-beginners-in-10-minutes
 date: '2022-12-15'

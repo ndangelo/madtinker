@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 355 - Typography, Motion &amp; Composition (Week 6)
 slug: amde-355-typography-motion-composition-week-6
 date: '2026-10-22'

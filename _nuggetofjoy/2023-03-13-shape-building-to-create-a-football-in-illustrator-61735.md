@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Shape Building to Create a Football in Illustrator!
 slug: shape-building-to-create-a-football-in-illustrator
 date: '2023-03-13'

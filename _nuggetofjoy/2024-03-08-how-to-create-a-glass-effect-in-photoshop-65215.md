@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Glass Effect in Photoshop
 slug: how-to-create-a-glass-effect-in-photoshop
 date: '2024-03-08'

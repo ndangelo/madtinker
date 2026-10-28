@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Microinteraction Design for Productivity Platform
 slug: microinteraction-design-for-productivity-platform
 date: '2025-01-06'

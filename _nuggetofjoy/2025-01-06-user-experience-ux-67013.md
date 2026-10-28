@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: User Experience (UX)
 slug: user-experience-ux
 date: '2025-01-06'

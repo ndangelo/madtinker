@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Information Architecture (IA) and Sitemaps
 slug: information-architecture-ia-and-sitemaps
 date: '2025-01-13'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Double Light Effect in Photoshop
 slug: how-to-create-a-double-light-effect-in-photoshop
 date: '2023-02-26'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: The Elements of Art
 slug: how-the-elements-of-art-shape-creativity
 date: '2020-01-20'

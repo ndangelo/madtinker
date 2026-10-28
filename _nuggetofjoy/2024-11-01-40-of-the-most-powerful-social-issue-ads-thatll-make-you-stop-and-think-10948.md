@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Some of the Most Powerful Social Issue Ads That’ll Make You Stop And Think
 slug: 40-of-the-most-powerful-social-issue-ads-thatll-make-you-stop-and-think
 date: '2024-11-01'

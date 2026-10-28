@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Button System Design for Tech Platform
 slug: button-system-design-for-tech-platform
 date: '2025-01-13'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'UX/UI projects for beginners: Redesigning Airbnb host onboarding'
 slug: ux-ui-projects-for-beginners-11-redesigning-airbnb-host-onboarding
 date: '2024-07-19'

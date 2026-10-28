@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Achieve Miniature Effect Via Photoshop
 slug: how-to-achieve-miniature-effect-via-photoshop
 date: '2023-02-13'

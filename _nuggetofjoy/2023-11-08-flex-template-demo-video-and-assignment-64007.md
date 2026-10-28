@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Flex-Template: Demo Video and Assignment'
 slug: flex-template-demo-video-and-assignment
 date: '2023-11-08'

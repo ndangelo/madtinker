@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: The Poster Series — Type Driven Poster
 slug: typography-multiple-assignments
 date: '2023-09-04'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'UX/UI Project #3: Travel App'
 slug: ux-ui-portfolio-projects-for-beginners-3-travel-app
 date: '2026-07-19'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Best Practices for Facebook and Instagram
 slug: best-practices-for-facebook-and-instagram
 date: '2019-10-21'

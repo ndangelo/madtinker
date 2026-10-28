@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'UX/UI Portfolio Project: eCommerce site'
 slug: ux-ui-portfolio-projects-for-beginners-2-ecommerce-site
 date: '2024-07-18'

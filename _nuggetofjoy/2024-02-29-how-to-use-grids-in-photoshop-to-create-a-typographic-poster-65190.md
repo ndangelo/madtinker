@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Use Grids in Photoshop to Create a Typographic Poster
 slug: how-to-use-grids-in-photoshop-to-create-a-typographic-poster
 date: '2024-02-29'

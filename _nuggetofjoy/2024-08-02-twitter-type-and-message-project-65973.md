@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Twitter - Type and Message Project
 slug: twitter-type-and-message-project
 date: '2024-08-02'

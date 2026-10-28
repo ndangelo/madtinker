@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Notification Request Wireflows for Online Retail Service
 slug: notification-request-wireflows-for-online-retail-service
 date: '2025-01-13'

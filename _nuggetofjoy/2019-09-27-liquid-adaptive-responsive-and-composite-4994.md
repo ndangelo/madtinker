@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Liquid. Adaptive, Responsive and Composite
 slug: liquid-adaptive-responsive-and-composite
 date: '2019-09-27'

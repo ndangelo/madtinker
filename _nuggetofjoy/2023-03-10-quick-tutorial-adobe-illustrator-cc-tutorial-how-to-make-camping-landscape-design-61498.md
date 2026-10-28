@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Quick Tutorial: Adobe Illustrator CC Tutorial - How to make Camping Landscape Design'
 slug: quick-tutorial-adobe-illustrator-cc-tutorial-how-to-make-camping-landscape-design
 date: '2023-03-10'

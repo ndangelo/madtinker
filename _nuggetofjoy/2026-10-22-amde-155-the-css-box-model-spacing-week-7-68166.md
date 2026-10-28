@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'AMDE 155: The CSS Box Model &amp; Spacing (Week 7)'
 slug: amde-155-the-css-box-model-spacing-week-7
 date: '2026-10-22'

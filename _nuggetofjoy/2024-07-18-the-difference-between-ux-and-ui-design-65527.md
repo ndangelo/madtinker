@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: The Difference Between UX and UI Design
 slug: the-difference-between-ux-and-ui-design
 date: '2024-07-18'

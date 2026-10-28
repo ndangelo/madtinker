@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Flip an Image in Photoshop
 slug: how-to-flip-an-image-in-photoshop
 date: '2023-12-30'

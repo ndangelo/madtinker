@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Book Cover Design “The Three Books”
 slug: book-cover-design-publication-design-covers-and-interiors-3
 date: '2023-10-05'

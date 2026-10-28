@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Make a Portrait with City Elements in Photoshop
 slug: how-to-make-a-portrait-with-city-elements-in-photoshop
 date: '2017-10-04'

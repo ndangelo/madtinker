@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Empty State Design for Education App
 slug: empty-state-design-for-education-app
 date: '2025-01-13'

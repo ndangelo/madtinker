@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Circular grid owl logo Tutorial
 slug: circular-grid-owl-logo-tutorial
 date: '2023-03-14'

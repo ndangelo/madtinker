@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Profile Page Design For Hiring Platform Cognitive Biases
 slug: profile-page-design-for-hiring-platform-cognitive-biases
 date: '2025-01-06'

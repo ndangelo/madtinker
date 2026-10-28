@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'AMDE 477 / Campaign Case Study - Patagonia Worn Wear: Make the Message Useful'
 slug: amde-477-campaign-case-study-patagonia-worn-wear-make-the-message-useful
 date: '2026-10-26'

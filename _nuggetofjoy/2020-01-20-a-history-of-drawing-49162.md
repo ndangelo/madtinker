@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: A History of Drawing
 slug: a-history-of-drawing
 date: '2020-01-20'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Composition Checklist
 slug: composition-checklist
 date: '2022-01-13'

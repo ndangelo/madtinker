@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Color System for Productivity Tool: Design Brief'
 slug: color-system-for-productivity-tool-design-brief
 date: '2025-01-06'

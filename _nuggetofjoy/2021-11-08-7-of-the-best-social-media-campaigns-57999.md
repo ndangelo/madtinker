@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 7 of the Best Social Media Campaigns 
 slug: 7-of-the-best-social-media-campaigns
 date: '2021-11-08'

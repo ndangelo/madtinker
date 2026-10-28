@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Create a logo and icon set. III
 slug: create-a-logo-and-icon-set
 date: '2024-08-21'

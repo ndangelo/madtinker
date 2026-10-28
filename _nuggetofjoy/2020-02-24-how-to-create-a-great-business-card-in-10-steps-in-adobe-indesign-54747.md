@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Great Business Card in 10 Steps in Adobe InDesign
 slug: how-to-create-a-great-business-card-in-10-steps-in-adobe-indesign
 date: '2020-02-24'

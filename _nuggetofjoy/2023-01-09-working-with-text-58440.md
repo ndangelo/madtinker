@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 4. Working With Text
 slug: working-with-text
 date: '2023-01-09'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Student Website Examples 2020
 slug: student-website-examples-2020
 date: '2020-11-23'

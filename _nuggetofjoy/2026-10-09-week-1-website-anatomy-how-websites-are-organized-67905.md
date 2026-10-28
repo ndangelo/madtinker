@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Week 1 — Website Anatomy: How Websites Are Organized'
 slug: week-1-website-anatomy-how-websites-are-organized
 date: '2026-10-09'

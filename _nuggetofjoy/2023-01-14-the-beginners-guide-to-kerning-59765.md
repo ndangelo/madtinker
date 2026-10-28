@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: The Beginner’s Guide to Kerning, Tracking and Leading
 slug: the-beginners-guide-to-kerning
 date: '2023-01-14'

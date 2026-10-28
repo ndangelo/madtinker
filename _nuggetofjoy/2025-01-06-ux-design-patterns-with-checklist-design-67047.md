@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: UX Design Patterns with Checklist Design
 slug: ux-design-patterns-with-checklist-design
 date: '2025-01-06'

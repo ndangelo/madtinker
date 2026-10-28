@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Perspective and POV
 slug: perspective-and-pov
 date: '2020-02-04'

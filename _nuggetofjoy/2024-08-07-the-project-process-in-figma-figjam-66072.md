@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'The Project Process in Figma/FigJam: User Flow, Low-Fidelity and High-Fidelity Prototyping'
 slug: the-project-process-in-figma-figjam
 date: '2024-08-07'

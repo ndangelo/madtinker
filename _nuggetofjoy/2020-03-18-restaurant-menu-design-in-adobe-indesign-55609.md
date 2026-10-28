@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Restaurant Menu Design in Adobe InDesign
 slug: restaurant-menu-design-in-adobe-indesign
 date: '2020-03-18'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Instagram UI for IPhone
 slug: instagram-ui-for-iphone
 date: '2024-07-18'

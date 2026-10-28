@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 155 - Accessibility, Forms &amp; Web Best Practices (Week 13)
 slug: amde-155-accessibility-forms-web-best-practices-week-13
 date: '2026-10-22'

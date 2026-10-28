@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 8. Mobile-friendly designs with media queries
 slug: mobile-friendly-designs-with-media-queries
 date: '2023-01-13'

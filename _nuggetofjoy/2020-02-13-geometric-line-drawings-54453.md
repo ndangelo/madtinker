@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Geometric Line Drawings
 slug: geometric-line-drawings
 date: '2020-02-13'

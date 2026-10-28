@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Klingler Comps Comments
 slug: klingler-comps-comments
 date: '2024-10-10'

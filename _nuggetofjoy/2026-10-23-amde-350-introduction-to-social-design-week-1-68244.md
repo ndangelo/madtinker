@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 350 - Introduction to Social Design (Week 1)
 slug: amde-350-introduction-to-social-design-week-1
 date: '2026-10-23'

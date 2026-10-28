@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Advanced HTML/CSS
 slug: advanced-html-css
 date: '2023-04-13'

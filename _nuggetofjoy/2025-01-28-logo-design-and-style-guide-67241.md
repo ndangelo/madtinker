@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Logo Design, and Style Guide
 slug: logo-design-and-style-guide
 date: '2025-01-28'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Effective Twitter Ads (Lecture and Assignment)
 slug: effective-twitter-ads-lecture-and-assignment
 date: '2024-08-03'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Botanical Wedding Invite in InDesign
 slug: how-to-create-a-botanical-wedding-invite-in-indesign
 date: '2023-02-08'

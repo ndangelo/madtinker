@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: '5 CHARACTERISTICS OF AN IMPACTFUL LOGO DESIGN: Supplementary'
 slug: 5-characteristics-of-an-impactful-logo-design
 date: '2018-04-23'

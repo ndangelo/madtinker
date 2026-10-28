@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create Layouts for a Fashion Magazine in Adobe InDesign
 slug: how-to-create-layouts-for-a-fashion-magazine-in-adobe-indesign
 date: '2020-02-26'

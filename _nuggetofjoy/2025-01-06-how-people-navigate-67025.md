@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How People Navigate
 slug: how-people-navigate
 date: '2025-01-06'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Week 7 — Layout Systems: Flexbox, Grid, and Responsive Design'
 slug: week-7-layout-systems-flexbox-grid-and-responsive-design
 date: '2026-10-10'

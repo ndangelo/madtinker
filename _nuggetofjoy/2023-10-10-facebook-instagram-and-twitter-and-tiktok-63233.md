@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Facebook, Instagram and Twitter and Tiktok
 slug: facebook-instagram-and-twitter-and-tiktok
 date: '2023-10-10'

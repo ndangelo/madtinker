@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Creating Beautiful Drop Caps in InDesign
 slug: creating-beautiful-drop-caps-in-indesign-2
 date: '2023-01-14'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Climate Change Infographic in Adobe InDesign
 slug: how-to-create-a-climate-change-infographic-in-adobe-indesign
 date: '2020-03-18'

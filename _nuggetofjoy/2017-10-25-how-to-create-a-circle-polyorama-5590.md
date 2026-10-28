@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How To Create A Circle Polyorama
 slug: how-to-create-a-circle-polyorama
 date: '2017-10-25'

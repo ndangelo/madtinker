@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: The Beginner's Guide to Font Pairing
 slug: the-beginners-guide-to-font-pairing
 date: '2017-11-16'

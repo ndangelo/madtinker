@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'AMDE 155 CSS Flexbox: Creating Flexible Layouts (Week 10)'
 slug: amde-155-css-flexbox-creating-flexible-layouts-week-10
 date: '2026-10-22'

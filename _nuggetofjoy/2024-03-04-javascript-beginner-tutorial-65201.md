@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: JavaScript Beginner Tutorial
 slug: javascript-beginner-tutorial
 date: '2024-03-04'

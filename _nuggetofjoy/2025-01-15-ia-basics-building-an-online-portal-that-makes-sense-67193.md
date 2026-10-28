@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'IA Basics: Building an Online Portal that Makes Sense'
 slug: ia-basics-building-an-online-portal-that-makes-sense
 date: '2025-01-15'

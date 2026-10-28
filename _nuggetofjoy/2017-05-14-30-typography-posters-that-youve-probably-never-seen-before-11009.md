@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 30 TYPOGRAPHY POSTERS THAT YOU’VE PROBABLY NEVER SEEN BEFORE
 slug: 30-typography-posters-that-youve-probably-never-seen-before
 date: '2017-05-14'

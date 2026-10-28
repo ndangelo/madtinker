@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Facebook Page Admin: Important'
 slug: how-do-i-manage-roles-for-my-facebook-page
 date: '2019-10-13'

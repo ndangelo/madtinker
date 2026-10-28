@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: The Poster Series — Animated Posters
 slug: the-poster-series-animated-posters
 date: '2023-09-04'

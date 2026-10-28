@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Social Media Campaign: Instagram'
 slug: social-media-campaign-instagram-2
 date: '2025-09-23'

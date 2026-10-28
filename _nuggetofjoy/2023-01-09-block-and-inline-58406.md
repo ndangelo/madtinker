@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 10. Block And Inline
 slug: block-and-inline
 date: '2023-01-09'

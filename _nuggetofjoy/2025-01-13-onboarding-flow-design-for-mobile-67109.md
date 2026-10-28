@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Onboarding Flow Design for Mobile
 slug: onboarding-flow-design-for-mobile
 date: '2025-01-13'

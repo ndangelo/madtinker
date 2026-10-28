@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Smartwatch Messenger App (Update)
 slug: smartwatch-messenger-app
 date: '2026-10-18'

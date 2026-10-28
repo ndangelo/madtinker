@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Turn Day Into Night in Adobe Photoshop
 slug: final-part-i-how-to-turn-day-into-night-in-adobe-photoshop
 date: '2017-11-26'

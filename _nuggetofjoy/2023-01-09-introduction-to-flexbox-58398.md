@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 11. Introduction To Flexbox
 slug: introduction-to-flexbox
 date: '2023-01-09'

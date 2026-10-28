@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Drawing (Drawing from Life)
 slug: drawing-drawing-from-life
 date: '2020-02-28'

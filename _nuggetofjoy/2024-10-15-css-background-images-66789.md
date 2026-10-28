@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: CSS Background Images and Video
 slug: css-background-images
 date: '2024-10-15'

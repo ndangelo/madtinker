@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'UX/UI DESIGN BRIEF #10 - Redesigning Uber for the Holiday Season'
 slug: ux-ui-design-brief-10-redesigning-uber-for-the-holiday-season
 date: '2026-10-17'

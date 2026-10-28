@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Space Travel Infographic in Adobe InDesign
 slug: how-to-create-a-space-travel-infographic-in-adobe-indesign
 date: '2020-03-18'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: UI/UX Design Brief
 slug: ui-ux-design-brief
 date: '2024-07-24'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 355 Critique &amp; Final Project Planning (Week 13)
 slug: amde-355-critique-final-project-planning-week-13
 date: '2026-10-22'

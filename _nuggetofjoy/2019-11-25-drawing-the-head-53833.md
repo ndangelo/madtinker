@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Drawing the Head
 slug: drawing-the-head
 date: '2019-11-25'

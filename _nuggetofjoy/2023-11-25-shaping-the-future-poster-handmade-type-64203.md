@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Shaping the Future Poster — Handmade Type
 slug: shaping-the-future-poster-handmade-type
 date: '2023-11-25'

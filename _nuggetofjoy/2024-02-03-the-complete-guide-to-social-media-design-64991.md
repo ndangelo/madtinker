@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: The complete guide to social media design
 slug: the-complete-guide-to-social-media-design
 date: '2024-02-03'

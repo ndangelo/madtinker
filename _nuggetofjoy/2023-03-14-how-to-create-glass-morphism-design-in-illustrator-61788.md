@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to create glass morphism design in Illustrator
 slug: how-to-create-glass-morphism-design-in-illustrator
 date: '2023-03-14'

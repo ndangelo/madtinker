@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Learn 8 essential techniques to design in Figma like a pro
 slug: learn-8-essential-techniques-to-design-in-figma-like-a-pro
 date: '2025-01-06'

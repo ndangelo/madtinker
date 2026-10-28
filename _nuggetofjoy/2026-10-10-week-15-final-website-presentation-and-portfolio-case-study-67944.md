@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Week 15 — Final Website Presentation and Portfolio Case Study
 slug: week-15-final-website-presentation-and-portfolio-case-study
 date: '2026-10-10'

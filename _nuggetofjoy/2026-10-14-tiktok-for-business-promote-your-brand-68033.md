@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'TikTok for Business: Promote Your Brand'
 slug: tiktok-for-business-promote-your-brand
 date: '2026-10-14'

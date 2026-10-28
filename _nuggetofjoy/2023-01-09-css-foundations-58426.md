@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 7. CSS Foundations
 slug: css-foundations
 date: '2023-01-09'

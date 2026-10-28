@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Responsive Website Production: @ Media Screen'
 slug: responsive-website-production-media-screen
 date: '2026-10-21'

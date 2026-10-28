@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 8. Inspecting HTML And CSS
 slug: inspecting-html-and-css
 date: '2023-01-09'

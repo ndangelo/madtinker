@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 355 - User Flows, Navigation &amp; Interaction Design (Week 9)
 slug: amde-355-user-flows-navigation-interaction-design-week-9
 date: '2026-10-22'

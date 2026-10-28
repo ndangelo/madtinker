@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Smartwatch Prototype (Student Work)
 slug: smartwatch-prototype-student-work
 date: '2025-08-01'

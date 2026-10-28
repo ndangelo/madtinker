@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: CSS Cheat Sheet
 slug: css-cheat-sheet
 date: '2019-09-24'

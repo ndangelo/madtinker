@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'AMDE 155 CSS Grid: Designing with Rows and Columns (Week 11)'
 slug: amde-155-css-grid-designing-with-rows-and-columns-week-11
 date: '2026-10-22'

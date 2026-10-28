@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Typography: Playful & Creative Type in Print Design'
 slug: typography-playful-creative-type-in-print-design
 date: '2020-03-25'

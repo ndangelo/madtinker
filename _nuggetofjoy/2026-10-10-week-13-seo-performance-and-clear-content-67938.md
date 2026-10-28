@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Week 13 — SEO, Performance, and Clear Content
 slug: week-13-seo-performance-and-clear-content
 date: '2026-10-10'

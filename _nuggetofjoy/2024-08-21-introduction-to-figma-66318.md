@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Introduction to Figma I
 slug: introduction-to-figma
 date: '2024-08-21'

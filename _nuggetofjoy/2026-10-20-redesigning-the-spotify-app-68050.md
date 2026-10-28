@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Redesigning the Spotify App
 slug: redesigning-the-spotify-app
 date: '2026-10-20'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: HTML/CSS Reference for DMET 155/355
 slug: html-css-reference-for-dmet-155-355-2
 date: '2024-01-30'

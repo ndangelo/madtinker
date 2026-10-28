@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: HTML/CSS Reference for DMET 155 Introduction to Web
 slug: main-html-content
 date: '2023-04-20'

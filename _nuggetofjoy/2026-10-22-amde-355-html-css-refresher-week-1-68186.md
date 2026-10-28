@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 355 - HTML &amp; CSS Refresher (Week 1)
 slug: amde-355-html-css-refresher-week-1
 date: '2026-10-22'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Compositional Guidelines
 slug: compositional-guidelines
 date: '2020-04-21'

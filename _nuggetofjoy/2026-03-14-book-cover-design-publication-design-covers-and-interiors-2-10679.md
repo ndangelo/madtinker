@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Book Cover Design: A Powerful Messages of Social Change'
 slug: book-cover-design-publication-design-covers-and-interiors-2
 date: '2026-03-14'

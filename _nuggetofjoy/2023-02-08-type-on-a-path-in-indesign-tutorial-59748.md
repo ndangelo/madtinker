@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Type on a Path in InDesign Tutorial
 slug: type-on-a-path-in-indesign-tutorial
 date: '2023-02-08'

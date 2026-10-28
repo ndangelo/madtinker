@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Prototyping Tutorials
 slug: prototyping-tutorials
 date: '2024-08-21'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 155 Semantic HTML &amp; Website Architecture (Week 9)
 slug: amde-155-semantic-html-website-architecture
 date: '2026-10-22'

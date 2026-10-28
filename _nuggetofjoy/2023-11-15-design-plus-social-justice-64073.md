@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Design Plus Social Justice
 slug: design-plus-social-justice
 date: '2023-11-15'

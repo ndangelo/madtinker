@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Creative Brief (Graphic Design Brief) - 2024
 slug: creative-brief-graphic-design-brief-2020
 date: '2020-03-02'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Smartwatch Design for Messenger App
 slug: smartwatch-design-for-messenger-app
 date: '2025-01-13'

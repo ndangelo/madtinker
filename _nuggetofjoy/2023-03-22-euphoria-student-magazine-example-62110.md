@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Euphoria: Student Magazine Example'
 slug: euphoria-student-magazine-example
 date: '2023-03-22'

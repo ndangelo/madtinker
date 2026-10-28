@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Book Jacket Template in InDesign
 slug: how-to-make-a-book-in-indesign
 date: '2024-02-19'

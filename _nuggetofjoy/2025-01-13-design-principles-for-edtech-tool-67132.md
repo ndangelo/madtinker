@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Design Principles for EdTech Tool
 slug: design-principles-for-edtech-tool
 date: '2025-01-13'

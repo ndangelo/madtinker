@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Create a Professional Resume
 slug: create-a-professional-resume
 date: '2024-01-28'

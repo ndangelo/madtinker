@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Mask Hair in Photoshop
 slug: how-to-mask-hair-in-photoshop
 date: '2023-12-30'

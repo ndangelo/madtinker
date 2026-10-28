@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Create a Business Card
 slug: create-a-business-card
 date: '2024-01-28'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Make a Clipping Mask in InDesign
 slug: how-to-make-a-clipping-mask-in-indesign
 date: '2024-01-28'

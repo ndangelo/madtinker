@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Illustrate a Pair of Sweet Gradient Mesh Cherries
 slug: illustrate-a-pair-of-sweet-gradient-mesh-cherries
 date: '2023-03-13'

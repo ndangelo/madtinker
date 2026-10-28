@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Create and Test a Prototype V
 slug: create-and-test-a-prototype
 date: '2024-08-22'

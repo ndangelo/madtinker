@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'AMDE 477 / Campaign Case Study - TikTok Storytelling: Hook, Payoff, Action'
 slug: amde-477-campaign-case-study-tiktok-storytelling-hook-payoff-action
 date: '2026-10-26'

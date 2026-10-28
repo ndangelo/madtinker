@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Adobe Photoshop for Beginners
 slug: adobe-photoshop-for-beginners
 date: '2024-01-20'

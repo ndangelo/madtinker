@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Color Properties &amp; Perception
 slug: color-properties-perception
 date: '2025-01-06'

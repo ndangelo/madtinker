@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: '2. CSS: Units, Connecting HTML + CSS, Typography'
 slug: css-units-connecting-html-css-typography
 date: '2023-01-14'

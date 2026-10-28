@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 355 - Critique &amp; Revision (Week 8)
 slug: amde-355-critique-revision-week-8
 date: '2026-10-22'

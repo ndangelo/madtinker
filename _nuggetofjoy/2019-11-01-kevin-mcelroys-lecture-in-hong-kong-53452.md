@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Kevin McElroy's Lecture in Hong Kong
 slug: kevin-mcelroys-lecture-in-hong-kong
 date: '2019-11-01'

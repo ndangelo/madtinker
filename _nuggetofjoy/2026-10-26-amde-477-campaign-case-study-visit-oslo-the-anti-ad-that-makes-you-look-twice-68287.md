@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'AMDE 477 / Campaign Case Study - Visit OSLO: The Anti-Ad That Makes You Look Twice'
 slug: amde-477-campaign-case-study-visit-oslo-the-anti-ad-that-makes-you-look-twice
 date: '2026-10-26'

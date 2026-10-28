@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Figure Drawing I
 slug: figure-drawing-i
 date: '2019-11-13'

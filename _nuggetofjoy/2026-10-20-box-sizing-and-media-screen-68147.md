@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Box-sizing and @ Media Screen
 slug: box-sizing-and-media-screen
 date: '2026-10-20'

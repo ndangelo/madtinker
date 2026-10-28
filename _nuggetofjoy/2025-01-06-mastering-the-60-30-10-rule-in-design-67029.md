@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Mastering the 60-30-10 Rule in Design
 slug: mastering-the-60-30-10-rule-in-design
 date: '2025-01-06'

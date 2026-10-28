@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Turn a Photo into an Illustration in Adobe Illustrator
 slug: how-to-turn-a-photo-into-an-illustration-in-adobe-illustrator
 date: '2023-03-14'

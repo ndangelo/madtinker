@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Eric Smith's Practice Defense
 slug: eric-smiths-practice-defense
 date: '2020-04-09'

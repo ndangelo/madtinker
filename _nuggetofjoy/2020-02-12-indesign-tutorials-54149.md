@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: InDesign Tutorials
 slug: indesign-tutorials
 date: '2020-02-12'

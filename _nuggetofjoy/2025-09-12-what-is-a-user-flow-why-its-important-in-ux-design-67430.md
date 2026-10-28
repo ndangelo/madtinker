@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: What is a user flow? Why it’s important in UX design
 slug: what-is-a-user-flow-why-its-important-in-ux-design
 date: '2025-09-12'

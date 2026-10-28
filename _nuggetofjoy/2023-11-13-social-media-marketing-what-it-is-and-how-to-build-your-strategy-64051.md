@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'Social Media Marketing: What it is and how to build your strategy'
 slug: social-media-marketing-what-it-is-and-how-to-build-your-strategy
 date: '2023-11-13'

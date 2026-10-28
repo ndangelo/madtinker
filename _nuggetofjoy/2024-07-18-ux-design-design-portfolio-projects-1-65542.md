@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 'UX/UI Creative Brief: Blog Website #1'
 slug: ux-design-design-portfolio-projects-1
 date: '2024-07-18'

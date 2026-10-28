@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Glitter Effect Photoshop Action
 slug: how-to-create-a-glitter-effect-photoshop-action
 date: '2023-02-13'

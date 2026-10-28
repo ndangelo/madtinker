@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Wireframing for Video Streaming Service
 slug: wireframing-for-video-streaming-service
 date: '2025-01-13'

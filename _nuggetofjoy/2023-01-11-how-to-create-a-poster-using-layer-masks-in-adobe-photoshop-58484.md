@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: How to Create a Poster Using Layer Masks in Adobe Photoshop
 slug: how-to-create-a-poster-using-layer-masks-in-adobe-photoshop
 date: '2023-01-11'

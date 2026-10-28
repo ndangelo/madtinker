@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 355 - Accessibility, Performance &amp; Quality Assurance (Week 12)
 slug: amde-355-accessibility-performance-quality-assurance-week-12
 date: '2026-10-22'

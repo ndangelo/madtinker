@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 155 - Final Critique, Revisions &amp; Website Submissions (Week 15)
 slug: amde-155-final-critique-revisions-website-submissions-week-15
 date: '2026-10-22'

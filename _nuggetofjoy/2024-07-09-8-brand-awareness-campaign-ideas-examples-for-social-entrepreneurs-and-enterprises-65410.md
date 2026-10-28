@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 8 Brand Awareness Campaign Ideas &amp; Examples For Social Entrepreneurs And Enterprises
 slug: 8-brand-awareness-campaign-ideas-examples-for-social-entrepreneurs-and-enterprises
 date: '2024-07-09'

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: '11. Transforms: rotations, scaling and skews, Vertical alignment, Head tags and search engines, Flexbox, CSS animations,
   Forms, Audio, video and media'
 slug: transforms-rotations-scaling-and-skews

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: Intermediate HTML
 slug: intermediate-html
 date: '2023-04-13'

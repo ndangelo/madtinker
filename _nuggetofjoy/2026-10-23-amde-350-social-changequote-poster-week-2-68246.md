@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: AMDE 350 - Social Change"Quote" Poster (Week 2)
 slug: amde-350-social-changequote-poster-week-2
 date: '2026-10-23'

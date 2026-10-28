@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 50 + Still Life Drawing Ideas
 slug: 50-still-life-drawing-ideas
 date: '2020-04-21'

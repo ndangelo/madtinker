@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: teaching-post
 title: 20 Incredible Book Covers
 slug: 20-incredible-book-covers-non-designers-can-pull-off-2
 date: '2019-02-19'
