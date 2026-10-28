@@ -7,21 +7,20 @@ results = []
 for css in sorted(Path('assets/css/imported-posts').glob('*.css')):
     post = posts.get(css.stem)
     if not post:
-        results.append(dict(id=css.stem, issue='missing_post'))
-        continue
-    content = post.read_text(encoding='utf-8')
-    style = css.read_text(encoding='utf-8')
-    # Detect ID selector roots only, excluding colors, comments, and URLs.
-    style = re.sub(r'/\*.*?\*/', '', style, flags=re.S)
-    selector_text = ' '.join(re.findall(r'([^{}]+)\{', style))
-    ids = sorted(set(re.findall(r'#([A-Za-z][\w-]*)', selector_text)))
-    absent = [id for id in ids if not re.search(r'\bid\s*=\s*["\']'+re.escape(id)+r'["\']', content)]
-    results.append(dict(id=css.stem, post=str(post), missing_ids=absent, html=bool(re.search(r'<(?:div|section|article|header)\b', content)), preserved='{::nomarkdown}' in content))
+        has_html = bool(re.search(r'<(?:div|section|article|header)\\b', content))
+    preserved = '{::nomarkdown}' in content
+    has_markdown = bool(re.search(r'(?m)^\\s*(?:#{1,6}\\s|[-*+]\\s|\\d+[.]\\s)', content))
+    risks = []
+    if has_html and not preserved:
+        risks.append('HTML subject to Markdown parsing')
+    if has_html and has_markdown:
+        risks.append('Mixed HTML and Markdown')
+    results.append(dict(id=css.stem, post=str(post), missing_ids=absent, html=has_html, preserved=preserved, risks=risks))
 Path('audit-results').mkdir(exist_ok=True)
 Path('audit-results/teaching-css-audit.json').write_text(json.dumps(results, indent=2))
-missing = [r for r in results if r.get('missing_ids') or r.get('issue')]
-lines = ['# Teaching archive CSS scope audit', '', f'CSS files checked: {len(results)}', f'Pages with unmatched ID selectors or missing posts: {len(missing)}', '', '| WordPress ID | Missing CSS ID selectors |', '|---|---|']
+missing = [r for r in results if r.get('missing_ids') or r.get('issue') or r.get('risks')]
+lines = ['# Teaching archive CSS scope audit', '', f'CSS files checked: {len(results)}', f'Pages flagged for structural review: {len(missing)}', '', '| WordPress ID | Missing CSS IDs | Structural risks |', '|---|---|---|']
 for r in missing:
-    lines.append(f"| {r['id']} | {', '.join(r.get('missing_ids', [])) or r.get('issue', '')} |")
+    lines.append(f"| {r['id']} | {', '.join(r.get('missing_ids', [])) or r.get('issue', '')} | {', '.join(r.get('risks', []))} |")
 Path('audit-results/teaching-css-audit.md').write_text('\n'.join(lines)+'\n')
 print('\n'.join(lines))
