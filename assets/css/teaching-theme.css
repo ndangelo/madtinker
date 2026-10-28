@@ -197,3 +197,20 @@
 .teaching-article .teaching-content .amde-case :is(.card,.bottom,.callout) :is(p,li) {
   color:var(--mt-text)!important;
 }
+
+/* AMDE 477 overview: legacy #amde477-campaign-guide .amde-card background:#fff
+   must be overridden explicitly; text and surface must change together. */
+.teaching-article .teaching-content #amde477-campaign-guide .amde-card {
+  background:var(--mt-card)!important;
+  color:var(--mt-text)!important;
+  border-color:var(--mt-line)!important;
+}
+.teaching-article .teaching-content #amde477-campaign-guide .amde-card :is(h2,h3,p,li) {
+  color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content #amde477-campaign-guide .amde-card .amde-num {
+  color:var(--mt-orange)!important;
+}
+.teaching-article .teaching-content #amde477-campaign-guide .amde-card a {
+  color:var(--mt-sky)!important;
+}
