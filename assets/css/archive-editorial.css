@@ -1,0 +1,28 @@
+/* MadTinker editorial archive; intentionally shares the existing dark palette. */
+.mt-archive{max-width:1080px;margin:auto;padding:clamp(2rem,5vw,4rem) 0 5rem}
+.mt-archive-head{border-bottom:1px solid var(--line);padding-bottom:2rem}
+.mt-archive-head .eyebrow{font:500 .7rem var(--mono);color:var(--lime)}
+.mt-archive-head h1{font:700 clamp(2.2rem,5vw,3.8rem)/1.1 "Space Grotesk",var(--sans);letter-spacing:-.06em;margin:.5rem 0}
+.mt-archive-head p:not(.eyebrow){color:var(--muted);font-size:.95rem}
+.mt-archive-controls{display:flex;gap:1rem;align-items:end;flex-wrap:wrap;margin:1.6rem 0}
+.mt-archive-controls label{display:flex;flex-direction:column;gap:.45rem;color:var(--muted);font:500 .72rem var(--mono)}
+.mt-archive-controls label:first-child{flex:1;min-width:min(240px,100%)}
+.mt-archive-controls input,.mt-archive-controls select{min-height:40px;border:1px solid var(--line);background:#101d30;color:var(--ink);padding:.65rem .8rem;border-radius:3px;font:500 .8rem var(--sans);max-width:100%}
+.mt-archive-controls select{min-width:125px}
+.mt-archive-controls button,.mt-archive-more button{min-height:40px;background:transparent;border:1px solid var(--line);color:var(--sky);padding:.65rem .9rem;border-radius:3px;font:500 .75rem var(--mono);cursor:pointer}
+.mt-archive-controls button:hover,.mt-archive-more button:hover{border-color:var(--lime);color:var(--lime)}
+.mt-archive-count{color:var(--muted);font:500 .72rem var(--mono);margin:1.5rem 0}
+.mt-archive-year{font:600 1.05rem var(--mono);color:var(--lime);padding:1rem 0 .7rem;margin:2rem 0 0;border-bottom:2px solid var(--line)}
+.mt-archive-entry{display:grid;grid-template-columns:100px minmax(0,1fr) 25px;gap:1.3rem;padding:1.3rem 0;border-bottom:1px solid var(--line);align-items:start}
+.mt-archive-entry time{color:var(--muted);font:500 .73rem var(--mono);padding-top:.25rem}
+.mt-archive-entry h3{font:600 clamp(1.05rem,1.8vw,1.3rem)/1.35 "Space Grotesk",var(--sans);margin:0;letter-spacing:-.025em}
+.mt-archive-entry h3 a{color:var(--ink);text-decoration:none}.mt-archive-entry h3 a:hover{color:var(--lime)}
+.mt-archive-entry p{color:#a5b6ca;font-size:.84rem;margin:.5rem 0}
+.mt-archive-entry-tags{display:flex;flex-wrap:wrap;gap:.65rem;margin-top:.6rem}
+.mt-archive-entry-tags span{font:.67rem var(--mono);color:var(--orange)}
+.mt-archive-arrow{color:var(--sky);font:1.2rem var(--mono)}
+.mt-archive-entry[hidden],.mt-archive-year[hidden],#mt-archive-empty[hidden],#mt-archive-more[hidden]{display:none}
+.mt-archive-more{text-align:center;margin:2rem 0}
+.mt-archive-teaching{border-top:1px solid var(--line);padding-top:1.5rem;margin-top:2rem;color:var(--muted);font-size:.85rem}
+.mt-archive-teaching a{color:var(--sky)}
+@media(max-width:640px){.mt-archive-entry{grid-template-columns:1fr 22px;gap:.4rem}.mt-archive-entry time{grid-column:1/-1}.mt-archive-controls label{flex:1 1 130px}.mt-archive-controls label:first-child{flex-basis:100%}}
