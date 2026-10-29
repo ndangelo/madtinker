@@ -1,45 +1,38 @@
 ---
-layout: page
+layout: default
 title: Teaching archive
 permalink: /teaching/
-description: Imported Nugget of Joy teaching posts, staged for review.
+description: Imported Nugget of Joy lessons and teaching resources.
 ---
-<p>This imported teaching archive is under review. Embedded media and older layouts may need adjustments.</p>
-<label for="teaching-search">Search teaching posts</label>
-<input id="teaching-search" type="search" placeholder="Search titles or categories…" autocomplete="off" aria-controls="teaching-results">
-<p id="teaching-count" aria-live="polite"></p>
-<div class="archive-list" id="teaching-results">
 {% assign entries = site.nuggetofjoy | sort: 'date' | reverse %}
-{% for post in entries %}
-  <article class="archive-item teaching-result" data-search="{{ post.title | append: ' ' | append: post.categories | downcase | escape }}">
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
-    <div><h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
-    {% if post.categories.size > 0 %}<p>{{ post.categories | join: ', ' }}</p>{% endif %}</div>
-  </article>
-{% endfor %}
-</div>
-
-<script>
-(() => {
-  const input=document.getElementById('teaching-search');
-  const items=[...document.querySelectorAll('.teaching-result')];
-  const count=document.getElementById('teaching-count');
-  const update=()=>{
-    const q=input.value.toLocaleLowerCase().trim();
-    let visible=0;
-    items.forEach(item=>{
-      const show=!q||item.dataset.search.includes(q);
-      item.hidden=!show;
-      if(show)visible++;
-    });
-    count.textContent=visible+' of '+items.length+' teaching posts';
-  };
-  input.addEventListener('input',update);
-  update();
-})();
-</script>
-<style>
-#teaching-search{width:100%;max-width:620px;padding:.85rem 1rem;margin:.5rem 0 1rem;border:1px solid #75848e;border-radius:.4rem;background:transparent;color:inherit;font:inherit}
-.teaching-result[hidden]{display:none}
-#teaching-count{font-size:.85rem;opacity:.75}
-</style>
+{% assign all_categories = entries | map: 'categories' | join: ',' | split: ',' | uniq | sort_natural %}
+<section class="mt-teaching-index" aria-labelledby="mt-teaching-title">
+  <header class="mt-teaching-intro">
+    <p class="eyebrow">/ MADTINKER / TEACHING</p>
+    <h1 id="mt-teaching-title">Teaching archive<span class="cursor-mark" aria-hidden="true">_</span></h1>
+    <p>Lessons, projects, references, and classroom experiments from Nugget of Joy.</p>
+    <p class="mt-teaching-note">Imported material is being reviewed; some older embeds and images may be unavailable.</p>
+  </header>
+  <div class="mt-teaching-controls">
+    <label for="teaching-search">Search lessons<input id="teaching-search" type="search" placeholder="Find a lesson or assignment…" autocomplete="off"></label>
+    <label for="teaching-category">Category<select id="teaching-category"><option value="">All categories</option>{% for category in all_categories %}{% assign name = category | strip %}{% unless name == empty %}<option value="{{ name | slugify }}">{{ name | escape }}</option>{% endunless %}{% endfor %}</select></label>
+    <button id="teaching-reset" type="button">Reset filters</button>
+  </div>
+  <p class="mt-teaching-count" id="teaching-count" aria-live="polite"></p>
+  <div class="mt-teaching-list" id="teaching-results">
+    {% for post in entries %}
+      <article class="mt-teaching-entry teaching-result" data-search="{{ post.title | append: ' ' | append: post.description | append: ' ' | append: post.categories | append: ' ' | append: post.tags | downcase | escape }}" data-categories="|{% for category in post.categories %}{{ category | slugify }}|{% endfor %}">
+        <div class="mt-teaching-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %-d, %Y' }}</time><span>LESSON / {{ forloop.index }}</span></div>
+        <div><h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+        {% if post.description %}<p>{{ post.description | strip_html | truncate: 150 | escape }}</p>{% endif %}
+        <div class="mt-teaching-tags">{% for category in post.categories limit:3 %}<span>{{ category | escape }}</span>{% endfor %}{% for tag in post.tags limit:2 %}<span>{{ tag | escape }}</span>{% endfor %}</div></div>
+        <span class="mt-teaching-arrow" aria-hidden="true">↗</span>
+      </article>
+    {% endfor %}
+  </div>
+  <p id="teaching-empty" hidden>No teaching posts match your search. Try another keyword or category.</p>
+  <div class="mt-teaching-more"><button id="teaching-more" type="button">Show more lessons ↓</button></div>
+  <p class="mt-teaching-back">For studio notes and articles, <a href="{{ '/archive/' | relative_url }}">visit the journal archive ↗</a>.</p>
+</section>
+<link rel="stylesheet" href="{{ '/assets/css/teaching-index.css' | relative_url }}">
+<script src="{{ '/assets/js/teaching-index.js' | relative_url }}" defer></script>
