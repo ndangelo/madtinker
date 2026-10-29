@@ -102,3 +102,21 @@ body:has(.teaching-article) .article-content h3::before {
   content:none!important;
   display:none!important;
 }
+
+
+/* Unified tech-forward editorial headlines — October 2026 */
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap');
+:root{--headline-font:"Space Grotesk","Inter",sans-serif}
+.wordmark{font-family:var(--headline-font);font-weight:700;letter-spacing:-.045em}
+.hero h1,.journal-hero h1,.article-header h1,
+.section-heading h2,.post-card h3,.journal-list .post-card h3,
+.article-content h2,.article-content h3,
+.archive-list h2,.archive-item h3{
+  font-family:var(--headline-font);
+  font-weight:700;
+  letter-spacing:-.035em;
+  overflow-wrap:break-word;
+}
+.hero h1,.journal-hero h1{letter-spacing:-.055em}
+.article-content h2,.article-content h3{line-height:1.25}
+.section-heading h2{letter-spacing:-.025em}
