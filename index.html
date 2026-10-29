@@ -14,7 +14,8 @@ title: Home
 {% assign navigation_terms = all_tags | concat: all_categories | uniq | sort_natural %}
 <section class="mt-browse" aria-label="Browse by topic">
   <div class="mt-browse-heading"><h2>Explore topics</h2><span>{{ all_entries.size }} entries</span></div>
-  <div class="mt-tag-nav" role="group" aria-label="Filter entries by tag or category">
+  <div class="mt-topic-controls"><label for="mt-topic-search">Find a topic <input id="mt-topic-search" type="search" placeholder="Filter topics…" autocomplete="off"></label><button type="button" id="mt-topics-toggle" aria-expanded="false" aria-controls="mt-topic-options">Show all topics ↓</button></div>
+  <div class="mt-tag-nav" id="mt-topic-options" role="group" aria-label="Filter entries by tag or category">
     <button type="button" class="mt-tag active" data-filter="" aria-pressed="true">All <span>{{ all_entries.size }}</span></button>
     {% for term in navigation_terms %}
       {% assign clean_term = term | strip %}
@@ -45,7 +46,8 @@ title: Home
     </article>
     {% endfor %}
   </div>
-  <p id="mt-no-results" hidden>No entries match this filter.</p>
+  <p id="mt-no-results" hidden>No entries match this filter. Try another topic or search term.</p>
+  <div class="mt-load-row"><button type="button" id="mt-load-more">Show more entries ↓</button></div>
 </section>
 <script>
 (() => {
@@ -55,26 +57,47 @@ title: Home
   const count = document.getElementById('mt-entry-count');
   const heading = document.getElementById('mt-entry-heading');
   const empty = document.getElementById('mt-no-results');
+  const topicInput = document.getElementById('mt-topic-search');
+  const topicToggle = document.getElementById('mt-topics-toggle');
+  const topicOptions = document.getElementById('mt-topic-options');
+  const loadMore = document.getElementById('mt-load-more');
   let active = '';
+  let visibleLimit = 24;
+  let expanded = false;
+  function filterTopics() {
+    const q = topicInput.value.trim().toLocaleLowerCase();
+    const choices = buttons.filter(button => button.dataset.filter !== '');
+    choices.forEach((button, index) => { button.hidden = !!q ? !button.textContent.toLocaleLowerCase().includes(q) : !expanded && index >= 12 && button.dataset.filter !== active; });
+    topicToggle.hidden = !!q || choices.length <= 12;
+    topicToggle.textContent = expanded ? 'Fewer topics ↑' : 'Show all topics ↓';
+    topicToggle.setAttribute('aria-expanded', String(expanded));
+  }
+  topicInput.addEventListener('input', filterTopics);
+  topicToggle.addEventListener('click', () => { expanded = !expanded; filterTopics(); });
+  loadMore.addEventListener('click', () => { visibleLimit += 24; update(); });
   function update() {
     const query = input.value.trim().toLocaleLowerCase();
-    let shown = 0;
+    let matched = 0;
     entries.forEach(entry => {
       const matchesTag = !active || entry.dataset.terms.split('|').includes(active);
       const matchesSearch = !query || entry.dataset.search.includes(query);
-      entry.hidden = !(matchesTag && matchesSearch);
-      if (!entry.hidden) shown++;
+      if (matchesTag && matchesSearch) matched++;
+      entry.hidden = !(matchesTag && matchesSearch) || matched > visibleLimit;
     });
-    count.textContent = shown + ' of ' + entries.length + ' entries';
-    empty.hidden = shown !== 0;
+    count.textContent = matched + ' matching entries · showing ' + Math.min(matched, visibleLimit);
+    empty.hidden = matched !== 0;
+    loadMore.hidden = matched <= visibleLimit;
   }
   buttons.forEach(button => button.addEventListener('click', () => {
     active = button.dataset.filter;
+    visibleLimit = 24;
+    filterTopics();
     buttons.forEach(item => { const selected = item === button; item.classList.toggle('active', selected); item.setAttribute('aria-pressed', String(selected)); });
-    heading.textContent = active ? button.textContent.trim().replace(/\\s+\\d+$/, '') : 'All entries';
+    heading.textContent = active ? button.textContent.trim().replace(/\s+\d+$/, '') : 'All entries';
     update();
   }));
-  input.addEventListener('input', update);
+  input.addEventListener('input', () => { visibleLimit = 24; update(); });
+  filterTopics();
   update();
 })();
 </script>
@@ -87,7 +110,13 @@ title: Home
 .mt-browse-heading,.mt-entry-tools{display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap}
 .mt-browse h2,.mt-entry-tools h2{font:700 1.15rem "Space Grotesk",sans-serif;color:#f2f6fd;margin:0}
 .mt-browse-heading span{font:.7rem var(--mono);color:var(--muted)}
+.mt-topic-controls{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin-top:1rem;font:.7rem var(--mono);color:var(--muted)}
+.mt-topic-controls input{margin-left:.55rem;background:#101d30;color:#eaf3ff;border:1px solid #314158;border-radius:3px;padding:.5rem .65rem;font:inherit}
+.mt-topic-controls button,.mt-load-row button{background:transparent;color:var(--sky);border:1px solid var(--line);border-radius:3px;padding:.55rem .8rem;font:600 .7rem var(--mono);cursor:pointer}
+.mt-topic-controls button:hover,.mt-load-row button:hover{color:var(--lime);border-color:var(--lime)}
 .mt-tag-nav{display:flex;gap:.5rem;flex-wrap:wrap;margin-top:1rem}
+.mt-tag[hidden],#mt-topics-toggle[hidden],#mt-load-more[hidden]{display:none}
+.mt-load-row{text-align:center;padding:1.7rem 0}
 .mt-tag{cursor:pointer;background:#121f30;color:#b8c9dc;border:1px solid #314158;border-radius:3px;padding:.46rem .7rem;font:500 .75rem var(--mono)}
 .mt-tag span{color:#8fa1b7;font-size:.68rem;margin-left:.2rem}
 .mt-tag:hover,.mt-tag:focus-visible{border-color:var(--sky);color:#fff}
