@@ -34,7 +34,7 @@
   </main>
   <footer class="site-footer">
     <p>© {{ site.time | date: "%Y" }} {{ site.author | default: site.title }}.</p>
-    <p>Creative practice / design / code / teaching</p>
+    <nav class="mt-footer-links" aria-label="Footer navigation"><a href="{{ '/feed.xml' | relative_url }}" type="application/rss+xml">RSS feed</a><span aria-hidden="true">/</span><a href="{{ '/archive/' | relative_url }}">Journal</a><span aria-hidden="true">/</span><a href="{{ '/teaching/' | relative_url }}">Teaching</a></nav>
   </footer>
 </body>
 </html>
