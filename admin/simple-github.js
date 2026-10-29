@@ -31,7 +31,7 @@
         const match=source.match(/^---\\r?\\n([\\s\\S]*?)\\r?\\n---\\r?\\n?/);
         if(!match)throw new Error("This post has no recognizable YAML front matter");
         const front=match[1],body=source.slice(match[0].length);
-        const scalar=key=>{const m=front.match(new RegExp("^"+key+":\\\\s*(.*)$","m"));if(!m)return "";let v=m[1].trim();try{if(v.startsWith('"'))return JSON.parse(v)}catch(e){}return v.replace(/^['"]|['"]$/g,"")};
+        const scalar=key=>{const m=front.match(new RegExp("^"+key+":\\s*(.*)$","m"));if(!m)return "";let v=m[1].trim();try{if(v.startsWith('"'))return JSON.parse(v)}catch(e){}return v.replace(/^['"]|['"]$/g,"")};
         byId("new-post").click();
         const name=path.split("/").pop().replace(/^\\d{4}-\\d{2}-\\d{2}-/,"").replace(/\\.md$/,"").replace(/-/g," ");
         byId("post-title").value=scalar("title")||name;
