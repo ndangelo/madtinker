@@ -153,3 +153,6 @@ body:has(.teaching-article) .article-content h3::before {
  .site-header nav a{font-size:.68rem}
  .mt-home-intro h1{overflow-wrap:anywhere}
 }
+
+/* Keep visitors oriented across archives and individual posts. */
+.site-header nav a[aria-current="page"]{color:var(--lime);text-decoration:underline;text-decoration-color:var(--lime);text-decoration-thickness:2px;text-underline-offset:.45rem}
