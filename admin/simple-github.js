@@ -30,7 +30,7 @@
         const visible=matches.slice(0,limit);
         list.innerHTML=visible.length?visible.map(p=>{
           const path=p.path;
-          const title=path.split("/").pop().replace(/^\\d{4}-\\d{2}-\\d{2}-/,"").replace(/\\.md$/,"").replace(/-/g," ");
+          const title=path.split("/").pop().replace(/^\d{4}-\d{2}-\d{2}-/,"").replace(/\.md$/,"").replace(/-/g," ");
           const url=repo+"/edit/main/"+path.split("/").map(encodeURIComponent).join("/");
           const safe=x=>x.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
           return '<div style="display:flex;align-items:center;justify-content:space-between;gap:16px;border-bottom:1px solid #30445d;padding:12px 0"><div><strong>'+safe(title)+'</strong><div class="helper-text">'+safe(path)+'</div></div><a class="secondary-btn compact-btn" target="_blank" rel="noopener noreferrer" href="'+safe(url)+'">Edit on GitHub</a></div>';
@@ -45,7 +45,7 @@
           if(!response.ok)throw new Error("GitHub returned "+response.status);
           const data=await response.json();
           if(data.truncated)throw new Error("GitHub returned an incomplete file list");
-          files=(data.tree||[]).filter(p=>p.type==="blob"&&/^(_posts|_nuggetofjoy)\\/.*\\.md$/i.test(p.path)).sort((a,b)=>b.path.localeCompare(a.path));
+          files=(data.tree||[]).filter(p=>p.type==="blob"&&/^(_posts|_nuggetofjoy)\/.*\.md$/i.test(p.path)).sort((a,b)=>b.path.localeCompare(a.path));
           render();
         }catch(error){count.textContent="Unavailable";list.textContent="Could not load the GitHub post index: "+error.message+". You can still browse the repository directly."}
       }
