@@ -258,3 +258,37 @@
 .teaching-article .teaching-content :is(pre,code,kbd,samp){
   font-family:var(--mono,"IBM Plex Mono",monospace);
 }
+
+/* AMDE 355 Week 11: imported .lesson-card panels were left white while the
+   shared dark theme made their text pale. Pair surface and text colors.
+   Scope to the original lesson component; preserve code syntax highlighting. */
+.teaching-article .teaching-content .amde-grid-lesson .lesson-card{
+  background:var(--mt-surface)!important;
+  color:var(--mt-text)!important;
+  border-color:var(--mt-line)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .lesson-card :is(p,li,dt,dd,strong){
+  color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .lesson-card :is(h2,h3){
+  color:var(--mt-sky)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .lesson-card .eyebrow{
+  color:var(--mt-orange)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .lesson-card tbody tr:nth-child(even){
+  background:var(--mt-card)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .lesson-card td{
+  background:transparent!important;color:var(--mt-text)!important;
+  border-color:var(--mt-line)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .lesson-card .callout{
+  background:var(--mt-card)!important;color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .lesson-card .callout strong{
+  color:var(--mt-lime)!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .lesson-card .ag-steps li{
+  background:var(--mt-card)!important;border-color:var(--mt-line)!important;
+}
