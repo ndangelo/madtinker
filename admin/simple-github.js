@@ -23,6 +23,31 @@
       let limit=60;
       const list=section.querySelector("#repo-post-list");
       const count=section.querySelector("#repo-count");
+      async function editHere(path){
+        const editorLink=repo+"/edit/main/"+path.split("/").map(encodeURIComponent).join("/");
+        const response=await fetch("https://raw.githubusercontent.com/ndangelo/madtinker/main/"+path.split("/").map(encodeURIComponent).join("/"));
+        if(!response.ok)throw new Error("Could not retrieve the post ("+response.status+")");
+        const source=await response.text();
+        const match=source.match(/^---\\r?\\n([\\s\\S]*?)\\r?\\n---\\r?\\n?/);
+        if(!match)throw new Error("This post has no recognizable YAML front matter");
+        const front=match[1],body=source.slice(match[0].length);
+        const scalar=key=>{const m=front.match(new RegExp("^"+key+":\\\\s*(.*)$","m"));if(!m)return "";let v=m[1].trim();try{if(v.startsWith('"'))return JSON.parse(v)}catch(e){}return v.replace(/^['"]|['"]$/g,"")};
+        byId("new-post").click();
+        const name=path.split("/").pop().replace(/^\\d{4}-\\d{2}-\\d{2}-/,"").replace(/\\.md$/,"").replace(/-/g," ");
+        byId("post-title").value=scalar("title")||name;
+        byId("post-description").value=scalar("description");
+        byId("post-body").value=body;
+        byId("post-category").value=scalar("category");
+        byId("post-tags").value=scalar("tags").replace(/^\\[|\\]$/g,"");
+        byId("post-slug").value=scalar("slug");
+        byId("post-image").value=scalar("image");
+        const old=byId("github-original-note");if(old)old.remove();
+        const note=document.createElement("div");note.id="github-original-note";note.className="settings-card";
+        note.innerHTML='<h2>Editing a GitHub post</h2><p>Your changes are local until you commit them. Use <strong>Save draft</strong> to keep a browser copy. To update the original file, copy your edited body into GitHub and commit it there.</p><p><a class="secondary-btn" target="_blank" rel="noopener noreferrer" href="'+editorLink+'">Open original file on GitHub ↗</a></p><p class="helper-text">Original: '+path.replace(/[&<>]/g,"")+'</p>';
+        byId("editor-view").appendChild(note);
+        byId("save-status").textContent="Loaded from GitHub — not published";
+        byId("publish-btn").textContent="Export as new post";
+      }
       function render(){
         const q=section.querySelector("#repo-search").value.toLowerCase().trim();
         const matches=files.filter(p=>p.path.toLowerCase().includes(q));
@@ -33,7 +58,7 @@
           const title=path.split("/").pop().replace(/^\d{4}-\d{2}-\d{2}-/,"").replace(/\.md$/,"").replace(/-/g," ");
           const url=repo+"/edit/main/"+path.split("/").map(encodeURIComponent).join("/");
           const safe=x=>x.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-          return '<div style="display:flex;align-items:center;justify-content:space-between;gap:16px;border-bottom:1px solid #30445d;padding:12px 0"><div><strong>'+safe(title)+'</strong><div class="helper-text">'+safe(path)+'</div></div><a class="secondary-btn compact-btn" target="_blank" rel="noopener noreferrer" href="'+safe(url)+'">Edit on GitHub</a></div>';
+          return '<div style="display:flex;align-items:center;justify-content:space-between;gap:16px;border-bottom:1px solid #30445d;padding:12px 0"><div><strong>'+safe(title)+'</strong><div class="helper-text">'+safe(path)+'</div></div><div style="display:flex;gap:8px;flex-wrap:wrap"><button class="secondary-btn compact-btn" data-edit-here="'+safe(path)+'">Load in editor</button><a class="secondary-btn compact-btn" target="_blank" rel="noopener noreferrer" href="'+safe(url)+'">Edit on GitHub</a></div></div>';
         }).join(""):'<p>No matching repository posts.</p>';
         if(matches.length>limit)list.innerHTML+='<button id="repo-more" class="secondary-btn compact-btn" style="margin-top:12px">Show more</button>';
         const more=section.querySelector("#repo-more");if(more)more.onclick=()=>{limit+=60;render()};
@@ -49,6 +74,12 @@
           render();
         }catch(error){count.textContent="Unavailable";list.textContent="Could not load the GitHub post index: "+error.message+". You can still browse the repository directly."}
       }
+      list.addEventListener("click",async e=>{
+        const button=e.target.closest("[data-edit-here]");if(!button)return;
+        button.disabled=true;button.textContent="Loading…";
+        try{await editHere(button.dataset.editHere)}catch(error){alert(error.message)}
+        finally{button.disabled=false;button.textContent="Load in editor"}
+      });
       section.querySelector("#repo-search").addEventListener("input",()=>{limit=60;render()});
       section.querySelector("#repo-refresh").addEventListener("click",load);
       load();
