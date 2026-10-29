@@ -17,7 +17,7 @@
       if(heading.tagName==="H3")link.className="mt-toc-sub";
       nav.append(link);
     });
-    if(!nav.children.length){toc.classList.add("is-empty");return}
+    if(!nav.children.length){toc.classList.add("is-empty")}
     const toggle=document.querySelector(".mt-toc-toggle");
     toggle?.addEventListener("click",()=>{
       const open=!toc.querySelector(".mt-toc-inner").classList.contains("is-open");
