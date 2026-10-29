@@ -1,21 +1,29 @@
 ---
 layout: default
 ---
-<article class="article">
+<article class="article mt-article">
   <header class="article-header">
-    <p class="meta">{{ page.date | date: "%B %-d, %Y" }}{% if page.categories.size > 0 %} · {{ page.categories | join: ", " }}{% endif %}</p>
+    <p class="meta">/ JOURNAL {% if page.categories.size > 0 %} · {{ page.categories | join: " / " }}{% endif %}</p>
     <h1>{{ page.title }}</h1>
     {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
-    {% if page.image %}<figure class="article-cover"><img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title | escape }}">{% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}</figure>{% endif %}
+    <div class="mt-article-byline"><span>Written by <strong>{{ page.author | default: site.author }}</strong></span><span>Published <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: "%b %-d, %Y" }}</time></span><button class="mt-copy-link" type="button" aria-label="Copy article link">Copy link ↗</button></div>
   </header>
-  <div class="article-content">
-    {{ content }}
+  <div class="mt-article-grid">
+    <aside class="mt-toc" aria-label="On this page">
+      <div class="mt-toc-inner">
+        <button class="mt-toc-toggle" type="button" aria-expanded="false" aria-controls="mt-toc-links">On this page <span aria-hidden="true">↓</span></button>
+        <nav id="mt-toc-links" class="mt-toc-links" aria-label="Article sections"></nav>
+      </div>
+    </aside>
+    <div class="mt-article-main">
+      {% if page.image %}<figure class="article-cover"><img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title | escape }}" loading="eager">{% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}</figure>{% endif %}
+      <div class="article-content" id="mt-article-content">{{ content }}</div>
+      {% if page.tags.size > 0 %}<footer class="article-tags"><span>Filed under:</span>{% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% endfor %}</footer>{% endif %}
+      <nav class="article-pagination" aria-label="Post navigation">
+        {% if page.previous.url %}<a href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>{% endif %}
+        {% if page.next.url %}<a href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>{% endif %}
+      </nav>
+    </div>
   </div>
-  {% if page.tags.size > 0 %}
-  <footer class="article-tags"><span>Filed under:</span>{% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% endfor %}</footer>
-  {% endif %}
-  <nav class="article-pagination" aria-label="Post navigation">
-    {% if page.previous.url %}<a href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>{% endif %}
-    {% if page.next.url %}<a href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>{% endif %}
-  </nav>
 </article>
+<script src="{{ '/assets/js/article-toc.js' | relative_url }}" defer></script>
