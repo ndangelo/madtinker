@@ -14,6 +14,7 @@
   {% endif %}
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/theme.css' | relative_url }}">
+  {% if page.layout == 'post' %}<link rel="stylesheet" href="{{ '/assets/css/article-editorial.css' | relative_url }}">{% endif %}
   {% feed_meta %}
 </head>
 <body>
