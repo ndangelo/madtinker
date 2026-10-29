@@ -4,11 +4,7 @@
   const siteStorageKey = "studio-cms-active-site-v1";
   let activeSiteId = "studio-journal";
   try { activeSiteId = localStorage.getItem(siteStorageKey) || "studio-journal"; } catch (e) {}
-  const initialPosts = [
-    {id:"p1",title:"Welcome to Studio Journal",description:"A first look at the ideas, projects, and processes collected here.",body:"Welcome to Studio Journal.\n\nThis is a starter post for the publication. Replace it with your own writing when you are ready.",category:"Notes",tags:"welcome, publishing",status:"published",date:"Oct 27, 2026",tone:"green"},
-    {id:"p2",title:"Notes from the studio",description:"A few observations on process, experimentation, and making.",body:"## Process\n\nA work in progress is a place to test an idea before it becomes certain.\n\n- Observe closely\n- Make a small experiment\n- Reflect and revise",category:"Studio",tags:"process, notes",status:"draft",date:"Oct 26, 2026",tone:"rust"},
-    {id:"p3",title:"Collecting visual fragments",description:"Gathering images and references as a way of thinking.",body:"Images can work like notes: incomplete, suggestive, and open to reinterpretation.",category:"Research",tags:"images, research",status:"draft",date:"Oct 24, 2026",tone:"blue"}
-  ];
+  const initialPosts = [];
   let posts = loadPosts().map(p=>({...p,siteId:p.siteId||"studio-journal"}));
   let editingId = null;
   let previewDebounce;
@@ -122,12 +118,12 @@
     if(tags.length)frontMatter.push("tags:",...tags.map(t=>"  - "+quote(t)));
     if($("post-slug").value.trim())frontMatter.push("slug: "+quote($("post-slug").value.trim()));
     if($("post-image").value.trim())frontMatter.push("image: "+quote($("post-image").value.trim()));
-    frontMatter.push("published: false","---","");
+    frontMatter.push("published: true","---","");
     const content=frontMatter.join("\n")+ $("post-body").value+"\n";
     const blob=new Blob([content],{type:"text/markdown;charset=utf-8"});
     const url=URL.createObjectURL(blob);const link=document.createElement("a");
     link.href=url;link.download=date+"-"+slugify(title)+".md";document.body.appendChild(link);link.click();link.remove();URL.revokeObjectURL(url);
-    showToast("Markdown file exported. It has not been published.");
+    showToast("Markdown ready. Upload it to GitHub to publish.");
   }
   function ensureCodeEditor(){
     if(codeEditor||!window.CodeMirror)return;
