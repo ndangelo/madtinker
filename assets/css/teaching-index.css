@@ -1,0 +1,28 @@
+.mt-teaching-index{padding:clamp(2rem,5vw,4rem) 0 5rem;max-width:1080px;margin:auto}
+.mt-teaching-intro{padding-bottom:2rem;border-bottom:1px solid var(--line)}
+.mt-teaching-intro .eyebrow{color:var(--lime);font:500 .7rem var(--mono)}
+.mt-teaching-intro h1{font:700 clamp(2rem,5vw,3.8rem)/1.1 "Space Grotesk",var(--sans);letter-spacing:-.055em;margin:.5rem 0 1rem}
+.mt-teaching-intro p:not(.eyebrow){color:#a9b9cd;max-width:750px;font-size:.95rem}
+.mt-teaching-intro .mt-teaching-note{font:.73rem/1.6 var(--mono)!important;color:var(--muted)!important}
+.mt-teaching-controls{display:flex;align-items:end;flex-wrap:wrap;gap:1rem;margin:1.5rem 0}
+.mt-teaching-controls label{display:flex;flex-direction:column;gap:.4rem;color:var(--muted);font:500 .72rem var(--mono)}
+.mt-teaching-controls label:first-child{flex:1;min-width:min(250px,100%)}
+.mt-teaching-controls input,.mt-teaching-controls select{min-height:42px;padding:.7rem .85rem;background:#101d30;color:var(--ink);border:1px solid var(--line);border-radius:3px;font:.8rem var(--sans)}
+.mt-teaching-controls select{min-width:175px;max-width:100%}
+.mt-teaching-controls button,.mt-teaching-more button{min-height:42px;padding:.65rem .9rem;background:transparent;color:var(--sky);border:1px solid var(--line);border-radius:3px;font:500 .73rem var(--mono);cursor:pointer}
+.mt-teaching-controls button:hover,.mt-teaching-more button:hover{color:var(--lime);border-color:var(--lime)}
+.mt-teaching-count{color:var(--muted);font:.7rem var(--mono);margin:1.5rem 0}
+.mt-teaching-entry{display:grid;grid-template-columns:140px minmax(0,1fr) 25px;gap:1.2rem;padding:1.35rem 0;border-bottom:1px solid var(--line)}
+.mt-teaching-date{display:flex;flex-direction:column;gap:.3rem;font:.69rem var(--mono);color:var(--muted)}
+.mt-teaching-date span{color:var(--sky);font-size:.6rem}
+.mt-teaching-entry h2{font:600 clamp(1.05rem,1.8vw,1.3rem)/1.35 "Space Grotesk",var(--sans);letter-spacing:-.025em;margin:0}
+.mt-teaching-entry h2 a{color:var(--ink);text-decoration:none}.mt-teaching-entry h2 a:hover{color:var(--lime)}
+.mt-teaching-entry p{font-size:.84rem;color:#a5b6ca;margin:.5rem 0}
+.mt-teaching-tags{display:flex;flex-wrap:wrap;gap:.6rem;margin-top:.65rem}
+.mt-teaching-tags span{font:.64rem var(--mono);color:var(--orange)}
+.mt-teaching-arrow{font:1.15rem var(--mono);color:var(--sky)}
+.mt-teaching-entry[hidden],#teaching-empty[hidden],#teaching-more[hidden]{display:none}
+.mt-teaching-more{text-align:center;padding:2rem 0}
+.mt-teaching-back{border-top:1px solid var(--line);padding-top:1.5rem;color:var(--muted);font-size:.85rem}
+.mt-teaching-back a{color:var(--sky)}
+@media(max-width:650px){.mt-teaching-entry{grid-template-columns:1fr 22px;gap:.5rem}.mt-teaching-date{grid-column:1/-1;flex-direction:row;gap:1rem}.mt-teaching-controls label:first-child{flex-basis:100%}}
