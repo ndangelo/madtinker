@@ -2,30 +2,108 @@
 layout: default
 title: Home
 ---
-<section class="hero journal-hero">
-  <p class="eyebrow"><span class="status-led" aria-hidden="true"></span> PERSONAL WORKSPACE / PUBLIC NOTES</p>
-  <h1>Studio Journal<span class="cursor-mark" aria-hidden="true">_</span></h1>
-  <p class="lede">A place to document experiments, ideas, unfinished thoughts, and things worth keeping.</p>
-  <div class="hero-meta"><span>~/studio/journal</span><span>STATUS: ONLINE</span><span>BUILD: ALWAYS IN PROGRESS</span></div>
+<section class="mt-home-intro">
+  <p class="eyebrow">MADTINKER / STUDIO NOTES</p>
+  <h1>Ideas, experiments &amp; teaching<span class="cursor-mark" aria-hidden="true">_</span></h1>
+  <p class="lede">A working archive of creative practice, code, design, and teaching.</p>
 </section>
-<section class="section-heading">
-  <h2>Recent entries <span class="entry-count">{{ site.posts | size }} total</span></h2>
-  <a href="{{ '/archive/' | relative_url }}">View archive ↗</a>
+
+{% assign all_entries = site.posts | concat: site.nuggetofjoy | sort: 'date' | reverse %}
+{% assign all_tags = all_entries | map: 'tags' | join: ',' | split: ',' %}
+{% assign all_categories = all_entries | map: 'categories' | join: ',' | split: ',' %}
+{% assign navigation_terms = all_tags | concat: all_categories | uniq | sort_natural %}
+<section class="mt-browse" aria-label="Browse by topic">
+  <div class="mt-browse-heading"><h2>Explore topics</h2><span>{{ all_entries.size }} entries</span></div>
+  <div class="mt-tag-nav" role="group" aria-label="Filter entries by tag or category">
+    <button type="button" class="mt-tag active" data-filter="" aria-pressed="true">All <span>{{ all_entries.size }}</span></button>
+    {% for term in navigation_terms %}
+      {% assign clean_term = term | strip %}
+      {% unless clean_term == empty %}
+      {% assign term_count = 0 %}
+      {% for entry in all_entries %}
+        {% if entry.tags contains clean_term or entry.categories contains clean_term %}{% assign term_count = term_count | plus: 1 %}{% endif %}
+      {% endfor %}
+      {% if term_count > 0 %}<button type="button" class="mt-tag" data-filter="{{ clean_term | slugify }}" aria-pressed="false">{{ clean_term | escape }} <span>{{ term_count }}</span></button>{% endif %}
+      {% endunless %}
+    {% endfor %}
+  </div>
 </section>
-<div class="post-grid journal-list">
-  {% for post in site.posts limit:8 %}
-  <article class="post-card">
-    {% if post.image %}
-    <a class="post-card__image" href="{{ post.url | relative_url }}"><img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title | escape }}" loading="lazy"></a>
-    {% endif %}
-    <div class="post-card__body">
-      <p class="meta"><span class="entry-index">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span> / {{ post.date | date: "%Y.%m.%d" }}{% if post.categories.size > 0 %} / {{ post.categories | first }}{% endif %}</p>
-      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-      <p>{{ post.description | default: post.excerpt | strip_html | truncate: 170 }}</p>
-      <a class="text-link" href="{{ post.url | relative_url }}">Open entry ↗</a>
-    </div>
-  </article>
-  {% else %}
-  <div class="empty-journal"><span>~/studio/journal $</span><p>No entries published yet. The workspace is ready.</p></div>
-  {% endfor %}
-</div>
+
+<section class="mt-entry-section" aria-label="Browse entries">
+  <div class="mt-entry-tools">
+    <h2 id="mt-entry-heading">All entries</h2>
+    <label class="mt-search-label" for="mt-entry-search">Search <input id="mt-entry-search" type="search" placeholder="Find an entry…" autocomplete="off"></label>
+  </div>
+  <p id="mt-entry-count" class="meta" aria-live="polite"></p>
+  <div class="mt-entry-list" id="mt-entry-list">
+    {% for entry in all_entries %}
+    <article class="mt-entry" data-terms="{% for tag in entry.tags %}|{{ tag | slugify }}{% endfor %}{% for category in entry.categories %}|{{ category | slugify }}{% endfor %}|" data-search="{{ entry.title | append: ' ' | append: entry.description | append: ' ' | append: entry.tags | append: ' ' | append: entry.categories | downcase | escape }}">
+      <div class="mt-entry-meta"><time datetime="{{ entry.date | date_to_xmlschema }}">{{ entry.date | date: "%Y.%m.%d" }}</time><span>{% if entry.collection == 'nuggetofjoy' %}Teaching{% else %}Journal{% endif %}</span></div>
+      <div><h3><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a></h3>
+      {% if entry.description %}<p>{{ entry.description | strip_html | truncate: 145 | escape }}</p>{% endif %}
+      <div class="mt-entry-tags">{% for category in entry.categories limit:3 %}<span>{{ category | escape }}</span>{% endfor %}{% for tag in entry.tags limit:3 %}<span>{{ tag | escape }}</span>{% endfor %}</div></div>
+    </article>
+    {% endfor %}
+  </div>
+  <p id="mt-no-results" hidden>No entries match this filter.</p>
+</section>
+<script>
+(() => {
+  const buttons = [...document.querySelectorAll('.mt-tag')];
+  const entries = [...document.querySelectorAll('.mt-entry')];
+  const input = document.getElementById('mt-entry-search');
+  const count = document.getElementById('mt-entry-count');
+  const heading = document.getElementById('mt-entry-heading');
+  const empty = document.getElementById('mt-no-results');
+  let active = '';
+  function update() {
+    const query = input.value.trim().toLocaleLowerCase();
+    let shown = 0;
+    entries.forEach(entry => {
+      const matchesTag = !active || entry.dataset.terms.split('|').includes(active);
+      const matchesSearch = !query || entry.dataset.search.includes(query);
+      entry.hidden = !(matchesTag && matchesSearch);
+      if (!entry.hidden) shown++;
+    });
+    count.textContent = shown + ' of ' + entries.length + ' entries';
+    empty.hidden = shown !== 0;
+  }
+  buttons.forEach(button => button.addEventListener('click', () => {
+    active = button.dataset.filter;
+    buttons.forEach(item => { const selected = item === button; item.classList.toggle('active', selected); item.setAttribute('aria-pressed', String(selected)); });
+    heading.textContent = active ? button.textContent.trim().replace(/\\s+\\d+$/, '') : 'All entries';
+    update();
+  }));
+  input.addEventListener('input', update);
+  update();
+})();
+</script>
+<style>
+.mt-home-intro{padding:2.8rem 0 2.1rem;border-bottom:1px solid var(--line)}
+.mt-home-intro .eyebrow{font-family:var(--mono);color:var(--lime);font-size:.7rem}
+.mt-home-intro h1{font:700 clamp(2rem,5vw,3.7rem)/1.08 "Space Grotesk",sans-serif;letter-spacing:-.05em;max-width:850px;margin:.7rem 0}
+.mt-home-intro .lede{font-size:1rem;color:#a9b9cd;max-width:680px}
+.mt-browse{padding:1.6rem 0 2rem;border-bottom:1px solid var(--line)}
+.mt-browse-heading,.mt-entry-tools{display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap}
+.mt-browse h2,.mt-entry-tools h2{font:700 1.15rem "Space Grotesk",sans-serif;color:#f2f6fd;margin:0}
+.mt-browse-heading span{font:.7rem var(--mono);color:var(--muted)}
+.mt-tag-nav{display:flex;gap:.5rem;flex-wrap:wrap;margin-top:1rem}
+.mt-tag{cursor:pointer;background:#121f30;color:#b8c9dc;border:1px solid #314158;border-radius:3px;padding:.46rem .7rem;font:500 .75rem var(--mono)}
+.mt-tag span{color:#8fa1b7;font-size:.68rem;margin-left:.2rem}
+.mt-tag:hover,.mt-tag:focus-visible{border-color:var(--sky);color:#fff}
+.mt-tag.active{background:var(--lime);border-color:var(--lime);color:#0b1424}.mt-tag.active span{color:#314222}
+.mt-entry-section{padding:1.8rem 0 4rem}
+.mt-search-label{font:.72rem var(--mono);color:var(--muted)}
+.mt-search-label input{margin-left:.5rem;padding:.6rem .75rem;min-width:min(260px,65vw);border:1px solid #314158;background:#101d30;color:#f2f6fd;border-radius:3px;font:inherit}
+#mt-entry-count{margin:1rem 0;color:var(--muted)}
+.mt-entry{display:grid;grid-template-columns:145px minmax(0,1fr);gap:1.5rem;padding:1.25rem 0;border-bottom:1px solid var(--line)}
+.mt-entry[hidden],#mt-no-results[hidden]{display:none}
+.mt-entry-meta{display:flex;flex-direction:column;gap:.3rem;font:.68rem var(--mono);color:var(--muted)}
+.mt-entry-meta span{color:var(--sky)}
+.mt-entry h3{margin:0;font:700 clamp(1.05rem,2vw,1.35rem)/1.3 "Space Grotesk",sans-serif;letter-spacing:-.025em}
+.mt-entry h3 a{text-decoration:none;color:#edf4ff}.mt-entry h3 a:hover{color:var(--lime)}
+.mt-entry p{color:#a5b6ca;font-size:.85rem;margin:.45rem 0}
+.mt-entry-tags{display:flex;gap:.4rem;flex-wrap:wrap;margin-top:.6rem}
+.mt-entry-tags span{font:.63rem var(--mono);color:var(--orange)}
+@media(max-width:600px){.mt-home-intro{padding:1.8rem 0}.mt-entry{grid-template-columns:1fr;gap:.4rem}.mt-entry-meta{flex-direction:row;gap:1rem}.mt-search-label input{margin:.4rem 0 0}.mt-entry-tools{align-items:flex-start}}
+</style>
