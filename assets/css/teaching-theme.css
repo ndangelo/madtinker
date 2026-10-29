@@ -292,3 +292,42 @@
 .teaching-article .teaching-content .amde-grid-lesson .lesson-card .ag-steps li{
   background:var(--mt-card)!important;border-color:var(--mt-line)!important;
 }
+
+/* Shared contrast repair for imported editorial lesson panels.
+   Recolor the panel and its prose together; exclude previews, code editors,
+   syntax tokens, media, and interactive demonstrations. */
+.teaching-article .teaching-content :is(
+ .lesson-card,.lesson-section,.content-card,.content-panel,.lesson-panel,
+ .ag-section,.sd-section,.amde-section,.gp-section
+){
+ background:var(--mt-surface)!important;
+ color:var(--mt-text)!important;
+ border-color:var(--mt-line)!important;
+}
+.teaching-article .teaching-content :is(
+ .lesson-card,.lesson-section,.content-card,.content-panel,.lesson-panel,
+ .ag-section,.sd-section,.amde-section,.gp-section
+) > :is(p,ul,ol,dl,blockquote){
+ color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content :is(
+ .lesson-card,.lesson-section,.content-card,.content-panel,.lesson-panel,
+ .ag-section,.sd-section,.amde-section,.gp-section
+) > :is(h2,h3,h4){
+ color:var(--mt-sky)!important;
+}
+.teaching-article .teaching-content :is(
+ .lesson-card,.lesson-section,.content-card,.content-panel,.lesson-panel,
+ .ag-section,.sd-section,.amde-section,.gp-section
+) > :is(ul,ol) > li{
+ color:var(--mt-text)!important;
+}
+.teaching-article .teaching-content :is(
+ .lesson-card,.lesson-section,.content-card,.content-panel,.lesson-panel
+) > .eyebrow{
+ color:var(--mt-orange)!important;
+}
+/* Light table stripes were another source of low contrast on dark pages. */
+.teaching-article .teaching-content :is(.lesson-card,.lesson-section,.content-card,.content-panel,.lesson-panel) tbody tr:nth-child(even){
+ background:var(--mt-card)!important;
+}
