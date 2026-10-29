@@ -3,16 +3,20 @@ layout: default
 ---
 <article class="article teaching-article">
   <header class="article-header">
-    <p class="meta">Nugget of Joy archive · {{ page.date | date: "%B %-d, %Y" }}</p>
+    <nav class="mt-teaching-breadcrumb" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">MadTinker</a><span aria-hidden="true">/</span><a href="{{ '/teaching/' | relative_url }}">Teaching</a><span aria-hidden="true">/</span><span>Lesson</span></nav>
+    <p class="mt-teaching-kicker">/ TEACHING RESOURCE {% if page.categories.size > 0 %} · {{ page.categories | first | escape }}{% endif %}</p>
     <h1>{{ page.title | escape }}</h1>
-    <p class="meta"><a href="{{ '/teaching/' | relative_url }}">← Teaching archive</a>{% if page.source_url %} · <a href="{{ page.source_url }}" rel="noopener noreferrer">Original WordPress post</a>{% endif %}</p>
+    {% if page.description %}<p class="mt-teaching-description">{{ page.description | strip_html | escape }}</p>{% endif %}
+    <div class="mt-teaching-article-meta"><span>By <strong>{{ page.author | default: site.author | escape }}</strong></span><span>Published <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: "%b %-d, %Y" }}</time></span></div>
+    <nav class="mt-teaching-actions" aria-label="Lesson actions"><a href="#mt-lesson-body">Skip to lesson ↓</a><a href="{{ '/teaching/' | relative_url }}">← All lessons</a>{% if page.source_url %}<a href="{{ page.source_url }}" rel="noopener noreferrer">Original WordPress post ↗</a>{% endif %}<button type="button" class="mt-teaching-copy">Copy link ↗</button></nav>
   </header>
-  <div class="article-content teaching-content mt-post">
+  <div class="article-content teaching-content mt-post" id="mt-lesson-body">
     {% if page.wordpress_id == 68303 %}<div class="gradient-part-two">{% endif %}
     {% assign teaching_rendered_content = content | replace: '{::nomarkdown}', '' | replace: '{:/nomarkdown}', '' %}
     {{ teaching_rendered_content }}
     {% if page.wordpress_id == 68303 %}</div>{% endif %}
   </div>
+  <footer class="mt-teaching-article-footer"><a href="{{ '/teaching/' | relative_url }}">← Back to teaching archive</a><a href="#main">↑ Back to top</a></footer>
 </article>
 <link rel="stylesheet" href="{{ '/assets/css/teaching-archive.css' | relative_url }}">
 {% assign post_css_path = '/assets/css/imported-posts/' | append: page.wordpress_id | append: '.css' %}
@@ -26,6 +30,11 @@ layout: default
 </style>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
+  var copyButton = document.querySelector('.mt-teaching-copy');
+  if (copyButton) copyButton.addEventListener('click', async function () {
+    try { await navigator.clipboard.writeText(window.location.href); copyButton.textContent = 'Copied ✓'; }
+    catch (error) { copyButton.textContent = 'Copy from address bar'; }
+  });
   document.querySelectorAll('.teaching-content img').forEach(function (img) {
     function markUnavailable() {
       if (img.dataset.mediaUnavailable) return;
