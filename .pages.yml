@@ -1,0 +1,124 @@
+# MadTinker · Pages CMS
+# Content remains in this GitHub repository and deploys through GitHub Pages.
+settings:
+  content:
+    merge: true
+media:
+  - name: images
+    label: Images
+    input: assets/images
+    output: /assets/images
+    categories: [image]
+    rename: safe
+  - name: documents
+    label: Documents
+    input: assets/files
+    output: /assets/files
+    categories: [document]
+    rename: safe
+content:
+  - name: posts
+    label: Journal posts
+    type: collection
+    path: _posts
+    format: yaml-frontmatter
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      primary: title
+      fields: [title, date, published]
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        options:
+          format: yyyy-MM-dd
+      - name: description
+        label: Summary
+        type: text
+      - name: layout
+        label: Layout
+        type: string
+        default: post
+      - name: categories
+        label: Categories
+        type: string
+        list: true
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: image
+        label: Cover image
+        type: image
+        options:
+          media: images
+      - name: published
+        label: Published
+        type: boolean
+        default: true
+      - name: body
+        label: Article
+        type: rich-text
+        options:
+          format: markdown
+          media: images
+          switcher: true
+  - name: teaching
+    label: Teaching archive
+    type: collection
+    path: _nuggetofjoy
+    format: yaml-frontmatter
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      primary: title
+      fields: [title, date, status]
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Lesson title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        options:
+          format: yyyy-MM-dd
+      - name: layout
+        label: Layout
+        type: string
+        default: teaching-post
+      - name: slug
+        label: Slug
+        type: string
+      - name: categories
+        label: Categories
+        type: string
+        list: true
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: status
+        label: Original status
+        type: string
+      - name: image
+        label: Image
+        type: image
+        options:
+          media: images
+      - name: body
+        label: Lesson source (Markdown and embedded HTML)
+        type: code
+        options:
+          format: markdown
