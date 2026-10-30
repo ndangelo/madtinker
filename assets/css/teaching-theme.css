@@ -401,3 +401,56 @@
 .teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel .code-panel :is(pre,code){
   -webkit-text-fill-color:initial!important;
 }
+
+/* Week 11 instructor studio: high-contrast editorial treatment, not flat paper.
+   Accent headings and labels; keep paragraphs dark and code panels untouched. */
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel{
+  background:linear-gradient(145deg,#fff9eb 0%,#fff4dc 100%)!important;
+  border:2px dashed #d97706!important;
+  box-shadow:inset 5px 0 0 #f59e0b,0 14px 36px rgba(0,0,0,.15);
+}
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel > h2{
+  font-size:clamp(1.45rem,2.5vw,2rem)!important;
+  line-height:1.15!important;
+  letter-spacing:-.035em!important;
+  padding-bottom:.65rem;
+  margin-bottom:1.2rem!important;
+  border-bottom:2px solid #d97706;
+}
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel > h3{
+  margin-top:2rem!important;
+  padding:.65rem .85rem;
+  background:#f9e5be!important;
+  border-left:4px solid #c56b0a;
+  border-radius:0 6px 6px 0;
+  color:#713909!important;
+  -webkit-text-fill-color:#713909!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel > p:first-child{
+  display:inline-block;
+  background:#713909!important;
+  padding:.35rem .6rem;
+  border-radius:3px;
+  font:800 .68rem/1.4 var(--mono,monospace)!important;
+  letter-spacing:.07em;
+  text-transform:uppercase;
+  color:#fff9e9!important;
+  -webkit-text-fill-color:#fff9e9!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel > p:not(:first-child){
+  max-width:75ch;
+  line-height:1.8;
+}
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel .code-panel{
+  border:1px solid #304963!important;
+  box-shadow:0 7px 0 rgba(113,57,9,.12);
+}
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel .code-label{
+  background:#192a40!important;
+  color:#c4f566!important;
+  -webkit-text-fill-color:#c4f566!important;
+}
+@media(max-width:640px){
+ .teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel{padding:16px!important}
+ .teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel > h3{padding:.6rem}
+}
