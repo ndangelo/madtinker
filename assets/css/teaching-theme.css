@@ -331,3 +331,30 @@
 .teaching-article .teaching-content :is(.lesson-card,.lesson-section,.content-card,.content-panel,.lesson-panel) tbody tr:nth-child(even){
  background:var(--mt-card)!important;
 }
+
+/* Instructor-only panels use a deliberately light paper surface.
+   Keep dark ink with it; do not apply the general pale-on-navy text rules.
+   Code editors retain their original dark syntax colors. */
+.teaching-article .teaching-content .mt-instructor-panel{
+ background:#fff9e9!important;color:#273449!important;
+ border-color:#d97706!important;
+}
+.teaching-article .teaching-content .mt-instructor-panel :is(p,li,dt,dd,blockquote,strong){
+ color:#273449!important;
+}
+.teaching-article .teaching-content .mt-instructor-panel :is(h2,h3,h4){
+ color:#75400b!important;
+}
+.teaching-article .teaching-content .mt-instructor-panel > p:first-child{
+ color:#92500e!important;
+}
+.teaching-article .teaching-content .mt-instructor-panel :not(pre)>code{
+ background:#e7edf5!important;color:#15243b!important;
+}
+.teaching-article .teaching-content .mt-instructor-panel .code-panel,
+.teaching-article .teaching-content .mt-instructor-panel .code-panel pre{
+ background:#0b1729!important;color:#e7f0fa!important;
+}
+.teaching-article .teaching-content .mt-instructor-panel .code-panel :is(code,span){
+ color:inherit;
+}
