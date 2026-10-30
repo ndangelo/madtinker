@@ -358,3 +358,21 @@
 .teaching-article .teaching-content .mt-instructor-panel .code-panel :is(code,span){
  color:inherit;
 }
+
+/* Instructor paper panels: beat the broad imported .amde-grid-lesson p and
+   .eyebrow !important rules, including their higher specificity. */
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel,
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel :is(p,li,dt,dd,blockquote),
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel :is(p,li,dt,dd,blockquote) :is(strong,em){
+ color:#273449!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel :is(h2,h3,h4){
+ color:#75400b!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel > p:first-child,
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel > p:first-child :is(strong,span){
+ color:#92500e!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel :is(.code-panel,.code-panel pre,.code-panel code){
+ color:#e7f0fa!important;
+}
