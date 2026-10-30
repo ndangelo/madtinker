@@ -339,7 +339,7 @@ focusButton.addEventListener(<span class="tok-string">"click"</span>, function (
 </ul>
 <p><strong>Reflection prompt:</strong> What did multimedia allow you to communicate that a static layout could not? What did you remove or simplify during testing, and why?</p>
 </section>
-<div style="border:2px dashed #d97706;border-radius:16px;padding:20px;background:#fffbeb;margin:24px 0;">
+<div class="mt-instructor-panel" style="border:2px dashed #d97706;border-radius:16px;padding:20px;background:#fffbeb;margin:24px 0;">
 <p style="margin:0 0 6px;font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;font-weight:900;color:#92400e;">Instructor-only material · Remove before publishing to students</p>
 <h2 style="margin:0 0 8px;color:#78350f;">Instructor Layout Code — Step by Step</h2>
 <p><strong>Teaching priority:</strong> Keep the JavaScript instruction slow, explicit, and concrete. Students should understand the behavior they are building before they copy code. Do not introduce multiple new concepts at once. Begin with the caption-change example, narrate the find → listen → respond pattern, and then move to the toggle only when the class can explain the first example.</p>
