@@ -376,3 +376,28 @@
 .teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel :is(.code-panel,.code-panel pre,.code-panel code){
  color:#e7f0fa!important;
 }
+
+/* High-contrast instructor paper, including descendants overridden by legacy
+   .amde-grid-lesson selectors. Explicitly exclude the dark code editor. */
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel{
+  background:#fff8e6!important;
+  color:#182433!important;
+  -webkit-text-fill-color:#182433;
+}
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel :not(.code-panel):not(.code-panel *):not(pre):not(pre *):not(code):not(code *){
+  color:#182433!important;
+  -webkit-text-fill-color:#182433!important;
+  opacity:1!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel :is(h2,h3,h4){
+  color:#713909!important;
+  -webkit-text-fill-color:#713909!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel > p:first-child{
+  color:#713909!important;
+  -webkit-text-fill-color:#713909!important;
+}
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel .code-panel,
+.teaching-article .teaching-content .amde-grid-lesson .mt-instructor-panel .code-panel :is(pre,code){
+  -webkit-text-fill-color:initial!important;
+}
